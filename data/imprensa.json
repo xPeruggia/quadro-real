@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-11-01T09:39:45.396Z",
+ "geradoEm": "2026-11-01T13:40:46.637Z",
  "janelaHoras": 48,
  "nota": "Matérias publicadas pelos próprios veículos em seus feeds públicos (RSS). O site agrupa as que tratam do mesmo fato, mostra o título e um trecho curto de cada uma, com o link para o texto completo, e não classifica nenhum veículo. Palavras destacadas são as que só aquele veículo usou no título. \"Coluna ou opinião\" e \"Análise\" seguem a seção em que o próprio veículo publicou o texto.",
  "veiculos": [
@@ -8,7 +8,7 @@
    "nome": "g1",
    "idioma": "pt",
    "ok": true,
-   "materias": 142
+   "materias": 146
   },
   {
    "id": "folha",
@@ -22,7 +22,7 @@
    "nome": "Estadão",
    "idioma": "pt",
    "ok": true,
-   "materias": 49
+   "materias": 47
   },
   {
    "id": "cnn",
@@ -36,7 +36,7 @@
    "nome": "BBC News Brasil",
    "idioma": "pt",
    "ok": true,
-   "materias": 18
+   "materias": 16
   },
   {
    "id": "elpais",
@@ -50,7 +50,7 @@
    "nome": "Agência Brasil",
    "idioma": "pt",
    "ok": true,
-   "materias": 19
+   "materias": 18
   },
   {
    "id": "poder360",
@@ -71,7 +71,7 @@
    "nome": "Gazeta do Povo",
    "idioma": "pt",
    "ok": true,
-   "materias": 150
+   "materias": 134
   },
   {
    "id": "cartacapital",
@@ -95,29 +95,29 @@
    "materias": 20
   }
  ],
- "totalMaterias": 622,
+ "totalMaterias": 605,
  "comparacoes": [
   {
-   "id": "https://www1.folha.uol.com.br/poder/2026/10/secretario-de-estado-marco-rubio-nega-ajuda-dos-eua-para-fuga-de-flavio-bolsonaro.shtml",
-   "veiculos": 6,
-   "primeiro": "2026-10-31T17:11:00.000Z",
-   "ultimo": "2026-11-01T00:42:57.000Z",
+   "id": "https://www.cartacapital.com.br/esporte/palmeiras-x-vasco-provaveis-escalacoes-onde-assistir-retrospecto-e-palpites/",
+   "veiculos": 4,
+   "primeiro": "2026-10-31T18:52:00.000Z",
+   "ultimo": "2026-11-01T13:15:14.000Z",
    "comuns": [
-    "Flávio",
-    "Marco",
-    "Rubio",
-    "EUA",
-    "nega",
-    "Bolsonaro"
+    "Palmeiras",
+    "Vasco",
+    "assistir",
+    "escalações",
+    "Copa",
+    "Brasil"
    ],
-   "politica": "Bolsonaro",
+   "politica": null,
    "materias": [
     {
-     "veiculo": "folha",
-     "titulo": "Marco Rubio, secretário de Estado dos EUA, nega que país tenha ajudado Flávio Bolsonaro a fugir",
+     "veiculo": "cartacapital",
+     "titulo": "Palmeiras x Vasco: prováveis escalações, onde assistir, retrospecto e palpites",
      "tituloMarcado": [
       [
-       "Marco",
+       "Palmeiras",
        false
       ],
       [
@@ -125,7 +125,7 @@
        ""
       ],
       [
-       "Rubio,",
+       "x",
        false
       ],
       [
@@ -133,7 +133,7 @@
        ""
       ],
       [
-       "secretário",
+       "Vasco:",
        false
       ],
       [
@@ -141,7 +141,7 @@
        ""
       ],
       [
-       "de",
+       "prováveis",
        false
       ],
       [
@@ -149,7 +149,31 @@
        ""
       ],
       [
-       "Estado",
+       "escalações,",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "onde",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "assistir,",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "retrospecto",
        true
       ],
       [
@@ -157,7 +181,7 @@
        ""
       ],
       [
-       "dos",
+       "e",
        false
       ],
       [
@@ -165,722 +189,22 @@
        ""
       ],
       [
-       "EUA,",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "nega",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "que",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "país",
+       "palpites",
        true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "tenha",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "ajudado",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Flávio",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Bolsonaro",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "a",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "fugir",
-       false
       ]
      ],
-     "trecho": "O secretário de Estado Marco Rubio afirmou, na tarde deste sábado (31) que os Estados Unidos não facilitaram a fuga do senador Flávio Bolsonaro, que desembarcou em Miami na quarta-feira.",
-     "link": "https://www1.folha.uol.com.br/poder/2026/10/secretario-de-estado-marco-rubio-nega-ajuda-dos-eua-para-fuga-de-flavio-bolsonaro.shtml",
-     "publicadoEm": "2026-10-31T17:11:00.000Z",
+     "trecho": "Equipes se enfrentam neste domingo (1), no Nubank Parque",
+     "link": "https://www.cartacapital.com.br/esporte/palmeiras-x-vasco-provaveis-escalacoes-onde-assistir-retrospecto-e-palpites/",
+     "publicadoEm": "2026-10-31T18:52:00.000Z",
      "tipo": "noticia",
      "numero": null
     },
-    {
-     "veiculo": "estadao",
-     "titulo": "Marco Rubio nega que EUA ajudaram Flávio Bolsonaro a fugir do Brasil",
-     "tituloMarcado": [
-      [
-       "Marco",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Rubio",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "nega",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "que",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "EUA",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "ajudaram",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Flávio",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Bolsonaro",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "a",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "fugir",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "do",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Brasil",
-       false
-      ]
-     ],
-     "trecho": "O Secretário de Estado dos EUA, Marco Rubio, negou neste sábado, 31, que o governo Trump esteve diretamente envolvido na fuga de Flávio Bolsonaro (PL), derrotado nas eleições presidenciais brasileiras, para Miami. Ele…",
-     "link": "https://www.estadao.com.br/politica/marco-rubio-nega-que-eua-ajudaram-flavio-bolsonaro-a-fugir-do-brasil/",
-     "publicadoEm": "2026-10-31T17:55:42.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "veja",
-     "titulo": "Marco Rubio diz que governo Trump não ‘participou diretamente’ da fuga de Flávio Bolsonaro do Brasil",
-     "tituloMarcado": [
-      [
-       "Marco",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Rubio",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "diz",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "que",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "governo",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Trump",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "não",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "‘participou",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "diretamente’",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "da",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "fuga",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Flávio",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Bolsonaro",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "do",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Brasil",
-       false
-      ]
-     ],
-     "trecho": "Secretário afirmou, porém, que presidente americano autorizaria a entrada do senador nos EUA caso ele se apresentasse em um posto oficial de imigração",
-     "link": "https://veja.abril.com.br/mundo/marco-rubio-diz-que-governo-trump-nao-participou-diretamente-da-fuga-de-flavio-bolsonaro-do-brasil/",
-     "publicadoEm": "2026-10-31T18:10:28.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "gazetadopovo",
-     "titulo": "Marco Rubio nega que governo Trump tenha auxiliado Flávio a ir para os EUA",
-     "tituloMarcado": [
-      [
-       "Marco",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Rubio",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "nega",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "que",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "governo",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Trump",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "tenha",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "auxiliado",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Flávio",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "a",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "ir",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "para",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "os",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "EUA",
-       false
-      ]
-     ],
-     "trecho": "Segundo Rubio, Trump garantiu que, se Flávio fosse para os EUA, teria autorização para permanecer no país. Veja na Gazeta do Povo",
-     "link": "https://www.gazetadopovo.com.br/mundo/marco-rubio-afirma-que-governo-trump-nao-auxiliou-flavio-a-ir-para-eua/",
-     "publicadoEm": "2026-10-31T20:22:25.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "bbc",
-     "titulo": "Recebemos Flávio, mas não o ajudamos a sair do Brasil, diz secretário dos EUA",
-     "tituloMarcado": [
-      [
-       "Recebemos",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Flávio,",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "mas",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "não",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "o",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "ajudamos",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "a",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "sair",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "do",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Brasil,",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "diz",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "secretário",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "dos",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "EUA",
-       false
-      ]
-     ],
-     "trecho": "Secretário de Estado americano, Marco Rubio também disse que presidente Trump tomou decisão de autorizar a entrada de Flávio no país",
-     "link": "https://www.bbc.com/portuguese/watch/crgqwj0gn3g3o?at_medium=RSS&at_campaign=rss",
-     "publicadoEm": "2026-10-31T22:21:45.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "g1",
-     "titulo": "Marco Rubio nega envolvimento direto do governo Trump na fuga de Flávio Bolsonaro do Brasil",
-     "tituloMarcado": [
-      [
-       "Marco",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Rubio",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "nega",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "envolvimento",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "direto",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "do",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "governo",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Trump",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "na",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "fuga",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Flávio",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Bolsonaro",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "do",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Brasil",
-       false
-      ]
-     ],
-     "trecho": "Rubio afirma que governo americano não se envolveu na fuga de Flávio Bolsonaro aos EUA O secretário de Estado americano negou que o governo Trump tenha envolvimento direto na fuga do senador Flávio Bolsonaro para os…",
-     "link": "https://g1.globo.com/jornal-nacional/noticia/2026/10/31/marco-rubio-nega-envolvimento-direto-do-governo-trump-na-fuga-de-flavio-bolsonaro-do-brasil.ghtml",
-     "publicadoEm": "2026-11-01T00:42:57.000Z",
-     "tipo": "noticia",
-     "numero": null
-    }
-   ]
-  },
-  {
-   "id": "https://www.cnnbrasil.com.br/internacional/donald-trump-diz-que-nao-tem-planos-de-se-encontrar-com-flavio-bolsonaro/",
-   "veiculos": 5,
-   "primeiro": "2026-11-01T00:52:18.000Z",
-   "ultimo": "2026-11-01T01:48:00.000Z",
-   "comuns": [
-    "Trump",
-    "Flávio",
-    "não",
-    "planos",
-    "encontrar",
-    "Bolsonaro"
-   ],
-   "politica": "Bolsonaro",
-   "materias": [
     {
      "veiculo": "cnn",
-     "titulo": "Donald Trump diz que não tem planos de se encontrar com Flávio Bolsonaro",
+     "titulo": "Palmeiras x Vasco: horário e onde assistir ao jogo da Copa do Brasil",
      "tituloMarcado": [
       [
-       "Donald",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Trump",
+       "Palmeiras",
        false
       ],
       [
@@ -888,7 +212,7 @@
        ""
       ],
       [
-       "diz",
+       "x",
        false
       ],
       [
@@ -896,7 +220,7 @@
        ""
       ],
       [
-       "que",
+       "Vasco:",
        false
       ],
       [
@@ -904,150 +228,7 @@
        ""
       ],
       [
-       "não",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "tem",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "planos",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "se",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "encontrar",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "com",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Flávio",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Bolsonaro",
-       false
-      ]
-     ],
-     "trecho": "Apesar disso, republicano afirmou que o ex-candidato à Presidência da República pode ficar nos EUA \"o tempo que quiser\"",
-     "link": "https://www.cnnbrasil.com.br/internacional/donald-trump-diz-que-nao-tem-planos-de-se-encontrar-com-flavio-bolsonaro/",
-     "publicadoEm": "2026-11-01T00:52:18.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "g1",
-     "titulo": "Trump diz não ter planos de encontrar Flávio Bolsonaro e que senador pode ficar nos EUA 'quanto tempo quiser'",
-     "tituloMarcado": [
-      [
-       "Trump",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "diz",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "não",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "ter",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "planos",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "encontrar",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Flávio",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Bolsonaro",
+       "horário",
        false
       ],
       [
@@ -1063,7 +244,7 @@
        ""
       ],
       [
-       "que",
+       "onde",
        false
       ],
       [
@@ -1071,7 +252,7 @@
        ""
       ],
       [
-       "senador",
+       "assistir",
        false
       ],
       [
@@ -1079,7 +260,7 @@
        ""
       ],
       [
-       "pode",
+       "ao",
        false
       ],
       [
@@ -1087,7 +268,15 @@
        ""
       ],
       [
-       "ficar",
+       "jogo",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "da",
        false
       ],
       [
@@ -1095,7 +284,7 @@
        ""
       ],
       [
-       "nos",
+       "Copa",
        false
       ],
       [
@@ -1103,7 +292,7 @@
        ""
       ],
       [
-       "EUA",
+       "do",
        false
       ],
       [
@@ -1111,38 +300,22 @@
        ""
       ],
       [
-       "'quanto",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "tempo",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "quiser'",
+       "Brasil",
        false
       ]
      ],
-     "trecho": "O presidente dos EUA, Donald Trump, discursa em um comício de campanha para as eleições de meio de mandato em apoio à senadora Darline Graham (republicana da Carolina do Sul), em um centro de eventos em Rock Hill…",
-     "link": "https://g1.globo.com/mundo/noticia/2026/10/31/trump-diz-que-flavio-bolsonaro-pode-ficar-nos-eua-quanto-tempo-que-quiser.ghtml",
-     "publicadoEm": "2026-11-01T00:59:15.000Z",
+     "trecho": "Equipes se enfrentam neste domingo (1), às 16h (de Brasília), pelo jogo de ida da semifinal da Copa do Brasil de 2026",
+     "link": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-brasil/palmeiras-x-vasco-horario-e-onde-assistir-ao-jogo-da-copa-do-brasil/",
+     "publicadoEm": "2026-11-01T07:00:29.000Z",
      "tipo": "noticia",
      "numero": null
     },
     {
-     "veiculo": "estadao",
-     "titulo": "Trump diz não ter planos de encontrar Flávio Bolsonaro, mas que ele ‘pode ficar o tempo que quiser’",
+     "veiculo": "veja",
+     "titulo": "Palmeiras x Vasco na Copa do Brasil: onde assistir, horário e escalações",
      "tituloMarcado": [
       [
-       "Trump",
+       "Palmeiras",
        false
       ],
       [
@@ -1150,7 +323,7 @@
        ""
       ],
       [
-       "diz",
+       "x",
        false
       ],
       [
@@ -1158,7 +331,7 @@
        ""
       ],
       [
-       "não",
+       "Vasco",
        false
       ],
       [
@@ -1166,7 +339,7 @@
        ""
       ],
       [
-       "ter",
+       "na",
        false
       ],
       [
@@ -1174,7 +347,206 @@
        ""
       ],
       [
-       "planos",
+       "Copa",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "do",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Brasil:",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "onde",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "assistir,",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "horário",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "escalações",
+       false
+      ]
+     ],
+     "trecho": "Equipes se enfrentam neste domingo, 1º de novembro, no Nubank Parque, pelo jogo de ida das semifinais",
+     "link": "https://veja.abril.com.br/esporte/palmeiras-x-vasco-na-copa-do-brasil-onde-assistir-horario-e-escalacoes/",
+     "publicadoEm": "2026-11-01T12:30:24.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "metropoles",
+     "titulo": "Palmeiras x Vasco: onde assistir e prováveis escalações da Copa do Brasil",
+     "tituloMarcado": [
+      [
+       "Palmeiras",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "x",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Vasco:",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "onde",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "assistir",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "prováveis",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "escalações",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "da",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Copa",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "do",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Brasil",
+       false
+      ]
+     ],
+     "trecho": "Alviverde e Cruzmaltino fazem primeiro jogo da semifinal da Copa do Brasil neste domingo (1°/11), às 16h",
+     "link": "https://www.metropoles.com/esportes/palmeiras-x-vasco-onde-assistir-e-provaveis-escalacoes-da-copa-do-brasil",
+     "publicadoEm": "2026-11-01T13:15:14.000Z",
+     "tipo": "noticia",
+     "numero": null
+    }
+   ]
+  },
+  {
+   "id": "https://g1.globo.com/tecnologia/noticia/2026/10/30/ataque-hacker-de-us63-bi-a-binance-como-funciona-o-seguro-de-criptomoedas.ghtml",
+   "veiculos": 4,
+   "primeiro": "2026-10-30T18:31:11.000Z",
+   "ultimo": "2026-11-01T12:36:59.000Z",
+   "comuns": [
+    "US",
+    "Binance",
+    "Ataque",
+    "6,3",
+    "retoma",
+    "saques"
+   ],
+   "politica": null,
+   "materias": [
+    {
+     "veiculo": "g1",
+     "titulo": "Ataque hacker de US$6,3 bi à Binance: como funciona o seguro de criptomoedas",
+     "tituloMarcado": [
+      [
+       "Ataque",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "hacker",
        false
       ],
       [
@@ -1190,7 +562,7 @@
        ""
       ],
       [
-       "encontrar",
+       "US$6,3",
        false
       ],
       [
@@ -1198,7 +570,7 @@
        ""
       ],
       [
-       "Flávio",
+       "bi",
        false
       ],
       [
@@ -1206,7 +578,7 @@
        ""
       ],
       [
-       "Bolsonaro,",
+       "à",
        false
       ],
       [
@@ -1214,7 +586,7 @@
        ""
       ],
       [
-       "mas",
+       "Binance:",
        false
       ],
       [
@@ -1222,7 +594,7 @@
        ""
       ],
       [
-       "que",
+       "como",
        false
       ],
       [
@@ -1230,24 +602,8 @@
        ""
       ],
       [
-       "ele",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "‘pode",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "ficar",
-       false
+       "funciona",
+       true
       ],
       [
        " ",
@@ -1262,166 +618,8 @@
        ""
       ],
       [
-       "tempo",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "que",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "quiser’",
-       false
-      ]
-     ],
-     "trecho": "O presidente dos Estados Unidos, Donald Trump, afirmou na noite deste sábado, 31, que não tem planos de se reunir com o senador e candidato derrotado nas eleições Flávio Bolsonaro (PL), mas que ele pode permanecer no…",
-     "link": "https://www.estadao.com.br/politica/eleicoes/trump-diz-nao-ter-planos-de-encontrar-flavio-bolsonaro-mas-que-ele-pode-ficar-o-tempo-que-quiser/",
-     "publicadoEm": "2026-11-01T01:14:20.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "gazetadopovo",
-     "titulo": "Trump afirma que Flávio pode ficar nos EUA “quanto tempo quiser”",
-     "tituloMarcado": [
-      [
-       "Trump",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "afirma",
+       "seguro",
        true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "que",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Flávio",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "pode",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "ficar",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "nos",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "EUA",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "“quanto",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "tempo",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "quiser”",
-       false
-      ]
-     ],
-     "trecho": "Presidente dos Estados Unidos, Donald Trump, voltou a mencionar a ida de Flávio Bolsonaro aos EUA.",
-     "link": "https://www.gazetadopovo.com.br/mundo/trump-afirma-que-flavio-pode-ficar-nos-eua-quanto-tempo-quiser/",
-     "publicadoEm": "2026-11-01T01:36:57.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "folha",
-     "titulo": "Trump diz não ter plano de encontrar Flávio Bolsonaro, mas que senador pode ficar quanto quiser nos EUA",
-     "tituloMarcado": [
-      [
-       "Trump",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "diz",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "não",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "ter",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "plano",
-       false
       ],
       [
        " ",
@@ -1436,7 +634,22 @@
        ""
       ],
       [
-       "encontrar",
+       "criptomoedas",
+       true
+      ]
+     ],
+     "trecho": "Hackers roubam US$ 6,3 bilhões da Binance, maior corretora de criptomoedas do mundo O roubo de US$ 6,3 bilhões em criptomoedas da Binance, um dos maiores ataques da história do setor, reacendeu o debate sobre como as…",
+     "link": "https://g1.globo.com/tecnologia/noticia/2026/10/30/ataque-hacker-de-us63-bi-a-binance-como-funciona-o-seguro-de-criptomoedas.ghtml",
+     "publicadoEm": "2026-10-30T18:31:11.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "cnn",
+     "titulo": "Binance retoma saques após recuperar 95% de US$ 6,3 bi roubados em ataque",
+     "tituloMarcado": [
+      [
+       "Binance",
        false
       ],
       [
@@ -1444,7 +657,7 @@
        ""
       ],
       [
-       "Flávio",
+       "retoma",
        false
       ],
       [
@@ -1452,7 +665,7 @@
        ""
       ],
       [
-       "Bolsonaro,",
+       "saques",
        false
       ],
       [
@@ -1460,7 +673,7 @@
        ""
       ],
       [
-       "mas",
+       "após",
        false
       ],
       [
@@ -1468,7 +681,23 @@
        ""
       ],
       [
-       "que",
+       "recuperar",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "95%",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
        false
       ],
       [
@@ -1476,7 +705,7 @@
        ""
       ],
       [
-       "senador",
+       "US$",
        false
       ],
       [
@@ -1484,7 +713,7 @@
        ""
       ],
       [
-       "pode",
+       "6,3",
        false
       ],
       [
@@ -1492,7 +721,7 @@
        ""
       ],
       [
-       "ficar",
+       "bi",
        false
       ],
       [
@@ -1500,7 +729,7 @@
        ""
       ],
       [
-       "quanto",
+       "roubados",
        false
       ],
       [
@@ -1508,7 +737,7 @@
        ""
       ],
       [
-       "quiser",
+       "em",
        false
       ],
       [
@@ -1516,47 +745,219 @@
        ""
       ],
       [
-       "nos",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "EUA",
+       "ataque",
        false
       ]
      ],
-     "trecho": "O presidente dos Estados Unidos, Donald Trump, afirmou neste sábado (31) não ter planos de se encontrar com Flávio Bolsonaro (PL-RJ), mas que o senador brasileiro pode permanecer no país \"o tempo que quiser\".",
-     "link": "https://www1.folha.uol.com.br/poder/2026/10/trump-diz-nao-ter-planos-de-encontrar-flavio-bolsonaro-mas-que-ele-pode-ficar-quanto-quiser-nos-eua.shtml",
-     "publicadoEm": "2026-11-01T01:48:00.000Z",
+     "trecho": "FBI atribui ação criminosa à unidade de hackers ligada à Coreia do Norte; invasão é considerada a maior da história do setor de criptomoedas",
+     "link": "https://www.cnnbrasil.com.br/economia/money/negocios/binance-retoma-saques-apos-recuperar-95-de-us-63-bi-roubados-em-ataque/",
+     "publicadoEm": "2026-11-01T05:39:18.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "folha",
+     "titulo": "Binance retoma saques após ataque hacker roubar US$ 6,3 bilhões",
+     "tituloMarcado": [
+      [
+       "Binance",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "retoma",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "saques",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "após",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ataque",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "hacker",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "roubar",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "US$",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "6,3",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "bilhões",
+       false
+      ]
+     ],
+     "trecho": "A Binance começou a liberar saques para clientes neste domingo (1º), ao retomar gradualmente os serviços após um ataque que resultou no roubo recorde de US$ 6,3 bilhões (R$ 34,2 bilhões) em criptomoedas.",
+     "link": "https://c-level.folha.uol.com.br/financas/2026/11/binance-retoma-saques-apos-ataque-hacker-roubar-us-63-bilhoes.shtml",
+     "publicadoEm": "2026-11-01T10:45:00.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "poder360",
+     "titulo": "Binance repõe US$ 6 bilhões dos ativos roubados e retoma saques",
+     "tituloMarcado": [
+      [
+       "Binance",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "repõe",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "US$",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "6",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "bilhões",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "dos",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ativos",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "roubados",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "retoma",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "saques",
+       false
+      ]
+     ],
+     "trecho": "Corretora usou recursos próprios para comprar tokens de substituição; FBI diz que ataque hacker veio da Coreia do Norte",
+     "link": "https://www.poder360.com.br/poder-internacional/binance-repoe-us-6-bilhoes-dos-ativos-roubados-e-retoma-saques/",
+     "publicadoEm": "2026-11-01T12:36:59.000Z",
      "tipo": "noticia",
      "numero": null
     }
    ]
   },
   {
-   "id": "https://c-level.folha.uol.com.br/negocios/2026/10/chilli-beans-faz-pedido-de-recuperacao-extrajudicial-com-divida-de-r-340-milhoes.shtml",
-   "veiculos": 5,
-   "primeiro": "2026-10-31T17:18:00.000Z",
-   "ultimo": "2026-10-31T22:07:09.000Z",
+   "id": "https://www1.folha.uol.com.br/esporte/2026/10/cruzeiro-reage-apos-levar-tres-gols-vence-corinthians-nos-penaltis-e-conquista-libertadores-feminina.shtml",
+   "veiculos": 4,
+   "primeiro": "2026-11-01T02:21:00.000Z",
+   "ultimo": "2026-11-01T11:49:55.000Z",
    "comuns": [
-    "Chilli",
-    "Beans",
-    "dívida",
-    "340",
-    "milhões",
-    "recuperação"
+    "Cruzeiro",
+    "Libertadores",
+    "pênaltis",
+    "feminina"
    ],
    "politica": null,
    "materias": [
     {
      "veiculo": "folha",
-     "titulo": "Chilli Beans faz pedido de recuperação extrajudicial com dívida de R$ 340 milhões",
+     "titulo": "Cruzeiro reage após levar três gols, vence Corinthians nos pênaltis e conquista Libertadores feminina",
      "tituloMarcado": [
       [
-       "Chilli",
+       "Cruzeiro",
        false
       ],
       [
@@ -1564,15 +965,7 @@
        ""
       ],
       [
-       "Beans",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "faz",
+       "reage",
        true
       ],
       [
@@ -1580,8 +973,119 @@
        ""
       ],
       [
-       "pedido",
+       "após",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "levar",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "três",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "gols,",
        false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "vence",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Corinthians",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "nos",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "pênaltis",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "conquista",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Libertadores",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "feminina",
+       false
+      ]
+     ],
+     "trecho": "Parecia que seria fácil. O Corinthians abriu 3 a 0 sobre o Cruzeiro na final da Libertadores feminina neste sábado (31), em Quito, no Equador, e tinha tudo para conquistar o título pelo quarto ano consecutivo e somar o…",
+     "link": "https://www1.folha.uol.com.br/esporte/2026/10/cruzeiro-reage-apos-levar-tres-gols-vence-corinthians-nos-penaltis-e-conquista-libertadores-feminina.shtml",
+     "publicadoEm": "2026-11-01T02:21:00.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "cartacapital",
+     "titulo": "Em jogo de oito gols, Cruzeiro supera Corinthians nos pênaltis e se sagra campeão da Libertadores Feminina",
+     "tituloMarcado": [
+      [
+       "Em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "jogo",
+       true
       ],
       [
        " ",
@@ -1596,7 +1100,15 @@
        ""
       ],
       [
-       "recuperação",
+       "oito",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "gols,",
        false
       ],
       [
@@ -1604,8 +1116,135 @@
        ""
       ],
       [
-       "extrajudicial",
+       "Cruzeiro",
        false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "supera",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Corinthians",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "nos",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "pênaltis",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "se",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "sagra",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "campeão",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "da",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Libertadores",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Feminina",
+       false
+      ]
+     ],
+     "trecho": "Corinthians e Cruzeiro empataram em 4 a 4 e levaram a disputa para os pênaltis, no qual As Cabulosas foram mais precisas e consagraram-se campeãs",
+     "link": "https://www.cartacapital.com.br/esporte/em-jogo-de-oito-gols-cruzeiro-supera-corinthians-nos-penaltis-e-se-sagra-campeao-da-libertadores-feminina/",
+     "publicadoEm": "2026-11-01T02:36:00.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "cnn",
+     "titulo": "Cruzeiro leva prêmio milionário com título da Libertadores feminina; veja",
+     "tituloMarcado": [
+      [
+       "Cruzeiro",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "leva",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "prêmio",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "milionário",
+       true
       ],
       [
        " ",
@@ -1620,197 +1259,7 @@
        ""
       ],
       [
-       "dívida",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "R$",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "340",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "milhões",
-       false
-      ]
-     ],
-     "trecho": "A Chilli Beans, rede brasileira de óculos, relógios e acessórios, entrou com um pedido de recuperação extrajudicial na noite desta sexta-feira (30) para reestruturar R$ 340 milhões em dívidas.",
-     "link": "https://c-level.folha.uol.com.br/negocios/2026/10/chilli-beans-faz-pedido-de-recuperacao-extrajudicial-com-divida-de-r-340-milhoes.shtml",
-     "publicadoEm": "2026-10-31T17:18:00.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "g1",
-     "titulo": "Chilli Beans entra com pedido de recuperação extrajudicial para renegociar R$ 340 milhões em dívidas",
-     "tituloMarcado": [
-      [
-       "Chilli",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Beans",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "entra",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "com",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "pedido",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "recuperação",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "extrajudicial",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "para",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "renegociar",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "R$",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "340",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "milhões",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "em",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "dívidas",
-       false
-      ]
-     ],
-     "trecho": "Óculos Chilli Beans Divulgação A Chilli Beans, rede brasileira de óculos e relógios, entrou com um pedido de recuperação extrajudicial para renegociar R$ 340 milhões em dívidas bancárias. O plano, alinhado com os…",
-     "link": "https://g1.globo.com/economia/noticia/2026/10/31/chilli-beans-entra-com-pedido-de-recuperacao-extrajudicial.ghtml",
-     "publicadoEm": "2026-10-31T17:18:31.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "estadao",
-     "titulo": "Chilli Beans pede recuperação extrajudicial para renegociar R$ 340 milhões em dívidas",
-     "tituloMarcado": [
-      [
-       "Chilli",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Beans",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "pede",
+       "título",
        true
       ],
       [
@@ -1818,7 +1267,7 @@
        ""
       ],
       [
-       "recuperação",
+       "da",
        false
       ],
       [
@@ -1826,7 +1275,7 @@
        ""
       ],
       [
-       "extrajudicial",
+       "Libertadores",
        false
       ],
       [
@@ -1834,7 +1283,7 @@
        ""
       ],
       [
-       "para",
+       "feminina;",
        false
       ],
       [
@@ -1842,102 +1291,22 @@
        ""
       ],
       [
-       "renegociar",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "R$",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "340",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "milhões",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "em",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "dívidas",
+       "veja",
        false
       ]
      ],
-     "trecho": "A Chilli Beans pretende renegociar R$ 340 milhões em dívidas com bancos por meio de um processo de recuperação extrajudicial. A proposta da rede de óculos e relógios prevê a entrada de até R$ 50 milhões em novos…",
-     "link": "https://www.estadao.com.br/economia/chilli-beans-pede-recuperacao-extrajudicial-para-renegociar-r-340-milhoes-em-dividas/",
-     "publicadoEm": "2026-10-31T18:24:15.000Z",
+     "trecho": "\"Cabulosas\" venceram as \"Brabas\" nos pênaltis, na noite deste sábado (31), em Quito, no Equador, e ficaram com o título inédito da competição",
+     "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/libertadores-da-america/cruzeiro-leva-premio-milionario-com-titulo-da-libertadores-feminina-veja/",
+     "publicadoEm": "2026-11-01T02:55:46.000Z",
      "tipo": "noticia",
      "numero": null
     },
     {
      "veiculo": "veja",
-     "titulo": "Dona de 900 franquias, Chilli Beans busca saída para dívida de R$ 340 milhões",
+     "titulo": "Cruzeiro busca empate heroico e conquista Libertadores nos pênaltis",
      "tituloMarcado": [
       [
-       "Dona",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "900",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "franquias,",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Chilli",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Beans",
+       "Cruzeiro",
        false
       ],
       [
@@ -1953,7 +1322,7 @@
        ""
       ],
       [
-       "saída",
+       "empate",
        true
       ],
       [
@@ -1961,7 +1330,15 @@
        ""
       ],
       [
-       "para",
+       "heroico",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
        false
       ],
       [
@@ -1969,7 +1346,7 @@
        ""
       ],
       [
-       "dívida",
+       "conquista",
        false
       ],
       [
@@ -1977,7 +1354,7 @@
        ""
       ],
       [
-       "de",
+       "Libertadores",
        false
       ],
       [
@@ -1985,7 +1362,7 @@
        ""
       ],
       [
-       "R$",
+       "nos",
        false
       ],
       [
@@ -1993,133 +1370,14 @@
        ""
       ],
       [
-       "340",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "milhões",
+       "pênaltis",
        false
       ]
      ],
-     "trecho": "Plano de recuperação extrajudicial prevê aporte de até R$ 50 milhões e renegociação de débitos bancários",
-     "link": "https://veja.abril.com.br/brasil/dona-de-900-franquias-chilli-beans-busca-saida-para-divida-de-r-340-milhoes/",
-     "publicadoEm": "2026-10-31T19:47:36.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "gazetadopovo",
-     "titulo": "Chilli Beans entra com recuperação extrajudicial para renegociar dívida de R$ 340 milhões",
-     "tituloMarcado": [
-      [
-       "Chilli",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Beans",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "entra",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "com",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "recuperação",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "extrajudicial",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "para",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "renegociar",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "dívida",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "R$",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "340",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "milhões",
-       false
-      ]
-     ],
-     "trecho": "Empresa de óculos e relógios apresenta plano para renegociar dívida de R$ 340 milhões com credores. Veja na Gazeta do Povo",
-     "link": "https://www.gazetadopovo.com.br/economia/chilli-beans-entra-com-recuperacao-extrajudicial-para-renegociar-divida-de-r-340-milhoes/",
-     "publicadoEm": "2026-10-31T22:07:09.000Z",
-     "tipo": "noticia",
+     "trecho": "Cabulosas perdiam por 3 a 0, buscaram empate por 4 a 4 diante do Corinthians e venceram por 5 a 4 nos pênaltis, em Quito",
+     "link": "https://veja.abril.com.br/coluna/linha-de-frente/cruzeiro-busca-empate-heroico-e-conquista-libertadores-nos-penaltis/",
+     "publicadoEm": "2026-11-01T11:49:55.000Z",
+     "tipo": "coluna",
      "numero": null
     }
    ]
@@ -2943,24 +2201,105 @@
    ]
   },
   {
-   "id": "https://www1.folha.uol.com.br/esporte/2026/10/semifinais-da-copa-do-brasil-reunem-times-em-situacoes-opostas-no-brasileiro.shtml",
+   "id": "https://www.estadao.com.br/politica/eleicoes/ministros-vao-ao-ms-verificar-denuncias-de-violencia-contra-indigenas-depois-da-eleicao/",
    "veiculos": 3,
-   "primeiro": "2026-10-31T19:47:00.000Z",
-   "ultimo": "2026-11-01T09:00:12.000Z",
+   "primeiro": "2026-11-01T01:05:05.000Z",
+   "ultimo": "2026-11-01T13:45:26.000Z",
    "comuns": [
-    "Copa",
-    "Brasil",
-    "horário",
-    "assistir"
+    "MS",
+    "indígenas",
+    "envenenamento",
+    "água",
+    "aldeia"
    ],
    "politica": null,
    "materias": [
     {
-     "veiculo": "folha",
-     "titulo": "Semifinais da Copa do Brasil reúnem times em situações opostas no Brasileiro",
+     "veiculo": "estadao",
+     "titulo": "Ministros vão ao MS verificar denúncias de violência contra indígenas depois da eleição",
      "tituloMarcado": [
       [
-       "Semifinais",
+       "Ministros",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "vão",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ao",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "MS",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "verificar",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "denúncias",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "violência",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "contra",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "indígenas",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "depois",
        true
       ],
       [
@@ -2976,7 +2315,508 @@
        ""
       ],
       [
-       "Copa",
+       "eleição",
+       true
+      ]
+     ],
+     "trecho": "O ministro dos Povos Indígenas, Eloy Terena, e a ministra dos Direitos Humanos e da Cidadania, Janine Mello, visitaram neste sábado, 31, aldeias indígenas em Mato Grosso do Sul após denúncias de ameaças, racismo e…",
+     "link": "https://www.estadao.com.br/politica/eleicoes/ministros-vao-ao-ms-verificar-denuncias-de-violencia-contra-indigenas-depois-da-eleicao/",
+     "publicadoEm": "2026-11-01T01:05:05.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "g1",
+     "titulo": "Ataque a indígenas em MS: o que se sabe sobre ameaças de envenenamento da água em aldeia",
+     "tituloMarcado": [
+      [
+       "Ataque",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "a",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "indígenas",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "MS:",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "o",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "que",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "se",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "sabe",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "sobre",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ameaças",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "envenenamento",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "da",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "água",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "aldeia",
+       false
+      ]
+     ],
+     "trecho": "Como vivem os indígenas da aldeia alvo de ameaças por envenenamento da água O caso envolvendo dois servidores da Prefeitura de Tacuru (MS), afastados após a divulgação de áudios com ameaças contra indígenas da etnia…",
+     "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/11/01/ataque-a-indigenas-em-ms-o-que-se-sabe-sobre-ameacas-de-envenenamento-da-agua-em-aldeia.ghtml",
+     "publicadoEm": "2026-11-01T13:00:46.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "metropoles",
+     "titulo": "Suspeitos de envenenar água em aldeias indígenas no MS são ouvidos pela PF",
+     "tituloMarcado": [
+      [
+       "Suspeitos",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "envenenar",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "água",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "aldeias",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "indígenas",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "no",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "MS",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "são",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ouvidos",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "pela",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "PF",
+       true
+      ]
+     ],
+     "trecho": "Uma das suspeitas é de que um servidor público do município de Tacuru tenha feito o envenenamento na aldeia Sassoró",
+     "link": "https://www.metropoles.com/brasil/suspeitos-de-envenenar-agua-em-aldeias-indigenas-no-ms-sao-ouvidos-pela-pf",
+     "publicadoEm": "2026-11-01T13:45:26.000Z",
+     "tipo": "noticia",
+     "numero": null
+    }
+   ]
+  },
+  {
+   "id": "https://www.gazetadopovo.com.br/mundo/lider-de-partido-direitista-de-oposicao-a-netanyahu-descarta-alianca-com-arabes-defensores-do-terrorismo/",
+   "veiculos": 3,
+   "primeiro": "2026-10-30T18:15:45.000Z",
+   "ultimo": "2026-11-01T13:36:00.000Z",
+   "comuns": [
+    "oposição",
+    "Netanyahu",
+    "árabes",
+    "partido",
+    "aliança",
+    "israelenses"
+   ],
+   "politica": "partido",
+   "materias": [
+    {
+     "veiculo": "gazetadopovo",
+     "titulo": "Líder de partido direitista de oposição a Netanyahu descarta aliança com árabes: “defensores do terrorismo”",
+     "tituloMarcado": [
+      [
+       "Líder",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "partido",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "direitista",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "oposição",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "a",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Netanyahu",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "descarta",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "aliança",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "com",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "árabes:",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "“defensores",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "do",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "terrorismo”",
+       true
+      ]
+     ],
+     "trecho": "Avigdor Lieberman descartou a possibilidade de seu partido se juntar a qualquer bloco de oposição anti-Netanyahu com as chapas árabe.",
+     "link": "https://www.gazetadopovo.com.br/mundo/lider-de-partido-direitista-de-oposicao-a-netanyahu-descarta-alianca-com-arabes-defensores-do-terrorismo/",
+     "publicadoEm": "2026-10-30T18:15:45.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "veja",
+     "titulo": "Manifestantes israelenses exigem que oposição se alie a árabes para tirar Netanyahu do poder",
+     "tituloMarcado": [
+      [
+       "Manifestantes",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "israelenses",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "exigem",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "que",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "oposição",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "se",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "alie",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "a",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "árabes",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "para",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "tirar",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Netanyahu",
        false
       ],
       [
@@ -2992,7 +2832,22 @@
        ""
       ],
       [
-       "Brasil",
+       "poder",
+       false
+      ]
+     ],
+     "trecho": "Partidos de maioria judaica contrários ao presidente de Israel obtiveram 48 assentos, enquanto legendas de maioria árabe conquistaram 19 cadeiras",
+     "link": "https://veja.abril.com.br/mundo/manifestantes-israelenses-exigem-que-oposicao-se-alie-aos-arabes-para-tirar-netanyahu-do-poder/",
+     "publicadoEm": "2026-11-01T13:00:53.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "folha",
+     "titulo": "Israelenses protestam por aliança entre oposição e partidos árabes para tirar Netanyahu do poder",
+     "tituloMarcado": [
+      [
+       "Israelenses",
        false
       ],
       [
@@ -3000,7 +2855,7 @@
        ""
       ],
       [
-       "reúnem",
+       "protestam",
        true
       ],
       [
@@ -3008,7 +2863,244 @@
        ""
       ],
       [
-       "times",
+       "por",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "aliança",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "entre",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "oposição",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "partidos",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "árabes",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "para",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "tirar",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Netanyahu",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "do",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "poder",
+       false
+      ]
+     ],
+     "trecho": "Centenas de israelenses saíram às ruas neste sábado (31) para pressionar a oposição a se aliar aos partidos árabes com o objetivo de retirar do poder o primeiro-ministro Binyamin Netanyahu, que, por sua vez…",
+     "link": "https://www1.folha.uol.com.br/mundo/2026/11/israelenses-protestam-por-alianca-entre-oposicao-e-partidos-arabes-para-tirar-netanyahu-do-poder.shtml",
+     "publicadoEm": "2026-11-01T13:36:00.000Z",
+     "tipo": "noticia",
+     "numero": null
+    }
+   ]
+  },
+  {
+   "id": "https://www.gazetadopovo.com.br/mundo/polonia-tenta-reequilibrar-poder-de-tribunal-constitucional-e-entra-em-crise-institucional/",
+   "veiculos": 3,
+   "primeiro": "2026-10-31T13:58:02.000Z",
+   "ultimo": "2026-11-01T13:06:33.000Z",
+   "comuns": [
+    "Polônia",
+    "tenta",
+    "Tribunal",
+    "entra"
+   ],
+   "politica": null,
+   "materias": [
+    {
+     "veiculo": "gazetadopovo",
+     "titulo": "Polônia tenta reequilibrar poder de Tribunal Constitucional e entra em crise institucional",
+     "tituloMarcado": [
+      [
+       "Polônia",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "tenta",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "reequilibrar",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "poder",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Tribunal",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Constitucional",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "entra",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "crise",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "institucional",
+       true
+      ]
+     ],
+     "trecho": "Uma assembleia geral do Tribunal Constitucional foi marcada para o dia 3, mas ainda não se sabe quais magistrados poderão participar.",
+     "link": "https://www.gazetadopovo.com.br/mundo/polonia-tenta-reequilibrar-poder-de-tribunal-constitucional-e-entra-em-crise-institucional/",
+     "publicadoEm": "2026-10-31T13:58:02.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "cartacapital",
+     "titulo": "Polônia tem prisões em meio a bloqueio ultranacionalista no Judiciário",
+     "tituloMarcado": [
+      [
+       "Polônia",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "tem",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "prisões",
        true
       ],
       [
@@ -3024,7 +3116,7 @@
        ""
       ],
       [
-       "situações",
+       "meio",
        true
       ],
       [
@@ -3032,7 +3124,23 @@
        ""
       ],
       [
-       "opostas",
+       "a",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "bloqueio",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ultranacionalista",
        true
       ],
       [
@@ -3048,22 +3156,22 @@
        ""
       ],
       [
-       "Brasileiro",
-       false
+       "Judiciário",
+       true
       ]
      ],
-     "trecho": "Palmeiras, Atlético-MG, Vasco e Grêmio entram em campo neste domingo (1º) no primeiro de dois confrontos que definirão os finalistas da Copa do Brasil. As semifinais -Palmeiras x Vasco e Grêmio x Atlético-MG- colocam…",
-     "link": "https://www1.folha.uol.com.br/esporte/2026/10/semifinais-da-copa-do-brasil-reunem-times-em-situacoes-opostas-no-brasileiro.shtml",
-     "publicadoEm": "2026-10-31T19:47:00.000Z",
+     "trecho": "Manifestantes cercaram Tribunal Constitucional para tentar impedir posse de juiz alinhado ao primeiro-ministro Donald Tusk, de centro-esquerda.",
+     "link": "https://www.cartacapital.com.br/carta-capital/polonia-tem-prisoes-em-meio-a-bloqueio-ultranacionalista-no-judiciario/",
+     "publicadoEm": "2026-10-31T19:54:51.000Z",
      "tipo": "noticia",
      "numero": null
     },
     {
-     "veiculo": "cnn",
-     "titulo": "Grêmio x Atlético-MG: horário e onde assistir ao jogo da Copa do Brasil",
+     "veiculo": "metropoles",
+     "titulo": "Juiz afastado na Polônia tenta entrar em tribunal, mas é impedido",
      "tituloMarcado": [
       [
-       "Grêmio",
+       "Juiz",
        true
       ],
       [
@@ -3071,15 +3179,7 @@
        ""
       ],
       [
-       "x",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Atlético-MG:",
+       "afastado",
        true
       ],
       [
@@ -3087,7 +3187,7 @@
        ""
       ],
       [
-       "horário",
+       "na",
        false
       ],
       [
@@ -3095,7 +3195,7 @@
        ""
       ],
       [
-       "e",
+       "Polônia",
        false
       ],
       [
@@ -3103,7 +3203,7 @@
        ""
       ],
       [
-       "onde",
+       "tenta",
        false
       ],
       [
@@ -3111,7 +3211,7 @@
        ""
       ],
       [
-       "assistir",
+       "entrar",
        false
       ],
       [
@@ -3119,7 +3219,7 @@
        ""
       ],
       [
-       "ao",
+       "em",
        false
       ],
       [
@@ -3127,8 +3227,387 @@
        ""
       ],
       [
-       "jogo",
+       "tribunal,",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "mas",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "é",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "impedido",
        true
+      ]
+     ],
+     "trecho": "Polônia vive uma crise política envolvendo o Tribunal Constitucional desde a última sexta-feira (30/10)",
+     "link": "https://www.metropoles.com/mundo/juiz-afastado-na-polonia-tenta-entrar-em-tribunal-mas-e-impedido",
+     "publicadoEm": "2026-11-01T13:06:33.000Z",
+     "tipo": "noticia",
+     "numero": null
+    }
+   ]
+  },
+  {
+   "id": "https://www.gazetadopovo.com.br/mundo/eua-aprovam-venda-de-500-misseis-patriot-a-ucrania/",
+   "veiculos": 3,
+   "primeiro": "2026-10-31T19:44:09.000Z",
+   "ultimo": "2026-11-01T12:27:52.000Z",
+   "comuns": [
+    "Ucrânia",
+    "Ataques",
+    "deixam",
+    "milhares",
+    "luz"
+   ],
+   "politica": null,
+   "materias": [
+    {
+     "veiculo": "gazetadopovo",
+     "titulo": "EUA aprovam venda de 500 mísseis Patriot à Ucrânia",
+     "tituloMarcado": [
+      [
+       "EUA",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "aprovam",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "venda",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "500",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "mísseis",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Patriot",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "à",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Ucrânia",
+       false
+      ]
+     ],
+     "trecho": "Mísseis Patriot são interceptadores desenvolvidos pelos Estados Unidos, mas entrega para Ucrânia pode levar anos.",
+     "link": "https://www.gazetadopovo.com.br/mundo/eua-aprovam-venda-de-500-misseis-patriot-a-ucrania/",
+     "publicadoEm": "2026-10-31T19:44:09.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "g1",
+     "titulo": "Ataques deixam milhares sem luz na Ucrânia em meio a novas negociações de paz",
+     "tituloMarcado": [
+      [
+       "Ataques",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "deixam",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "milhares",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "sem",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "luz",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "na",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Ucrânia",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "meio",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "a",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "novas",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "negociações",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "paz",
+       true
+      ]
+     ],
+     "trecho": "O presidente da Ucrânia, Volodymyr Zelensky, durante entrevista coletiva em cúpula de líderes da União Europeia, em Bruxelas, na Bélgica, em 16 de outubro de 2026 Yves Herman/Reuters Centenas de milhares de casas…",
+     "link": "https://g1.globo.com/mundo/noticia/2026/11/01/ataques-ucrania-russia.ghtml",
+     "publicadoEm": "2026-11-01T10:12:46.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "uol",
+     "titulo": "Ataques russos deixam centenas de milhares sem luz na Ucrânia",
+     "tituloMarcado": [
+      [
+       "Ataques",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "russos",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "deixam",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "centenas",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "milhares",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "sem",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "luz",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "na",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Ucrânia",
+       false
+      ]
+     ],
+     "trecho": "Ataques russos deixaram centenas de milhares de ucranianos sem energia elétrica hoje, informou o presidente Volodymyr Zelensky, enquanto forças ucranianas contra-atacam.",
+     "link": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/11/01/ataques-russos-deixam-centenas-de-milhares-sem-luz-na-ucrania.ghtm",
+     "publicadoEm": "2026-11-01T12:27:52.000Z",
+     "tipo": "noticia",
+     "numero": null
+    }
+   ]
+  },
+  {
+   "id": "https://www1.folha.uol.com.br/esporte/2026/10/veja-todos-os-campeoes-da-libertadores-feminina.shtml",
+   "veiculos": 3,
+   "primeiro": "2026-11-01T02:24:00.000Z",
+   "ultimo": "2026-11-01T12:03:47.000Z",
+   "comuns": [
+    "campeões",
+    "Libertadores",
+    "feminina",
+    "Cruzeiro"
+   ],
+   "politica": null,
+   "materias": [
+    {
+     "veiculo": "folha",
+     "titulo": "Veja todos os campeões da Libertadores feminina",
+     "tituloMarcado": [
+      [
+       "Veja",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "todos",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "os",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "campeões",
+       false
       ],
       [
        " ",
@@ -3143,8 +3622,300 @@
        ""
       ],
       [
-       "Copa",
+       "Libertadores",
        false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "feminina",
+       false
+      ]
+     ],
+     "trecho": "O estreante Cruzeiro se tornou, neste sábado (31), o nono clube campeão da Libertadores feminina ao superar o Corinthians em Quito, no Equador. Realizada desde 2009, a competição é amplamente dominada por clubes…",
+     "link": "https://www1.folha.uol.com.br/esporte/2026/10/veja-todos-os-campeoes-da-libertadores-feminina.shtml",
+     "publicadoEm": "2026-11-01T02:24:00.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "cnn",
+     "titulo": "Cruzeiro campeão da Libertadores feminina; veja o ranking de títulos",
+     "tituloMarcado": [
+      [
+       "Cruzeiro",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "campeão",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "da",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Libertadores",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "feminina;",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "veja",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "o",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ranking",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "títulos",
+       true
+      ]
+     ],
+     "trecho": "Realizada desde 2009, a competição tem amplo domínio brasileiro; das 18 edições disputadas, equipes do Brasil conquistaram o troféu em 15 oportunidades",
+     "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/libertadores-da-america/cruzeiro-campeao-da-libertadores-feminina-veja-o-ranking-de-titulos/",
+     "publicadoEm": "2026-11-01T03:08:40.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "metropoles",
+     "titulo": "Cruzeiro vai enfrentar o Barcelona pela Copa das Campeãs da Fifa em 2027",
+     "tituloMarcado": [
+      [
+       "Cruzeiro",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "vai",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "enfrentar",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "o",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Barcelona",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "pela",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Copa",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "das",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Campeãs",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "da",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Fifa",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "2027",
+       true
+      ]
+     ],
+     "trecho": "Equipe mineira venceu o Corinthians nos pênaltis e se sagrou campeã da Libertadores Feminina de 2026",
+     "link": "https://www.metropoles.com/esportes/cruzeiro-vai-enfrentar-o-barcelona-pela-copa-das-campeas-da-fifa-em-2027",
+     "publicadoEm": "2026-11-01T12:03:47.000Z",
+     "tipo": "noticia",
+     "numero": null
+    }
+   ]
+  },
+  {
+   "id": "https://www.gazetadopovo.com.br/mundo/eleicoes-de-meio-de-mandato-definem-o-controle-do-congresso-nos-eua/",
+   "veiculos": 3,
+   "primeiro": "2026-10-31T04:39:55.000Z",
+   "ultimo": "2026-11-01T10:00:01.000Z",
+   "comuns": [
+    "Eleições",
+    "meio",
+    "mandato",
+    "EUA"
+   ],
+   "politica": "eleições",
+   "materias": [
+    {
+     "veiculo": "gazetadopovo",
+     "titulo": "Eleições de meio de mandato definem o controle do Congresso nos EUA",
+     "tituloMarcado": [
+      [
+       "Eleições",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "meio",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "mandato",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "definem",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "o",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "controle",
+       true
       ],
       [
        " ",
@@ -3159,23 +3930,71 @@
        ""
       ],
       [
-       "Brasil",
+       "Congresso",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "nos",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "EUA",
        false
       ]
      ],
-     "trecho": "Equipes se enfrentam neste domingo (1), às 18h30 (de Brasília), pelo jogo de ida da semifinal da Copa do Brasil de 2026",
-     "link": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-brasil/gremio-x-atletico-mg-horario-e-onde-assistir-ao-jogo-da-copa-do-brasil/",
-     "publicadoEm": "2026-11-01T07:00:47.000Z",
+     "trecho": "Saiba tudo sobre as midterms de 2026, os cargos em disputa no Congresso dos EUA e as regras de votação que definirão a governabilidade de Donald Trump.",
+     "link": "https://www.gazetadopovo.com.br/mundo/eleicoes-de-meio-de-mandato-definem-o-controle-do-congresso-nos-eua/",
+     "publicadoEm": "2026-10-31T04:39:55.000Z",
      "tipo": "noticia",
      "numero": null
     },
     {
-     "veiculo": "veja",
-     "titulo": "Jogos de hoje, domingo, 1º de novembro: onde assistir futebol ao vivo e horários",
+     "veiculo": "bbc",
+     "titulo": "O que são as eleições de meio de mandato dos EUA e por que elas podem selar futuro de Trump?",
      "tituloMarcado": [
       [
-       "Jogos",
+       "O",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "que",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "são",
        true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "as",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "eleições",
+       false
       ],
       [
        " ",
@@ -3190,24 +4009,8 @@
        ""
       ],
       [
-       "hoje,",
+       "meio",
        false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "domingo,",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "1º",
-       true
       ],
       [
        " ",
@@ -3222,15 +4025,7 @@
        ""
       ],
       [
-       "novembro:",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "onde",
+       "mandato",
        false
       ],
       [
@@ -3238,7 +4033,7 @@
        ""
       ],
       [
-       "assistir",
+       "dos",
        false
       ],
       [
@@ -3246,23 +4041,7 @@
        ""
       ],
       [
-       "futebol",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "ao",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "vivo",
+       "EUA",
        false
       ],
       [
@@ -3278,13 +4057,188 @@
        ""
       ],
       [
-       "horários",
+       "por",
        false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "que",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "elas",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "podem",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "selar",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "futuro",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Trump?",
+       true
       ]
      ],
-     "trecho": "Palmeiras x Vasco e Grêmio x Atlético-MG, pela semifinal da Copa do Brasil, são os destaques do dia",
-     "link": "https://veja.abril.com.br/esporte/jogos-de-hoje-domingo-1o-de-novembro-onde-assistir-futebol-ao-vivo-e-horarios/",
-     "publicadoEm": "2026-11-01T09:00:12.000Z",
+     "trecho": "Os eleitores dos EUA irão às urnas em 3 de novembro em uma votação que poderá ter um grande impacto na presidência de Donald Trump.",
+     "link": "https://www.bbc.com/portuguese/articles/cwg7xpyd1jrgo?at_medium=RSS&at_campaign=rss",
+     "publicadoEm": "2026-10-31T20:33:05.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "cnn",
+     "titulo": "Saiba por que a Eleição de Meio de Mandato nos EUA ocorre numa terça-feira",
+     "tituloMarcado": [
+      [
+       "Saiba",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "por",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "que",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "a",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Eleição",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Meio",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Mandato",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "nos",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "EUA",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ocorre",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "numa",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "terça-feira",
+       true
+      ]
+     ],
+     "trecho": "Votação das Midterms deste ano está marcada para o dia 3 de novembro; presidente Donald Trump tenta manter o controle do Congresso",
+     "link": "https://www.cnnbrasil.com.br/internacional/saiba-por-que-eleicao-de-meio-de-mandato-nos-eua-ocorre-em-uma-terca-feira/",
+     "publicadoEm": "2026-11-01T10:00:01.000Z",
      "tipo": "noticia",
      "numero": null
     }
@@ -3592,942 +4546,20 @@
    ]
   },
   {
-   "id": "https://veja.abril.com.br/agenda-verde/previsao-do-tempo-neste-domingo-sao-paulo-entra-em-alerta-para-chuva-forte-ao-longo-do-dia/",
+   "id": "https://www1.folha.uol.com.br/educacao/2026/11/professores-analisam-dificuldade-e-questoes-da-1a-fase-da-fuvest-2027-assista.shtml",
    "veiculos": 3,
-   "primeiro": "2026-10-31T21:00:04.000Z",
-   "ultimo": "2026-11-01T08:00:00.000Z",
+   "primeiro": "2026-11-01T07:00:00.000Z",
+   "ultimo": "2026-11-01T09:00:01.000Z",
    "comuns": [
-    "São",
-    "Paulo",
-    "chuva",
-    "domingo",
-    "calor",
-    "pancadas"
-   ],
-   "politica": null,
-   "materias": [
-    {
-     "veiculo": "veja",
-     "titulo": "Previsão do tempo neste domingo: São Paulo entra em alerta para chuva forte ao longo do dia",
-     "tituloMarcado": [
-      [
-       "Previsão",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "do",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "tempo",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "neste",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "domingo:",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "São",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Paulo",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "entra",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "em",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "alerta",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "para",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "chuva",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "forte",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "ao",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "longo",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "do",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "dia",
-       true
-      ]
-     ],
-     "trecho": "Sul e Sudeste seguem instáveis no 1º dia de novembro, enquanto Nordeste terá sol e temperaturas elevadas",
-     "link": "https://veja.abril.com.br/agenda-verde/previsao-do-tempo-neste-domingo-sao-paulo-entra-em-alerta-para-chuva-forte-ao-longo-do-dia/",
-     "publicadoEm": "2026-10-31T21:00:04.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "g1",
-     "titulo": "Cidade de São Paulo terá sol, calor e pancadas de chuva à tarde neste domingo",
-     "tituloMarcado": [
-      [
-       "Cidade",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "São",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Paulo",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "terá",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "sol,",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "calor",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "e",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "pancadas",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "chuva",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "à",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "tarde",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "neste",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "domingo",
-       false
-      ]
-     ],
-     "trecho": "Mulher caminha durante chuva na Avenida Paulista, em São Paulo, após dia de forte calor em São Paulo Dario Oliveira/Código 19/Estadão Conteúdo Os candidatos que vão prestar a primeira fase da Fuvest neste domingo (1º)…",
-     "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/01/cidade-de-sao-paulo-tera-sol-calor-e-pancadas-de-chuva-a-tarde-neste-domingo.ghtml",
-     "publicadoEm": "2026-11-01T03:30:01.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "folha",
-     "titulo": "Novembro começa com calor e pancadas de chuva em São Paulo",
-     "tituloMarcado": [
-      [
-       "Novembro",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "começa",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "com",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "calor",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "e",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "pancadas",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "chuva",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "em",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "São",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Paulo",
-       false
-      ]
-     ],
-     "trecho": "Os primeiros dias de novembro devem trazer calor seguido de pancadas de chuvas para a cidade de São Paulo.",
-     "link": "https://www1.folha.uol.com.br/cotidiano/2026/11/novembro-comeca-com-calor-e-pancadas-de-chuva-em-sao-paulo.shtml",
-     "publicadoEm": "2026-11-01T08:00:00.000Z",
-     "tipo": "noticia",
-     "numero": null
-    }
-   ]
-  },
-  {
-   "id": "https://www.estadao.com.br/politica/clarin-fuga-flavio-bolsonaro-eua-detalhes/",
-   "veiculos": 3,
-   "primeiro": "2026-10-31T16:02:20.000Z",
-   "ultimo": "2026-11-01T07:30:40.000Z",
-   "comuns": [
-    "argentino",
-    "fuga",
-    "Flávio",
-    "EUA",
-    "jornal"
-   ],
-   "politica": null,
-   "materias": [
-    {
-     "veiculo": "estadao",
-     "titulo": "Carros camuflados, vários jatos, ajuda dos EUA: jornal argentino detalha fuga de Flávio Bolsonaro",
-     "tituloMarcado": [
-      [
-       "Carros",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "camuflados,",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "vários",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "jatos,",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "ajuda",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "dos",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "EUA:",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "jornal",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "argentino",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "detalha",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "fuga",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Flávio",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Bolsonaro",
-       true
-      ]
-     ],
-     "trecho": "A fuga de Flávio Bolsonaro para os Estados Unidos após a derrota na eleição presidencial lembra o enredo de filmes de espionagem, conforme o relato publicado no jornal argentino Clarín na noite desta sexta-feira, 30. De…",
-     "link": "https://www.estadao.com.br/politica/clarin-fuga-flavio-bolsonaro-eua-detalhes/",
-     "publicadoEm": "2026-10-31T16:02:20.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "folha",
-     "titulo": "Agentes dos EUA assumiram controle de parte de aeroporto para fuga de Flávio, diz jornal argentino",
-     "tituloMarcado": [
-      [
-       "Agentes",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "dos",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "EUA",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "assumiram",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "controle",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "parte",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "aeroporto",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "para",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "fuga",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Flávio,",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "diz",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "jornal",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "argentino",
-       false
-      ]
-     ],
-     "trecho": "Agentes dos Estados Unidos tomaram o controle de parte do aeroporto de Porto Iguaçu para ajudar na fuga de Flávio Bolsonaro (PL) do Brasil, segundo publicação do jornal argentino Clarín desta sexta-feira (30). O país…",
-     "link": "https://www1.folha.uol.com.br/poder/2026/10/agentes-dos-eua-assumiram-controle-de-parte-de-aeroporto-para-fuga-de-flavio-diz-jornal-argentino.shtml",
-     "publicadoEm": "2026-10-31T19:22:00.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "metropoles",
-     "titulo": "Crise entre Brasil e Argentina atinge ponto máximo com fuga de Flávio",
-     "tituloMarcado": [
-      [
-       "Crise",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "entre",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Brasil",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "e",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Argentina",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "atinge",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "ponto",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "máximo",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "com",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "fuga",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Flávio",
-       false
-      ]
-     ],
-     "trecho": "Flávio Bolsonaro fugiu do Brasil para os Estados Unidos após cruzar a fronteira com a Argentina",
-     "link": "https://www.metropoles.com/brasil/crise-entre-brasil-e-argentina-atinge-ponto-maximo-com-fuga-de-flavio",
-     "publicadoEm": "2026-11-01T07:30:40.000Z",
-     "tipo": "noticia",
-     "numero": null
-    }
-   ]
-  },
-  {
-   "id": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/01/fuvest-2027-1a-fase-do-vestibular-da-usp-acontece-neste-domingo-e-tem-106-mil-inscritos-saiba-o-que-levar.ghtml",
-   "veiculos": 3,
-   "primeiro": "2026-11-01T03:00:00.000Z",
-   "ultimo": "2026-11-01T07:30:32.000Z",
-   "comuns": [
-    "Fuvest",
-    "2027",
     "1ª",
     "fase",
-    "acontece",
-    "domingo"
+    "Fuvest",
+    "2027",
+    "mil",
+    "candidatos"
    ],
-   "politica": null,
+   "politica": "candidatos",
    "materias": [
-    {
-     "veiculo": "g1",
-     "titulo": "Fuvest 2027: 1ª fase do vestibular da USP acontece neste domingo e tem 106 mil inscritos; saiba o que levar",
-     "tituloMarcado": [
-      [
-       "Fuvest",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "2027:",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "1ª",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "fase",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "do",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "vestibular",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "da",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "USP",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "acontece",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "neste",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "domingo",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "e",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "tem",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "106",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "mil",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "inscritos;",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "saiba",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "o",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "que",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "levar",
-       true
-      ]
-     ],
-     "trecho": "Candidatos chegam para a segunda fase da Fuvest na região central da capital paulista em 2025 LEANDRO CHEMALLE/THENEWS2/ESTADÃO CONTEÚDO A primeira fase do vestibular da Fuvest 2027 acontece em 88 locais de provas neste…",
-     "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/01/fuvest-2027-1a-fase-do-vestibular-da-usp-acontece-neste-domingo-e-tem-106-mil-inscritos-saiba-o-que-levar.ghtml",
-     "publicadoEm": "2026-11-01T03:00:00.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
     {
      "veiculo": "folha",
      "titulo": "Professores analisam dificuldade e questões da 1ª fase da Fuvest 2027; assista",
@@ -4669,7 +4701,7 @@
       ],
       [
        "acontece",
-       false
+       true
       ],
       [
        " ",
@@ -4685,7 +4717,7 @@
       ],
       [
        "domingo",
-       false
+       true
       ],
       [
        " ",
@@ -4701,7 +4733,7 @@
       ],
       [
        "106",
-       false
+       true
       ],
       [
        " ",
@@ -4717,7 +4749,7 @@
       ],
       [
        "candidatos",
-       true
+       false
       ]
      ],
      "trecho": "Vestibular da Universidade de São Paulo disponibiliza 8.147 vagas para começar a estudar em 2027; confira o que pode ou não levar no dia da prova",
@@ -4725,117 +4757,13 @@
      "publicadoEm": "2026-11-01T07:30:32.000Z",
      "tipo": "noticia",
      "numero": null
-    }
-   ]
-  },
-  {
-   "id": "https://www.gazetadopovo.com.br/mundo/coreia-norte-realiza-maior-roubo-criptomoedas-historia/",
-   "veiculos": 3,
-   "primeiro": "2026-10-30T13:20:59.000Z",
-   "ultimo": "2026-11-01T07:00:00.000Z",
-   "comuns": [
-    "roubo",
-    "criptomoedas",
-    "maior",
-    "história",
-    "Binance",
-    "ataque"
-   ],
-   "politica": null,
-   "materias": [
-    {
-     "veiculo": "gazetadopovo",
-     "titulo": "Coreia do Norte realiza maior roubo de criptomoedas da história",
-     "tituloMarcado": [
-      [
-       "Coreia",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "do",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Norte",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "realiza",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "maior",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "roubo",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "criptomoedas",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "da",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "história",
-       false
-      ]
-     ],
-     "trecho": "Maior corretora de criptomoedas do mundo, Binance foi alvo de um ataque hacker no qual US$ 6,3 bilhões foram roubados",
-     "link": "https://www.gazetadopovo.com.br/mundo/coreia-norte-realiza-maior-roubo-criptomoedas-historia/",
-     "publicadoEm": "2026-10-30T13:20:59.000Z",
-     "tipo": "noticia",
-     "numero": null
     },
     {
      "veiculo": "g1",
-     "titulo": "Binance sofre ataque de US$ 6,3 bilhões: o que se sabe sobre o possível maior roubo da história das criptomoedas",
+     "titulo": "Fuvest 2027: mais de 3,4 mil candidatos fazem a 1ª fase em São Carlos e Pirassununga",
      "tituloMarcado": [
       [
-       "Binance",
+       "Fuvest",
        false
       ],
       [
@@ -4843,1589 +4771,8 @@
        ""
       ],
       [
-       "sofre",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "ataque",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "US$",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "6,3",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "bilhões:",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "o",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "que",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "se",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "sabe",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "sobre",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "o",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "possível",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "maior",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "roubo",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "da",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "história",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "das",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "criptomoedas",
-       false
-      ]
-     ],
-     "trecho": "Hackers roubam US$ 6 bilhões em criptomoedas A gigante das criptomoedas Binance afirmou na quinta-feira (29/10) que US$ 6,3 bilhões (R$ 33 bilhões) em ativos digitais foram afetados pelo que se acredita ser o maior…",
-     "link": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/10/30/binance-sofre-ataque-de-us-63-bilhoes-o-que-se-sabe-sobre-o-possivel-maior-roubo-da-historia-das-criptomoedas.ghtml",
-     "publicadoEm": "2026-10-30T15:36:56.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "folha",
-     "titulo": "Como foi ataque que roubou US$ 6,3 bilhões da Binance e abalou setor cripto",
-     "tituloMarcado": [
-      [
-       "Como",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "foi",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "ataque",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "que",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "roubou",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "US$",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "6,3",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "bilhões",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "da",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Binance",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "e",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "abalou",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "setor",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "cripto",
-       false
-      ]
-     ],
-     "trecho": "Por volta das 16h20 de quinta-feira (29), uma série de transações incomuns começou a causar alarme na Binance, a maior corretora de criptomoedas do mundo.",
-     "link": "https://c-level.folha.uol.com.br/financas/2026/11/como-foi-ataque-que-roubou-us-63-bilhoes-da-binance-e-abalou-setor-cripto.shtml",
-     "publicadoEm": "2026-11-01T07:00:00.000Z",
-     "tipo": "noticia",
-     "numero": null
-    }
-   ]
-  },
-  {
-   "id": "https://g1.globo.com/tecnologia/noticia/2026/10/30/ataque-hacker-de-us63-bi-a-binance-como-funciona-o-seguro-de-criptomoedas.ghtml",
-   "veiculos": 3,
-   "primeiro": "2026-10-30T18:31:11.000Z",
-   "ultimo": "2026-11-01T05:39:18.000Z",
-   "comuns": [
-    "US",
-    "6,3",
-    "Binance",
-    "Ataque",
-    "bi",
-    "seguro"
-   ],
-   "politica": null,
-   "materias": [
-    {
-     "veiculo": "g1",
-     "titulo": "Ataque hacker de US$6,3 bi à Binance: como funciona o seguro de criptomoedas",
-     "tituloMarcado": [
-      [
-       "Ataque",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "hacker",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "US$6,3",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "bi",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "à",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Binance:",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "como",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "funciona",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "o",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "seguro",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "criptomoedas",
-       false
-      ]
-     ],
-     "trecho": "Hackers roubam US$ 6,3 bilhões da Binance, maior corretora de criptomoedas do mundo O roubo de US$ 6,3 bilhões em criptomoedas da Binance, um dos maiores ataques da história do setor, reacendeu o debate sobre como as…",
-     "link": "https://g1.globo.com/tecnologia/noticia/2026/10/30/ataque-hacker-de-us63-bi-a-binance-como-funciona-o-seguro-de-criptomoedas.ghtml",
-     "publicadoEm": "2026-10-30T18:31:11.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "folha",
-     "titulo": "Corretoras de criptomoedas reforçam segurança após roubo de US$ 6,3 bilhões na Binance",
-     "tituloMarcado": [
-      [
-       "Corretoras",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "criptomoedas",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "reforçam",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "segurança",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "após",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "roubo",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "US$",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "6,3",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "bilhões",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "na",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Binance",
-       false
-      ]
-     ],
-     "trecho": "Corretoras de criptomoedas estão correndo para reforçar mecanismos de segurança e assegurar aos clientes que seus recursos estão protegidos, depois que hackers roubaram um valor recorde de US$ 6,3 bilhões da maior…",
-     "link": "https://c-level.folha.uol.com.br/financas/2026/10/corretoras-de-criptomoedas-reforcam-seguranca-apos-roubo-de-us-63-bilhoes-na-binance.shtml",
-     "publicadoEm": "2026-10-31T16:00:00.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "cnn",
-     "titulo": "Binance retoma saques após recuperar 95% de US$ 6,3 bi roubados em ataque",
-     "tituloMarcado": [
-      [
-       "Binance",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "retoma",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "saques",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "após",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "recuperar",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "95%",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "US$",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "6,3",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "bi",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "roubados",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "em",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "ataque",
-       false
-      ]
-     ],
-     "trecho": "FBI atribui ação criminosa à unidade de hackers ligada à Coreia do Norte; invasão é considerada a maior da história do setor de criptomoedas",
-     "link": "https://www.cnnbrasil.com.br/economia/money/negocios/binance-retoma-saques-apos-recuperar-95-de-us-63-bi-roubados-em-ataque/",
-     "publicadoEm": "2026-11-01T05:39:18.000Z",
-     "tipo": "noticia",
-     "numero": null
-    }
-   ]
-  },
-  {
-   "id": "https://www1.folha.uol.com.br/cotidiano/2026/10/estudantes-de-medicina-sao-expulsos-de-universidade-por-ofensas-a-bolsistas-apos-as-eleicoes.shtml",
-   "veiculos": 3,
-   "primeiro": "2026-10-31T21:56:00.000Z",
-   "ultimo": "2026-11-01T03:00:00.000Z",
-   "comuns": [
-    "Estudantes",
-    "medicina",
-    "bolsistas",
-    "expulsos",
-    "universidade",
-    "ofensas"
-   ],
-   "politica": "eleições",
-   "materias": [
-    {
-     "veiculo": "folha",
-     "titulo": "Estudantes de medicina são expulsos de universidade por ofensas a bolsistas após as eleições",
-     "tituloMarcado": [
-      [
-       "Estudantes",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "medicina",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "são",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "expulsos",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "universidade",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "por",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "ofensas",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "a",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "bolsistas",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "após",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "as",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "eleições",
-       false
-      ]
-     ],
-     "trecho": "Alunos de medicina da universidade privada UniCesumar, em Maringá (PR), foram expulsos da instituição por ataques a estudantes bolsistas após o resultado das eleições no último domingo (25). Mensagens publicadas em…",
-     "link": "https://www1.folha.uol.com.br/cotidiano/2026/10/estudantes-de-medicina-sao-expulsos-de-universidade-por-ofensas-a-bolsistas-apos-as-eleicoes.shtml",
-     "publicadoEm": "2026-10-31T21:56:00.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "estadao",
-     "titulo": "Universidade do Paraná expulsa estudantes de medicina por ofensas a bolsistas após eleições",
-     "tituloMarcado": [
-      [
-       "Universidade",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "do",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Paraná",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "expulsa",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "estudantes",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "medicina",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "por",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "ofensas",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "a",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "bolsistas",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "após",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "eleições",
-       false
-      ]
-     ],
-     "trecho": "A universidade privada UniCesumar informou em nota ter expulsado estudantes de medicina de sua unidade em Maringá, no Paraná, por mensagens ofensivas contra alunos bolsistas postadas em um grupo de WhatsApp após a…",
-     "link": "https://www.estadao.com.br/brasil/universidade-do-parana-expulsa-estudantes-de-medicina-por-ofensas-a-bolsistas-apos-eleicoes/",
-     "publicadoEm": "2026-11-01T00:30:57.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "g1",
-     "titulo": "'Ferem diretamente o Código de Ética do Estudante de Medicina', diz CRM do Paraná sobre alunos que atacaram bolsistas e fizeram alusão ao nazismo",
-     "tituloMarcado": [
-      [
-       "'Ferem",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "diretamente",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "o",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Código",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Ética",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "do",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Estudante",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Medicina',",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "diz",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "CRM",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "do",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Paraná",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "sobre",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "alunos",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "que",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "atacaram",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "bolsistas",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "e",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "fizeram",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "alusão",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "ao",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "nazismo",
-       true
-      ]
-     ],
-     "trecho": "Nota do CRM Redes sociais Depois da divulgação de mensagens com ataques a bolsistas e referências ao nazismo em um grupo de alunos de uma turma de Medicina de uma faculdade particular de Maringá, no Norte do Paraná, o…",
-     "link": "https://g1.globo.com/pr/norte-noroeste/noticia/2026/11/01/ferem-diretamente-o-codigo-de-etica-do-estudante-de-medicina-diz-crm-do-parana-sobre-alunos-que-atacaram-bolsistas-e-fizeram-alusao-ao-nazismo.ghtml",
-     "publicadoEm": "2026-11-01T03:00:00.000Z",
-     "tipo": "noticia",
-     "numero": null
-    }
-   ]
-  },
-  {
-   "id": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/libertadores-da-america/cruzeiro-bate-corinthians-nos-penaltis-e-conquista-a-libertadores-feminina/",
-   "veiculos": 3,
-   "primeiro": "2026-11-01T02:15:57.000Z",
-   "ultimo": "2026-11-01T02:36:00.000Z",
-   "comuns": [
-    "Cruzeiro",
-    "Corinthians",
-    "pênaltis",
-    "Libertadores",
-    "feminina",
-    "conquista"
-   ],
-   "politica": null,
-   "materias": [
-    {
-     "veiculo": "cnn",
-     "titulo": "Cruzeiro bate Corinthians nos pênaltis e conquista a Libertadores feminina",
-     "tituloMarcado": [
-      [
-       "Cruzeiro",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "bate",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Corinthians",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "nos",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "pênaltis",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "e",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "conquista",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "a",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Libertadores",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "feminina",
-       false
-      ]
-     ],
-     "trecho": "Time mineiro levou a melhor na grande decisão deste sábado (31) nas penalidades, após incrível empate em 4 a 4 no tempo regulamentar",
-     "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/libertadores-da-america/cruzeiro-bate-corinthians-nos-penaltis-e-conquista-a-libertadores-feminina/",
-     "publicadoEm": "2026-11-01T02:15:57.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "folha",
-     "titulo": "Cruzeiro reage após levar três gols, vence Corinthians nos pênaltis e conquista Libertadores feminina",
-     "tituloMarcado": [
-      [
-       "Cruzeiro",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "reage",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "após",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "levar",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "três",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "gols,",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "vence",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Corinthians",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "nos",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "pênaltis",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "e",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "conquista",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Libertadores",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "feminina",
-       false
-      ]
-     ],
-     "trecho": "Parecia que seria fácil. O Corinthians abriu 3 a 0 sobre o Cruzeiro na final da Libertadores feminina neste sábado (31), em Quito, no Equador, e tinha tudo para conquistar o título pelo quarto ano consecutivo e somar o…",
-     "link": "https://www1.folha.uol.com.br/esporte/2026/10/cruzeiro-reage-apos-levar-tres-gols-vence-corinthians-nos-penaltis-e-conquista-libertadores-feminina.shtml",
-     "publicadoEm": "2026-11-01T02:21:00.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "cartacapital",
-     "titulo": "Em jogo de oito gols, Cruzeiro supera Corinthians nos pênaltis e se sagra campeão da Libertadores Feminina",
-     "tituloMarcado": [
-      [
-       "Em",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "jogo",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "oito",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "gols,",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Cruzeiro",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "supera",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Corinthians",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "nos",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "pênaltis",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "e",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "se",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "sagra",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "campeão",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "da",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Libertadores",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Feminina",
-       false
-      ]
-     ],
-     "trecho": "Corinthians e Cruzeiro empataram em 4 a 4 e levaram a disputa para os pênaltis, no qual As Cabulosas foram mais precisas e consagraram-se campeãs",
-     "link": "https://www.cartacapital.com.br/esporte/em-jogo-de-oito-gols-cruzeiro-supera-corinthians-nos-penaltis-e-se-sagra-campeao-da-libertadores-feminina/",
-     "publicadoEm": "2026-11-01T02:36:00.000Z",
-     "tipo": "noticia",
-     "numero": null
-    }
-   ]
-  },
-  {
-   "id": "https://www1.folha.uol.com.br/mundo/2026/10/quase-meio-milhao-de-pessoas-protestam-na-franca-neste-sabado-segundo-organizadores.shtml",
-   "veiculos": 3,
-   "primeiro": "2026-10-31T17:37:00.000Z",
-   "ultimo": "2026-11-01T00:47:26.000Z",
-   "comuns": [
-    "protestam",
-    "França",
-    "300"
-   ],
-   "politica": null,
-   "materias": [
-    {
-     "veiculo": "folha",
-     "titulo": "Quase meio milhão de pessoas protestam na França neste sábado, segundo organizadores",
-     "tituloMarcado": [
-      [
-       "Quase",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "meio",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "milhão",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "pessoas",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "protestam",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "na",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "França",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "neste",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "sábado,",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "segundo",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "organizadores",
-       true
-      ]
-     ],
-     "trecho": "Quase 500 mil pessoas participaram de manifestações neste sábado (31) em toda a França, incluindo 200 mil em Paris, segundo uma coalizão de organizações juvenis e sindicatos que representam estudantes do ensino médio e…",
-     "link": "https://www1.folha.uol.com.br/mundo/2026/10/quase-meio-milhao-de-pessoas-protestam-na-franca-neste-sabado-segundo-organizadores.shtml",
-     "publicadoEm": "2026-10-31T17:37:00.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "veja",
-     "titulo": "Protestos na França reúnem mais de 300 mil e terminam em confrontos com a polícia",
-     "tituloMarcado": [
-      [
-       "Protestos",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "na",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "França",
+       "2027:",
        false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "reúnem",
-       true
       ],
       [
        " ",
@@ -6448,8 +4795,8 @@
        ""
       ],
       [
-       "300",
-       false
+       "3,4",
+       true
       ],
       [
        " ",
@@ -6457,6 +4804,70 @@
       ],
       [
        "mil",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "candidatos",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "fazem",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "a",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "1ª",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "fase",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "São",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Carlos",
        true
       ],
       [
@@ -6472,15 +4883,39 @@
        ""
       ],
       [
-       "terminam",
+       "Pirassununga",
        true
-      ],
+      ]
+     ],
+     "trecho": "Fuvest 2027: mais de 106 mil estudantes fazem a primeira fase no domingo (1º) Mais de 3,4 mil estudantes fazem a primeira fase da Fuvest 2027 em São Carlos e Pirassununga (SP), neste domingo (23). Em todo o estado…",
+     "link": "https://g1.globo.com/sp/sao-carlos-regiao/educacao/noticia/2026/11/01/fuvest-2027-mais-de-34-mil-candidatos-fazem-a-1a-fase-em-sao-carlos-e-pirassununga.ghtml",
+     "publicadoEm": "2026-11-01T09:00:01.000Z",
+     "tipo": "noticia",
+     "numero": null
+    }
+   ]
+  },
+  {
+   "id": "https://www.estadao.com.br/politica/eleicoes/trump-diz-nao-ter-planos-de-encontrar-flavio-bolsonaro-mas-que-ele-pode-ficar-o-tempo-que-quiser/",
+   "veiculos": 3,
+   "primeiro": "2026-11-01T01:14:20.000Z",
+   "ultimo": "2026-11-01T01:48:00.000Z",
+   "comuns": [
+    "Trump",
+    "Flávio",
+    "pode",
+    "ficar",
+    "quiser",
+    "não"
+   ],
+   "politica": "Bolsonaro",
+   "materias": [
+    {
+     "veiculo": "estadao",
+     "titulo": "Trump diz não ter planos de encontrar Flávio Bolsonaro, mas que ele ‘pode ficar o tempo que quiser’",
+     "tituloMarcado": [
       [
-       " ",
-       ""
-      ],
-      [
-       "em",
+       "Trump",
        false
       ],
       [
@@ -6488,7 +4923,158 @@
        ""
       ],
       [
-       "confrontos",
+       "diz",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "não",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ter",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "planos",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "encontrar",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Flávio",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Bolsonaro,",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "mas",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "que",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ele",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "‘pode",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ficar",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "o",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "tempo",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "que",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "quiser’",
+       false
+      ]
+     ],
+     "trecho": "O presidente dos Estados Unidos, Donald Trump, afirmou na noite deste sábado, 31, que não tem planos de se reunir com o senador e candidato derrotado nas eleições Flávio Bolsonaro (PL), mas que ele pode permanecer no…",
+     "link": "https://www.estadao.com.br/politica/eleicoes/trump-diz-nao-ter-planos-de-encontrar-flavio-bolsonaro-mas-que-ele-pode-ficar-o-tempo-que-quiser/",
+     "publicadoEm": "2026-11-01T01:14:20.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "gazetadopovo",
+     "titulo": "Trump afirma que Flávio pode ficar nos EUA “quanto tempo quiser”",
+     "tituloMarcado": [
+      [
+       "Trump",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "afirma",
        true
       ],
       [
@@ -6496,7 +5082,421 @@
        ""
       ],
       [
-       "com",
+       "que",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Flávio",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "pode",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ficar",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "nos",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "EUA",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "“quanto",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "tempo",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "quiser”",
+       false
+      ]
+     ],
+     "trecho": "Presidente dos Estados Unidos, Donald Trump, voltou a mencionar a ida de Flávio Bolsonaro aos EUA.",
+     "link": "https://www.gazetadopovo.com.br/mundo/trump-afirma-que-flavio-pode-ficar-nos-eua-quanto-tempo-quiser/",
+     "publicadoEm": "2026-11-01T01:36:57.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "folha",
+     "titulo": "Trump diz não ter plano de encontrar Flávio Bolsonaro, mas que senador pode ficar quanto quiser nos EUA",
+     "tituloMarcado": [
+      [
+       "Trump",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "diz",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "não",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ter",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "plano",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "encontrar",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Flávio",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Bolsonaro,",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "mas",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "que",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "senador",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "pode",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ficar",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "quanto",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "quiser",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "nos",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "EUA",
+       false
+      ]
+     ],
+     "trecho": "O presidente dos Estados Unidos, Donald Trump, afirmou neste sábado (31) não ter planos de se encontrar com Flávio Bolsonaro (PL-RJ), mas que o senador brasileiro pode permanecer no país \"o tempo que quiser\".",
+     "link": "https://www1.folha.uol.com.br/poder/2026/10/trump-diz-nao-ter-planos-de-encontrar-flavio-bolsonaro-mas-que-ele-pode-ficar-quanto-quiser-nos-eua.shtml",
+     "publicadoEm": "2026-11-01T01:48:00.000Z",
+     "tipo": "noticia",
+     "numero": null
+    }
+   ]
+  },
+  {
+   "id": "https://www.estadao.com.br/politica/marco-rubio-nega-que-eua-ajudaram-flavio-bolsonaro-a-fugir-do-brasil/",
+   "veiculos": 3,
+   "primeiro": "2026-10-31T17:55:42.000Z",
+   "ultimo": "2026-10-31T22:21:45.000Z",
+   "comuns": [
+    "EUA",
+    "Flávio",
+    "Marco",
+    "Rubio",
+    "nega",
+    "ajudaram"
+   ],
+   "politica": null,
+   "materias": [
+    {
+     "veiculo": "estadao",
+     "titulo": "Marco Rubio nega que EUA ajudaram Flávio Bolsonaro a fugir do Brasil",
+     "tituloMarcado": [
+      [
+       "Marco",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Rubio",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "nega",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "que",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "EUA",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ajudaram",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Flávio",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Bolsonaro",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "a",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "fugir",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "do",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Brasil",
+       false
+      ]
+     ],
+     "trecho": "O Secretário de Estado dos EUA, Marco Rubio, negou neste sábado, 31, que o governo Trump esteve diretamente envolvido na fuga de Flávio Bolsonaro (PL), derrotado nas eleições presidenciais brasileiras, para Miami. Ele…",
+     "link": "https://www.estadao.com.br/politica/marco-rubio-nega-que-eua-ajudaram-flavio-bolsonaro-a-fugir-do-brasil/",
+     "publicadoEm": "2026-10-31T17:55:42.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "gazetadopovo",
+     "titulo": "Marco Rubio nega que governo Trump tenha auxiliado Flávio a ir para os EUA",
+     "tituloMarcado": [
+      [
+       "Marco",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Rubio",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "nega",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "que",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "governo",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Trump",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "tenha",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "auxiliado",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Flávio",
        false
       ],
       [
@@ -6512,214 +5512,7 @@
        ""
       ],
       [
-       "polícia",
-       true
-      ]
-     ],
-     "trecho": "Manifestações contra o custo de vida e as condições de ensino chegaram ao terceiro fim de semana consecutivo",
-     "link": "https://veja.abril.com.br/mundo/protestos-na-franca-reunem-mais-de-300-mil-e-terminam-em-confrontos-com-a-policia/",
-     "publicadoEm": "2026-10-31T20:49:47.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "gazetadopovo",
-     "titulo": "Protestos violentos na França resultam em cerca de 300 presos",
-     "tituloMarcado": [
-      [
-       "Protestos",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "violentos",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "na",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "França",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "resultam",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "em",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "cerca",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "300",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "presos",
-       true
-      ]
-     ],
-     "trecho": "Além de protestos neste sábado (31), organizações estudantis chamam para novas manifestações na França.",
-     "link": "https://www.gazetadopovo.com.br/mundo/protestos-na-franca-resultam-cerca-de-300-presos/",
-     "publicadoEm": "2026-11-01T00:47:26.000Z",
-     "tipo": "noticia",
-     "numero": null
-    }
-   ]
-  },
-  {
-   "id": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/bombeiros-combatem-fogo-em-fabrica-de-oleo-em-sp-pm-e-acionada-para-apoio/",
-   "veiculos": 3,
-   "primeiro": "2026-10-31T22:51:34.000Z",
-   "ultimo": "2026-10-31T23:45:45.000Z",
-   "comuns": [
-    "Bombeiros",
-    "fábrica",
-    "SP",
-    "Incêndio",
-    "atinge",
-    "galpão"
-   ],
-   "politica": null,
-   "materias": [
-    {
-     "veiculo": "cnn",
-     "titulo": "Bombeiros combatem fogo em fábrica de óleo em SP; PM é acionada para apoio",
-     "tituloMarcado": [
-      [
-       "Bombeiros",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "combatem",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "fogo",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "em",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "fábrica",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "óleo",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "em",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "SP;",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "PM",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "é",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "acionada",
+       "ir",
        true
       ],
       [
@@ -6735,78 +5528,30 @@
        ""
       ],
       [
-       "apoio",
-       true
+       "os",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "EUA",
+       false
       ]
      ],
-     "trecho": "Bombeiros mobilizam 15 viaturas e 49 homens para combater as chamas em galpão no bairro Capuava, na cidade de Mauá; até o momento não há registro de vítimas",
-     "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/bombeiros-combatem-fogo-em-fabrica-de-oleo-em-sp-pm-e-acionada-para-apoio/",
-     "publicadoEm": "2026-10-31T22:51:34.000Z",
+     "trecho": "Segundo Rubio, Trump garantiu que, se Flávio fosse para os EUA, teria autorização para permanecer no país. Veja na Gazeta do Povo",
+     "link": "https://www.gazetadopovo.com.br/mundo/marco-rubio-afirma-que-governo-trump-nao-auxiliou-flavio-a-ir-para-eua/",
+     "publicadoEm": "2026-10-31T20:22:25.000Z",
      "tipo": "noticia",
      "numero": null
     },
     {
-     "veiculo": "folha",
-     "titulo": "Incêndio atinge galpão em Mauá (SP) e mobiliza 21 viaturas dos bombeiros; veja vídeo",
+     "veiculo": "bbc",
+     "titulo": "Recebemos Flávio, mas não o ajudamos a sair do Brasil, diz secretário dos EUA",
      "tituloMarcado": [
       [
-       "Incêndio",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "atinge",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "galpão",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "em",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Mauá",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "(SP)",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "e",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "mobiliza",
+       "Recebemos",
        true
       ],
       [
@@ -6814,7 +5559,23 @@
        ""
       ],
       [
-       "21",
+       "Flávio,",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "mas",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "não",
        true
       ],
       [
@@ -6822,7 +5583,63 @@
        ""
       ],
       [
-       "viaturas",
+       "o",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ajudamos",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "a",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "sair",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "do",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Brasil,",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "diz",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "secretário",
        true
       ],
       [
@@ -6838,39 +5655,72 @@
        ""
       ],
       [
-       "bombeiros;",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "veja",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "vídeo",
+       "EUA",
        false
       ]
      ],
-     "trecho": "Um incêndio de grandes proporções atinge um galpão em Mauá, na Grande São Paulo, desde a tarde deste sábado (31). Segundo o Corpo de Bombeiros, subiu para 21 o número de viaturas envolvidas no atendimento.",
-     "link": "https://www1.folha.uol.com.br/cotidiano/2026/10/incendio-atinge-galpao-em-maua-sp-e-mobiliza-15-viaturas-dos-bombeiros.shtml",
-     "publicadoEm": "2026-10-31T23:21:00.000Z",
+     "trecho": "Secretário de Estado americano, Marco Rubio também disse que presidente Trump tomou decisão de autorizar a entrada de Flávio no país",
+     "link": "https://www.bbc.com/portuguese/watch/crgqwj0gn3g3o?at_medium=RSS&at_campaign=rss",
+     "publicadoEm": "2026-10-31T22:21:45.000Z",
      "tipo": "noticia",
      "numero": null
-    },
+    }
+   ]
+  },
+  {
+   "id": "https://g1.globo.com/economia/noticia/2026/10/31/chilli-beans-entra-com-pedido-de-recuperacao-extrajudicial.ghtml",
+   "veiculos": 3,
+   "primeiro": "2026-10-31T17:18:31.000Z",
+   "ultimo": "2026-10-31T22:07:09.000Z",
+   "comuns": [
+    "Chilli",
+    "Beans",
+    "recuperação",
+    "extrajudicial",
+    "renegociar",
+    "340"
+   ],
+   "politica": null,
+   "materias": [
     {
      "veiculo": "g1",
-     "titulo": "Incêndio de grandes proporções atinge galpão de fábrica em Mauá, no ABC",
+     "titulo": "Chilli Beans entra com pedido de recuperação extrajudicial para renegociar R$ 340 milhões em dívidas",
      "tituloMarcado": [
       [
-       "Incêndio",
+       "Chilli",
        false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Beans",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "entra",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "com",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "pedido",
+       true
       ],
       [
        " ",
@@ -6885,23 +5735,7 @@
        ""
       ],
       [
-       "grandes",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "proporções",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "atinge",
+       "recuperação",
        false
       ],
       [
@@ -6909,7 +5743,7 @@
        ""
       ],
       [
-       "galpão",
+       "extrajudicial",
        false
       ],
       [
@@ -6917,7 +5751,7 @@
        ""
       ],
       [
-       "de",
+       "para",
        false
       ],
       [
@@ -6925,7 +5759,31 @@
        ""
       ],
       [
-       "fábrica",
+       "renegociar",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "R$",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "340",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "milhões",
        false
       ],
       [
@@ -6941,29 +5799,227 @@
        ""
       ],
       [
-       "Mauá,",
+       "dívidas",
        false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "no",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "ABC",
-       true
       ]
      ],
-     "trecho": "Incêndio atinge galpão em Mauá, no ABC Um incêndio de grandes proporções atinge um galpão de uma fábrica de óleo mineral na Rua Rosa Kasinski, no bairro Capuava, em Mauá, no ABC Paulista, neste sábado (31). Segundo os…",
-     "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/31/incendio-de-grandes-proporcoes-atinge-galpao-de-fabrica-em-maua-no-abc.ghtml",
-     "publicadoEm": "2026-10-31T23:45:45.000Z",
+     "trecho": "Óculos Chilli Beans Divulgação A Chilli Beans, rede brasileira de óculos e relógios, entrou com um pedido de recuperação extrajudicial para renegociar R$ 340 milhões em dívidas bancárias. O plano, alinhado com os…",
+     "link": "https://g1.globo.com/economia/noticia/2026/10/31/chilli-beans-entra-com-pedido-de-recuperacao-extrajudicial.ghtml",
+     "publicadoEm": "2026-10-31T17:18:31.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "estadao",
+     "titulo": "Chilli Beans pede recuperação extrajudicial para renegociar R$ 340 milhões em dívidas",
+     "tituloMarcado": [
+      [
+       "Chilli",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Beans",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "pede",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "recuperação",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "extrajudicial",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "para",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "renegociar",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "R$",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "340",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "milhões",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "dívidas",
+       false
+      ]
+     ],
+     "trecho": "A Chilli Beans pretende renegociar R$ 340 milhões em dívidas com bancos por meio de um processo de recuperação extrajudicial. A proposta da rede de óculos e relógios prevê a entrada de até R$ 50 milhões em novos…",
+     "link": "https://www.estadao.com.br/economia/chilli-beans-pede-recuperacao-extrajudicial-para-renegociar-r-340-milhoes-em-dividas/",
+     "publicadoEm": "2026-10-31T18:24:15.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "gazetadopovo",
+     "titulo": "Chilli Beans entra com recuperação extrajudicial para renegociar dívida de R$ 340 milhões",
+     "tituloMarcado": [
+      [
+       "Chilli",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Beans",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "entra",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "com",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "recuperação",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "extrajudicial",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "para",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "renegociar",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "dívida",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "R$",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "340",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "milhões",
+       false
+      ]
+     ],
+     "trecho": "Empresa de óculos e relógios apresenta plano para renegociar dívida de R$ 340 milhões com credores. Veja na Gazeta do Povo",
+     "link": "https://www.gazetadopovo.com.br/economia/chilli-beans-entra-com-recuperacao-extrajudicial-para-renegociar-divida-de-r-340-milhoes/",
+     "publicadoEm": "2026-10-31T22:07:09.000Z",
      "tipo": "noticia",
      "numero": null
     }
@@ -7276,191 +6332,19 @@
    ]
   },
   {
-   "id": "https://g1.globo.com/economia/noticia/2026/10/30/dolar-ibovespa.ghtml",
+   "id": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/dolar-fecha-r-544-e-registra-maior-alta-semanal-desde-2008",
    "veiculos": 3,
-   "primeiro": "2026-10-30T12:00:21.000Z",
-   "ultimo": "2026-10-30T23:04:14.000Z",
+   "primeiro": "2026-10-30T22:40:00.000Z",
+   "ultimo": "2026-10-31T07:00:00.000Z",
    "comuns": [
-    "semana",
+    "semanal",
+    "Dólar",
     "desde",
-    "dólar",
     "Ibovespa",
-    "maior",
-    "5,44"
+    "pandemia"
    ],
    "politica": null,
    "materias": [
-    {
-     "veiculo": "g1",
-     "titulo": "Ibovespa recua 18,12% na semana e tem 5ª maior queda desde o Plano Real; dólar sobe a R$ 5,44",
-     "tituloMarcado": [
-      [
-       "Ibovespa",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "recua",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "18,12%",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "na",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "semana",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "e",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "tem",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "5ª",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "maior",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "queda",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "desde",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "o",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Plano",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Real;",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "dólar",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "sobe",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "a",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "R$",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "5,44",
-       false
-      ]
-     ],
-     "trecho": "Entenda o que faz o preço do dólar subir ou cair O Ibovespa, principal índice da bolsa brasileira, fechou em queda de 0,75% nesta sexta-feira (30), aos 167.922 pontos. Com o resultado, o índice chegou à quinta baixa…",
-     "link": "https://g1.globo.com/economia/noticia/2026/10/30/dolar-ibovespa.ghtml",
-     "publicadoEm": "2026-10-30T12:00:21.000Z",
-     "tipo": "noticia",
-     "numero": {
-      "ok": false,
-      "descricao": "taxa de desocupação de mai–jul/2026",
-      "valorNoticia": 18.12,
-      "candidatos": [
-       {
-        "serie": "desemprego",
-        "periodo": "2026-07",
-        "valor": 5.3
-       }
-      ],
-      "nota": "O número citado não foi encontrado na série oficial (taxa de desocupação de mai–jul/2026). Pode se referir a outro recorte; recomendamos ler a fonte."
-     }
-    },
     {
      "veiculo": "agenciabrasil",
      "titulo": "Dólar fecha a R$ 5,44 e registra maior alta semanal desde 2008",
@@ -7499,7 +6383,7 @@
       ],
       [
        "5,44",
-       false
+       true
       ],
       [
        " ",
@@ -7523,7 +6407,7 @@
       ],
       [
        "maior",
-       false
+       true
       ],
       [
        " ",
@@ -7650,7 +6534,7 @@
       ],
       [
        "pandemia",
-       true
+       false
       ],
       [
        " ",
@@ -7682,6 +6566,169 @@
      "publicadoEm": "2026-10-30T23:04:14.000Z",
      "tipo": "noticia",
      "numero": null
+    },
+    {
+     "veiculo": "g1",
+     "titulo": "Ibovespa: tombo de 18% iguala semana de 11 de Setembro e chega perto da pandemia; o que esperar?",
+     "tituloMarcado": [
+      [
+       "Ibovespa:",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "tombo",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "18%",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "iguala",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "semana",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "11",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Setembro",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "chega",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "perto",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "da",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "pandemia;",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "o",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "que",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "esperar?",
+       true
+      ]
+     ],
+     "trecho": "Ibovespa acumulou 18% de queda em uma semana O resultado do segundo turno das eleições, com a reeleição do presidente Lula (PT), sacudiu o mercado financeiro. O dólar disparou, enquanto o Ibovespa, principal índice da…",
+     "link": "https://g1.globo.com/economia/noticia/2026/10/31/ibovespa-o-que-esperar-apos-o-tombo.ghtml",
+     "publicadoEm": "2026-10-31T07:00:00.000Z",
+     "tipo": "noticia",
+     "numero": {
+      "ok": false,
+      "descricao": "meta Selic vigente na semana da nota",
+      "valorNoticia": 18,
+      "candidatos": [
+       {
+        "serie": "selic",
+        "periodo": "2026-10-31",
+        "valor": 13.75
+       }
+      ],
+      "nota": "O número citado não foi encontrado na série oficial (meta Selic vigente na semana da nota). Pode se referir a outro recorte; recomendamos ler a fonte."
+     }
     }
    ]
   }
