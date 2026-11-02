@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-11-02T09:57:01.540Z",
+ "geradoEm": "2026-11-02T14:02:57.371Z",
  "janelaHoras": 48,
  "nota": "Matérias publicadas pelos próprios veículos em seus feeds públicos (RSS). O site agrupa as que tratam do mesmo fato, mostra o título e um trecho curto de cada uma, com o link para o texto completo, e não classifica nenhum veículo. Palavras destacadas são as que só aquele veículo usou no título. \"Coluna ou opinião\" e \"Análise\" seguem a seção em que o próprio veículo publicou o texto.",
  "veiculos": [
@@ -8,7 +8,7 @@
    "nome": "g1",
    "idioma": "pt",
    "ok": true,
-   "materias": 122
+   "materias": 128
   },
   {
    "id": "folha",
@@ -22,7 +22,7 @@
    "nome": "Estadão",
    "idioma": "pt",
    "ok": true,
-   "materias": 47
+   "materias": 48
   },
   {
    "id": "cnn",
@@ -43,7 +43,7 @@
    "nome": "El País",
    "idioma": "es",
    "ok": true,
-   "materias": 4
+   "materias": 3
   },
   {
    "id": "agenciabrasil",
@@ -71,7 +71,7 @@
    "nome": "Gazeta do Povo",
    "idioma": "pt",
    "ok": true,
-   "materias": 95
+   "materias": 91
   },
   {
    "id": "cartacapital",
@@ -98,8 +98,2716 @@
  "totalMaterias": 539,
  "comparacoes": [
   {
+   "id": "https://www1.folha.uol.com.br/mundo/2026/11/britanico-que-saiu-a-pe-do-chile-em-1998-esta-prestes-a-concluir-volta-ao-mundo.shtml",
+   "veiculos": 4,
+   "primeiro": "2026-11-02T09:00:00.000Z",
+   "ultimo": "2026-11-02T13:57:58.000Z",
+   "comuns": [
+    "Britânico",
+    "volta",
+    "mundo",
+    "28",
+    "anos"
+   ],
+   "politica": null,
+   "materias": [
+    {
+     "veiculo": "folha",
+     "titulo": "Britânico que saiu a pé do Chile em 1998 está prestes a concluir volta ao mundo",
+     "tituloMarcado": [
+      [
+       "Britânico",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "que",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "saiu",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "a",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "pé",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "do",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Chile",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "1998",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "está",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "prestes",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "a",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "concluir",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "volta",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ao",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "mundo",
+       false
+      ]
+     ],
+     "trecho": "O plano de Karl Bushby de atravessar o mundo a pé começou com um bilhete em um cartão de aniversário.",
+     "link": "https://www1.folha.uol.com.br/mundo/2026/11/britanico-que-saiu-a-pe-do-chile-em-1998-esta-prestes-a-concluir-volta-ao-mundo.shtml",
+     "publicadoEm": "2026-11-02T09:00:00.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "g1",
+     "titulo": "Britânico completa volta ao mundo a pé após jornada de 28 anos",
+     "tituloMarcado": [
+      [
+       "Britânico",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "completa",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "volta",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ao",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "mundo",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "a",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "pé",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "após",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "jornada",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "28",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "anos",
+       false
+      ]
+     ],
+     "trecho": "O explorador Karl Bushby retorna à sua cidade natal, Hull, após uma caminhada de 28 anos ao redor do mundo. Temilade Adelaja/Reuters O aventureiro britânico Karl Bushby chegou nesta segunda-feira (2) a Hull, sua cidade…",
+     "link": "https://g1.globo.com/mundo/noticia/2026/11/02/britanico-completa-volta-ao-mundo-a-pe-apos-jornada-de-28-anos.ghtml",
+     "publicadoEm": "2026-11-02T12:49:06.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "uol",
+     "titulo": "Aventureiro britânico volta para casa após uma jornada de 28 anos ao redor do mundo",
+     "tituloMarcado": [
+      [
+       "Aventureiro",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "britânico",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "volta",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "para",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "casa",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "após",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "uma",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "jornada",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "28",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "anos",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ao",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "redor",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "do",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "mundo",
+       false
+      ]
+     ],
+     "trecho": "HULL, INGLATERRA, 2 Nov (Reuters) - Um aventureiro britânico que vem percorrendo o mundo a pé há quase três décadas deve concluir sua jornada nesta segunda-feira,?encerrando uma viagem de 31.000 milhas na casa?onde…",
+     "link": "https://noticias.uol.com.br/ultimas-noticias/reuters/2026/11/02/aventureiro-britanico-volta-para-casa-apos-uma-jornada-de-28-anos-ao-redor-do-mundo.htm",
+     "publicadoEm": "2026-11-02T13:20:42.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "metropoles",
+     "titulo": "Britânico conclui volta ao mundo que começou no Chile e durou 28 anos",
+     "tituloMarcado": [
+      [
+       "Britânico",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "conclui",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "volta",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ao",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "mundo",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "que",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "começou",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "no",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Chile",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "durou",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "28",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "anos",
+       false
+      ]
+     ],
+     "trecho": "Sem nenhum meio de transportes, ele atravessou 4 continentes, o Estreito de Bering, o Canal da Mancha e caminhou mais de 58.000 km",
+     "link": "https://www.metropoles.com/mundo/britanico-conclui-volta-ao-mundo-que-comecou-no-chile-e-durou-28-anos",
+     "publicadoEm": "2026-11-02T13:57:58.000Z",
+     "tipo": "noticia",
+     "numero": null
+    }
+   ]
+  },
+  {
+   "id": "https://www.cnnbrasil.com.br/politica/flavio-bolsonaro-vai-a-culto-evangelico-na-florida-dias-apos-fuga/",
+   "veiculos": 4,
+   "primeiro": "2026-11-02T12:25:59.000Z",
+   "ultimo": "2026-11-02T13:40:06.000Z",
+   "comuns": [
+    "Flávio",
+    "após",
+    "fuga",
+    "aparição",
+    "EUA"
+   ],
+   "politica": "Bolsonaro",
+   "materias": [
+    {
+     "veiculo": "cnn",
+     "titulo": "Flávio Bolsonaro vai a culto evangélico na Flórida, dias após fuga",
+     "tituloMarcado": [
+      [
+       "Flávio",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Bolsonaro",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "vai",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "a",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "culto",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "evangélico",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "na",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Flórida,",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "dias",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "após",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "fuga",
+       false
+      ]
+     ],
+     "trecho": "No quinto dia após fuga aos Estados Unidos, senador apareceu em publicação da igreja cantando junto do irmão Eduardo Bolsonaro, além da esposa e cunhada",
+     "link": "https://www.cnnbrasil.com.br/politica/flavio-bolsonaro-vai-a-culto-evangelico-na-florida-dias-apos-fuga/",
+     "publicadoEm": "2026-11-02T12:25:59.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "gazetadopovo",
+     "titulo": "Flávio Bolsonaro faz primeira aparição pública nos EUA ao lado de Eduardo",
+     "tituloMarcado": [
+      [
+       "Flávio",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Bolsonaro",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "faz",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "primeira",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "aparição",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "pública",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "nos",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "EUA",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ao",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "lado",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Eduardo",
+       false
+      ]
+     ],
+     "trecho": "Flávio foi à igreja na Flórida acompanhado da esposa e do irmão Eduardo Bolsonaro poucos dias após chegar a Miami (EUA).",
+     "link": "https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-faz-primeira-aparicao-publica-nos-eua-ao-lado-de-eduardo/",
+     "publicadoEm": "2026-11-02T12:44:17.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "metropoles",
+     "titulo": "Ao lado de Eduardo, Flávio faz 1ª aparição pública nos EUA após fuga",
+     "tituloMarcado": [
+      [
+       "Ao",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "lado",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Eduardo,",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Flávio",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "faz",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "1ª",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "aparição",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "pública",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "nos",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "EUA",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "após",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "fuga",
+       false
+      ]
+     ],
+     "trecho": "Derrotado nas urnas pelo presidente Lula, Flávio fugiu para os EUA depois de ter ordem de entregar passaportes dada por Alexandre de Moraes",
+     "link": "https://www.metropoles.com/mundo/ao-lado-de-eduardo-flavio-faz-1a-aparicao-publica-nos-eua-apos-fuga",
+     "publicadoEm": "2026-11-02T12:55:48.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "cartacapital",
+     "titulo": "Em 1ª aparição após fuga para os EUA, Flávio vai a culto em igreja ligada a pastor citado na CPMI do INSS",
+     "tituloMarcado": [
+      [
+       "Em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "1ª",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "aparição",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "após",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "fuga",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "para",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "os",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "EUA,",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Flávio",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "vai",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "a",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "culto",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "igreja",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ligada",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "a",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "pastor",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "citado",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "na",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "CPMI",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "do",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "INSS",
+       true
+      ]
+     ],
+     "trecho": "O senador estava acompanhado de Eduardo Bolsonaro e das mulheres. Fundador da Celeiro foi citado após receber doação de R$ 200 mil de empresário investigado por fraudes",
+     "link": "https://www.cartacapital.com.br/politica/em-1a-aparicao-apos-fuga-para-os-eua-flavio-vai-a-culto-em-igreja-ligada-a-pastor-citado-na-cpmi-do-inss/",
+     "publicadoEm": "2026-11-02T13:40:06.000Z",
+     "tipo": "noticia",
+     "numero": null
+    }
+   ]
+  },
+  {
+   "id": "https://www.bbc.com/portuguese/articles/c8zxledvzd3qo?at_medium=RSS&at_campaign=rss",
+   "veiculos": 4,
+   "primeiro": "2026-11-02T12:12:20.000Z",
+   "ultimo": "2026-11-02T13:30:09.000Z",
+   "comuns": [
+    "EUA",
+    "democratas",
+    "Eleições"
+   ],
+   "politica": "eleições",
+   "materias": [
+    {
+     "veiculo": "bbc",
+     "titulo": "Eleições nos EUA: pesquisas indicam vantagem dos democratas, mas estão corretas?",
+     "tituloMarcado": [
+      [
+       "Eleições",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "nos",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "EUA:",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "pesquisas",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "indicam",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "vantagem",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "dos",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "democratas,",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "mas",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "estão",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "corretas?",
+       false
+      ]
+     ],
+     "trecho": "Pesquisas apontam para avanço dos democratas, mas indecisos e dificuldades para selecionar amostras representativas tornam o resultado incerto.",
+     "link": "https://www.bbc.com/portuguese/articles/c8zxledvzd3qo?at_medium=RSS&at_campaign=rss",
+     "publicadoEm": "2026-11-02T12:12:20.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "folha",
+     "titulo": "Democratas ganham força em estados decisivos nas midterms nos EUA",
+     "tituloMarcado": [
+      [
+       "Democratas",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ganham",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "força",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "estados",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "decisivos",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "nas",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "midterms",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "nos",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "EUA",
+       false
+      ]
+     ],
+     "trecho": "Os democratas estão à frente dos republicanos em quase todos os sete estados decisivos que determinarão qual partido controlará o Senado, segundo a última rodada de pesquisas do The New York Times e da Universidade…",
+     "link": "https://www1.folha.uol.com.br/mundo/2026/11/democratas-ganham-forca-em-estados-decisivos-nas-midterms-nos-eua.shtml",
+     "publicadoEm": "2026-11-02T12:15:00.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "g1",
+     "titulo": "Eleições nos EUA: pesquisas indicam vantagem dos democratas, mas estão corretas?",
+     "tituloMarcado": [
+      [
+       "Eleições",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "nos",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "EUA:",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "pesquisas",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "indicam",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "vantagem",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "dos",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "democratas,",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "mas",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "estão",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "corretas?",
+       false
+      ]
+     ],
+     "trecho": "Segundo pesquisas de opinião, os democratas lideram a disputa por um número de cadeiras bem superior às 218 necessárias para conquistar o controle da Câmara dos Representantes Bloomberg via Getty Images (BBC) O Partido…",
+     "link": "https://g1.globo.com/mundo/noticia/2026/11/02/eleicoes-nos-eua-pesquisas-indicam-vantagem-dos-democratas-mas-estao-corretas.ghtml",
+     "publicadoEm": "2026-11-02T12:34:30.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "gazetadopovo",
+     "titulo": "Eleições nos EUA: republicanos se aproximam de democratas",
+     "tituloMarcado": [
+      [
+       "Eleições",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "nos",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "EUA:",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "republicanos",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "se",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "aproximam",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "democratas",
+       false
+      ]
+     ],
+     "trecho": "Eleições de meio de mandato nos EUA definirá composição da Câmara e renovará parte do Senado em disputa acirrada.",
+     "link": "https://www.gazetadopovo.com.br/mundo/eleicoes-nos-eua-republicanos-se-aproximam-de-democratas/",
+     "publicadoEm": "2026-11-02T13:30:09.000Z",
+     "tipo": "noticia",
+     "numero": null
+    }
+   ]
+  },
+  {
+   "id": "https://www.estadao.com.br/politica/janones-diz-que-nao-aceitaria-convite-para-ministerio-de-lula-e-que-seguira-como-deputado-federal-npr/",
+   "veiculos": 4,
+   "primeiro": "2026-11-02T01:33:41.000Z",
+   "ultimo": "2026-11-02T13:27:00.000Z",
+   "comuns": [
+    "Janones",
+    "ministério",
+    "não",
+    "Lula"
+   ],
+   "politica": "Lula",
+   "materias": [
+    {
+     "veiculo": "estadao",
+     "titulo": "Janones diz que não aceitaria convite para ministério de Lula e que seguirá como deputado federal",
+     "tituloMarcado": [
+      [
+       "Janones",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "diz",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "que",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "não",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "aceitaria",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "convite",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "para",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ministério",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Lula",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "que",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "seguirá",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "como",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "deputado",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "federal",
+       false
+      ]
+     ],
+     "trecho": "O deputado federal André Janones (Rede-MG) afirmou, em entrevista ao Fantástico neste domingo, 1º, que não pretende assumir um ministério no governo do presidente Luiz Inácio Lula da Silva (PT). Segundo o parlamentar…",
+     "link": "https://www.estadao.com.br/politica/janones-diz-que-nao-aceitaria-convite-para-ministerio-de-lula-e-que-seguira-como-deputado-federal-npr/",
+     "publicadoEm": "2026-11-02T01:33:41.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "folha",
+     "titulo": "André Janones diz que não será ministro de Lula e que continuará na Câmara",
+     "tituloMarcado": [
+      [
+       "André",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Janones",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "diz",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "que",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "não",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "será",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ministro",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Lula",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "que",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "continuará",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "na",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Câmara",
+       true
+      ]
+     ],
+     "trecho": "André Janones (Rede-MG) afirmou que não pretende ser ministro no governo Lula. A declaração foi dada em uma reportagem exibida pelo Fantástico, da TV Globo, neste domingo (1º), que abordou a atuação do deputado federal…",
+     "link": "https://www1.folha.uol.com.br/poder/2026/11/andre-janones-diz-que-nao-sera-ministro-de-lula-e-que-continuara-na-camara.shtml",
+     "publicadoEm": "2026-11-02T03:36:00.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "cnn",
+     "titulo": "Janones descarta ministério de Lula e diz que seguirá como deputado federal",
+     "tituloMarcado": [
+      [
+       "Janones",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "descarta",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ministério",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Lula",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "diz",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "que",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "seguirá",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "como",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "deputado",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "federal",
+       false
+      ]
+     ],
+     "trecho": "Possibilidade de Janones assumir um ministério do governo reeleito surgiu após o parlamentar criar o canal do WhatsApp \"Exército do Lula\", que reuniu mais de 10 milhões de participantes após o primeiro turno das eleições",
+     "link": "https://www.cnnbrasil.com.br/politica/janones-descarta-ministerio-de-lula-e-diz-que-seguira-como-deputado-federal/",
+     "publicadoEm": "2026-11-02T12:14:14.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "uol",
+     "titulo": "Janones diz que não deseja ser ministro porque não poderia ter amarras do cargo",
+     "tituloMarcado": [
+      [
+       "Janones",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "diz",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "que",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "não",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "deseja",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ser",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ministro",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "porque",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "não",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "poderia",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ter",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "amarras",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "do",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "cargo",
+       true
+      ]
+     ],
+     "trecho": "O deputado federal eleito André Janones (Rede-MG) publicou no fim da noite do domingo, 1º de novembro, no X, um texto em que explica porque não será ministro do quarto mandato do presidente da República, Luiz Inácio…",
+     "link": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/11/02/janones-diz-que-nao-deseja-ser-ministro-porque-nao-poderia-ter-amarras-do-cargo.htm",
+     "publicadoEm": "2026-11-02T13:27:00.000Z",
+     "tipo": "noticia",
+     "numero": null
+    }
+   ]
+  },
+  {
+   "id": "https://www.estadao.com.br/economia/binance-registra-retiradas-liquidas-de-us-364-bilhoes-apos-retomada-de-saques/",
+   "veiculos": 4,
+   "primeiro": "2026-11-01T21:55:06.000Z",
+   "ultimo": "2026-11-02T13:26:28.000Z",
+   "comuns": [
+    "Binance",
+    "retiradas",
+    "bilhões",
+    "após",
+    "US"
+   ],
+   "politica": null,
+   "materias": [
+    {
+     "veiculo": "estadao",
+     "titulo": "Binance registra retiradas líquidas de US$ 3,64 bilhões após retomada de saques",
+     "tituloMarcado": [
+      [
+       "Binance",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "registra",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "retiradas",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "líquidas",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "US$",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "3,64",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "bilhões",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "após",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "retomada",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "saques",
+       true
+      ]
+     ],
+     "trecho": "A Binance informou neste domingo, 1º, que registrou saídas líquidas de cerca de U$S 3,64 bilhões entre o início da manhã e o começo da tarde deste domingo, 1, após a retomada dos saques em seguida ao ataque hacker que…",
+     "link": "https://www.estadao.com.br/economia/binance-registra-retiradas-liquidas-de-us-364-bilhoes-apos-retomada-de-saques/",
+     "publicadoEm": "2026-11-01T21:55:06.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "g1",
+     "titulo": "Investidores retiram US$ 3,6 bilhões da Binance após ataque hacker",
+     "tituloMarcado": [
+      [
+       "Investidores",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "retiram",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "US$",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "3,6",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "bilhões",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "da",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Binance",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "após",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ataque",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "hacker",
+       false
+      ]
+     ],
+     "trecho": "FBI acusa Coreia do Norte por ataque à Binance, considerado maior roubo de criptomoedas da O roubo de US$ 6,3 bilhões (cerca de R$ 34,2 bilhões) em criptomoedas da Binance, maior corretora do setor no mundo, ainda não…",
+     "link": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/02/investidores-retiram-us-36-bilhoes-da-binance-apos-ataque-hacker.ghtml",
+     "publicadoEm": "2026-11-02T09:41:52.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "folha",
+     "titulo": "Binance diz que usuários retiraram quase US$ 5 bilhões após empresa ser roubada",
+     "tituloMarcado": [
+      [
+       "Binance",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "diz",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "que",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "usuários",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "retiraram",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "quase",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "US$",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "5",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "bilhões",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "após",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "empresa",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ser",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "roubada",
+       true
+      ]
+     ],
+     "trecho": "Os usuários da Binance retiraram US$ 5 bilhões (R$ 27,23 bilhões) da maior corretora de criptoativos do mundo depois que ela retomou os serviços no domingo (1°), após um roubo recorde de US$ 6,3 bilhões (R$ 34,31…",
+     "link": "https://c-level.folha.uol.com.br/financas/2026/11/binance-diz-que-usuarios-retiraram-quase-us-5-bilhoes-apos-empresa-ser-roubada.shtml",
+     "publicadoEm": "2026-11-02T11:41:00.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "metropoles",
+     "titulo": "Binance registra retiradas de R$ 27,2 bilhões após roubo em ataque hacker",
+     "tituloMarcado": [
+      [
+       "Binance",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "registra",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "retiradas",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "R$",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "27,2",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "bilhões",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "após",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "roubo",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ataque",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "hacker",
+       false
+      ]
+     ],
+     "trecho": "A onda massiva de saques da plataforma é uma reação direta ao ataque cibernético que roubou rca de US$ 6,3 bilhões em diversos criptoativos",
+     "link": "https://www.metropoles.com/mundo/binance-registra-retiradas-de-r-272-bilhoes-apos-roubo-em-ataque-hacker",
+     "publicadoEm": "2026-11-02T13:26:28.000Z",
+     "tipo": "noticia",
+     "numero": null
+    }
+   ]
+  },
+  {
+   "id": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/02/hackers-atacam-supermercados-europeus-e-elevam-temperatura-de-freezers-a-50c.ghtml",
+   "veiculos": 4,
+   "primeiro": "2026-11-02T11:53:51.000Z",
+   "ultimo": "2026-11-02T13:11:15.000Z",
+   "comuns": [
+    "freezers",
+    "Hackers",
+    "supermercados",
+    "europeus"
+   ],
+   "politica": null,
+   "materias": [
+    {
+     "veiculo": "g1",
+     "titulo": "Hackers atacam supermercados europeus e elevam temperatura de freezers a 50°C",
+     "tituloMarcado": [
+      [
+       "Hackers",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "atacam",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "supermercados",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "europeus",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "elevam",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "temperatura",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "freezers",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "a",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "50°C",
+       false
+      ]
+     ],
+     "trecho": "Imagem do corredor de congelados fechado em um supermercado próximo a Nantes, após um ataque cibernético que teve como alvo os sistemas de refrigeração de redes de supermercados francesas, causando perdas de alimentos e…",
+     "link": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/02/hackers-atacam-supermercados-europeus-e-elevam-temperatura-de-freezers-a-50c.ghtml",
+     "publicadoEm": "2026-11-02T11:53:51.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "folha",
+     "titulo": "Freezers de supermercados são atacados em quatro países na Europa e superaquecem a mais de 50°C",
+     "tituloMarcado": [
+      [
+       "Freezers",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "supermercados",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "são",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "atacados",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "quatro",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "países",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "na",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Europa",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "superaquecem",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "a",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "mais",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "50°C",
+       false
+      ]
+     ],
+     "trecho": "Freezers de dezenas de supermercados na Suécia, na Bélgica, em Luxemburgo e na Estônia superaqueceram repentinamente em um suposto ataque cibernético, estragando alimentos avaliados em milhões de euros poucas semanas…",
+     "link": "https://www1.folha.uol.com.br/tec/2026/11/freezers-de-supermercados-sao-atacados-na-suecia-e-belgica-e-superaquecem-a-mais-de-50c.shtml",
+     "publicadoEm": "2026-11-02T12:04:00.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "cnn",
+     "titulo": "Hackers elevam temperatura de freezers a 50ºC em novo ataque na Europa",
+     "tituloMarcado": [
+      [
+       "Hackers",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "elevam",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "temperatura",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "freezers",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "a",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "50ºC",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "novo",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ataque",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "na",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Europa",
+       false
+      ]
+     ],
+     "trecho": "Invasores colocaram unidades de refrigeração no modo de degelo durante a madrugada, forçando o fechamento temporário de estabelecimentos afetados",
+     "link": "https://www.cnnbrasil.com.br/economia/money/negocios/hackers-elevam-temperatura-de-freezers-a-50oc-em-novo-ataque-na-europa/",
+     "publicadoEm": "2026-11-02T12:40:35.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "metropoles",
+     "titulo": "Ataque hacker atinge freezers de supermercados na Suécia e Bélgica",
+     "tituloMarcado": [
+      [
+       "Ataque",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "hacker",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "atinge",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "freezers",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "supermercados",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "na",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Suécia",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Bélgica",
+       true
+      ]
+     ],
+     "trecho": "Mais de 10 lojas tiveram os freezers ajustados para atingir temperaturas de até 50 °C. Há algumas semanas, a França sofreu ataque semelhante",
+     "link": "https://www.metropoles.com/mundo/ataque-cibernetico-atinge-freezers-de-supermercados-na-suecia-e-belgica",
+     "publicadoEm": "2026-11-02T13:11:15.000Z",
+     "tipo": "noticia",
+     "numero": null
+    }
+   ]
+  },
+  {
    "id": "https://www.estadao.com.br/politica/lula-diz-que-cumprira-promessas-de-campanha-e-que-nenhum-programa-social-sera-extinto/",
-   "veiculos": 5,
+   "veiculos": 4,
    "primeiro": "2026-11-01T20:19:36.000Z",
    "ultimo": "2026-11-01T22:30:20.000Z",
    "comuns": [
@@ -147,7 +2855,7 @@
       ],
       [
        "promessas",
-       false
+       true
       ],
       [
        " ",
@@ -163,7 +2871,7 @@
       ],
       [
        "campanha",
-       false
+       true
       ],
       [
        " ",
@@ -395,101 +3103,6 @@
      "numero": null
     },
     {
-     "veiculo": "veja",
-     "titulo": "O que Lula diz sobre programas sociais e promessas de campanha",
-     "tituloMarcado": [
-      [
-       "O",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "que",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Lula",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "diz",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "sobre",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "programas",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "sociais",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "e",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "promessas",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "campanha",
-       false
-      ]
-     ],
-     "trecho": "Petista, que descansa no feriado de Finados, prometeu que ao longo da semana fará um pronunciamento sobre o resultado das eleições",
-     "link": "https://veja.abril.com.br/politica/lula-promete-manter-programas-sociais-e-diz-que-promessas-de-campanha-serao-cumpridas/",
-     "publicadoEm": "2026-11-01T22:00:26.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
      "veiculo": "gazetadopovo",
      "titulo": "Lula diz que pode criar novos programas sociais e melhorar os já existentes",
      "tituloMarcado": [
@@ -597,481 +3210,6 @@
      "trecho": "Lula disse ainda que pode aperfeiçoar programas existentes após publicações que questionaram Bolsa Família e outras políticas sociais.",
      "link": "https://www.gazetadopovo.com.br/republica/lula-diz-que-pode-criar-novos-programas-sociais-e-melhorar-os-ja-existentes/",
      "publicadoEm": "2026-11-01T22:30:20.000Z",
-     "tipo": "noticia",
-     "numero": null
-    }
-   ]
-  },
-  {
-   "id": "https://www1.folha.uol.com.br/esporte/2026/11/palmeiras-vence-vasco-em-casa-mas-perde-chance-de-definir-vaga-na-final-da-copa-do-brasil.shtml",
-   "veiculos": 4,
-   "primeiro": "2026-11-01T21:02:00.000Z",
-   "ultimo": "2026-11-02T01:13:17.000Z",
-   "comuns": [
-    "Palmeiras",
-    "Vasco",
-    "Copa",
-    "Brasil"
-   ],
-   "politica": null,
-   "materias": [
-    {
-     "veiculo": "folha",
-     "titulo": "Palmeiras vence Vasco em casa, mas perde chance de definir vaga na final da Copa do Brasil",
-     "tituloMarcado": [
-      [
-       "Palmeiras",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "vence",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Vasco",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "em",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "casa,",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "mas",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "perde",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "chance",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "definir",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "vaga",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "na",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "final",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "da",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Copa",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "do",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Brasil",
-       false
-      ]
-     ],
-     "trecho": "Com vantagem mínima, o Palmeiras saiu na frente no primeiro de dois encontros com o Vasco por uma vaga na final da Copa do Brasil. Dominante na etapa inicial, a equipe de Abel Ferreira viu o adversário melhorar no…",
-     "link": "https://www1.folha.uol.com.br/esporte/2026/11/palmeiras-vence-vasco-em-casa-mas-perde-chance-de-definir-vaga-na-final-da-copa-do-brasil.shtml",
-     "publicadoEm": "2026-11-01T21:02:00.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "agenciabrasil",
-     "titulo": "Palmeiras sai na frente do Vasco na semifinal da Copa do Brasil: 1 a 0",
-     "tituloMarcado": [
-      [
-       "Palmeiras",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "sai",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "na",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "frente",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "do",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Vasco",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "na",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "semifinal",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "da",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Copa",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "do",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Brasil:",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "1",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "a",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "0",
-       false
-      ]
-     ],
-     "trecho": "Na primeira metade dos 180 minutos entre Palmeiras e Vasco, deu Verdão. A equipe paulista derrotou o adversário por 1 a 0, na tarde deste domingo (1º), pelo duelo de ida da semifinal da Copa do Brasil. O triunfo, obtido…",
-     "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/palmeiras-sai-na-frente-do-vasco-na-semifinal-da-copa-do-brasil-1-0",
-     "publicadoEm": "2026-11-01T21:30:00.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "cartacapital",
-     "titulo": "Palmeiras vence Vasco e abre vantagem na semi da Copa do Brasil",
-     "tituloMarcado": [
-      [
-       "Palmeiras",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "vence",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Vasco",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "e",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "abre",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "vantagem",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "na",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "semi",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "da",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Copa",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "do",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Brasil",
-       false
-      ]
-     ],
-     "trecho": "Verdão vence na Nubank Parque por 1 a 0 e sai na frente no jogo da ida das semifinais do torneio.",
-     "link": "https://www.cartacapital.com.br/esporte/palmeiras-vence-vasco-e-abre-vantagem-na-semi-da-copa-do-brasil/",
-     "publicadoEm": "2026-11-01T21:49:37.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "cnn",
-     "titulo": "Palmeiras x Vasco: Pedrinho questiona Daronco após derrota na semifinal",
-     "tituloMarcado": [
-      [
-       "Palmeiras",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "x",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Vasco:",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Pedrinho",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "questiona",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Daronco",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "após",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "derrota",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "na",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "semifinal",
-       false
-      ]
-     ],
-     "trecho": "Dirigente e árbitro se encontraram na área interna do estádio palmeirense e debateram; presidente vascaíno reclamou de lance polêmico na Copa do Brasil",
-     "link": "https://www.cnnbrasil.com.br/esportes/futebol/vasco-da-gama/palmeiras-x-vasco-pedrinho-questiona-daronco-apos-derrota-na-semifinal/",
-     "publicadoEm": "2026-11-02T01:13:17.000Z",
      "tipo": "noticia",
      "numero": null
     }
@@ -1433,371 +3571,15 @@
    ]
   },
   {
-   "id": "https://www1.folha.uol.com.br/mundo/2026/11/acidente-de-jatinho-mata-9-pessoas-no-sul-da-florida.shtml",
-   "veiculos": 3,
-   "primeiro": "2026-11-01T21:51:00.000Z",
-   "ultimo": "2026-11-02T08:37:44.000Z",
-   "comuns": [
-    "Acidente",
-    "pessoas",
-    "Flórida",
-    "Nove",
-    "morrem",
-    "avião"
-   ],
-   "politica": null,
-   "materias": [
-    {
-     "veiculo": "folha",
-     "titulo": "Acidente de jatinho mata 9 pessoas no sul da Flórida; veja vídeo",
-     "tituloMarcado": [
-      [
-       "Acidente",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "jatinho",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "mata",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "9",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "pessoas",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "no",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "sul",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "da",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Flórida;",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "veja",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "vídeo",
-       false
-      ]
-     ],
-     "trecho": "Um jato do modelo Learjet caiu neste domingo (1º) no condado de Palm Beach, sul da Flórida, matando as nove pessoas a bordo, informaram autoridades dos EUA.",
-     "link": "https://www1.folha.uol.com.br/mundo/2026/11/acidente-de-jatinho-mata-9-pessoas-no-sul-da-florida.shtml",
-     "publicadoEm": "2026-11-01T21:51:00.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "g1",
-     "titulo": "Nove pessoas morrem em acidente de avião na Flórida; veja o que se sabe",
-     "tituloMarcado": [
-      [
-       "Nove",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "pessoas",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "morrem",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "em",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "acidente",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "avião",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "na",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Flórida;",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "veja",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "o",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "que",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "se",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "sabe",
-       false
-      ]
-     ],
-     "trecho": "Um jato particular caiu em um bairro da Flórida neste domingo (1/11), matando as nove pessoas a bordo, informou o secretário de Transportes dos Estados Unidos. Imagens da área mostram grandes pedaços do asfalto…",
-     "link": "https://g1.globo.com/mundo/noticia/2026/11/02/nove-pessoas-morrem-em-acidente-de-aviao-na-florida-veja-o-que-se-sabe.ghtml",
-     "publicadoEm": "2026-11-02T03:00:01.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "bbc",
-     "titulo": "Nove pessoas morrem em acidente de avião na Flórida; veja o que se sabe",
-     "tituloMarcado": [
-      [
-       "Nove",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "pessoas",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "morrem",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "em",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "acidente",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "avião",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "na",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Flórida;",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "veja",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "o",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "que",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "se",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "sabe",
-       false
-      ]
-     ],
-     "trecho": "O secretário de Transportes dos Estados Unidos, Sean Duffy, classifica como uma \"tragédia horrível\" o acidente ocorrido a cerca de 14 km do resort Mar-a-Lago, do presidente Donald Trump",
-     "link": "https://www.bbc.com/portuguese/articles/cm9qz2289dvyo?at_medium=RSS&at_campaign=rss",
-     "publicadoEm": "2026-11-02T08:37:44.000Z",
-     "tipo": "noticia",
-     "numero": null
-    }
-   ]
-  },
-  {
    "id": "https://www.gazetadopovo.com.br/eleicoes/2026/kassab-cobra-medidas-economicas-para-psd-ter-relacao-profunda-com-governo-lula/",
    "veiculos": 3,
    "primeiro": "2026-10-31T18:14:28.000Z",
-   "ultimo": "2026-11-02T08:00:41.000Z",
+   "ultimo": "2026-11-02T14:04:25.000Z",
    "comuns": [
     "Kassab",
-    "Lula"
+    "Lula",
+    "econômicas",
+    "precisa"
    ],
    "politica": "Lula",
    "materias": [
@@ -1831,7 +3613,7 @@
       ],
       [
        "econômicas",
-       true
+       false
       ],
       [
        " ",
@@ -1926,7 +3708,7 @@
       ],
       [
        "precisa",
-       true
+       false
       ],
       [
        " ",
@@ -2024,11 +3806,11 @@
      "numero": null
     },
     {
-     "veiculo": "metropoles",
-     "titulo": "O que impede Kassab de ser ministro de Lula",
+     "veiculo": "poder360",
+     "titulo": "Lula precisa ter agenda econômica “voltada ao centro”, diz Kassab",
      "tituloMarcado": [
       [
-       "O",
+       "Lula",
        false
       ],
       [
@@ -2036,7 +3818,7 @@
        ""
       ],
       [
-       "que",
+       "precisa",
        false
       ],
       [
@@ -2044,8 +3826,56 @@
        ""
       ],
       [
-       "impede",
+       "ter",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "agenda",
        true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "econômica",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "“voltada",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ao",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "centro”,",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "diz",
+       false
       ],
       [
        " ",
@@ -2054,172 +3884,36 @@
       [
        "Kassab",
        false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "ser",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "ministro",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Lula",
-       false
       ]
      ],
-     "trecho": "Na avaliação de lideranças do PSD, Gilberto Kassab não teria hoje condições de assumir um ministério no governo Lula, caso fosse convidado",
-     "link": "https://www.metropoles.com/colunas/igor-gadelha/o-que-impede-kassab-de-ser-ministro-de-lula",
-     "publicadoEm": "2026-11-02T08:00:41.000Z",
-     "tipo": "coluna",
+     "trecho": "Para o presidente do PSD, petista deverá conciliar compromissos sociais com medidas de controle das contas públicas",
+     "link": "https://www.poder360.com.br/poder-partidos-politicos/lula-precisa-ter-agenda-economica-voltada-ao-centro-diz-kassab/",
+     "publicadoEm": "2026-11-02T14:04:25.000Z",
+     "tipo": "noticia",
      "numero": null
     }
    ]
   },
   {
-   "id": "https://www.estadao.com.br/brasil/como-fica-o-tempo-no-feriado-de-finados-npr/",
+   "id": "https://www.cartacapital.com.br/politica/ex-agente-do-governo-israelense-e-investigado-por-participacao-na-fuga-de-flavio-bolsonaro-para-os-eua/",
    "veiculos": 3,
-   "primeiro": "2026-10-31T10:56:33.000Z",
-   "ultimo": "2026-11-02T08:00:00.000Z",
+   "primeiro": "2026-11-02T12:50:53.000Z",
+   "ultimo": "2026-11-02T13:58:43.000Z",
    "comuns": [
-    "Finados",
-    "fica",
-    "tempo",
-    "feriado",
-    "previsão",
-    "São"
+    "israelense",
+    "fuga",
+    "Flávio",
+    "Ex-agente",
+    "participação"
    ],
    "politica": null,
    "materias": [
     {
-     "veiculo": "estadao",
-     "titulo": "Como fica o tempo no feriado de Finados?",
+     "veiculo": "cartacapital",
+     "titulo": "Ex-agente do governo israelense é investigado por participação na fuga de Flávio Bolsonaro para os EUA",
      "tituloMarcado": [
       [
-       "Como",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "fica",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "o",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "tempo",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "no",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "feriado",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Finados?",
-       false
-      ]
-     ],
-     "trecho": "O fim de semana prolongado será de céu encoberto, com pancadas de chuva em boa parte do Brasil, segundo a Climatempo. As maiores temperaturas devem ocorrer no Norte, no Nordeste e em áreas do Mato Grosso, variando de…",
-     "link": "https://www.estadao.com.br/brasil/como-fica-o-tempo-no-feriado-de-finados-npr/",
-     "publicadoEm": "2026-10-31T10:56:33.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "veja",
-     "titulo": "Como fica a previsão do tempo em São Paulo no feriado de Finados",
-     "tituloMarcado": [
-      [
-       "Como",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "fica",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "a",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "previsão",
+       "Ex-agente",
        false
       ],
       [
@@ -2235,78 +3929,7 @@
        ""
       ],
       [
-       "tempo",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "em",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "São",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Paulo",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "no",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "feriado",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Finados",
-       false
-      ]
-     ],
-     "trecho": "Climatempo detalha as condições para a capital e outras áreas do estado ao longo do dia",
-     "link": "https://veja.abril.com.br/agenda-verde/como-fica-a-previsao-do-tempo-em-sao-paulo-no-feriado-de-finados/",
-     "publicadoEm": "2026-11-01T21:00:03.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "folha",
-     "titulo": "Dia de Finados tem previsão de chuva e possibilidade de alagamentos em São Paulo",
-     "tituloMarcado": [
-      [
-       "Dia",
+       "governo",
        true
       ],
       [
@@ -2314,1184 +3937,7 @@
        ""
       ],
       [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Finados",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "tem",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "previsão",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "chuva",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "e",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "possibilidade",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "alagamentos",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "em",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "São",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Paulo",
-       false
-      ]
-     ],
-     "trecho": "Após um final de semana de temperaturas amenas, o Dia de Finados deve ser chuvoso na capital paulista. A segunda-feira (2) começa com céu encoberto e aberturas de sol, segundo o CGE (Centro de Gerenciamento de…",
-     "link": "https://www1.folha.uol.com.br/cotidiano/2026/11/dia-de-finados-tem-previsao-de-chuva-e-possibilidade-de-alagamentos-em-sao-paulo.shtml",
-     "publicadoEm": "2026-11-02T08:00:00.000Z",
-     "tipo": "noticia",
-     "numero": null
-    }
-   ]
-  },
-  {
-   "id": "https://www.bbc.com/portuguese/articles/cwg7xpyd1jrgo?at_medium=RSS&at_campaign=rss",
-   "veiculos": 3,
-   "primeiro": "2026-10-31T20:33:05.000Z",
-   "ultimo": "2026-11-02T07:30:51.000Z",
-   "comuns": [
-    "EUA",
-    "Trump",
-    "eleições",
-    "podem"
-   ],
-   "politica": "eleições",
-   "materias": [
-    {
-     "veiculo": "bbc",
-     "titulo": "O que são as eleições de meio de mandato dos EUA e por que elas podem selar futuro de Trump?",
-     "tituloMarcado": [
-      [
-       "O",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "que",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "são",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "as",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "eleições",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "meio",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "mandato",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "dos",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "EUA",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "e",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "por",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "que",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "elas",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "podem",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "selar",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "futuro",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Trump?",
-       false
-      ]
-     ],
-     "trecho": "Os eleitores dos EUA irão às urnas em 3 de novembro em uma votação que poderá ter um grande impacto na presidência de Donald Trump.",
-     "link": "https://www.bbc.com/portuguese/articles/cwg7xpyd1jrgo?at_medium=RSS&at_campaign=rss",
-     "publicadoEm": "2026-10-31T20:33:05.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "g1",
-     "titulo": "Como as listas de eleitores não cidadãos de Trump podem afetar eleições nos EUA",
-     "tituloMarcado": [
-      [
-       "Como",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "as",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "listas",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "eleitores",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "não",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "cidadãos",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Trump",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "podem",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "afetar",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "eleições",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "nos",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "EUA",
-       false
-      ]
-     ],
-     "trecho": "O presidente dos EUA, Donald Trump, participa de um comício de campanha para as eleições de meio de mandato no Five Flags Center em Dubuque, Iowa, EUA, em 1º de novembro de 2026 REUTERS/Evan Vucci As listas compiladas…",
-     "link": "https://g1.globo.com/mundo/noticia/2026/11/02/como-as-listas-de-eleitores-nao-cidadaos-de-trump-podem-afetar-eleicoes-nos-eua.ghtml",
-     "publicadoEm": "2026-11-02T04:33:45.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "metropoles",
-     "titulo": "Com Trump sob pressão, EUA renova Câmara e um terço do Senado",
-     "tituloMarcado": [
-      [
-       "Com",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Trump",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "sob",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "pressão,",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "EUA",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "renova",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Câmara",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "e",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "um",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "terço",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "do",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Senado",
-       true
-      ]
-     ],
-     "trecho": "Eleições de meio de mandato ocorrem em 3 de novembro, em meio à queda de popularidade de Donald Trump e à insatisfação com a economia",
-     "link": "https://www.metropoles.com/mundo/trump-eua-renova-camara-terco-senado",
-     "publicadoEm": "2026-11-02T07:30:51.000Z",
-     "tipo": "noticia",
-     "numero": null
-    }
-   ]
-  },
-  {
-   "id": "https://www.bbc.com/portuguese/articles/cwm247vgdnkro?at_medium=RSS&at_campaign=rss",
-   "veiculos": 3,
-   "primeiro": "2026-11-01T16:02:28.000Z",
-   "ultimo": "2026-11-02T07:00:01.000Z",
-   "comuns": [
-    "Ilha",
-    "Coiba",
-    "brutal",
-    "prisão",
-    "céu",
-    "aberto"
-   ],
-   "politica": null,
-   "materias": [
-    {
-     "veiculo": "bbc",
-     "titulo": "A Ilha de Coiba, a brutal prisão a céu aberto que se tornou um paraíso natural e para onde o Panamá está enviando prisioneiros novamente",
-     "tituloMarcado": [
-      [
-       "A",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Ilha",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Coiba,",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "a",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "brutal",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "prisão",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "a",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "céu",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "aberto",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "que",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "se",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "tornou",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "um",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "paraíso",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "natural",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "e",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "para",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "onde",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "o",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Panamá",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "está",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "enviando",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "prisioneiros",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "novamente",
-       false
-      ]
-     ],
-     "trecho": "O Panamá transferiu 29 prisioneiros para uma ilha que outrora fora uma notória colônia penal, marcada por abusos e trabalhos forçados. A decisão levanta preocupações sobre o futuro desse território, hoje Patrimônio…",
-     "link": "https://www.bbc.com/portuguese/articles/cwm247vgdnkro?at_medium=RSS&at_campaign=rss",
-     "publicadoEm": "2026-11-01T16:02:28.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "folha",
-     "titulo": "A Ilha de Coiba, a brutal prisão a céu aberto que se tornou um paraíso natural e para onde o Panamá está enviando prisioneiros novamente",
-     "tituloMarcado": [
-      [
-       "A",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Ilha",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Coiba,",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "a",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "brutal",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "prisão",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "a",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "céu",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "aberto",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "que",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "se",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "tornou",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "um",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "paraíso",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "natural",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "e",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "para",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "onde",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "o",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Panamá",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "está",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "enviando",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "prisioneiros",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "novamente",
-       false
-      ]
-     ],
-     "trecho": "Centenas de caranguejos fogem quando pisamos na praia. Ao descarregarmos o barco, ouvimos apenas as ondas na areia branca e o farfalhar da densa vegetação rasteira que, como uma parede verde, esconde o coração da ilha.",
-     "link": "https://www1.folha.uol.com.br/mundo/2026/11/a-ilha-de-coiba-a-brutal-prisao-a-ceu-aberto-que-se-tornou-um-paraiso-natural-e-para-onde-o-panama-esta-enviando-prisioneiros-novamente.shtml",
-     "publicadoEm": "2026-11-01T17:29:00.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "g1",
-     "titulo": "A Ilha de Coiba, a brutal prisão a céu aberto que se tornou um paraíso natural e para onde o Panamá está enviando prisioneiros novamente",
-     "tituloMarcado": [
-      [
-       "A",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Ilha",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Coiba,",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "a",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "brutal",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "prisão",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "a",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "céu",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "aberto",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "que",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "se",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "tornou",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "um",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "paraíso",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "natural",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "e",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "para",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "onde",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "o",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Panamá",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "está",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "enviando",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "prisioneiros",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "novamente",
-       false
-      ]
-     ],
-     "trecho": "Imagem composta que retrata prisioneiros algemados e vendados, tendo a ilha de Coiba ao fundo. Daniel Arce/BBC Mundo Centenas de caranguejos fogem quando pisamos na praia. Ao descarregarmos o barco, ouvimos apenas as…",
-     "link": "https://g1.globo.com/mundo/noticia/2026/11/02/a-ilha-de-coiba-a-brutal-prisao-a-ceu-aberto-que-se-tornou-um-paraiso-natural-e-para-onde-o-panama-esta-enviando-prisioneiros-novamente.ghtml",
-     "publicadoEm": "2026-11-02T07:00:01.000Z",
-     "tipo": "noticia",
-     "numero": null
-    }
-   ]
-  },
-  {
-   "id": "https://www.cnnbrasil.com.br/esportes/automobilismo/kimi-antonelli-e-o-campeao-da-formula-1-com-podio-no-gp-do-mexico/",
-   "veiculos": 3,
-   "primeiro": "2026-11-01T22:25:17.000Z",
-   "ultimo": "2026-11-02T03:36:26.000Z",
-   "comuns": [
-    "Antonelli",
-    "campeão",
-    "Fórmula",
-    "GP",
-    "México"
-   ],
-   "politica": null,
-   "materias": [
-    {
-     "veiculo": "cnn",
-     "titulo": "Kimi Antonelli é o campeão da Fórmula 1 com pódio no GP do México",
-     "tituloMarcado": [
-      [
-       "Kimi",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Antonelli",
+       "israelense",
        false
       ],
       [
@@ -3507,7 +3953,15 @@
        ""
       ],
       [
-       "o",
+       "investigado",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "por",
        false
       ],
       [
@@ -3515,7 +3969,7 @@
        ""
       ],
       [
-       "campeão",
+       "participação",
        false
       ],
       [
@@ -3523,7 +3977,7 @@
        ""
       ],
       [
-       "da",
+       "na",
        false
       ],
       [
@@ -3531,7 +3985,7 @@
        ""
       ],
       [
-       "Fórmula",
+       "fuga",
        false
       ],
       [
@@ -3539,7 +3993,714 @@
        ""
       ],
       [
-       "1",
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Flávio",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Bolsonaro",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "para",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "os",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "EUA",
+       true
+      ]
+     ],
+     "trecho": "Reportagem do 'Fantástico', da TV Globo, aponta que Menachem Booky Halevy cruzou a fronteira sete minutos antes da van que supostamente transportava Flávio e sua família",
+     "link": "https://www.cartacapital.com.br/politica/ex-agente-do-governo-israelense-e-investigado-por-participacao-na-fuga-de-flavio-bolsonaro-para-os-eua/",
+     "publicadoEm": "2026-11-02T12:50:53.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "estadao",
+     "titulo": "Fuga de Flávio teve participação de agência ‘fantasma’ e ex-oficial de inteligência de Israel",
+     "tituloMarcado": [
+      [
+       "Fuga",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Flávio",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "teve",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "participação",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "agência",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "‘fantasma’",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ex-oficial",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "inteligência",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Israel",
+       false
+      ]
+     ],
+     "trecho": "A fuga do senador Flávio Bolsonaro (PL) para os Estados Unidos contou com uma complexa operação logística na Argentina, envolvendo três registros de entrada em um intervalo de 40 minutos com documentos diferentes, além…",
+     "link": "https://www.estadao.com.br/politica/tres-entradas-na-argentina-em-40-minutos-os-bastidores-da-fuga-de-flavio-bolsonaro-npr/",
+     "publicadoEm": "2026-11-02T13:26:31.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "poder360",
+     "titulo": "Ex-agente de Israel é ligado à fuga de Flávio",
+     "tituloMarcado": [
+      [
+       "Ex-agente",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Israel",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "é",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ligado",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "à",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "fuga",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Flávio",
+       false
+      ]
+     ],
+     "trecho": "Homem apontado como ex-integrante do Mossad estava em van que cruzou a fronteira",
+     "link": "https://www.poder360.com.br/poder-justica/ex-agente-de-israel-e-ligado-a-fuga-de-flavio/",
+     "publicadoEm": "2026-11-02T13:58:43.000Z",
+     "tipo": "noticia",
+     "numero": null
+    }
+   ]
+  },
+  {
+   "id": "https://g1.globo.com/sp/sao-paulo/educacao/noticia/2026/11/02/fuvest-anula-questao-de-matematica-apos-identificar-erro-em-coordenada-geografica.ghtml",
+   "veiculos": 3,
+   "primeiro": "2026-11-02T12:55:44.000Z",
+   "ultimo": "2026-11-02T13:57:40.000Z",
+   "comuns": [
+    "Fuvest",
+    "anula",
+    "questão",
+    "erro",
+    "matemática",
+    "coordenada"
+   ],
+   "politica": null,
+   "materias": [
+    {
+     "veiculo": "g1",
+     "titulo": "Fuvest anula questão de matemática após identificar erro em coordenada geográfica",
+     "tituloMarcado": [
+      [
+       "Fuvest",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "anula",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "questão",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "matemática",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "após",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "identificar",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "erro",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "coordenada",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "geográfica",
+       false
+      ]
+     ],
+     "trecho": "Fuvest 2027 no campus da Unimep em Piracicaba Yasmin Moscoski/g1 a A Fundação Universitária para o Vestibular (Fuvest) confirmou nesta segunda-feira (2) a anulação da questão 23 de matemática da prova versão 1. A…",
+     "link": "https://g1.globo.com/sp/sao-paulo/educacao/noticia/2026/11/02/fuvest-anula-questao-de-matematica-apos-identificar-erro-em-coordenada-geografica.ghtml",
+     "publicadoEm": "2026-11-02T12:55:44.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "cnn",
+     "titulo": "Fuvest anula questão por erro em coordenada geográfica; entenda",
+     "tituloMarcado": [
+      [
+       "Fuvest",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "anula",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "questão",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "por",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "erro",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "coordenada",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "geográfica;",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "entenda",
+       false
+      ]
+     ],
+     "trecho": "Questão de matemática apresentava erro em longitude de Porto de Galinhas, em Pernambuco; banca reconheceu falha nesta segunda-feira (2)",
+     "link": "https://www.cnnbrasil.com.br/educacao/fuvest-anula-questao-por-erro-em-coordenada-geografica-entenda/",
+     "publicadoEm": "2026-11-02T13:25:50.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "metropoles",
+     "titulo": "Fuvest anula questão de matemática por erro no enunciado. Veja qual",
+     "tituloMarcado": [
+      [
+       "Fuvest",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "anula",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "questão",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "matemática",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "por",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "erro",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "no",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "enunciado.",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Veja",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "qual",
+       true
+      ]
+     ],
+     "trecho": "Questão de matemática que utilizou conceitos interdisciplinares tinha erro em coordenada geográfica. Segundo a Fuvest, todos pontuam",
+     "link": "https://www.metropoles.com/sao-paulo/fuvest-anula-questao-de-matematica-por-erro-no-enunciado-veja-qual",
+     "publicadoEm": "2026-11-02T13:57:40.000Z",
+     "tipo": "noticia",
+     "numero": null
+    }
+   ]
+  },
+  {
+   "id": "https://f5.folha.uol.com.br/celebridades/2026/11/amigas-de-infancia-marina-ruy-barbosa-e-luma-costa-brigam-e-deixam-de-se-seguir.shtml",
+   "veiculos": 3,
+   "primeiro": "2026-11-01T20:26:00.000Z",
+   "ultimo": "2026-11-02T13:56:49.000Z",
+   "comuns": [
+    "Marina",
+    "Ruy",
+    "Barbosa",
+    "Luma",
+    "Costa",
+    "brigam"
+   ],
+   "politica": null,
+   "materias": [
+    {
+     "veiculo": "folha",
+     "titulo": "Amigas de infância, Marina Ruy Barbosa e Luma Costa brigam e deixam de se seguir",
+     "tituloMarcado": [
+      [
+       "Amigas",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "infância,",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Marina",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Ruy",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Barbosa",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Luma",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Costa",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "brigam",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "deixam",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "se",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "seguir",
+       true
+      ]
+     ],
+     "trecho": "As atrizes Marina Ruy Barbosa, de 31 anos, e Luma Costa, de 38, deixaram de se seguir no Instagram, rompendo publicamente uma amizade de 22 anos.",
+     "link": "https://f5.folha.uol.com.br/celebridades/2026/11/amigas-de-infancia-marina-ruy-barbosa-e-luma-costa-brigam-e-deixam-de-se-seguir.shtml",
+     "publicadoEm": "2026-11-01T20:26:00.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "cnn",
+     "titulo": "Luma Costa confirma briga com Marina Ruy Barbosa; entenda polêmica",
+     "tituloMarcado": [
+      [
+       "Luma",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Costa",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "confirma",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "briga",
        false
       ],
       [
@@ -3555,15 +4716,7 @@
        ""
       ],
       [
-       "pódio",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "no",
+       "Marina",
        false
       ],
       [
@@ -3571,7 +4724,246 @@
        ""
       ],
       [
-       "GP",
+       "Ruy",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Barbosa;",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "entenda",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "polêmica",
+       false
+      ]
+     ],
+     "trecho": "Atriz rebateu especulações sobre o motivo do afastamento após as duas deixarem de se seguir nas redes sociais",
+     "link": "https://www.cnnbrasil.com.br/pop/celebridades/luma-costa-confirma-briga-com-marina-ruy-barbosa-entenda-polemica/",
+     "publicadoEm": "2026-11-02T12:02:47.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "metropoles",
+     "titulo": "Camila Queiroz reage após ser envolvida em polêmica com Marina Ruy Barbosa",
+     "tituloMarcado": [
+      [
+       "Camila",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Queiroz",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "reage",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "após",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ser",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "envolvida",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "polêmica",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "com",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Marina",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Ruy",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Barbosa",
+       false
+      ]
+     ],
+     "trecho": "Camila comentou a movimentação nas redes sociais e negou envolvimento no desentendimento entre Marina Ruy Barbosa e Luma Costa",
+     "link": "https://www.metropoles.com/colunas/fabia-oliveira/camila-queiroz-reage-apos-ser-envolvida-em-polemica-com-marina-ruy-barbosa",
+     "publicadoEm": "2026-11-02T13:56:49.000Z",
+     "tipo": "coluna",
+     "numero": null
+    }
+   ]
+  },
+  {
+   "id": "https://www.metropoles.com/sao-paulo/governo-de-sp-adia-entrega-de-duas-estacoes-da-linha-6-laranja-do-metro",
+   "veiculos": 3,
+   "primeiro": "2026-11-02T12:52:50.000Z",
+   "ultimo": "2026-11-02T13:52:17.000Z",
+   "comuns": [
+    "entrega",
+    "linha",
+    "6-Laranja",
+    "adia",
+    "estações",
+    "outubro"
+   ],
+   "politica": null,
+   "materias": [
+    {
+     "veiculo": "metropoles",
+     "titulo": "Governo de SP adia entrega de duas estações da linha 6-Laranja do Metrô",
+     "tituloMarcado": [
+      [
+       "Governo",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "SP",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "adia",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "entrega",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "duas",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "estações",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "da",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "linha",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "6-Laranja",
        false
       ],
       [
@@ -3587,16 +4979,269 @@
        ""
       ],
       [
-       "México",
-       false
+       "Metrô",
+       true
       ]
      ],
-     "trecho": "Piloto italiano, de apenas 20 anos, torna-se o vencedor mais jovem da história da Fórmula 1, assegurando a conquista de forma antecipada",
-     "link": "https://www.cnnbrasil.com.br/esportes/automobilismo/kimi-antonelli-e-o-campeao-da-formula-1-com-podio-no-gp-do-mexico/",
-     "publicadoEm": "2026-11-01T22:25:17.000Z",
+     "trecho": "Inicialmente previstas para outubro, estações Brasilândia e Itaberaba-Hospital Vila Penteado devem ser entregues até o final de 2026",
+     "link": "https://www.metropoles.com/sao-paulo/governo-de-sp-adia-entrega-de-duas-estacoes-da-linha-6-laranja-do-metro",
+     "publicadoEm": "2026-11-02T12:52:50.000Z",
      "tipo": "noticia",
      "numero": null
     },
+    {
+     "veiculo": "g1",
+     "titulo": "Gestão Tarcísio adia entrega de novo trecho da Linha 6-Laranja, prometido para o mês de outubro",
+     "tituloMarcado": [
+      [
+       "Gestão",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Tarcísio",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "adia",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "entrega",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "novo",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "trecho",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "da",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Linha",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "6-Laranja,",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "prometido",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "para",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "o",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "mês",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "outubro",
+       false
+      ]
+     ],
+     "trecho": "Obra da estação Itaberaba-Hospital Vila Penteado, da Linha 6-Laranja, que tem 87,72% das obras concluídas. Divulgação/Linha Uni O governo de São Paulo adiou a entrega das duas novas estações da Linha 6-Laranja do metrô…",
+     "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/02/gestao-tarcisio-adia-entrega-de-novo-trecho-da-linha-6-laranja-prometido-para-o-mes-de-outubro.ghtml",
+     "publicadoEm": "2026-11-02T13:04:15.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "uol",
+     "titulo": "Entrega de 2 estações da linha 6-Laranja, prevista para outubro, é adiada",
+     "tituloMarcado": [
+      [
+       "Entrega",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "2",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "estações",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "da",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "linha",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "6-Laranja,",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "prevista",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "para",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "outubro,",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "é",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "adiada",
+       true
+      ]
+     ],
+     "trecho": "Prevista para outubro, a entrega das estações Brasilândia e Itaberaba-Hospital Vila Penteado, da Linha 6-Laranja do metrô, ambas na zona norte de São Paulo, foi adiada.",
+     "link": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/11/02/estacoes-linha-6-laranja-entrega-adiada.ghtm",
+     "publicadoEm": "2026-11-02T13:52:17.000Z",
+     "tipo": "noticia",
+     "numero": null
+    }
+   ]
+  },
+  {
+   "id": "https://www1.folha.uol.com.br/esporte/2026/11/com-antonelli-no-time-dos-campeoes-veja-os-maiores-vencedores-da-f1.shtml",
+   "veiculos": 3,
+   "primeiro": "2026-11-01T23:20:00.000Z",
+   "ultimo": "2026-11-02T13:40:28.000Z",
+   "comuns": [
+    "Antonelli",
+    "campeões",
+    "torna",
+    "GP"
+   ],
+   "politica": null,
+   "materias": [
     {
      "veiculo": "folha",
      "titulo": "Com Antonelli no time dos campeões, veja os maiores vencedores da F1",
@@ -3722,7 +5367,7 @@
       ],
       [
        "torna",
-       true
+       false
       ],
       [
        " ",
@@ -3770,7 +5415,7 @@
       ],
       [
        "Fórmula",
-       false
+       true
       ],
       [
        " ",
@@ -3810,7 +5455,7 @@
       ],
       [
        "México",
-       false
+       true
       ],
       [
        " ",
@@ -3850,163 +5495,13 @@
      "publicadoEm": "2026-11-02T03:36:26.000Z",
      "tipo": "noticia",
      "numero": null
-    }
-   ]
-  },
-  {
-   "id": "https://g1.globo.com/fantastico/noticia/2026/11/01/janones-exercito-lula-descarta-ministerio.ghtml",
-   "veiculos": 3,
-   "primeiro": "2026-11-02T01:27:09.000Z",
-   "ultimo": "2026-11-02T03:36:00.000Z",
-   "comuns": [
-    "Lula",
-    "Janones",
-    "ministério",
-    "não"
-   ],
-   "politica": "Lula",
-   "materias": [
-    {
-     "veiculo": "g1",
-     "titulo": "'Exército do Lula': Janones fala sobre canal com 10 milhões de pessoas e descarta ministério",
-     "tituloMarcado": [
-      [
-       "'Exército",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "do",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Lula':",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Janones",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "fala",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "sobre",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "canal",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "com",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "10",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "milhões",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "pessoas",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "e",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "descarta",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "ministério",
-       false
-      ]
-     ],
-     "trecho": "Fantástico teve acesso exclusivo à rotina de André Janones O canal de mensagens criado pelo deputado federal André Janones (Rede-MG) se transformou em um dos fenômenos da campanha do presidente Luiz Inácio Lula da Silva…",
-     "link": "https://g1.globo.com/fantastico/noticia/2026/11/01/janones-exercito-lula-descarta-ministerio.ghtml",
-     "publicadoEm": "2026-11-02T01:27:09.000Z",
-     "tipo": "noticia",
-     "numero": null
     },
     {
-     "veiculo": "estadao",
-     "titulo": "Janones diz que não aceitaria convite para ministério de Lula e que seguirá como deputado federal",
+     "veiculo": "cnn",
+     "titulo": "Por que o GP no Brasil pode se tornar especial para o campeão Antonelli",
      "tituloMarcado": [
       [
-       "Janones",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "diz",
+       "Por",
        false
       ],
       [
@@ -4022,7 +5517,7 @@
        ""
       ],
       [
-       "não",
+       "o",
        false
       ],
       [
@@ -4030,7 +5525,23 @@
        ""
       ],
       [
-       "aceitaria",
+       "GP",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "no",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Brasil",
        true
       ],
       [
@@ -4038,7 +5549,31 @@
        ""
       ],
       [
-       "convite",
+       "pode",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "se",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "tornar",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "especial",
        true
       ],
       [
@@ -4054,7 +5589,86 @@
        ""
       ],
       [
-       "ministério",
+       "o",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "campeão",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Antonelli",
+       false
+      ]
+     ],
+     "trecho": "Jovem italiano vai em busca da vitória em Interlagos mais \"leve\" após o título garantido no Grande Prêmio do México; idolatria por Ayrton Senna é um ingrediente a mais para ele em São Paulo",
+     "link": "https://www.cnnbrasil.com.br/esportes/automobilismo/por-que-o-gp-no-brasil-pode-se-tornar-especial-para-o-campeao-antonelli/",
+     "publicadoEm": "2026-11-02T13:40:28.000Z",
+     "tipo": "noticia",
+     "numero": null
+    }
+   ]
+  },
+  {
+   "id": "https://www.cnnbrasil.com.br/internacional/video-mostra-queda-e-explosao-de-aviao-que-matou-9-na-florida/",
+   "veiculos": 3,
+   "primeiro": "2026-11-02T11:56:19.000Z",
+   "ultimo": "2026-11-02T13:31:11.000Z",
+   "comuns": [
+    "avião",
+    "Flórida",
+    "queda",
+    "matou",
+    "Nove"
+   ],
+   "politica": null,
+   "materias": [
+    {
+     "veiculo": "cnn",
+     "titulo": "Vídeo mostra momento da queda de avião que matou 9 na Flórida",
+     "tituloMarcado": [
+      [
+       "Vídeo",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "mostra",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "momento",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "da",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "queda",
        false
       ],
       [
@@ -4070,15 +5684,7 @@
        ""
       ],
       [
-       "Lula",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "e",
+       "avião",
        false
       ],
       [
@@ -4094,15 +5700,7 @@
        ""
       ],
       [
-       "seguirá",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "como",
+       "matou",
        false
       ],
       [
@@ -4110,30 +5708,46 @@
        ""
       ],
       [
-       "deputado",
-       true
+       "9",
+       false
       ],
       [
        " ",
        ""
       ],
       [
-       "federal",
-       true
+       "na",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Flórida",
+       false
       ]
      ],
-     "trecho": "O deputado federal André Janones (Rede-MG) afirmou, em entrevista ao Fantástico neste domingo, 1º, que não pretende assumir um ministério no governo do presidente Luiz Inácio Lula da Silva (PT). Segundo o parlamentar…",
-     "link": "https://www.estadao.com.br/politica/janones-diz-que-nao-aceitaria-convite-para-ministerio-de-lula-e-que-seguira-como-deputado-federal-npr/",
-     "publicadoEm": "2026-11-02T01:33:41.000Z",
+     "trecho": "Aeronave particular caiu em área residencial no Condado de Palm Beach após decolar do Texas com destino às Bahamas",
+     "link": "https://www.cnnbrasil.com.br/internacional/video-mostra-queda-e-explosao-de-aviao-que-matou-9-na-florida/",
+     "publicadoEm": "2026-11-02T11:56:19.000Z",
      "tipo": "noticia",
      "numero": null
     },
     {
-     "veiculo": "folha",
-     "titulo": "André Janones diz que não será ministro de Lula e que continuará na Câmara",
+     "veiculo": "cartacapital",
+     "titulo": "Nove mortos em queda de avião perto da casa de Trump na Flórida",
      "tituloMarcado": [
       [
-       "André",
+       "Nove",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "mortos",
        true
       ],
       [
@@ -4141,7 +5755,7 @@
        ""
       ],
       [
-       "Janones",
+       "em",
        false
       ],
       [
@@ -4149,39 +5763,7 @@
        ""
       ],
       [
-       "diz",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "que",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "não",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "será",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "ministro",
+       "queda",
        false
       ],
       [
@@ -4197,7 +5779,7 @@
        ""
       ],
       [
-       "Lula",
+       "avião",
        false
       ],
       [
@@ -4205,7 +5787,15 @@
        ""
       ],
       [
-       "e",
+       "perto",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "da",
        false
       ],
       [
@@ -4213,7 +5803,15 @@
        ""
       ],
       [
-       "que",
+       "casa",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
        false
       ],
       [
@@ -4221,7 +5819,7 @@
        ""
       ],
       [
-       "continuará",
+       "Trump",
        true
       ],
       [
@@ -4237,55 +5835,1322 @@
        ""
       ],
       [
-       "Câmara",
+       "Flórida",
+       false
+      ]
+     ],
+     "trecho": "A aeronave havia decolado de Austin, Texas, e seguia para as Bahamas. As nove pessoas a bordo morreram, informaram as autoridades locais",
+     "link": "https://www.cartacapital.com.br/mundo/nove-mortos-em-queda-de-aviao-perto-da-casa-de-trump-na-florida/",
+     "publicadoEm": "2026-11-02T12:38:12.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "veja",
+     "titulo": "Vídeo: o relato assustador do piloto de avião que caiu na Flórida e matou nove pessoas",
+     "tituloMarcado": [
+      [
+       "Vídeo:",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "o",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "relato",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "assustador",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "do",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "piloto",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "avião",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "que",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "caiu",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "na",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Flórida",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "matou",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "nove",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "pessoas",
        true
       ]
      ],
-     "trecho": "André Janones (Rede-MG) afirmou que não pretende ser ministro no governo Lula. A declaração foi dada em uma reportagem exibida pelo Fantástico, da TV Globo, neste domingo (1º), que abordou a atuação do deputado federal…",
-     "link": "https://www1.folha.uol.com.br/poder/2026/11/andre-janones-diz-que-nao-sera-ministro-de-lula-e-que-continuara-na-camara.shtml",
-     "publicadoEm": "2026-11-02T03:36:00.000Z",
+     "trecho": "Aeronave havia decolado do Texas com destino às Bahamas; imagens de câmera veicular mostram explosão perto de casas e carros",
+     "link": "https://veja.abril.com.br/mundo/video-jatinho-cai-perto-de-avenida-na-florida-e-deixa-nove-mortos/",
+     "publicadoEm": "2026-11-02T13:31:11.000Z",
      "tipo": "noticia",
      "numero": null
     }
    ]
   },
   {
-   "id": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-brasil/gremio-e-letal-vence-atletico-mg-e-sai-na-frente-na-semi-da-copa-do-brasil/",
+   "id": "https://www1.folha.uol.com.br/poder/2026/11/modelo-da-reforma-eleitoral-divide-camara-e-ameaca-implodir-acordo-para-frear-pl.shtml",
    "veiculos": 3,
-   "primeiro": "2026-11-01T23:31:30.000Z",
-   "ultimo": "2026-11-01T23:53:01.000Z",
+   "primeiro": "2026-11-02T01:04:00.000Z",
+   "ultimo": "2026-11-02T13:15:33.000Z",
    "comuns": [
-    "Grêmio",
-    "vence",
-    "Atlético-MG",
-    "Copa",
-    "Brasil"
+    "Câmara",
+    "acordo",
+    "Hugo",
+    "comando"
+   ],
+   "politica": "eleitoral",
+   "materias": [
+    {
+     "veiculo": "folha",
+     "titulo": "Modelo da reforma eleitoral divide Câmara e ameaça implodir acordo para frear PL",
+     "tituloMarcado": [
+      [
+       "Modelo",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "da",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "reforma",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "eleitoral",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "divide",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Câmara",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ameaça",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "implodir",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "acordo",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "para",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "frear",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "PL",
+       true
+      ]
+     ],
+     "trecho": "O modelo da reforma eleitoral em discussão na Câmara para frear um possível crescimento do PL nas próximas eleições divide os deputados federais e ameaça implodir o acordo costurado pelo presidente Hugo Motta…",
+     "link": "https://www1.folha.uol.com.br/poder/2026/11/modelo-da-reforma-eleitoral-divide-camara-e-ameaca-implodir-acordo-para-frear-pl.shtml",
+     "publicadoEm": "2026-11-02T01:04:00.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "gazetadopovo",
+     "titulo": "Hugo Motta acelera acordos para manter comando da Câmara em 2027",
+     "tituloMarcado": [
+      [
+       "Hugo",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Motta",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "acelera",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "acordos",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "para",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "manter",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "comando",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "da",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Câmara",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "2027",
+       true
+      ]
+     ],
+     "trecho": "Hugo Motta busca alianças com 15 partidos para garantir a presidência da Câmara em 2027 e conter o avanço do PL. Entenda as negociações nos bastidores.",
+     "link": "https://www.gazetadopovo.com.br/republica/hugo-motta-acelera-acordos-para-manter-comando-da-camara-em-2027/",
+     "publicadoEm": "2026-11-02T05:00:25.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "cnn",
+     "titulo": "Zé Trovão critica acordo de apoio a Hugo e mira disputar comando da Câmara",
+     "tituloMarcado": [
+      [
+       "Zé",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Trovão",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "critica",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "acordo",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "apoio",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "a",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Hugo",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "mira",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "disputar",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "comando",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "da",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Câmara",
+       false
+      ]
+     ],
+     "trecho": "Deputado do PL rejeita articulação para reeleger Hugo Motta e ameaça lançar candidatura avulsa caso partido não apresente nome próprio para a eleição à presidência da Casa",
+     "link": "https://www.cnnbrasil.com.br/politica/ze-trovao-critica-acordo-de-apoio-a-hugo-e-mira-disputar-comando-da-camara/",
+     "publicadoEm": "2026-11-02T13:15:33.000Z",
+     "tipo": "noticia",
+     "numero": null
+    }
+   ]
+  },
+  {
+   "id": "https://f5.folha.uol.com.br/televisao/2026/11/rita-guedes-gracyanne-junno-andrade-e-ticiane-pinheiro-sao-eliminados-da-danca-dos-famosos.shtml",
+   "veiculos": 3,
+   "primeiro": "2026-11-01T23:20:00.000Z",
+   "ultimo": "2026-11-02T13:01:10.000Z",
+   "comuns": [
+    "Junno",
+    "Andrade",
+    "Ticiane",
+    "são",
+    "eliminados",
+    "Dança"
    ],
    "politica": null,
    "materias": [
     {
-     "veiculo": "cnn",
-     "titulo": "Grêmio é letal, vence Atlético-MG e sai na frente na semi da Copa do Brasil",
+     "veiculo": "folha",
+     "titulo": "Rita Guedes, Gracyanne, Junno Andrade e Ticiane Pinheiro são eliminados da Dança dos Famosos",
      "tituloMarcado": [
       [
-       "Grêmio",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "é",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "letal,",
+       "Rita",
        true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Guedes,",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Gracyanne,",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Junno",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Andrade",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Ticiane",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Pinheiro",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "são",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "eliminados",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "da",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Dança",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "dos",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Famosos",
+       false
+      ]
+     ],
+     "trecho": "A Dança dos Famosos, quadro do Domingão, apresentado por Luciano Huck na Globo, eliminou quatro participantes neste domingo (1). Rita Guedes, Gracyanne Barbosa, Junno Andrade e Ticiane Pinheiro deixaram a atração.",
+     "link": "https://f5.folha.uol.com.br/televisao/2026/11/rita-guedes-gracyanne-junno-andrade-e-ticiane-pinheiro-sao-eliminados-da-danca-dos-famosos.shtml",
+     "publicadoEm": "2026-11-01T23:20:00.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "cnn",
+     "titulo": "“Dança dos Famosos”: Ticiane, Junno Andrade e mais são eliminados; confira",
+     "tituloMarcado": [
+      [
+       "“Dança",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "dos",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Famosos”:",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Ticiane,",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Junno",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Andrade",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "mais",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "são",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "eliminados;",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "confira",
+       true
+      ]
+     ],
+     "trecho": "Quatro participantes deixaram a competição no último domingo (1º), após a repescagem",
+     "link": "https://www.cnnbrasil.com.br/pop/tv/danca-dos-famosos-ticiane-junno-andrade-e-mais-sao-eliminados-confira/",
+     "publicadoEm": "2026-11-02T11:39:59.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "veja",
+     "titulo": "Junno Andrade ironiza fuga de Flávio Bolsonaro diante de Luciano Huck",
+     "tituloMarcado": [
+      [
+       "Junno",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Andrade",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ironiza",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "fuga",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Flávio",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Bolsonaro",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "diante",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Luciano",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Huck",
+       true
+      ]
+     ],
+     "trecho": "Ator fez comentário após eliminação na 'Dança dos Famosos'",
+     "link": "https://veja.abril.com.br/cultura/junno-andrade-ironiza-fuga-de-flavio-bolsonaro-diante-de-luciano-huck/",
+     "publicadoEm": "2026-11-02T13:01:10.000Z",
+     "tipo": "noticia",
+     "numero": null
+    }
+   ]
+  },
+  {
+   "id": "https://www.bbc.com/portuguese/articles/cwg7xpyd1jrgo?at_medium=RSS&at_campaign=rss",
+   "veiculos": 3,
+   "primeiro": "2026-10-31T20:33:05.000Z",
+   "ultimo": "2026-11-02T12:56:55.000Z",
+   "comuns": [
+    "eleições",
+    "EUA",
+    "meio",
+    "mandato",
+    "podem",
+    "Trump"
+   ],
+   "politica": "eleições",
+   "materias": [
+    {
+     "veiculo": "bbc",
+     "titulo": "O que são as eleições de meio de mandato dos EUA e por que elas podem selar futuro de Trump?",
+     "tituloMarcado": [
+      [
+       "O",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "que",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "são",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "as",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "eleições",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "meio",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "mandato",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "dos",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "EUA",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "por",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "que",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "elas",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "podem",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "selar",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "futuro",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Trump?",
+       false
+      ]
+     ],
+     "trecho": "Os eleitores dos EUA irão às urnas em 3 de novembro em uma votação que poderá ter um grande impacto na presidência de Donald Trump.",
+     "link": "https://www.bbc.com/portuguese/articles/cwg7xpyd1jrgo?at_medium=RSS&at_campaign=rss",
+     "publicadoEm": "2026-10-31T20:33:05.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "g1",
+     "titulo": "Midterms nos EUA: eleições podem mudar planos de Trump e mexer com dólar e juros no Brasil",
+     "tituloMarcado": [
+      [
+       "Midterms",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "nos",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "EUA:",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "eleições",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "podem",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "mudar",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "planos",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Trump",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "mexer",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "com",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "dólar",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "juros",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "no",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Brasil",
+       true
+      ]
+     ],
+     "trecho": "Por que Trump está preocupado com as midterms? As eleições de meio de mandato nos Estados Unidos, marcadas para esta terça-feira (3), podem mudar os rumos da política econômica do presidente Donald Trump — com possíveis…",
+     "link": "https://g1.globo.com/economia/noticia/2026/11/02/midterms-nos-eua-eleicoes-podem-mudar-planos-de-trump-e-mexer-com-dolar-e-juros-no-brasil.ghtml",
+     "publicadoEm": "2026-11-02T05:00:00.000Z",
+     "tipo": "noticia",
+     "numero": {
+      "ok": false,
+      "descricao": "meta Selic vigente na semana da nota",
+      "valorNoticia": 66,
+      "candidatos": [
+       {
+        "serie": "selic",
+        "periodo": "2026-11-02",
+        "valor": 13.75
+       }
+      ],
+      "nota": "O número citado não foi encontrado na série oficial (meta Selic vigente na semana da nota). Pode se referir a outro recorte; recomendamos ler a fonte."
+     }
+    },
+    {
+     "veiculo": "veja",
+     "titulo": "A nova pesquisa sobre as eleições de meio de mandato nos EUA um dia antes da votação",
+     "tituloMarcado": [
+      [
+       "A",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "nova",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "pesquisa",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "sobre",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "as",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "eleições",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "meio",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "mandato",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "nos",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "EUA",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "um",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "dia",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "antes",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "da",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "votação",
+       true
+      ]
+     ],
+     "trecho": "As chamadas 'midterms' colocam em jogo o controle do Congresso, hoje na mão dos republicanos, e podem reduzir poder de Trump",
+     "link": "https://veja.abril.com.br/mundo/a-boa-noticia-para-os-democratas-em-pesquisa-um-dia-antes-das-eleicoes-nos-eua/",
+     "publicadoEm": "2026-11-02T12:56:55.000Z",
+     "tipo": "noticia",
+     "numero": null
+    }
+   ]
+  },
+  {
+   "id": "https://www1.folha.uol.com.br/esporte/2026/11/palmeiras-vence-vasco-em-casa-mas-perde-chance-de-definir-vaga-na-final-da-copa-do-brasil.shtml",
+   "veiculos": 3,
+   "primeiro": "2026-11-01T21:02:00.000Z",
+   "ultimo": "2026-11-01T21:49:37.000Z",
+   "comuns": [
+    "Palmeiras",
+    "Vasco",
+    "Copa",
+    "Brasil",
+    "vence"
+   ],
+   "politica": null,
+   "materias": [
+    {
+     "veiculo": "folha",
+     "titulo": "Palmeiras vence Vasco em casa, mas perde chance de definir vaga na final da Copa do Brasil",
+     "tituloMarcado": [
+      [
+       "Palmeiras",
+       false
       ],
       [
        " ",
@@ -4300,7 +7165,7 @@
        ""
       ],
       [
-       "Atlético-MG",
+       "Vasco",
        false
       ],
       [
@@ -4308,7 +7173,126 @@
        ""
       ],
       [
-       "e",
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "casa,",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "mas",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "perde",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "chance",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "definir",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "vaga",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "na",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "final",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "da",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Copa",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "do",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Brasil",
+       false
+      ]
+     ],
+     "trecho": "Com vantagem mínima, o Palmeiras saiu na frente no primeiro de dois encontros com o Vasco por uma vaga na final da Copa do Brasil. Dominante na etapa inicial, a equipe de Abel Ferreira viu o adversário melhorar no…",
+     "link": "https://www1.folha.uol.com.br/esporte/2026/11/palmeiras-vence-vasco-em-casa-mas-perde-chance-de-definir-vaga-na-final-da-copa-do-brasil.shtml",
+     "publicadoEm": "2026-11-01T21:02:00.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "agenciabrasil",
+     "titulo": "Palmeiras sai na frente do Vasco na semifinal da Copa do Brasil: 1 a 0",
+     "tituloMarcado": [
+      [
+       "Palmeiras",
        false
       ],
       [
@@ -4333,6 +7317,149 @@
       ],
       [
        "frente",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "do",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Vasco",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "na",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "semifinal",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "da",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Copa",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "do",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Brasil:",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "1",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "a",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "0",
+       false
+      ]
+     ],
+     "trecho": "Na primeira metade dos 180 minutos entre Palmeiras e Vasco, deu Verdão. A equipe paulista derrotou o adversário por 1 a 0, na tarde deste domingo (1º), pelo duelo de ida da semifinal da Copa do Brasil. O triunfo, obtido…",
+     "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/palmeiras-sai-na-frente-do-vasco-na-semifinal-da-copa-do-brasil-1-0",
+     "publicadoEm": "2026-11-01T21:30:00.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "cartacapital",
+     "titulo": "Palmeiras vence Vasco e abre vantagem na semi da Copa do Brasil",
+     "tituloMarcado": [
+      [
+       "Palmeiras",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "vence",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Vasco",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "abre",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "vantagem",
        true
       ],
       [
@@ -4384,2323 +7511,9 @@
        false
       ]
      ],
-     "trecho": "Carlos Vinícius e Noriega foram os autores dos gols da vitória do Imortal por 2 a 0 na Arena do Grêmio; equipes voltam a se enfrentar no dia 07 de novembro, às 18h (de Brasília), na Arena MRV, em Belo Horizonte",
-     "link": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-brasil/gremio-e-letal-vence-atletico-mg-e-sai-na-frente-na-semi-da-copa-do-brasil/",
-     "publicadoEm": "2026-11-01T23:31:30.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "folha",
-     "titulo": "Grêmio vence o Atlético-MG e fica mais perto da final da Copa do Brasil",
-     "tituloMarcado": [
-      [
-       "Grêmio",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "vence",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "o",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Atlético-MG",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "e",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "fica",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "mais",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "perto",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "da",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "final",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "da",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Copa",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "do",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Brasil",
-       false
-      ]
-     ],
-     "trecho": "O Grêmio deu um largo passo rumo à decisão da Copa do Brasil ao derrotar o Atlético-MG por 2 a 0, na noite deste domingo (1), na Arena do Grêmio, em Porto Alegre. Carlos Vinicius e Noriega fizeram os gols.",
-     "link": "https://www1.folha.uol.com.br/esporte/2026/11/gremio-vence-o-atletico-mg-e-fica-mais-perto-da-final-da-copa-do-brasil.shtml",
-     "publicadoEm": "2026-11-01T23:39:00.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "cartacapital",
-     "titulo": "Grêmio vence Atlético-MG e abre vantagem na semifinal da Copa do Brasil",
-     "tituloMarcado": [
-      [
-       "Grêmio",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "vence",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Atlético-MG",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "e",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "abre",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "vantagem",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "na",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "semifinal",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "da",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Copa",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "do",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Brasil",
-       false
-      ]
-     ],
-     "trecho": "Com gols de Carlos Vinícius e Noriega, Tricolor garante vitória em Porto Alegre e fica a um empate da decisão",
-     "link": "https://www.cartacapital.com.br/esporte/gremio-vence-atletico-mg-e-abre-vantagem-na-semifinal-da-copa-do-brasil/",
-     "publicadoEm": "2026-11-01T23:53:01.000Z",
-     "tipo": "noticia",
-     "numero": null
-    }
-   ]
-  },
-  {
-   "id": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/acordo-mercosul-ue-eleva-exportacoes-brasileiras-em-21",
-   "veiculos": 3,
-   "primeiro": "2026-10-31T12:52:00.000Z",
-   "ultimo": "2026-11-01T19:22:08.000Z",
-   "comuns": [
-    "Acordo",
-    "Mercosul-UE",
-    "exportações",
-    "brasileiras",
-    "14,8%",
-    "agro"
-   ],
-   "politica": null,
-   "materias": [
-    {
-     "veiculo": "agenciabrasil",
-     "titulo": "Acordo Mercosul-UE eleva exportações brasileiras em 21%",
-     "tituloMarcado": [
-      [
-       "Acordo",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Mercosul-UE",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "eleva",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "exportações",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "brasileiras",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "em",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "21%",
-       true
-      ]
-     ],
-     "trecho": "O acordo comercial entre o Mercosul e a União Europeia apresenta resultados positivos para as exportações brasileiras. De maio a setembro, nos primeiros cinco meses de aplicação provisória do tratado, as vendas de…",
-     "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/acordo-mercosul-ue-eleva-exportacoes-brasileiras-em-21",
-     "publicadoEm": "2026-10-31T12:52:00.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "g1",
-     "titulo": "Acordo Mercosul-UE completa 6 meses com alta de 14,8% nas exportações do agro",
-     "tituloMarcado": [
-      [
-       "Acordo",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Mercosul-UE",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "completa",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "6",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "meses",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "com",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "alta",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "14,8%",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "nas",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "exportações",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "do",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "agro",
-       false
-      ]
-     ],
-     "trecho": "Porto com contêineres para exportação Divulgação Depois de mais de 25 anos de negociações, o acordo comercial entre o Mercosul e a União Europeia começou a produzir efeitos em maio deste ano, abrindo caminho para a…",
-     "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/01/agro-ue-acordo-exportacoes-crescem.ghtml",
-     "publicadoEm": "2026-11-01T18:14:59.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "estadao",
-     "titulo": "Exportações do agro brasileiro à União Europeia crescem 14,8% em receita após acordo com Mercosul",
-     "tituloMarcado": [
-      [
-       "Exportações",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "do",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "agro",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "brasileiro",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "à",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "União",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Europeia",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "crescem",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "14,8%",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "em",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "receita",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "após",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "acordo",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "com",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Mercosul",
-       false
-      ]
-     ],
-     "trecho": "As exportações do agronegócio brasileiro para a União Europeia cresceram 14,8% em valor nos primeiros cinco meses de aplicação provisória do acordo comercial entre os dois blocos, iniciada em maio deste ano, informou o…",
-     "link": "https://www.estadao.com.br/economia/agronegocios/exportacoes-do-agro-brasileiro-a-uniao-europeia-crescem-148-em-receita-apos-acordo-com-mercosul/",
-     "publicadoEm": "2026-11-01T19:22:08.000Z",
-     "tipo": "noticia",
-     "numero": null
-    }
-   ]
-  },
-  {
-   "id": "https://www.cartacapital.com.br/mundo/franca-reune-320-mil-em-protestos-alemanha-tem-violencia-apos-atos/",
-   "veiculos": 3,
-   "primeiro": "2026-11-01T14:38:33.000Z",
-   "ultimo": "2026-11-01T19:08:06.000Z",
-   "comuns": [
-    "protestos",
-    "falta",
-    "perspectiva",
-    "futuro",
-    "alimenta",
-    "jovens"
-   ],
-   "politica": null,
-   "materias": [
-    {
-     "veiculo": "cartacapital",
-     "titulo": "França reúne 320 mil em protestos; Alemanha tem violência após atos",
-     "tituloMarcado": [
-      [
-       "França",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "reúne",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "320",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "mil",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "em",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "protestos;",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Alemanha",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "tem",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "violência",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "após",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "atos",
-       true
-      ]
-     ],
-     "trecho": "Alta dos preços e falta de perspectivas impulsionam nova onda de protestos entre jovens europeus",
-     "link": "https://www.cartacapital.com.br/mundo/franca-reune-320-mil-em-protestos-alemanha-tem-violencia-apos-atos/",
-     "publicadoEm": "2026-11-01T14:38:33.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "bbc",
-     "titulo": "Como a falta de perspectiva de futuro alimenta protestos de jovens na Europa",
-     "tituloMarcado": [
-      [
-       "Como",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "a",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "falta",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "perspectiva",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "futuro",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "alimenta",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "protestos",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "jovens",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "na",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Europa",
-       false
-      ]
-     ],
-     "trecho": "No último mês, jovens lideraram protestos por toda a Europa. O que essas manifestações têm em comum?",
-     "link": "https://www.bbc.com/portuguese/articles/ckpqgxp29vlxo?at_medium=RSS&at_campaign=rss",
-     "publicadoEm": "2026-11-01T18:09:35.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "g1",
-     "titulo": "Como a falta de perspectiva de futuro alimenta protestos de jovens na Europa",
-     "tituloMarcado": [
-      [
-       "Como",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "a",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "falta",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "perspectiva",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "futuro",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "alimenta",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "protestos",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "jovens",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "na",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Europa",
-       false
-      ]
-     ],
-     "trecho": "Manifestantes buscam proteção atrás de uma barricada enquanto a tropa de choque francesa utiliza canhões de água em meio a confrontos durante uma manifestação na Place de la République, em Paris Reuters De Milão a…",
-     "link": "https://g1.globo.com/mundo/noticia/2026/11/01/como-a-falta-de-perspectiva-de-futuro-alimenta-protestos-de-jovens-na-europa.ghtml",
-     "publicadoEm": "2026-11-01T19:08:06.000Z",
-     "tipo": "noticia",
-     "numero": null
-    }
-   ]
-  },
-  {
-   "id": "https://www.estadao.com.br/politica/eleicoes/trump-diz-nao-ter-planos-de-encontrar-flavio-bolsonaro-mas-que-ele-pode-ficar-o-tempo-que-quiser/",
-   "veiculos": 3,
-   "primeiro": "2026-11-01T01:14:20.000Z",
-   "ultimo": "2026-11-01T17:57:46.000Z",
-   "comuns": [
-    "Trump",
-    "Flávio",
-    "pode",
-    "ficar",
-    "tempo",
-    "quiser"
-   ],
-   "politica": "Bolsonaro",
-   "materias": [
-    {
-     "veiculo": "estadao",
-     "titulo": "Trump diz não ter planos de encontrar Flávio Bolsonaro, mas que ele ‘pode ficar o tempo que quiser’",
-     "tituloMarcado": [
-      [
-       "Trump",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "diz",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "não",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "ter",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "planos",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "encontrar",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Flávio",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Bolsonaro,",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "mas",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "que",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "ele",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "‘pode",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "ficar",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "o",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "tempo",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "que",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "quiser’",
-       false
-      ]
-     ],
-     "trecho": "O presidente dos Estados Unidos, Donald Trump, afirmou na noite deste sábado, 31, que não tem planos de se reunir com o senador e candidato derrotado nas eleições Flávio Bolsonaro (PL), mas que ele pode permanecer no…",
-     "link": "https://www.estadao.com.br/politica/eleicoes/trump-diz-nao-ter-planos-de-encontrar-flavio-bolsonaro-mas-que-ele-pode-ficar-o-tempo-que-quiser/",
-     "publicadoEm": "2026-11-01T01:14:20.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "gazetadopovo",
-     "titulo": "Trump afirma que Flávio pode ficar nos EUA “quanto tempo quiser”",
-     "tituloMarcado": [
-      [
-       "Trump",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "afirma",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "que",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Flávio",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "pode",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "ficar",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "nos",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "EUA",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "“quanto",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "tempo",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "quiser”",
-       false
-      ]
-     ],
-     "trecho": "Presidente dos Estados Unidos, Donald Trump, voltou a mencionar a ida de Flávio Bolsonaro aos EUA.",
-     "link": "https://www.gazetadopovo.com.br/mundo/trump-afirma-que-flavio-pode-ficar-nos-eua-quanto-tempo-quiser/",
-     "publicadoEm": "2026-11-01T01:36:57.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "cartacapital",
-     "titulo": "Trump: Flávio Bolsonaro pode ficar nos EUA pelo ‘tempo que quiser’",
-     "tituloMarcado": [
-      [
-       "Trump:",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Flávio",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Bolsonaro",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "pode",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "ficar",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "nos",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "EUA",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "pelo",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "‘tempo",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "que",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "quiser’",
-       false
-      ]
-     ],
-     "trecho": "O bolsonarista fugiu do Brasil para Miami, a partir da Argentina, após ter sido intimado pela Polícia Federal para entregar os passaportes",
-     "link": "https://www.cartacapital.com.br/mundo/trump-flavio-bolsonaro-pode-ficar-nos-eua-pelo-tempo-que-quiser/",
-     "publicadoEm": "2026-11-01T17:57:46.000Z",
-     "tipo": "noticia",
-     "numero": null
-    }
-   ]
-  },
-  {
-   "id": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/31/mte-recebe-denuncias-de-assedio-eleitoral-no-trabalho.ghtml",
-   "veiculos": 3,
-   "primeiro": "2026-10-31T18:09:41.000Z",
-   "ultimo": "2026-11-01T17:22:48.000Z",
-   "comuns": [
-    "4,3",
-    "mil",
-    "denúncias",
-    "assédio",
-    "eleitoral",
-    "dias"
-   ],
-   "politica": "eleitoral",
-   "materias": [
-    {
-     "veiculo": "g1",
-     "titulo": "MTE recebe 4,3 mil denúncias de assédio eleitoral no trabalho em três dias",
-     "tituloMarcado": [
-      [
-       "MTE",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "recebe",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "4,3",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "mil",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "denúncias",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "assédio",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "eleitoral",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "no",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "trabalho",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "em",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "três",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "dias",
-       false
-      ]
-     ],
-     "trecho": "Urna eletrônica eleições mulher Tribunal Superior Eleitoral/TSE O Ministério do Trabalho e Emprego (MTE) recebeu 4.305 denúncias de assédio eleitoral no ambiente de trabalho entre quarta-feira (28) e sexta-feira (30)…",
-     "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/31/mte-recebe-denuncias-de-assedio-eleitoral-no-trabalho.ghtml",
-     "publicadoEm": "2026-10-31T18:09:41.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "estadao",
-     "titulo": "Ministério do Trabalho registra 4,3 mil denúncias de assédio eleitoral em 3 dias; São Paulo lidera",
-     "tituloMarcado": [
-      [
-       "Ministério",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "do",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Trabalho",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "registra",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "4,3",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "mil",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "denúncias",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "assédio",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "eleitoral",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "em",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "3",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "dias;",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "São",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Paulo",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "lidera",
-       true
-      ]
-     ],
-     "trecho": "O Ministério do Trabalho e Emprego (MTE) registrou 4.305 denúncias de assédio eleitoral no ambiente de trabalho entre quarta, 28, e sexta, 30. As notificações foram feitas nos três primeiros dias do funcionamento do…",
-     "link": "https://www.estadao.com.br/economia/ministerio-do-trabalho-registra-43-mil-denuncias-de-assedio-eleitoral-em-3-dias-sao-paulo-lidera/",
-     "publicadoEm": "2026-10-31T22:00:31.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "cartacapital",
-     "titulo": "MTE recebe 4,3 mil denúncias de assédio eleitoral em três dias",
-     "tituloMarcado": [
-      [
-       "MTE",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "recebe",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "4,3",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "mil",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "denúncias",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "assédio",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "eleitoral",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "em",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "três",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "dias",
-       false
-      ]
-     ],
-     "trecho": "Quase metade dos casos denunciados foram na Região Sudeste",
-     "link": "https://www.cartacapital.com.br/politica/mte-recebe-43-mil-denuncias-de-assedio-eleitoral-em-tres-dias/",
-     "publicadoEm": "2026-11-01T17:22:48.000Z",
-     "tipo": "noticia",
-     "numero": null
-    }
-   ]
-  },
-  {
-   "id": "https://www.estadao.com.br/politica/marco-rubio-nega-que-eua-ajudaram-flavio-bolsonaro-a-fugir-do-brasil/",
-   "veiculos": 3,
-   "primeiro": "2026-10-31T17:55:42.000Z",
-   "ultimo": "2026-11-01T13:18:02.000Z",
-   "comuns": [
-    "Marco",
-    "Rubio",
-    "EUA",
-    "Flávio",
-    "nega",
-    "Bolsonaro"
-   ],
-   "politica": "Bolsonaro",
-   "materias": [
-    {
-     "veiculo": "estadao",
-     "titulo": "Marco Rubio nega que EUA ajudaram Flávio Bolsonaro a fugir do Brasil",
-     "tituloMarcado": [
-      [
-       "Marco",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Rubio",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "nega",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "que",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "EUA",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "ajudaram",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Flávio",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Bolsonaro",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "a",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "fugir",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "do",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Brasil",
-       false
-      ]
-     ],
-     "trecho": "O Secretário de Estado dos EUA, Marco Rubio, negou neste sábado, 31, que o governo Trump esteve diretamente envolvido na fuga de Flávio Bolsonaro (PL), derrotado nas eleições presidenciais brasileiras, para Miami. Ele…",
-     "link": "https://www.estadao.com.br/politica/marco-rubio-nega-que-eua-ajudaram-flavio-bolsonaro-a-fugir-do-brasil/",
-     "publicadoEm": "2026-10-31T17:55:42.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "gazetadopovo",
-     "titulo": "Marco Rubio nega que governo Trump tenha auxiliado Flávio a ir para os EUA",
-     "tituloMarcado": [
-      [
-       "Marco",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Rubio",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "nega",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "que",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "governo",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Trump",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "tenha",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "auxiliado",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Flávio",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "a",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "ir",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "para",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "os",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "EUA",
-       false
-      ]
-     ],
-     "trecho": "Segundo Rubio, Trump garantiu que, se Flávio fosse para os EUA, teria autorização para permanecer no país. Veja na Gazeta do Povo",
-     "link": "https://www.gazetadopovo.com.br/mundo/marco-rubio-afirma-que-governo-trump-nao-auxiliou-flavio-a-ir-para-eua/",
-     "publicadoEm": "2026-10-31T20:22:25.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "cartacapital",
-     "titulo": "Marco Rubio afirma que EUA não teve envolvimento na fuga de Flávio Bolsonaro do Brasil",
-     "tituloMarcado": [
-      [
-       "Marco",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Rubio",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "afirma",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "que",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "EUA",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "não",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "teve",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "envolvimento",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "na",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "fuga",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Flávio",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Bolsonaro",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "do",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Brasil",
-       false
-      ]
-     ],
-     "trecho": "Flávio chegou aos Estados Unidos com sua família depois que a Justiça determinou a entrega de seus passaportes no âmbito de diversas investigações",
-     "link": "https://www.cartacapital.com.br/mundo/marco-rubio-afirma-que-eua-nao-teve-envolvimento-na-fuga-de-flavio-bolsonaro-do-brasil/",
-     "publicadoEm": "2026-11-01T13:18:02.000Z",
-     "tipo": "noticia",
-     "numero": null
-    }
-   ]
-  },
-  {
-   "id": "https://g1.globo.com/economia/noticia/2026/10/31/chilli-beans-entra-com-pedido-de-recuperacao-extrajudicial.ghtml",
-   "veiculos": 3,
-   "primeiro": "2026-10-31T17:18:31.000Z",
-   "ultimo": "2026-10-31T22:07:09.000Z",
-   "comuns": [
-    "Chilli",
-    "Beans",
-    "recuperação",
-    "extrajudicial",
-    "renegociar",
-    "340"
-   ],
-   "politica": null,
-   "materias": [
-    {
-     "veiculo": "g1",
-     "titulo": "Chilli Beans entra com pedido de recuperação extrajudicial para renegociar R$ 340 milhões em dívidas",
-     "tituloMarcado": [
-      [
-       "Chilli",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Beans",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "entra",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "com",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "pedido",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "recuperação",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "extrajudicial",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "para",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "renegociar",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "R$",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "340",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "milhões",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "em",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "dívidas",
-       false
-      ]
-     ],
-     "trecho": "Óculos Chilli Beans Divulgação A Chilli Beans, rede brasileira de óculos e relógios, entrou com um pedido de recuperação extrajudicial para renegociar R$ 340 milhões em dívidas bancárias. O plano, alinhado com os…",
-     "link": "https://g1.globo.com/economia/noticia/2026/10/31/chilli-beans-entra-com-pedido-de-recuperacao-extrajudicial.ghtml",
-     "publicadoEm": "2026-10-31T17:18:31.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "estadao",
-     "titulo": "Chilli Beans pede recuperação extrajudicial para renegociar R$ 340 milhões em dívidas",
-     "tituloMarcado": [
-      [
-       "Chilli",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Beans",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "pede",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "recuperação",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "extrajudicial",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "para",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "renegociar",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "R$",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "340",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "milhões",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "em",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "dívidas",
-       false
-      ]
-     ],
-     "trecho": "A Chilli Beans pretende renegociar R$ 340 milhões em dívidas com bancos por meio de um processo de recuperação extrajudicial. A proposta da rede de óculos e relógios prevê a entrada de até R$ 50 milhões em novos…",
-     "link": "https://www.estadao.com.br/economia/chilli-beans-pede-recuperacao-extrajudicial-para-renegociar-r-340-milhoes-em-dividas/",
-     "publicadoEm": "2026-10-31T18:24:15.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "gazetadopovo",
-     "titulo": "Chilli Beans entra com recuperação extrajudicial para renegociar dívida de R$ 340 milhões",
-     "tituloMarcado": [
-      [
-       "Chilli",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Beans",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "entra",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "com",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "recuperação",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "extrajudicial",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "para",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "renegociar",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "dívida",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "R$",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "340",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "milhões",
-       false
-      ]
-     ],
-     "trecho": "Empresa de óculos e relógios apresenta plano para renegociar dívida de R$ 340 milhões com credores. Veja na Gazeta do Povo",
-     "link": "https://www.gazetadopovo.com.br/economia/chilli-beans-entra-com-recuperacao-extrajudicial-para-renegociar-divida-de-r-340-milhoes/",
-     "publicadoEm": "2026-10-31T22:07:09.000Z",
+     "trecho": "Verdão vence na Nubank Parque por 1 a 0 e sai na frente no jogo da ida das semifinais do torneio.",
+     "link": "https://www.cartacapital.com.br/esporte/palmeiras-vence-vasco-e-abre-vantagem-na-semi-da-copa-do-brasil/",
+     "publicadoEm": "2026-11-01T21:49:37.000Z",
      "tipo": "noticia",
      "numero": null
     }
