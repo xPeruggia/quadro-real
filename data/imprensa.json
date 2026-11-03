@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-11-03T09:52:47.626Z",
+ "geradoEm": "2026-11-03T14:02:36.064Z",
  "janelaHoras": 48,
  "nota": "Matérias publicadas pelos próprios veículos em seus feeds públicos (RSS). O site agrupa as que tratam do mesmo fato, mostra o título e um trecho curto de cada uma, com o link para o texto completo, e não classifica nenhum veículo. Palavras destacadas são as que só aquele veículo usou no título. \"Coluna ou opinião\" e \"Análise\" seguem a seção em que o próprio veículo publicou o texto.",
  "veiculos": [
@@ -8,7 +8,7 @@
    "nome": "g1",
    "idioma": "pt",
    "ok": true,
-   "materias": 121
+   "materias": 126
   },
   {
    "id": "folha",
@@ -22,7 +22,7 @@
    "nome": "Estadão",
    "idioma": "pt",
    "ok": true,
-   "materias": 54
+   "materias": 55
   },
   {
    "id": "cnn",
@@ -36,21 +36,21 @@
    "nome": "BBC News Brasil",
    "idioma": "pt",
    "ok": true,
-   "materias": 19
+   "materias": 20
   },
   {
    "id": "elpais",
    "nome": "El País",
    "idioma": "es",
    "ok": true,
-   "materias": 1
+   "materias": 2
   },
   {
    "id": "agenciabrasil",
    "nome": "Agência Brasil",
    "idioma": "pt",
    "ok": true,
-   "materias": 11
+   "materias": 13
   },
   {
    "id": "poder360",
@@ -64,14 +64,14 @@
    "nome": "UOL",
    "idioma": "pt",
    "ok": true,
-   "materias": 15
+   "materias": 13
   },
   {
    "id": "gazetadopovo",
    "nome": "Gazeta do Povo",
    "idioma": "pt",
    "ok": true,
-   "materias": 95
+   "materias": 109
   },
   {
    "id": "cartacapital",
@@ -95,384 +95,28 @@
    "materias": 20
   }
  ],
- "totalMaterias": 540,
+ "totalMaterias": 563,
  "comparacoes": [
   {
-   "id": "https://www.bbc.com/portuguese/watch/cx7vpg3em07go?at_medium=RSS&at_campaign=rss",
-   "veiculos": 6,
-   "primeiro": "2026-11-02T11:31:54.000Z",
-   "ultimo": "2026-11-03T09:23:32.000Z",
+   "id": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/focus-mercado-eleva-expectativa-e-ve-juros-em-1350-em-2026/",
+   "veiculos": 7,
+   "primeiro": "2026-11-03T11:30:25.000Z",
+   "ultimo": "2026-11-03T13:43:00.000Z",
    "comuns": [
-    "EUA",
-    "Trump",
-    "Eleições",
-    "vão"
+    "inflação",
+    "mercado",
+    "eleva",
+    "projeção",
+    "juros"
    ],
    "politica": "eleições",
    "materias": [
     {
-     "veiculo": "bbc",
-     "titulo": "Eleições nos EUA: o que está em jogo para Trump?",
-     "tituloMarcado": [
-      [
-       "Eleições",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "nos",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "EUA:",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "o",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "que",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "está",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "em",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "jogo",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "para",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Trump?",
-       false
-      ]
-     ],
-     "trecho": "O controle das duas casas do Congresso americano — a Câmara e o Senado — está em jogo nas eleições que vão acontecer na terça-feira.",
-     "link": "https://www.bbc.com/portuguese/watch/cx7vpg3em07go?at_medium=RSS&at_campaign=rss",
-     "publicadoEm": "2026-11-02T11:31:54.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "gazetadopovo",
-     "titulo": "O que está em jogo para Trump nas eleições que definirão o controle do Congresso dos EUA",
-     "tituloMarcado": [
-      [
-       "O",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "que",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "está",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "em",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "jogo",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "para",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Trump",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "nas",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "eleições",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "que",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "definirão",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "o",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "controle",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "do",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Congresso",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "dos",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "EUA",
-       false
-      ]
-     ],
-     "trecho": "Disputa pela Câmara e pelo Senado dos EUA pode fortalecer Trump ou ampliar investigações e limitar sua agenda até o fim do mandato.",
-     "link": "https://www.gazetadopovo.com.br/mundo/o-que-esta-em-jogo-para-trump-nas-eleicoes-que-definirao-o-controle-do-congresso-dos-eua/",
-     "publicadoEm": "2026-11-03T00:57:08.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "folha",
-     "titulo": "Entenda a disputa nos 7 estados que vão definir o futuro do Senado dos EUA",
-     "tituloMarcado": [
-      [
-       "Entenda",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "a",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "disputa",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "nos",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "7",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "estados",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "que",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "vão",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "definir",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "o",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "futuro",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "do",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Senado",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "dos",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "EUA",
-       false
-      ]
-     ],
-     "trecho": "Sete estados dos Estados Unidos são classificados por analistas políticos como os mais competitivos na definição de quem ficará com a maioria das cadeiras do Senado após as midterms, as eleições de meio de mandato desta…",
-     "link": "https://www1.folha.uol.com.br/mundo/2026/11/entenda-a-disputa-nos-7-estados-que-vao-definir-o-futuro-do-senado-dos-eua.shtml",
-     "publicadoEm": "2026-11-03T02:00:00.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
      "veiculo": "cnn",
-     "titulo": "Com Câmara e Senado em jogo, EUA vão às urnas para definir limites de Trump",
+     "titulo": "Após eleições, mercado eleva projeção para Selic, inflação e câmbio",
      "tituloMarcado": [
       [
-       "Com",
+       "Após",
        false
       ],
       [
@@ -480,7 +124,158 @@
        ""
       ],
       [
-       "Câmara",
+       "eleições,",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "mercado",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "eleva",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "projeção",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "para",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Selic,",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "inflação",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "câmbio",
+       true
+      ]
+     ],
+     "trecho": "Economistas ouvidos pelo BC veem menos chances de cortes dos juros neste ano; projeções para a Selic foram elevadas até 2029",
+     "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/focus-mercado-eleva-expectativa-e-ve-juros-em-1350-em-2026/",
+     "publicadoEm": "2026-11-03T11:30:25.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "g1",
+     "titulo": "Após reeleição de Lula, mercado financeiro vê inflação mais alta e piora previsão para taxa de juros e dólar",
+     "tituloMarcado": [
+      [
+       "Após",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "reeleição",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Lula,",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "mercado",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "financeiro",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "vê",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "inflação",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "mais",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "alta",
        true
       ],
       [
@@ -496,55 +291,15 @@
        ""
       ],
       [
-       "Senado",
-       false
+       "piora",
+       true
       ],
       [
        " ",
        ""
       ],
       [
-       "em",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "jogo,",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "EUA",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "vão",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "às",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "urnas",
+       "previsão",
        false
       ],
       [
@@ -560,15 +315,7 @@
        ""
       ],
       [
-       "definir",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "limites",
+       "taxa",
        true
       ],
       [
@@ -584,47 +331,95 @@
        ""
       ],
       [
-       "Trump",
+       "juros",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "dólar",
        false
       ]
      ],
-     "trecho": "Eleições de Meio de Mandato definem novos representantes no Congresso americano em uma votação que pode dificultar a agenda do presidente",
-     "link": "https://www.cnnbrasil.com.br/internacional/com-camara-e-senado-em-jogo-eua-vao-as-urnas-para-definir-limites-de-trump/",
-     "publicadoEm": "2026-11-03T03:01:08.000Z",
+     "trecho": "Após a reeleição do presidente Luiz Inácio Lula da Silva (PT) em 25 de outubro, os economistas do mercado financeiro realizaram fortes ajustes em suas expectativas para a inflação, taxa de juros e para o crescimento da…",
+     "link": "https://g1.globo.com/economia/noticia/2026/11/03/apos-reeleicao-de-lula-mercado-financeiro-ve-inflacao-mais-alta-e-piora-previsao-para-taxa-de-juros.ghtml",
+     "publicadoEm": "2026-11-03T11:31:14.000Z",
      "tipo": "noticia",
-     "numero": null
+     "numero": {
+      "ok": true,
+      "descricao": "meta Selic vigente na semana da nota",
+      "serie": "selic",
+      "periodo": "2026-11-03",
+      "valorNoticia": 13.75,
+      "valorSerie": 13.75,
+      "nota": "13,75% confere com a série oficial (meta Selic vigente na semana da nota)."
+     }
     },
     {
-     "veiculo": "uol",
-     "titulo": "Americanos vão às urnas em eleições decisivas para o futuro do mandato de Trump",
+     "veiculo": "poder360",
+     "titulo": "Mercado eleva projeção de inflação para 5,22% em 2026",
      "tituloMarcado": [
       [
-       "Americanos",
+       "Mercado",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "eleva",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "projeção",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "inflação",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "para",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "5,22%",
        true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "vão",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "às",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "urnas",
-       false
       ],
       [
        " ",
@@ -639,7 +434,34 @@
        ""
       ],
       [
-       "eleições",
+       "2026",
+       false
+      ]
+     ],
+     "trecho": "Boletim Focus também eleva estimativa da Selic e do dólar; projeção para o PIB cai",
+     "link": "https://www.poder360.com.br/poder-economia/mercado-eleva-projecao-de-inflacao-para-522-em-2026/",
+     "publicadoEm": "2026-11-03T11:48:15.000Z",
+     "tipo": "noticia",
+     "numero": {
+      "ok": false,
+      "descricao": "meta Selic vigente na semana da nota",
+      "valorNoticia": 5.22,
+      "candidatos": [
+       {
+        "serie": "selic",
+        "periodo": "2026-11-03",
+        "valor": 13.75
+       }
+      ],
+      "nota": "O número citado não foi encontrado na série oficial (meta Selic vigente na semana da nota). Pode se referir a outro recorte; recomendamos ler a fonte."
+     }
+    },
+    {
+     "veiculo": "estadao",
+     "titulo": "Mercado eleva projeção para juros, inflação e dólar e reduz previsão para o PIB após reeleição",
+     "tituloMarcado": [
+      [
+       "Mercado",
        false
       ],
       [
@@ -647,7 +469,79 @@
        ""
       ],
       [
-       "decisivas",
+       "eleva",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "projeção",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "para",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "juros,",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "inflação",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "dólar",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "reduz",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "previsão",
        false
       ],
       [
@@ -671,7 +565,15 @@
        ""
       ],
       [
-       "futuro",
+       "PIB",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "após",
        false
       ],
       [
@@ -679,7 +581,55 @@
        ""
       ],
       [
-       "do",
+       "reeleição",
+       false
+      ]
+     ],
+     "trecho": "BRASÍLIA - A mediana do relatório Focus para a taxa Selic no fim de 2026 subiu de 13,25% para 13,50%, depois de duas semanas de estabilidade. Considerando só as 108 estimativas atualizadas nos últimos cinco dias úteis…",
+     "link": "https://www.estadao.com.br/economia/focus-mercado-eleva-projecao-juros-inflacao-dolar-reduz-previsao-pib/",
+     "publicadoEm": "2026-11-03T12:27:23.000Z",
+     "tipo": "noticia",
+     "numero": {
+      "ok": false,
+      "descricao": "IPCA de set/2026",
+      "valorNoticia": 13.25,
+      "candidatos": [
+       {
+        "serie": "ipcaMes",
+        "periodo": "2026-09",
+        "valor": 0.82
+       },
+       {
+        "serie": "ipca12m",
+        "periodo": "2026-09",
+        "valor": 4.58
+       }
+      ],
+      "nota": "O número citado não foi encontrado na série oficial (IPCA de set/2026). Pode se referir a outro recorte; recomendamos ler a fonte."
+     }
+    },
+    {
+     "veiculo": "folha",
+     "titulo": "Economistas sobem previsão da inflação, juros e dólar até 2029 no primeiro Focus com impacto de vitória de Lula",
+     "tituloMarcado": [
+      [
+       "Economistas",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "sobem",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "previsão",
        false
       ],
       [
@@ -687,7 +637,95 @@
        ""
       ],
       [
-       "mandato",
+       "da",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "inflação,",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "juros",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "dólar",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "até",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "2029",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "no",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "primeiro",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Focus",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "com",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "impacto",
        true
       ],
       [
@@ -703,62 +741,440 @@
        ""
       ],
       [
-       "Trump",
+       "vitória",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Lula",
        false
       ]
      ],
-     "trecho": "Os americanos vão às urnas nesta terça-feira (03) em eleições de meio de mandato decisivas para os dois últimos anos de Donald Trump na Casa Branca. As primeiras seções eleitorais abrem às 6h no horário local (8h em…",
-     "link": "https://noticias.uol.com.br/ultimas-noticias/rfi/2026/11/03/americanos-vao-as-urnas-em-eleicoes-decisivas-para-o-futuro-do-mandato-de-trump.htm",
-     "publicadoEm": "2026-11-03T09:09:01.000Z",
+     "trecho": "Os economistas aumentaram a previsão dos juros, da inflação e do dólar para o Brasil deste ano até 2029 no primeiro boletim Focus com o impacto da vitória de Lula nas eleições realizadas em 25 de outubro. O levantamento…",
+     "link": "https://www1.folha.uol.com.br/mercado/2026/11/economistas-sobem-previsao-da-inflacao-juros-e-dolar-ate-2029-no-primeiro-focus-com-impacto-de-vitoria-de-lula.shtml",
+     "publicadoEm": "2026-11-03T12:41:00.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "gazetadopovo",
+     "titulo": "Mercado eleva projeções de juros e inflação no primeiro Focus após reeleição de Lula",
+     "tituloMarcado": [
+      [
+       "Mercado",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "eleva",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "projeções",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "juros",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "inflação",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "no",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "primeiro",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Focus",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "após",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "reeleição",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Lula",
+       false
+      ]
+     ],
+     "trecho": "Resultado surge em meio à repercussão de proposta levada a Lula para instituir Selic \"tabelada\".",
+     "link": "https://www.gazetadopovo.com.br/economia/mercado-eleva-projecao-de-juros-e-inflacao-no-primeiro-focus-apos-reeleicao-de-lula/",
+     "publicadoEm": "2026-11-03T12:54:10.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "agenciabrasil",
+     "titulo": "Mercado eleva projeção para inflação, juros e dólar em 2026",
+     "tituloMarcado": [
+      [
+       "Mercado",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "eleva",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "projeção",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "para",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "inflação,",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "juros",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "dólar",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "2026",
+       false
+      ]
+     ],
+     "trecho": "O mercado financeiro elevou as projeções para a taxa básica de juros (Selic), a inflação e o dólar neste ano e reduziu, pela terceira semana consecutiva, a estimativa de crescimento da economia. Os dados constam do…",
+     "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/mercado-eleva-projecao-para-inflacao-juros-e-dolar-em-2026",
+     "publicadoEm": "2026-11-03T13:43:00.000Z",
+     "tipo": "noticia",
+     "numero": null
+    }
+   ]
+  },
+  {
+   "id": "https://www.poder360.com.br/poder-justica/ao-vivo-stf-discute-fim-das-bets-em-audiencia-publica/",
+   "veiculos": 5,
+   "primeiro": "2026-11-03T13:00:23.000Z",
+   "ultimo": "2026-11-03T13:39:33.000Z",
+   "comuns": [
+    "STF",
+    "bets",
+    "audiência"
+   ],
+   "politica": null,
+   "materias": [
+    {
+     "veiculo": "poder360",
+     "titulo": "Ao vivo: STF discute fim das bets em audiência pública",
+     "tituloMarcado": [
+      [
+       "Ao",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "vivo:",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "STF",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "discute",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "fim",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "das",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "bets",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "audiência",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "pública",
+       false
+      ]
+     ],
+     "trecho": "Ministérios do governo, PGR, clubes de futebol e associações participam de discussão nesta 3ª feira (3.nov)",
+     "link": "https://www.poder360.com.br/poder-justica/ao-vivo-stf-discute-fim-das-bets-em-audiencia-publica/",
+     "publicadoEm": "2026-11-03T13:00:23.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "folha",
+     "titulo": "Lula convoca militância nas redes sociais para pressionar STF contra bets",
+     "tituloMarcado": [
+      [
+       "Lula",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "convoca",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "militância",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "nas",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "redes",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "sociais",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "para",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "pressionar",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "STF",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "contra",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "bets",
+       false
+      ]
+     ],
+     "trecho": "O presidente Luiz Inácio Lula da Silva (PT) convocou a militância nas redes sociais para pressionar o STF (Supremo Tribunal Federal) contra as bets. A corte realiza nesta terça-feira (3) uma audiência pública para…",
+     "link": "https://c-level.folha.uol.com.br/negocios/2026/11/lula-convoca-militancia-nas-redes-sociais-para-pressionar-stf-contra-bets.shtml",
+     "publicadoEm": "2026-11-03T13:15:00.000Z",
      "tipo": "noticia",
      "numero": null
     },
     {
      "veiculo": "g1",
-     "titulo": "EUA vão às urnas para renovar o Congresso; eleição é decisiva para Trump",
+     "titulo": "Fux cita críticas nas redes e diz que STF já discutiu consequências nocivas das bets",
      "tituloMarcado": [
       [
-       "EUA",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "vão",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "às",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "urnas",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "para",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "renovar",
+       "Fux",
        true
       ],
       [
@@ -766,7 +1182,23 @@
        ""
       ],
       [
-       "o",
+       "cita",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "críticas",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "nas",
        false
       ],
       [
@@ -774,7 +1206,7 @@
        ""
       ],
       [
-       "Congresso;",
+       "redes",
        false
       ],
       [
@@ -782,7 +1214,317 @@
        ""
       ],
       [
-       "eleição",
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "diz",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "que",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "STF",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "já",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "discutiu",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "consequências",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "nocivas",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "das",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "bets",
+       false
+      ]
+     ],
+     "trecho": "O ministro Luiz Fux, do Supremo Tribunal Federal (STF), afirmou nesta terça-feira (3), na abertura de uma audiência pública sobre as bets, que a Corte já discutiu as consequências nocivas das apostas em audiências…",
+     "link": "https://g1.globo.com/politica/noticia/2026/11/03/fux-cita-criticas-nas-redes-e-diz-que-stf-ja-discutiu-consequencias-nocivas-das-bets.ghtml",
+     "publicadoEm": "2026-11-03T13:33:30.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "gazetadopovo",
+     "titulo": "Janja e Paula Lavigne vão a audiência pública sobre bets no STF",
+     "tituloMarcado": [
+      [
+       "Janja",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Paula",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Lavigne",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "vão",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "a",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "audiência",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "pública",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "sobre",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "bets",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "no",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "STF",
+       false
+      ]
+     ],
+     "trecho": "Primeira-dama foi apontada pelo setor como uma das responsáveis pela extinção do mercado de apostas.",
+     "link": "https://www.gazetadopovo.com.br/republica/janja-e-paula-lavigne-participam-de-audiencia-sobre-bets-no-stf/",
+     "publicadoEm": "2026-11-03T13:37:13.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "metropoles",
+     "titulo": "Após Lula pedir pressão contra bets, Janja participa de audiência no STF",
+     "tituloMarcado": [
+      [
+       "Após",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Lula",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "pedir",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "pressão",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "contra",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "bets,",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Janja",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "participa",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "audiência",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "no",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "STF",
+       false
+      ]
+     ],
+     "trecho": "O ministro Fux, do STF, convocou audiência pública, nesta terça-feira (3/11) para discutir impactos da medida que proibiu bets no Brasil",
+     "link": "https://www.metropoles.com/colunas/manoela-alcantara/apos-lula-pedir-pressao-contra-bets-janja-participa-de-audiencia-no-stf",
+     "publicadoEm": "2026-11-03T13:39:33.000Z",
+     "tipo": "coluna",
+     "numero": null
+    }
+   ]
+  },
+  {
+   "id": "https://www.bbc.com/portuguese/articles/cv1j3177ren3o?at_medium=RSS&at_campaign=rss",
+   "veiculos": 5,
+   "primeiro": "2026-11-03T11:42:12.000Z",
+   "ultimo": "2026-11-03T13:39:14.000Z",
+   "comuns": [
+    "choque",
+    "após",
+    "goleiro",
+    "Jesus",
+    "Miguel",
+    "jogador"
+   ],
+   "politica": null,
+   "materias": [
+    {
+     "veiculo": "bbc",
+     "titulo": "Quem é Jesus de Miguel, jogador de futebol espanhol que morreu após choque com goleiro em partida",
+     "tituloMarcado": [
+      [
+       "Quem",
        false
       ],
       [
@@ -798,7 +1540,7 @@
        ""
       ],
       [
-       "decisiva",
+       "Jesus",
        false
       ],
       [
@@ -806,7 +1548,7 @@
        ""
       ],
       [
-       "para",
+       "de",
        false
       ],
       [
@@ -814,43 +1556,118 @@
        ""
       ],
       [
-       "Trump",
+       "Miguel,",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "jogador",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "futebol",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "espanhol",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "que",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "morreu",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "após",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "choque",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "com",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "goleiro",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "partida",
        false
       ]
      ],
-     "trecho": "EUA vão às urnas para renovar o Congresso; eleição é decisiva para Trump Votação nas midterms será nesta terça-feira (3), e pleito vai renovar a Câmara e um terço do Senado. Trump tenta manter a maioria republicana no…",
-     "link": "https://g1.globo.com/mundo/ao-vivo/eleicoes-nos-eua-2026-acompanhe-as-ultimas-noticias-sobre-as-midterms.ghtml",
-     "publicadoEm": "2026-11-03T09:23:32.000Z",
+     "trecho": "Atacante do Tenerife, de 30 anos, teve parada cardíaca após sofrer colisão com goleiro durante partida da segunda divisão espanhola.",
+     "link": "https://www.bbc.com/portuguese/articles/cv1j3177ren3o?at_medium=RSS&at_campaign=rss",
+     "publicadoEm": "2026-11-03T11:42:12.000Z",
      "tipo": "noticia",
      "numero": null
-    }
-   ]
-  },
-  {
-   "id": "https://www.cnnbrasil.com.br/internacional/colisao-entre-helicopteros-durante-pouso-no-everest-deixa-morto/",
-   "veiculos": 4,
-   "primeiro": "2026-11-03T05:16:48.000Z",
-   "ultimo": "2026-11-03T09:38:55.000Z",
-   "comuns": [
-    "helicópteros",
-    "Everest"
-   ],
-   "politica": null,
-   "materias": [
+    },
     {
-     "veiculo": "cnn",
-     "titulo": "Colisão entre helicópteros durante pouso no Everest deixa um morto",
+     "veiculo": "folha",
+     "titulo": "Quem é Jesús de Miguel, jogador de futebol espanhol que morreu após choque com goleiro em partida",
      "tituloMarcado": [
       [
-       "Colisão",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "entre",
+       "Quem",
        false
       ],
       [
@@ -858,7 +1675,7 @@
        ""
       ],
       [
-       "helicópteros",
+       "é",
        false
       ],
       [
@@ -866,7 +1683,134 @@
        ""
       ],
       [
-       "durante",
+       "Jesús",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Miguel,",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "jogador",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "futebol",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "espanhol",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "que",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "morreu",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "após",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "choque",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "com",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "goleiro",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "partida",
+       false
+      ]
+     ],
+     "trecho": "O atacante do Tenerife Jesús de Miguel morreu depois de sofrer uma lesão grave durante uma partida da segunda divisão espanhola. Ele tinha 30 anos.",
+     "link": "https://www1.folha.uol.com.br/esporte/2026/11/quem-e-jesus-de-miguel-jogador-de-futebol-espanhol-que-morreu-apos-choque-com-goleiro-em-partida.shtml",
+     "publicadoEm": "2026-11-03T12:45:00.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "poder360",
+     "titulo": "Atacante do Tenerife morre após choque com goleiro em jogo na Espanha",
+     "tituloMarcado": [
+      [
+       "Atacante",
        true
       ],
       [
@@ -874,8 +1818,183 @@
        ""
       ],
       [
-       "pouso",
+       "do",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Tenerife",
        true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "morre",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "após",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "choque",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "com",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "goleiro",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "jogo",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "na",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Espanha",
+       false
+      ]
+     ],
+     "trecho": "Jesús de Miguel teve parada cardiorrespiratória após colidir com Jesús Owono, do FC Andorra, durante partida da 2ª divisão; socorrido no gramado, acabou morrendo no hospital",
+     "link": "https://www.poder360.com.br/poder-sportsmkt/atacante-do-tenerife-morre-apos-choque-com-goleiro-em-jogo-na-espanha/",
+     "publicadoEm": "2026-11-03T12:56:53.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "cnn",
+     "titulo": "Morte de Jesús de Miguel: entenda caso e perigos de choques no futebol",
+     "tituloMarcado": [
+      [
+       "Morte",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Jesús",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Miguel:",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "entenda",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "caso",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "perigos",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "choques",
+       false
       ],
       [
        " ",
@@ -890,46 +2009,212 @@
        ""
       ],
       [
-       "Everest",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "deixa",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "um",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "morto",
+       "futebol",
        false
       ]
      ],
-     "trecho": "Outra pessoa que estava a bordo ficou ferida e foi resgatada; acidente ocorreu próximo ao acampamento da montanha, no Nepal",
-     "link": "https://www.cnnbrasil.com.br/internacional/colisao-entre-helicopteros-durante-pouso-no-everest-deixa-morto/",
-     "publicadoEm": "2026-11-03T05:16:48.000Z",
+     "trecho": "Jogador morreu nesta terça-feira (3) após sofrer parada cardíaca decorrente de colisão com goleiro Jesús Owono, do FC Andorra, em partida pela segunda divisão espanhola no último domingo (1º)",
+     "link": "https://www.cnnbrasil.com.br/saude/morte-de-jesus-de-miguel-entenda-caso-e-perigos-de-choques-no-futebol/",
+     "publicadoEm": "2026-11-03T13:30:06.000Z",
      "tipo": "noticia",
      "numero": null
     },
     {
-     "veiculo": "folha",
-     "titulo": "Acidente com dois helicópteros no Everest mata turista indiano no Nepal",
+     "veiculo": "metropoles",
+     "titulo": "Messi lamenta morte de jogador após choque com goleiro: \"Muita força\"",
      "tituloMarcado": [
       [
-       "Acidente",
+       "Messi",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "lamenta",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "morte",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "jogador",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "após",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "choque",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "com",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "goleiro:",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "\"Muita",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "força\"",
+       true
+      ]
+     ],
+     "trecho": "Jesús de Miguel, do Tenerife, morreu após choque com goleiro do FC Andorra no meio-campo",
+     "link": "https://www.metropoles.com/esportes/lionel-messi-se-pronuncia-apos-morte-de-jogador-de-30-anos-muita-forca",
+     "publicadoEm": "2026-11-03T13:39:14.000Z",
+     "tipo": "noticia",
+     "numero": null
+    }
+   ]
+  },
+  {
+   "id": "https://f5.folha.uol.com.br/celebridades/2026/11/mae-de-marina-ruy-barbosa-se-manifesta-apos-briga-da-atriz-com-luma-costa.shtml",
+   "veiculos": 4,
+   "primeiro": "2026-11-03T11:00:00.000Z",
+   "ultimo": "2026-11-03T13:53:57.000Z",
+   "comuns": [
+    "Marina",
+    "Ruy",
+    "Barbosa",
+    "briga"
+   ],
+   "politica": null,
+   "materias": [
+    {
+     "veiculo": "folha",
+     "titulo": "Mãe de Marina Ruy Barbosa se manifesta após briga da atriz com Luma Costa",
+     "tituloMarcado": [
+      [
+       "Mãe",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Marina",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Ruy",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Barbosa",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "se",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "manifesta",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "após",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "briga",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "da",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "atriz",
        true
       ],
       [
@@ -945,15 +2230,7 @@
        ""
       ],
       [
-       "dois",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "helicópteros",
+       "Luma",
        false
       ],
       [
@@ -961,70 +2238,22 @@
        ""
       ],
       [
-       "no",
+       "Costa",
        false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Everest",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "mata",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "turista",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "indiano",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "no",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Nepal",
-       true
       ]
      ],
-     "trecho": "Dois helicópteros colidiram e caíram enquanto tentavam pousar na região do monte Everest, no Nepal, nesta terça-feira (3), matando um turista indiano e deixando um neozelandês ferido, informou a polícia. As aeronaves se…",
-     "link": "https://www1.folha.uol.com.br/mundo/2026/11/acidente-com-dois-helicopteros-no-everest-mata-turista-indiano-no-nepal.shtml",
-     "publicadoEm": "2026-11-03T09:02:00.000Z",
+     "trecho": "A mãe de Marina Ruy Barbosa, Gio Ruy Barbosa, se manifestou sobre o desentendimento entre a filha e a atriz Luma Costa, amigas há mais de 20 anos. Em meio à repercussão do caso nas redes sociais, ela pediu paz entre as…",
+     "link": "https://f5.folha.uol.com.br/celebridades/2026/11/mae-de-marina-ruy-barbosa-se-manifesta-apos-briga-da-atriz-com-luma-costa.shtml",
+     "publicadoEm": "2026-11-03T11:00:00.000Z",
      "tipo": "noticia",
      "numero": null
     },
     {
-     "veiculo": "uol",
-     "titulo": "Helicópteros batem perto do Everest; turista indiano morre",
+     "veiculo": "veja",
+     "titulo": "O grupo de mulheres que espalha críticas a Marina Ruy Barbosa",
      "tituloMarcado": [
       [
-       "Helicópteros",
+       "O",
        false
       ],
       [
@@ -1032,7 +2261,7 @@
        ""
       ],
       [
-       "batem",
+       "grupo",
        true
       ],
       [
@@ -1040,7 +2269,7 @@
        ""
       ],
       [
-       "perto",
+       "de",
        false
       ],
       [
@@ -1048,54 +2277,78 @@
        ""
       ],
       [
-       "do",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Everest;",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "turista",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "indiano",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "morre",
+       "mulheres",
        true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "que",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "espalha",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "críticas",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "a",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Marina",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Ruy",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Barbosa",
+       false
       ]
      ],
-     "trecho": "Uma colisão de helicópteros perto do acampamento-base do Everest matou nesta terça-feira (3) um turista indiano de 47 anos em Pheriche, no Nepal. A morte foi confirmada por Bhupendra Thapa, funcionário da administração…",
-     "link": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/11/03/helicopteros-batem-perto-do-everest-turista-indiano-morre.ghtm",
-     "publicadoEm": "2026-11-03T09:13:22.000Z",
+     "trecho": "João Vicente de Castro saiu em defesa da atriz em meio à polêmica",
+     "link": "https://veja.abril.com.br/cultura/o-grupo-de-mulheres-que-espalha-criticas-a-marina-ruy-barbosa/",
+     "publicadoEm": "2026-11-03T12:45:32.000Z",
      "tipo": "noticia",
      "numero": null
     },
     {
-     "veiculo": "poder360",
-     "titulo": "Helicópteros colidem perto do Monte Everest e deixam um morto",
+     "veiculo": "cnn",
+     "titulo": "Luma Costa sobre briga com Marina Ruy Barbosa: “Incontáveis surtos”",
      "tituloMarcado": [
       [
-       "Helicópteros",
+       "Luma",
        false
       ],
       [
@@ -1103,7 +2356,63 @@
        ""
       ],
       [
-       "colidem",
+       "Costa",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "sobre",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "briga",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "com",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Marina",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Ruy",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Barbosa:",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "“Incontáveis",
        true
       ],
       [
@@ -1111,7 +2420,22 @@
        ""
       ],
       [
-       "perto",
+       "surtos”",
+       true
+      ]
+     ],
+     "trecho": "Atriz negou ter deixado de seguir a antiga amiga, criticou especulações sobre o rompimento e afirmou que tentou preservar a amizade por muitos anos",
+     "link": "https://www.cnnbrasil.com.br/pop/celebridades/luma-costa-sobre-briga-com-marina-ruy-barbosa-incontaveis-surtos/",
+     "publicadoEm": "2026-11-03T13:37:23.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "metropoles",
+     "titulo": "Veja detalhes não contados da briga de Marina Ruy Barbosa e amigas",
+     "tituloMarcado": [
+      [
+       "Veja",
        false
       ],
       [
@@ -1119,15 +2443,7 @@
        ""
       ],
       [
-       "do",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Monte",
+       "detalhes",
        true
       ],
       [
@@ -1135,7 +2451,63 @@
        ""
       ],
       [
-       "Everest",
+       "não",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "contados",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "da",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "briga",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Marina",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Ruy",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Barbosa",
        false
       ],
       [
@@ -1151,7 +2523,36 @@
        ""
       ],
       [
-       "deixam",
+       "amigas",
+       true
+      ]
+     ],
+     "trecho": "Marina Ruy Barbosa tentou dialogar com Luma Costa e Lala Rudge antes da briga, o estopim foi política. Veja detalhes exclusivos da treta",
+     "link": "https://www.metropoles.com/colunas/lucas-pasin/veja-detalhes-nao-contados-da-briga-de-marina-ruy-barbosa-e-amigas",
+     "publicadoEm": "2026-11-03T13:53:57.000Z",
+     "tipo": "coluna",
+     "numero": null
+    }
+   ]
+  },
+  {
+   "id": "https://www.gazetadopovo.com.br/mundo/ucrania-diz-russia-tenta-aproveitar-atencoes-voltadas-midterms-apos-ataque-matar-dezenas/",
+   "veiculos": 4,
+   "primeiro": "2026-11-03T12:13:43.000Z",
+   "ultimo": "2026-11-03T13:00:47.000Z",
+   "comuns": [
+    "Ucrânia",
+    "Rússia",
+    "31"
+   ],
+   "politica": null,
+   "materias": [
+    {
+     "veiculo": "gazetadopovo",
+     "titulo": "Ucrânia diz que Rússia tenta se aproveitar das atenções voltadas às midterms após ataque matar dezenas",
+     "tituloMarcado": [
+      [
+       "Ucrânia",
        false
       ],
       [
@@ -1159,7 +2560,7 @@
        ""
       ],
       [
-       "um",
+       "diz",
        false
       ],
       [
@@ -1167,13 +2568,394 @@
        ""
       ],
       [
-       "morto",
+       "que",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Rússia",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "tenta",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "se",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "aproveitar",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "das",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "atenções",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "voltadas",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "às",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "midterms",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "após",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ataque",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "matar",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "dezenas",
+       true
+      ]
+     ],
+     "trecho": "Ataque russo à Ucrânia visou instalações de energia, centro de distribuição de ajuda e hospital no dia das eleições de meio de mandato nos EUA",
+     "link": "https://www.gazetadopovo.com.br/mundo/ucrania-diz-russia-tenta-aproveitar-atencoes-voltadas-midterms-apos-ataque-matar-dezenas/",
+     "publicadoEm": "2026-11-03T12:13:43.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "folha",
+     "titulo": "Rússia deixa Ucrânia no escuro; bombas planadoras matam 31",
+     "tituloMarcado": [
+      [
+       "Rússia",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "deixa",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Ucrânia",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "no",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "escuro;",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "bombas",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "planadoras",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "matam",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "31",
        false
       ]
      ],
-     "trecho": "Segundo autoridade do governo nepalês, uma outra pessoa ficou ferida no acidente nesta 3ª feira",
-     "link": "https://www.poder360.com.br/poder-internacional/helicopteros-colidem-perto-do-monte-everest-e-deixam-um-morto/",
-     "publicadoEm": "2026-11-03T09:38:55.000Z",
+     "trecho": "O começo da semana que antecede a volta das negociações mediadas pelos Estados Unidos sobre a Guerra da Ucrânia foi marcado por violência. A Rússia deixou parte do país vizinho no escuro em um mega-ataque nesta…",
+     "link": "https://www1.folha.uol.com.br/mundo/2026/11/russia-deixa-ucrania-no-escuro-bombas-planadoras-matam-31.shtml",
+     "publicadoEm": "2026-11-03T12:45:00.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "veja",
+     "titulo": "Ataque russo contra centro de ajuda humanitária na Ucrânia deixa 31 mortos",
+     "tituloMarcado": [
+      [
+       "Ataque",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "russo",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "contra",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "centro",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ajuda",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "humanitária",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "na",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Ucrânia",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "deixa",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "31",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "mortos",
+       true
+      ]
+     ],
+     "trecho": "Ao menos 50 pessoas estão desaparecidas; Dezenas de socorristas e voluntários continuam as buscas na tentativa de encontrar sobreviventes",
+     "link": "https://veja.abril.com.br/mundo/ataque-russo-contra-centro-de-ajuda-humanitaria-na-ucrania-deixa-31-mortos/",
+     "publicadoEm": "2026-11-03T12:47:47.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "cnn",
+     "titulo": "Rússia lança nove bombas contra prédio escolar na Ucrânia; 31 morrem",
+     "tituloMarcado": [
+      [
+       "Rússia",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "lança",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "nove",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "bombas",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "contra",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "prédio",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "escolar",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "na",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Ucrânia;",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "31",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "morrem",
+       true
+      ]
+     ],
+     "trecho": "Local era utilizado como abrigo e centro de distribuição de ajuda humanitária, segundo o governador regional, Mykhailo Semikin; outras 48 pessoas estão desaparecidas após",
+     "link": "https://www.cnnbrasil.com.br/internacional/russia-lanca-nove-bombas-contra-predio-escolar-na-ucrania-31-morrem/",
+     "publicadoEm": "2026-11-03T13:00:47.000Z",
      "tipo": "noticia",
      "numero": null
     }
@@ -1183,13 +2965,12 @@
    "id": "https://www1.folha.uol.com.br/cotidiano/2026/11/pec-da-seguranca-amplia-papel-federal-na-area-e-governo-lula-planeja-estrutura-de-novo-ministerio.shtml",
    "veiculos": 4,
    "primeiro": "2026-11-03T02:00:00.000Z",
-   "ultimo": "2026-11-03T09:00:37.000Z",
+   "ultimo": "2026-11-03T12:35:59.000Z",
    "comuns": [
     "PEC",
-    "Segurança",
-    "Senado"
+    "Segurança"
    ],
-   "politica": null,
+   "politica": "Lula",
    "materias": [
     {
      "veiculo": "folha",
@@ -1221,7 +3002,7 @@
       ],
       [
        "amplia",
-       true
+       false
       ],
       [
        " ",
@@ -1327,109 +3108,6 @@
      "numero": null
     },
     {
-     "veiculo": "cnn",
-     "titulo": "Senado inicia hoje análise da PEC da Segurança com impasse sobre maioridade",
-     "tituloMarcado": [
-      [
-       "Senado",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "inicia",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "hoje",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "análise",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "da",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "PEC",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "da",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Segurança",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "com",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "impasse",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "sobre",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "maioridade",
-       false
-      ]
-     ],
-     "trecho": "Governistas querem votar os dois turnos da proposta no mesmo dia e evitar que texto retorno à Câmara; oposição articula emenda sobre mudança na idade mínima para prisão no país",
-     "link": "https://www.cnnbrasil.com.br/politica/senado-inicia-hoje-debate-da-pec-da-seguranca-com-impasse-sobre-maioridade/",
-     "publicadoEm": "2026-11-03T06:15:45.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
      "veiculo": "estadao",
      "titulo": "Maioridade penal e polícia municipal: o que prevê a PEC da Segurança que pode ser votada no Senado",
      "tituloMarcado": [
@@ -1443,7 +3121,7 @@
       ],
       [
        "penal",
-       true
+       false
       ],
       [
        " ",
@@ -1555,7 +3233,7 @@
       ],
       [
        "votada",
-       false
+       true
       ],
       [
        " ",
@@ -1581,9 +3259,25 @@
      "numero": null
     },
     {
-     "veiculo": "veja",
-     "titulo": "PEC da Segurança Pública pode ser votada nesta terça-feira pelo Senado",
+     "veiculo": "cartacapital",
+     "titulo": "Senado vota PEC da Segurança Pública sob pressão bolsonarista para reduzir maioridade penal",
      "tituloMarcado": [
+      [
+       "Senado",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "vota",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
       [
        "PEC",
        false
@@ -1610,6 +3304,22 @@
       ],
       [
        "Pública",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "sob",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "pressão",
        true
       ],
       [
@@ -1617,706 +3327,7 @@
        ""
       ],
       [
-       "pode",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "ser",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "votada",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "nesta",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "terça-feira",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "pelo",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Senado",
-       false
-      ]
-     ],
-     "trecho": "Proposta do governo Lula amplia a integração entre os órgãos responsáveis para o combate ao crime organizado",
-     "link": "https://veja.abril.com.br/politica/pec-da-seguranca-publica-pode-ser-votada-nesta-terca-feira-pelo-senado/",
-     "publicadoEm": "2026-11-03T09:00:37.000Z",
-     "tipo": "noticia",
-     "numero": null
-    }
-   ]
-  },
-  {
-   "id": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/02/mercado-bitcoin-incidente-seguranca.ghtml",
-   "veiculos": 3,
-   "primeiro": "2026-11-02T15:07:21.000Z",
-   "ultimo": "2026-11-03T09:48:13.000Z",
-   "comuns": [
-    "Mercado",
-    "Bitcoin",
-    "ataque",
-    "após",
-    "sofre",
-    "bloqueia"
-   ],
-   "politica": null,
-   "materias": [
-    {
-     "veiculo": "g1",
-     "titulo": "Mercado Bitcoin sofre ataque e suspende saques dias após roubo bilionário na Binance",
-     "tituloMarcado": [
-      [
-       "Mercado",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Bitcoin",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "sofre",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "ataque",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "e",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "suspende",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "saques",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "dias",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "após",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "roubo",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "bilionário",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "na",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Binance",
-       true
-      ]
-     ],
-     "trecho": "Representação do Bitcoin em ilustração produzida em 10 de setembro de 2025 REUTERS/Dado Ruvic/Ilustração/Foto de arquivo Criptomoedas são ativos digitais que não são emitidos por governos, como ocorre com moedas…",
-     "link": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/02/mercado-bitcoin-incidente-seguranca.ghtml",
-     "publicadoEm": "2026-11-02T15:07:21.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "folha",
-     "titulo": "Corretora Mercado Bitcoin bloqueia US$ 11 mi em criptomoedas após sofrer ataque hacker",
-     "tituloMarcado": [
-      [
-       "Corretora",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Mercado",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Bitcoin",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "bloqueia",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "US$",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "11",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "mi",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "em",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "criptomoedas",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "após",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "sofrer",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "ataque",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "hacker",
-       false
-      ]
-     ],
-     "trecho": "A corretora de criptomoedas Mercado Bitcoin disse ter bloqueado cerca de US$ 11 milhões (quase R$ 60 milhões) em criptoativos depois de sofrer um ataque hacker na madrugada desta segunda-feira (2). Até o momento, o…",
-     "link": "https://c-level.folha.uol.com.br/financas/2026/11/corretora-mercado-bitcoin-bloqueia-us-11-mi-em-criptomoedas-apos-sofrer-ataque-hacker.shtml",
-     "publicadoEm": "2026-11-02T23:27:00.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "poder360",
-     "titulo": "Mercado Bitcoin bloqueia US$ 11 milhões após ataque hacker",
-     "tituloMarcado": [
-      [
-       "Mercado",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Bitcoin",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "bloqueia",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "US$",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "11",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "milhões",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "após",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "ataque",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "hacker",
-       false
-      ]
-     ],
-     "trecho": "Corretora diz que clientes não terão perdas; valor total dos ativos envolvidos neste momento é estimado em US$ 38 milhões",
-     "link": "https://www.poder360.com.br/poder-tech/mercado-bitcoin-bloqueia-us-11-milhoes-apos-ataque-hacker/",
-     "publicadoEm": "2026-11-03T09:48:13.000Z",
-     "tipo": "noticia",
-     "numero": null
-    }
-   ]
-  },
-  {
-   "id": "https://www.bbc.com/portuguese/articles/cwg7xpyd1jrgo?at_medium=RSS&at_campaign=rss",
-   "veiculos": 3,
-   "primeiro": "2026-11-02T14:53:58.000Z",
-   "ultimo": "2026-11-03T07:30:36.000Z",
-   "comuns": [
-    "eleições",
-    "futuro",
-    "Trump",
-    "EUA",
-    "legislativas"
-   ],
-   "politica": "eleições",
-   "materias": [
-    {
-     "veiculo": "bbc",
-     "titulo": "O que são as eleições de meio de mandato dos EUA e por que elas podem selar o futuro de Trump?",
-     "tituloMarcado": [
-      [
-       "O",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "que",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "são",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "as",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "eleições",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "meio",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "mandato",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "dos",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "EUA",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "e",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "por",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "que",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "elas",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "podem",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "selar",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "o",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "futuro",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Trump?",
-       false
-      ]
-     ],
-     "trecho": "Os eleitores dos EUA irão às urnas na terça-feira em uma votação que poderá ter grande impacto na presidência de Donald Trump.",
-     "link": "https://www.bbc.com/portuguese/articles/cwg7xpyd1jrgo?at_medium=RSS&at_campaign=rss",
-     "publicadoEm": "2026-11-02T14:53:58.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "gazetadopovo",
-     "titulo": "Eleições legislativas decidem o futuro político de Donald Trump nos Estados Unidos",
-     "tituloMarcado": [
-      [
-       "Eleições",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "legislativas",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "decidem",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "o",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "futuro",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "político",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Donald",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Trump",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "nos",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Estados",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Unidos",
-       true
-      ]
-     ],
-     "trecho": "Entenda como as eleições legislativas nos EUA podem fortalecer Donald Trump ou dar poder aos democratas para investigar e bloquear o governo republicano.",
-     "link": "https://www.gazetadopovo.com.br/mundo/eleicoes-legislativas-decidem-o-futuro-politico-de-donald-trump-nos-estados-unidos/",
-     "publicadoEm": "2026-11-03T04:57:42.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "metropoles",
-     "titulo": "EUA vai às urnas para eleição legislativa que pode impactar futuro de Trump",
-     "tituloMarcado": [
-      [
-       "EUA",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "vai",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "às",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "urnas",
+       "bolsonarista",
        true
       ],
       [
@@ -2332,31 +3343,7 @@
        ""
       ],
       [
-       "eleição",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "legislativa",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "que",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "pode",
+       "reduzir",
        true
       ],
       [
@@ -2364,15 +3351,7 @@
        ""
       ],
       [
-       "impactar",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "futuro",
+       "maioridade",
        false
       ],
       [
@@ -2380,338 +3359,23 @@
        ""
       ],
       [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Trump",
+       "penal",
        false
       ]
      ],
-     "trecho": "Democratas tentam retomar o controle do Congresso em meio à queda de popularidade de Donald Trump e ao desgaste provocado pela guerra no Irã",
-     "link": "https://www.metropoles.com/mundo/eua-urnas-eleicao-legislativa-impactar-futuro-trump",
-     "publicadoEm": "2026-11-03T07:30:36.000Z",
+     "trecho": "Inclusão de emendas sobre a responsabilização criminal de adolescentes expõe divergências no PT e cria um impasse que ameaça atrasar a votação",
+     "link": "https://www.cartacapital.com.br/politica/senado-vota-pec-da-seguranca-publica-sob-pressao-bolsonarista-para-reduzir-maioridade-penal/",
+     "publicadoEm": "2026-11-03T11:52:52.000Z",
      "tipo": "noticia",
      "numero": null
-    }
-   ]
-  },
-  {
-   "id": "https://g1.globo.com/economia/noticia/2026/11/02/midterms-nos-eua-eleicoes-podem-mudar-planos-de-trump-e-mexer-com-dolar-e-juros-no-brasil.ghtml",
-   "veiculos": 3,
-   "primeiro": "2026-11-02T05:00:00.000Z",
-   "ultimo": "2026-11-03T07:00:42.000Z",
-   "comuns": [
-    "Midterms",
-    "eleições",
-    "EUA",
-    "podem",
-    "mudar",
-    "Trump"
-   ],
-   "politica": "eleições",
-   "materias": [
+    },
     {
      "veiculo": "g1",
-     "titulo": "Midterms nos EUA: eleições podem mudar planos de Trump e mexer com dólar e juros no Brasil",
+     "titulo": "PEC da Segurança Pública: proposta pode ampliar recursos e investimentos na segurança do PI, diz secretário",
      "tituloMarcado": [
       [
-       "Midterms",
+       "PEC",
        false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "nos",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "EUA:",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "eleições",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "podem",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "mudar",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "planos",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Trump",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "e",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "mexer",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "com",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "dólar",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "e",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "juros",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "no",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Brasil",
-       true
-      ]
-     ],
-     "trecho": "Por que Trump está preocupado com as midterms? As eleições de meio de mandato nos Estados Unidos, marcadas para esta terça-feira (3), podem mudar os rumos da política econômica do presidente Donald Trump — com possíveis…",
-     "link": "https://g1.globo.com/economia/noticia/2026/11/02/midterms-nos-eua-eleicoes-podem-mudar-planos-de-trump-e-mexer-com-dolar-e-juros-no-brasil.ghtml",
-     "publicadoEm": "2026-11-02T05:00:00.000Z",
-     "tipo": "noticia",
-     "numero": {
-      "ok": false,
-      "descricao": "meta Selic vigente na semana da nota",
-      "valorNoticia": 66,
-      "candidatos": [
-       {
-        "serie": "selic",
-        "periodo": "2026-11-02",
-        "valor": 13.75
-       }
-      ],
-      "nota": "O número citado não foi encontrado na série oficial (meta Selic vigente na semana da nota). Pode se referir a outro recorte; recomendamos ler a fonte."
-     }
-    },
-    {
-     "veiculo": "folha",
-     "titulo": "Entenda as midterms, eleições que podem mudar os rumos do governo Trump",
-     "tituloMarcado": [
-      [
-       "Entenda",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "as",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "midterms,",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "eleições",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "que",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "podem",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "mudar",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "os",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "rumos",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "do",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "governo",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Trump",
-       false
-      ]
-     ],
-     "trecho": "Os Estados Unidos realizam nesta terça-feira (3) as eleições legislativas de meio de mandato, conhecidas como midterms, que renovarão toda a Câmara dos Representantes, parte do Senado e definirão governos estaduais e…",
-     "link": "https://www1.folha.uol.com.br/mundo/2026/11/entenda-as-midterms-eleicoes-que-podem-mudar-os-rumos-do-governo-trump.shtml",
-     "publicadoEm": "2026-11-02T20:00:00.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "cnn",
-     "titulo": "Midterms: Quando saem os resultados da eleição para o Congresso dos EUA?",
-     "tituloMarcado": [
-      [
-       "Midterms:",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Quando",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "saem",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "os",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "resultados",
-       true
       ],
       [
        " ",
@@ -2726,7 +3390,7 @@
        ""
       ],
       [
-       "eleição",
+       "Segurança",
        false
       ],
       [
@@ -2734,7 +3398,7 @@
        ""
       ],
       [
-       "para",
+       "Pública:",
        false
       ],
       [
@@ -2742,15 +3406,7 @@
        ""
       ],
       [
-       "o",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Congresso",
+       "proposta",
        true
       ],
       [
@@ -2758,7 +3414,7 @@
        ""
       ],
       [
-       "dos",
+       "pode",
        false
       ],
       [
@@ -2766,36 +3422,15 @@
        ""
       ],
       [
-       "EUA?",
+       "ampliar",
        false
-      ]
-     ],
-     "trecho": "Votação é crucial para Donald Trump, pois definirá qual partido controlará a Câmara e o Senado pelos próximos anos; isso pode dificultar a aprovação de a agenda política do republicano e facilitar a abertura de…",
-     "link": "https://www.cnnbrasil.com.br/internacional/midterms-quando-saem-os-resultados-da-eleicao-para-o-congresso-dos-eua/",
-     "publicadoEm": "2026-11-03T07:00:42.000Z",
-     "tipo": "noticia",
-     "numero": null
-    }
-   ]
-  },
-  {
-   "id": "https://www.gazetadopovo.com.br/economia/dia-de-finados-quem-trabalha-no-feriado/",
-   "veiculos": 3,
-   "primeiro": "2026-11-01T13:00:00.000Z",
-   "ultimo": "2026-11-03T07:00:00.000Z",
-   "comuns": [
-    "feriado",
-    "nacional",
-    "próximos"
-   ],
-   "politica": null,
-   "materias": [
-    {
-     "veiculo": "gazetadopovo",
-     "titulo": "Dia de Finados: por que 2 de novembro é feriado nacional",
-     "tituloMarcado": [
+      ],
       [
-       "Dia",
+       " ",
+       ""
+      ],
+      [
+       "recursos",
        true
       ],
       [
@@ -2803,7 +3438,7 @@
        ""
       ],
       [
-       "de",
+       "e",
        false
       ],
       [
@@ -2811,430 +3446,8 @@
        ""
       ],
       [
-       "Finados:",
+       "investimentos",
        true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "por",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "que",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "2",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "novembro",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "é",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "feriado",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "nacional",
-       false
-      ]
-     ],
-     "trecho": "Dia de Finados é feriado nacional, mas algumas atividades podem funcionar. Veja as regras para quem trabalha na data.",
-     "link": "https://www.gazetadopovo.com.br/economia/dia-de-finados-quem-trabalha-no-feriado/",
-     "publicadoEm": "2026-11-01T13:00:00.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "g1",
-     "titulo": "Quais são os próximos feriados de 2026? Veja os três que restam",
-     "tituloMarcado": [
-      [
-       "Quais",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "são",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "os",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "próximos",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "feriados",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "2026?",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Veja",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "os",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "três",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "que",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "restam",
-       true
-      ]
-     ],
-     "trecho": "Praia de Copacabana lotada em feriado no Rio Sérgio Telles/ TV Globo Após o feriado de Finados, na segunda-feira (2), que proporcionou a muitos trabalhadores três dias seguidos de descanso, já há quem esteja de olho no…",
-     "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/03/quais-sao-os-proximos-feriados-de-2026.ghtml",
-     "publicadoEm": "2026-11-03T03:00:00.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "folha",
-     "titulo": "Próximo feriado nacional cai em um domingo; veja calendário até o fim do ano",
-     "tituloMarcado": [
-      [
-       "Próximo",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "feriado",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "nacional",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "cai",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "em",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "um",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "domingo;",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "veja",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "calendário",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "até",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "o",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "fim",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "do",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "ano",
-       true
-      ]
-     ],
-     "trecho": "Depois do feriado de Finados, celebrado nesta segunda-feira (2), o próximo feriado nacional será a Proclamação da República, em 15 de novembro. Como cai em um domingo, porém, não representa um dia de folga para quem já…",
-     "link": "https://www1.folha.uol.com.br/mercado/2026/11/proximo-feriado-nacional-cai-em-um-domingo-veja-calendario-ate-o-fim-do-ano.shtml",
-     "publicadoEm": "2026-11-03T07:00:00.000Z",
-     "tipo": "noticia",
-     "numero": null
-    }
-   ]
-  },
-  {
-   "id": "https://veja.abril.com.br/mundo/suprema-corte-dos-eua-rejeita-tentativa-do-governo-trump-de-barrar-20-mil-votos-na-california/",
-   "veiculos": 3,
-   "primeiro": "2026-11-02T22:59:22.000Z",
-   "ultimo": "2026-11-03T00:34:30.000Z",
-   "comuns": [
-    "Trump",
-    "votos",
-    "Califórnia",
-    "Suprema",
-    "Corte",
-    "EUA"
-   ],
-   "politica": null,
-   "materias": [
-    {
-     "veiculo": "veja",
-     "titulo": "Suprema Corte dos EUA rejeita tentativa do governo Trump de barrar 20 mil votos na Califórnia",
-     "tituloMarcado": [
-      [
-       "Suprema",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Corte",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "dos",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "EUA",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "rejeita",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "tentativa",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "do",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "governo",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Trump",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "barrar",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "20",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "mil",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "votos",
-       false
       ],
       [
        " ",
@@ -3249,660 +3462,24 @@
        ""
       ],
       [
-       "Califórnia",
+       "segurança",
        false
-      ]
-     ],
-     "trecho": "Autoridades federais questionavam cidadania dos eleitores. Pleito de meio de mandato ocorre nesta terça-feira",
-     "link": "https://veja.abril.com.br/mundo/suprema-corte-dos-eua-rejeita-tentativa-do-governo-trump-de-barrar-20-mil-votos-na-california/",
-     "publicadoEm": "2026-11-02T22:59:22.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "gazetadopovo",
-     "titulo": "Justiça dos EUA nega pedido de Trump para anular 20 mil votos da Califórnia",
-     "tituloMarcado": [
+      ],
       [
-       "Justiça",
+       " ",
+       ""
+      ],
+      [
+       "do",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "PI,",
        true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "dos",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "EUA",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "nega",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "pedido",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Trump",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "para",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "anular",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "20",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "mil",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "votos",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "da",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Califórnia",
-       false
-      ]
-     ],
-     "trecho": "",
-     "link": "https://www.gazetadopovo.com.br/mundo/justica-dos-eua-nega-pedido-de-trump-para-anular-20-mil-votos-da-california/",
-     "publicadoEm": "2026-11-03T00:03:00.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "cnn",
-     "titulo": "Suprema Corte rejeita tentativa de Trump de separar votos na Califórnia",
-     "tituloMarcado": [
-      [
-       "Suprema",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Corte",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "rejeita",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "tentativa",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Trump",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "separar",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "votos",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "na",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Califórnia",
-       false
-      ]
-     ],
-     "trecho": "Governo disse ter identificado 20 mil pessoas que \"provavelmente não são cidadãos dos Estados Unidos\" entre os eleitores; decisão representa mais uma derrota para o republicano em batalhas judiciais sobre eleições",
-     "link": "https://www.cnnbrasil.com.br/internacional/suprema-corte-rejeita-tentativa-de-trump-de-separar-votos-na-california/",
-     "publicadoEm": "2026-11-03T00:34:30.000Z",
-     "tipo": "noticia",
-     "numero": null
-    }
-   ]
-  },
-  {
-   "id": "https://www.bbc.com/portuguese/articles/cw80z10renkzo?at_medium=RSS&at_campaign=rss",
-   "veiculos": 3,
-   "primeiro": "2026-11-02T10:36:42.000Z",
-   "ultimo": "2026-11-03T00:28:54.000Z",
-   "comuns": [
-    "eleições",
-    "EUA",
-    "relação",
-    "Trump",
-    "mandato",
-    "Lula"
-   ],
-   "politica": "eleições",
-   "materias": [
-    {
-     "veiculo": "bbc",
-     "titulo": "Como eleições nos EUA devem selar destino de Trump e futuro da relação com o Brasil em 4º mandato de Lula",
-     "tituloMarcado": [
-      [
-       "Como",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "eleições",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "nos",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "EUA",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "devem",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "selar",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "destino",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Trump",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "e",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "futuro",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "da",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "relação",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "com",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "o",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Brasil",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "em",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "4º",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "mandato",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Lula",
-       false
-      ]
-     ],
-     "trecho": "Nas eleições de meio de mandato desta terça, oposição democrata pode conquistar controle do Congresso americano e promover maior escrutínio sobre a agenda de Trump para a América Latina.",
-     "link": "https://www.bbc.com/portuguese/articles/cw80z10renkzo?at_medium=RSS&at_campaign=rss",
-     "publicadoEm": "2026-11-02T10:36:42.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "gazetadopovo",
-     "titulo": "Eleições nos EUA: republicanos diminuem distância em relação aos democratas",
-     "tituloMarcado": [
-      [
-       "Eleições",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "nos",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "EUA:",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "republicanos",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "diminuem",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "distância",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "em",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "relação",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "aos",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "democratas",
-       true
-      ]
-     ],
-     "trecho": "Eleições de meio de mandato nos EUA definirá composição da Câmara e renovará parte do Senado em disputa acirrada.",
-     "link": "https://www.gazetadopovo.com.br/mundo/eleicoes-nos-eua-republicanos-se-aproximam-de-democratas/",
-     "publicadoEm": "2026-11-02T13:30:09.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "veja",
-     "titulo": "Relação entre Lula e EUA pode não melhorar mesmo com derrota de Trump nas eleições de meio de mandato, diz especialista",
-     "tituloMarcado": [
-      [
-       "Relação",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "entre",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Lula",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "e",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "EUA",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "pode",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "não",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "melhorar",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "mesmo",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "com",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "derrota",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Trump",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "nas",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "eleições",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "meio",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "mandato,",
-       false
       ],
       [
        " ",
@@ -3917,387 +3494,13 @@
        ""
       ],
       [
-       "especialista",
+       "secretário",
        true
       ]
      ],
-     "trecho": "Professor avalia que uma eventual vitória democrata no Congresso americano não deve produzir mudanças significativas na política externa dos EUA",
-     "link": "https://veja.abril.com.br/mundo/relacao-entre-lula-e-eua-pode-nao-melhorar-mesmo-com-derrota-de-trump-nas-eleicoes-de-meio-de-mandato-diz-especialista/",
-     "publicadoEm": "2026-11-03T00:28:54.000Z",
-     "tipo": "noticia",
-     "numero": null
-    }
-   ]
-  },
-  {
-   "id": "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/11/janones-encontra-cristina-kirchner-na-argentina-e-discute-apoio-para-derrotar-milei-na-campanha-de-2027.shtml",
-   "veiculos": 3,
-   "primeiro": "2026-11-02T21:31:00.000Z",
-   "ultimo": "2026-11-03T00:00:08.000Z",
-   "comuns": [
-    "Janones",
-    "Cristina",
-    "Kirchner",
-    "Milei",
-    "encontra",
-    "Argentina"
-   ],
-   "politica": null,
-   "materias": [
-    {
-     "veiculo": "folha",
-     "titulo": "Janones encontra Cristina Kirchner na Argentina e discute apoio para derrotar Milei na campanha de 2027",
-     "tituloMarcado": [
-      [
-       "Janones",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "encontra",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Cristina",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Kirchner",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "na",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Argentina",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "e",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "discute",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "apoio",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "para",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "derrotar",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Milei",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "na",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "campanha",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "2027",
-       true
-      ]
-     ],
-     "trecho": "O deputado federal André Janones (Rede-MG), que criou o canal de WhatsApp \"Exército de Lula \" e foi aclamado pelo petista como um dos responsáveis por sua reeleição, se encontrou com a ex-presidente da Argentina…",
-     "link": "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/11/janones-encontra-cristina-kirchner-na-argentina-e-discute-apoio-para-derrotar-milei-na-campanha-de-2027.shtml",
-     "publicadoEm": "2026-11-02T21:31:00.000Z",
-     "tipo": "coluna",
-     "numero": null
-    },
-    {
-     "veiculo": "gazetadopovo",
-     "titulo": "Janones visita Cristina Kirchner para lançar “Ejército del peronismo” contra reeleição de Milei",
-     "tituloMarcado": [
-      [
-       "Janones",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "visita",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Cristina",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Kirchner",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "para",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "lançar",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "“Ejército",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "del",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "peronismo”",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "contra",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "reeleição",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Milei",
-       false
-      ]
-     ],
-     "trecho": "Janones visitou Cristina Kirchner e pré-candidato peronista interessado em replicar estratégia digital do 'Exército de Lula' na Argentina.",
-     "link": "https://www.gazetadopovo.com.br/mundo/janones-peronista-exportar-estrategia-digital-contra-reeleicao-de-milei/",
-     "publicadoEm": "2026-11-02T23:07:28.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "estadao",
-     "titulo": "Janones se encontra com Cristina Kirchner na Argentina para discutir oposição a Milei",
-     "tituloMarcado": [
-      [
-       "Janones",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "se",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "encontra",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "com",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Cristina",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Kirchner",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "na",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Argentina",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "para",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "discutir",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "oposição",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "a",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Milei",
-       false
-      ]
-     ],
-     "trecho": "O deputado federal André Janones (Rede-MG) se reuniu com a ex-presidente da Argentina Cristina Kirchner para apresentar estratégias de mobilização política e digital contra o presidente Javier Milei, de olho nas…",
-     "link": "https://www.estadao.com.br/politica/janones-se-encontra-com-cristina-kirchner-na-argentina-para-discutir-oposicao-a-milei-npr/",
-     "publicadoEm": "2026-11-03T00:00:08.000Z",
+     "trecho": "PEC da Segurança Pública: Senado vota hoje proposta que prevê regras mais duras O secretário nacional de Segurança Pública, Chico Lucas, afirmou que a Proposta de Emenda à Constituição (PEC) da Segurança Pública deve…",
+     "link": "https://g1.globo.com/pi/piaui/noticia/2026/11/03/pec-da-seguranca-publica.ghtml",
+     "publicadoEm": "2026-11-03T12:35:59.000Z",
      "tipo": "noticia",
      "numero": null
     }
@@ -4305,14 +3508,12 @@
   },
   {
    "id": "https://www.gazetadopovo.com.br/mundo/plataforma-criptomoedas-binance-retoma-saques-maior-ataque-cibernetico/",
-   "veiculos": 3,
+   "veiculos": 4,
    "primeiro": "2026-11-01T17:02:58.000Z",
-   "ultimo": "2026-11-02T23:02:04.000Z",
+   "ultimo": "2026-11-03T11:56:00.000Z",
    "comuns": [
     "ataque",
-    "após",
-    "Binance",
-    "hacker"
+    "Binance"
    ],
    "politica": null,
    "materias": [
@@ -4504,7 +3705,7 @@
      "tituloMarcado": [
       [
        "Coreia",
-       true
+       false
       ],
       [
        " ",
@@ -4520,7 +3721,7 @@
       ],
       [
        "Norte",
-       true
+       false
       ],
       [
        " ",
@@ -4568,7 +3769,7 @@
       ],
       [
        "envolvimento",
-       true
+       false
       ],
       [
        " ",
@@ -4616,109 +3817,13 @@
      "publicadoEm": "2026-11-02T23:02:04.000Z",
      "tipo": "noticia",
      "numero": null
-    }
-   ]
-  },
-  {
-   "id": "https://www.gazetadopovo.com.br/republica/vorcaro-denuncia-brasil-a-comissao-interamericana-de-direitos-humanos/",
-   "veiculos": 3,
-   "primeiro": "2026-11-02T14:25:31.000Z",
-   "ultimo": "2026-11-02T17:18:29.000Z",
-   "comuns": [
-    "Vorcaro",
-    "Comissão",
-    "Interamericana",
-    "Defesa",
-    "recorre",
-    "prisão"
-   ],
-   "politica": null,
-   "materias": [
-    {
-     "veiculo": "gazetadopovo",
-     "titulo": "Vorcaro denuncia Brasil à Comissão Interamericana de Direitos Humanos",
-     "tituloMarcado": [
-      [
-       "Vorcaro",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "denuncia",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Brasil",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "à",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Comissão",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Interamericana",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Direitos",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Humanos",
-       true
-      ]
-     ],
-     "trecho": "Defesa afirma que pedido de soltura apresentado ao STF continua sem decisão e aponta violações de garantias legais.",
-     "link": "https://www.gazetadopovo.com.br/republica/vorcaro-denuncia-brasil-a-comissao-interamericana-de-direitos-humanos/",
-     "publicadoEm": "2026-11-02T14:25:31.000Z",
-     "tipo": "noticia",
-     "numero": null
     },
     {
-     "veiculo": "estadao",
-     "titulo": "Defesa de Vorcaro recorre à Comissão Interamericana para tentar revogação de prisão e cita violações",
+     "veiculo": "folha",
+     "titulo": "Coreia do Norte nega envolvimento em roubo bilionário à Binance",
      "tituloMarcado": [
       [
-       "Defesa",
+       "Coreia",
        false
       ],
       [
@@ -4726,7 +3831,7 @@
        ""
       ],
       [
-       "de",
+       "do",
        false
       ],
       [
@@ -4734,7 +3839,7 @@
        ""
       ],
       [
-       "Vorcaro",
+       "Norte",
        false
       ],
       [
@@ -4742,47 +3847,7 @@
        ""
       ],
       [
-       "recorre",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "à",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Comissão",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Interamericana",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "para",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "tentar",
+       "nega",
        true
       ],
       [
@@ -4790,134 +3855,7 @@
        ""
       ],
       [
-       "revogação",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "prisão",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "e",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "cita",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "violações",
-       false
-      ]
-     ],
-     "trecho": "BRASÍLIA - A defesa do banqueiro Daniel Vorcaro anunciou nesta segunda-feira, 2, que apresentou uma petição à Comissão Interamericana de Direitos Humanos citando violações à sua dignidade e pedindo intervenção junto ao…",
-     "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/defesa-de-vorcaro-recorre-a-comissao-interamericana-para-tentar-revogacao-de-prisao-e-cita-violacoes/",
-     "publicadoEm": "2026-11-02T14:57:28.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "cartacapital",
-     "titulo": "Defesa de Vorcaro recorre a comissão internacional e alega violações em prisão preventiva",
-     "tituloMarcado": [
-      [
-       "Defesa",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Vorcaro",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "recorre",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "a",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "comissão",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "internacional",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "e",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "alega",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "violações",
+       "envolvimento",
        false
       ],
       [
@@ -4933,7 +3871,23 @@
        ""
       ],
       [
-       "prisão",
+       "roubo",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "bilionário",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "à",
        false
       ],
       [
@@ -4941,13 +3895,5123 @@
        ""
       ],
       [
-       "preventiva",
+       "Binance",
+       false
+      ]
+     ],
+     "trecho": "A Coreia do Norte afirmou que não teve qualquer envolvimento no furto de US$ 6,3 bilhões da Binance, ocorrido na última quinta-feira (29), e classificou a acusação do FBI como uma \"acusação banal\" e uma \"retórica…",
+     "link": "https://c-level.folha.uol.com.br/financas/2026/11/coreia-do-norte-nega-envolvimento-em-roubo-bilionario-a-binance.shtml",
+     "publicadoEm": "2026-11-03T11:56:00.000Z",
+     "tipo": "noticia",
+     "numero": null
+    }
+   ]
+  },
+  {
+   "id": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/02/hackers-atacam-supermercados-europeus-e-elevam-temperatura-de-freezers-a-50c.ghtml",
+   "veiculos": 3,
+   "primeiro": "2026-11-02T11:53:51.000Z",
+   "ultimo": "2026-11-03T13:56:06.000Z",
+   "comuns": [
+    "Hackers",
+    "supermercados",
+    "europeus",
+    "elevam",
+    "temperatura",
+    "geladeiras"
+   ],
+   "politica": null,
+   "materias": [
+    {
+     "veiculo": "g1",
+     "titulo": "Hackers atacam supermercados europeus e elevam temperatura de freezers a 50°C",
+     "tituloMarcado": [
+      [
+       "Hackers",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "atacam",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "supermercados",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "europeus",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "elevam",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "temperatura",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "freezers",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "a",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "50°C",
+       false
+      ]
+     ],
+     "trecho": "Hackers atacam supermercados europeus e elevam temperatura de freezers a 50°C Redes de supermercados de diferentes países europeus relataram nesta segunda-feira (2) problemas em sistemas de refrigeração, em uma série de…",
+     "link": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/02/hackers-atacam-supermercados-europeus-e-elevam-temperatura-de-freezers-a-50c.ghtml",
+     "publicadoEm": "2026-11-02T11:53:51.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "gazetadopovo",
+     "titulo": "Hackers invadem geladeiras de supermercados e elevam temperaturas na Europa",
+     "tituloMarcado": [
+      [
+       "Hackers",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "invadem",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "geladeiras",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "supermercados",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "elevam",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "temperaturas",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "na",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Europa",
+       false
+      ]
+     ],
+     "trecho": "Hackers invadem sistemas de refrigeração na Europa, elevam temperaturas e forçam descarte de alimentos em 5 países. Saiba como os ciberataques ocorreram.",
+     "link": "https://www.gazetadopovo.com.br/mundo/hackers-invadem-geladeiras-de-supermercados-e-elevam-temperaturas-na-europa/",
+     "publicadoEm": "2026-11-02T19:51:37.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "metropoles",
+     "titulo": "Europa: o que se sabe sobre onda hacker contra geladeiras de supermercados",
+     "tituloMarcado": [
+      [
+       "Europa:",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "o",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "que",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "se",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "sabe",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "sobre",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "onda",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "hacker",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "contra",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "geladeiras",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "supermercados",
+       false
+      ]
+     ],
+     "trecho": "Ao menos 9 países tiveram lojas afetadas, em supostas invasões hackers que aumentaram a temperatura dos refrigeradores deliberadamente",
+     "link": "https://www.metropoles.com/mundo/onda-ataques-hackers-supermercados-europa",
+     "publicadoEm": "2026-11-03T13:56:06.000Z",
+     "tipo": "noticia",
+     "numero": null
+    }
+   ]
+  },
+  {
+   "id": "https://www1.folha.uol.com.br/cotidiano/2026/11/mega-da-virada-abre-apostas-nesta-terca-3-com-premio-de-r-1-bilhao.shtml",
+   "veiculos": 3,
+   "primeiro": "2026-11-03T11:37:00.000Z",
+   "ultimo": "2026-11-03T13:55:09.000Z",
+   "comuns": [
+    "Mega",
+    "Virada",
+    "abre",
+    "apostas",
+    "prêmio",
+    "bilhão"
+   ],
+   "politica": null,
+   "materias": [
+    {
+     "veiculo": "folha",
+     "titulo": "Mega da Virada abre apostas nesta terça (3) com prêmio de R$ 1 bilhão",
+     "tituloMarcado": [
+      [
+       "Mega",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "da",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Virada",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "abre",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "apostas",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "nesta",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "terça",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "(3)",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "com",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "prêmio",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "R$",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "1",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "bilhão",
+       false
+      ]
+     ],
+     "trecho": "As apostas na Mega da Virada começam nesta terça-feira (3). O prêmio é estimado em R$ 1 bilhão e não acumula, de acordo com a Caixa.",
+     "link": "https://www1.folha.uol.com.br/cotidiano/2026/11/mega-da-virada-abre-apostas-nesta-terca-3-com-premio-de-r-1-bilhao.shtml",
+     "publicadoEm": "2026-11-03T11:37:00.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "g1",
+     "titulo": "Mega da Virada 2026 abre apostas com prêmio estimado em R$ 1 bilhão",
+     "tituloMarcado": [
+      [
+       "Mega",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "da",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Virada",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "2026",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "abre",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "apostas",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "com",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "prêmio",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "estimado",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "R$",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "1",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "bilhão",
+       false
+      ]
+     ],
+     "trecho": "Sorteio da Mega da Virada deve pagar o maior prêmio da história, de R$ 1 bilhão Tomaz Silva/ Agência Brasil As apostas para a Mega da Virada 2026 foram abertas nesta terça-feira (3). O concurso especial tem prêmio…",
+     "link": "https://g1.globo.com/loterias/noticia/2026/11/03/mega-da-virada-2026-abre-apostas-com-premio-estimado-em-r-1-bilhao.ghtml",
+     "publicadoEm": "2026-11-03T12:55:59.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "metropoles",
+     "titulo": "Mega da Virada abre apostas hoje (3/11) com prêmio de mais de R$ 1 bilhão",
+     "tituloMarcado": [
+      [
+       "Mega",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "da",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Virada",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "abre",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "apostas",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "hoje",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "(3/11)",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "com",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "prêmio",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "mais",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "R$",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "1",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "bilhão",
+       false
+      ]
+     ],
+     "trecho": "As apostas podem ser feitas até o dia 31 de dezembro, com o sorteio marcado para 1º de janeiro de 2027",
+     "link": "https://www.metropoles.com/brasil/mega-da-virada-abre-apostas-hoje-3-11-com-premio-de-mais-de-r-1-bilhao",
+     "publicadoEm": "2026-11-03T13:55:09.000Z",
+     "tipo": "noticia",
+     "numero": null
+    }
+   ]
+  },
+  {
+   "id": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/nao-estamos-tratando-nada-que-justifique-medo-do-mercado-diz-durigan/",
+   "veiculos": 3,
+   "primeiro": "2026-11-03T13:06:22.000Z",
+   "ultimo": "2026-11-03T13:54:00.000Z",
+   "comuns": [
+    "Durigan",
+    "governo",
+    "ajuste",
+    "gradual"
+   ],
+   "politica": null,
+   "materias": [
+    {
+     "veiculo": "cnn",
+     "titulo": "Não estamos tratando nada que justifique medo do mercado, diz Durigan",
+     "tituloMarcado": [
+      [
+       "Não",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "estamos",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "tratando",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "nada",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "que",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "justifique",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "medo",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "do",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "mercado,",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "diz",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Durigan",
+       false
+      ]
+     ],
+     "trecho": "Ministro da Fazenda afirmou nesta terça-feira (3) que governo busca ajuste fiscal gradual e cumprimento dos compromissos assumidos na campanha de Luiz Inácio Lula da Silva (PT)",
+     "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/nao-estamos-tratando-nada-que-justifique-medo-do-mercado-diz-durigan/",
+     "publicadoEm": "2026-11-03T13:06:22.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "estadao",
+     "titulo": "Durigan diz que governo discute ‘ajuste gradual’ e critica ‘deficiências’ em ideia de Lara Resende",
+     "tituloMarcado": [
+      [
+       "Durigan",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "diz",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "que",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "governo",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "discute",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "‘ajuste",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "gradual’",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "critica",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "‘deficiências’",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ideia",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Lara",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Resende",
        true
       ]
      ],
-     "trecho": "O ex-dono do Banco Master está preso há oito meses e foi indiciado pela Polícia Federal na semana passada",
-     "link": "https://www.cartacapital.com.br/justica/defesa-de-vorcaro-recorre-a-comissao-internacional-e-alega-violacoes-em-prisao-preventiva/",
-     "publicadoEm": "2026-11-02T17:18:29.000Z",
+     "trecho": "BRASÍLIA - O ministro da Fazenda, Dario Durigan, afirmou nesta terça-feira, 3, que a ideia apresentada pelo economista André Lara Resende, de limitar os juros no País, tem várias deficiências e não tem nada parecido com…",
+     "link": "https://www.estadao.com.br/economia/durigan-ajuste-gradual-deficiencias-ideia-lara-resende/",
+     "publicadoEm": "2026-11-03T13:53:10.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "folha",
+     "titulo": "Governo prepara ajuste fiscal gradual que 'respeita compromissos de campanha', diz Durigan",
+     "tituloMarcado": [
+      [
+       "Governo",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "prepara",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ajuste",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "fiscal",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "gradual",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "que",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "'respeita",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "compromissos",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "campanha',",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "diz",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Durigan",
+       false
+      ]
+     ],
+     "trecho": "O ministro da Fazenda Dario Durigan afirmou nesta terça-feira (3) que o governo federal prepara um ajuste fiscal gradual que respeite os compromissos de campanha, mas também melhore o estado das contas públicas no país.",
+     "link": "https://www1.folha.uol.com.br/mercado/2026/11/governo-prepara-ajuste-fiscal-gradual-que-respeita-compromissos-de-campanha-diz-durigan.shtml",
+     "publicadoEm": "2026-11-03T13:54:00.000Z",
+     "tipo": "noticia",
+     "numero": null
+    }
+   ]
+  },
+  {
+   "id": "https://www.estadao.com.br/brasil/copilota-de-aviao-que-caiu-na-florida-era-de-familia-de-brasileiros-acidente-deixou-9-mortos/",
+   "veiculos": 3,
+   "primeiro": "2026-11-02T18:49:16.000Z",
+   "ultimo": "2026-11-03T13:39:16.000Z",
+   "comuns": [
+    "avião",
+    "Flórida",
+    "acidente"
+   ],
+   "politica": null,
+   "materias": [
+    {
+     "veiculo": "estadao",
+     "titulo": "Copilota de avião que caiu na Flórida era de família de brasileiros; acidente deixou 9 mortos",
+     "tituloMarcado": [
+      [
+       "Copilota",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "avião",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "que",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "caiu",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "na",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Flórida",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "era",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "família",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "brasileiros;",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "acidente",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "deixou",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "9",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "mortos",
+       true
+      ]
+     ],
+     "trecho": "A copilota do jato particular que despencou na tarde de domingo, 1º, na Flórida, nos Estados Unidos, era uma aviadora de apenas 20 anos e de família brasileira, segundo confirmado pelo jornal The New York Times…",
+     "link": "https://www.estadao.com.br/brasil/copilota-de-aviao-que-caiu-na-florida-era-de-familia-de-brasileiros-acidente-deixou-9-mortos/",
+     "publicadoEm": "2026-11-02T18:49:16.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "bbc",
+     "titulo": "Os detalhes do acidente com avião particular na Flórida",
+     "tituloMarcado": [
+      [
+       "Os",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "detalhes",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "do",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "acidente",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "com",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "avião",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "particular",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "na",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Flórida",
+       false
+      ]
+     ],
+     "trecho": "Secretário de Transportes dos Estados Unidos, Sean Duffy, classifica como uma 'tragédia horrível' o acidente ocorrido a cerca de 14 km do resort Mar-a-Lago, do presidente Donald Trump.",
+     "link": "https://www.bbc.com/portuguese/articles/cm9qz2289dvyo?at_medium=RSS&at_campaign=rss",
+     "publicadoEm": "2026-11-03T09:08:13.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "cnn",
+     "titulo": "Acidente aéreo na Flórida: avião pode ter se desintegrado antes da queda",
+     "tituloMarcado": [
+      [
+       "Acidente",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "aéreo",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "na",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Flórida:",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "avião",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "pode",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ter",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "se",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "desintegrado",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "antes",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "da",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "queda",
+       true
+      ]
+     ],
+     "trecho": "Jato Learjet caiu em área residencial de Palm Beach, na Flórida, matando as nove pessoas a bordo, incluindo uma copilota brasileira de 20 anos",
+     "link": "https://www.cnnbrasil.com.br/internacional/acidente-aereo-na-florida-aviao-pode-ter-se-desintegrado-antes-da-queda/",
+     "publicadoEm": "2026-11-03T13:39:16.000Z",
+     "tipo": "noticia",
+     "numero": null
+    }
+   ]
+  },
+  {
+   "id": "https://www1.folha.uol.com.br/poder/2026/11/douglas-ruas-monta-governo-do-rj-tentando-sair-da-sombra-de-flavio-bolsonaro.shtml",
+   "veiculos": 3,
+   "primeiro": "2026-11-03T02:00:00.000Z",
+   "ultimo": "2026-11-03T13:34:57.000Z",
+   "comuns": [
+    "Douglas",
+    "Ruas",
+    "anuncia",
+    "secretariado",
+    "Casa",
+    "Civil"
+   ],
+   "politica": null,
+   "materias": [
+    {
+     "veiculo": "folha",
+     "titulo": "Douglas Ruas monta Governo do RJ tentando sair da sombra de Flávio Bolsonaro",
+     "tituloMarcado": [
+      [
+       "Douglas",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Ruas",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "monta",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Governo",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "do",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "RJ",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "tentando",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "sair",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "da",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "sombra",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Flávio",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Bolsonaro",
+       true
+      ]
+     ],
+     "trecho": "O governador eleito do Rio de Janeiro, Douglas Ruas (PL), iniciou a montagem de seu secretariado buscando preservar da influência de aliados, em especial do senador Flávio Bolsonaro (PL), áreas-chave da futura gestão.",
+     "link": "https://www1.folha.uol.com.br/poder/2026/11/douglas-ruas-monta-governo-do-rj-tentando-sair-da-sombra-de-flavio-bolsonaro.shtml",
+     "publicadoEm": "2026-11-03T02:00:00.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "g1",
+     "titulo": "Douglas Ruas anuncia parte do secretariado; chefe da equipe de transição vai para a Casa Civil",
+     "tituloMarcado": [
+      [
+       "Douglas",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Ruas",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "anuncia",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "parte",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "do",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "secretariado;",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "chefe",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "da",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "equipe",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "transição",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "vai",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "para",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "a",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Casa",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Civil",
+       false
+      ]
+     ],
+     "trecho": "Maria Gabriela Bessa, Fernanda Louback, Douglas Ruas e Anderson Monteze Henrique Coelho/g1 Douglas Ruas (PL), governador eleito do RJ, apresentou nesta terça-feira (3) alguns dos nomes que vão compor o seu secretariado…",
+     "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/03/douglas-ruas-anuncia-parte-do-secretariado.ghtml",
+     "publicadoEm": "2026-11-03T12:53:54.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "veja",
+     "titulo": "Douglas Ruas anuncia secretários da Casa Civil e Planejamento; saiba quem são",
+     "tituloMarcado": [
+      [
+       "Douglas",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Ruas",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "anuncia",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "secretários",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "da",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Casa",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Civil",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Planejamento;",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "saiba",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "quem",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "são",
+       true
+      ]
+     ],
+     "trecho": "Maria Gabriela Bessa e Anderson Monteze, dois nomes que compõem a equipe de transição, vão chefiar pastas no futuro governo",
+     "link": "https://veja.abril.com.br/politica/douglas-ruas-anuncia-secretarios-da-casa-civil-e-planejamento-saiba-quem-sao/",
+     "publicadoEm": "2026-11-03T13:34:57.000Z",
+     "tipo": "noticia",
+     "numero": null
+    }
+   ]
+  },
+  {
+   "id": "https://www.gazetadopovo.com.br/mundo/janones-peronista-exportar-estrategia-digital-contra-reeleicao-de-milei/",
+   "veiculos": 3,
+   "primeiro": "2026-11-02T23:07:28.000Z",
+   "ultimo": "2026-11-03T13:33:00.000Z",
+   "comuns": [
+    "Janones",
+    "Cristina",
+    "Kirchner",
+    "Milei",
+    "visita"
+   ],
+   "politica": "oposição",
+   "materias": [
+    {
+     "veiculo": "gazetadopovo",
+     "titulo": "Janones visita Cristina Kirchner para lançar “Ejército del peronismo” contra reeleição de Milei",
+     "tituloMarcado": [
+      [
+       "Janones",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "visita",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Cristina",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Kirchner",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "para",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "lançar",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "“Ejército",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "del",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "peronismo”",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "contra",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "reeleição",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Milei",
+       false
+      ]
+     ],
+     "trecho": "Janones visitou Cristina Kirchner e pré-candidato peronista interessado em replicar estratégia digital do 'Exército de Lula' na Argentina.",
+     "link": "https://www.gazetadopovo.com.br/mundo/janones-peronista-exportar-estrategia-digital-contra-reeleicao-de-milei/",
+     "publicadoEm": "2026-11-02T23:07:28.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "estadao",
+     "titulo": "Janones se encontra com Cristina Kirchner na Argentina para discutir oposição a Milei",
+     "tituloMarcado": [
+      [
+       "Janones",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "se",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "encontra",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "com",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Cristina",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Kirchner",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "na",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Argentina",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "para",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "discutir",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "oposição",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "a",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Milei",
+       false
+      ]
+     ],
+     "trecho": "O deputado federal André Janones (Rede-MG) se reuniu com a ex-presidente da Argentina Cristina Kirchner para apresentar estratégias de mobilização política e digital contra o presidente Javier Milei, de olho nas…",
+     "link": "https://www.estadao.com.br/politica/janones-se-encontra-com-cristina-kirchner-na-argentina-para-discutir-oposicao-a-milei-npr/",
+     "publicadoEm": "2026-11-03T00:00:08.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "folha",
+     "titulo": "Chanceler de Milei ironiza visita de Janones a Cristina Kirchner, e governo Lula se distancia de iniciativa",
+     "tituloMarcado": [
+      [
+       "Chanceler",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Milei",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ironiza",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "visita",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Janones",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "a",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Cristina",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Kirchner,",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "governo",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Lula",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "se",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "distancia",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "iniciativa",
+       true
+      ]
+     ],
+     "trecho": "O chanceler argentino Pablo Quirino ironizou a visita que o deputado federal André Janones (Rede-MG) fez à ex-presidente Cristina Kirchner na segunda (2), e também o encontro que ele teve no mesmo dia com o ex-ministro…",
+     "link": "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/11/chanceler-de-milei-ironiza-visita-de-janones-a-cristina-kirchner-e-governo-lula-de-distancia.shtml",
+     "publicadoEm": "2026-11-03T13:33:00.000Z",
+     "tipo": "coluna",
+     "numero": null
+    }
+   ]
+  },
+  {
+   "id": "https://www.estadao.com.br/politica/sem-citar-kassio-gilmar-mendes-critica-conducao-no-tse-silencios-e-hesitacoes-nao-nao-neutros/",
+   "veiculos": 3,
+   "primeiro": "2026-11-03T09:41:09.000Z",
+   "ultimo": "2026-11-03T13:14:12.000Z",
+   "comuns": [
+    "Gilmar",
+    "critica",
+    "TSE",
+    "Kassio",
+    "Mendes",
+    "silêncios"
+   ],
+   "politica": "TSE",
+   "materias": [
+    {
+     "veiculo": "estadao",
+     "titulo": "Sem citar Kassio, Gilmar Mendes critica condução no TSE: ‘silêncios e hesitações não são neutros’",
+     "tituloMarcado": [
+      [
+       "Sem",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "citar",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Kassio,",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Gilmar",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Mendes",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "critica",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "condução",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "no",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "TSE:",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "‘silêncios",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "hesitações",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "não",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "são",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "neutros’",
+       true
+      ]
+     ],
+     "trecho": "Sem citar o ministro Kassio Nunes Marques, presidente do Tribunal Superior Eleitoral (TSE), o ministro Gilmar Mendes, do Supremo Tribunal Federal (STF) afirmou que “de quem está na condução do órgão que organiza o…",
+     "link": "https://www.estadao.com.br/politica/sem-citar-kassio-gilmar-mendes-critica-conducao-no-tse-silencios-e-hesitacoes-nao-nao-neutros/",
+     "publicadoEm": "2026-11-03T09:41:09.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "folha",
+     "titulo": "Gilmar diz que esperava 'postura de árbitro equidistante' do presidente do TSE, em crítica a Kassio",
+     "tituloMarcado": [
+      [
+       "Gilmar",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "diz",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "que",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "esperava",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "'postura",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "árbitro",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "equidistante'",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "do",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "presidente",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "do",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "TSE,",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "crítica",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "a",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Kassio",
+       false
+      ]
+     ],
+     "trecho": "O ministro Gilmar Mendes, decano do STF (Supremo Tribunal Federal), disse em publicação nas redes sociais nesta segunda-feira (2) que esperava, de quem conduz o TSE (Tribunal Superior Eleitoral), \"a postura de árbitro…",
+     "link": "https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/11/gilmar-diz-que-esperava-postura-de-arbitro-equidistante-do-presidente-do-tse-em-critica-a-kassio.shtml",
+     "publicadoEm": "2026-11-03T13:01:00.000Z",
+     "tipo": "coluna",
+     "numero": null
+    },
+    {
+     "veiculo": "cartacapital",
+     "titulo": "Gilmar Mendes critica ‘silêncio e hesitações’ do comando do TSE na eleição",
+     "tituloMarcado": [
+      [
+       "Gilmar",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Mendes",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "critica",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "‘silêncio",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "hesitações’",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "do",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "comando",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "do",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "TSE",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "na",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "eleição",
+       true
+      ]
+     ],
+     "trecho": "Espera-se de quem organiza o pleito uma postura de árbitro equidistante, afirmou o decano do STF",
+     "link": "https://www.cartacapital.com.br/cartaexpressa/gilmar-mendes-critica-silencio-e-hesitacoes-do-comando-do-tse-na-eleicao/",
+     "publicadoEm": "2026-11-03T13:14:12.000Z",
+     "tipo": "noticia",
+     "numero": null
+    }
+   ]
+  },
+  {
+   "id": "https://www.cnnbrasil.com.br/internacional/ameacas-de-bomba-sao-relatadas-em-dois-avioes-com-destino-a-varsovia/",
+   "veiculos": 3,
+   "primeiro": "2026-11-03T12:15:41.000Z",
+   "ultimo": "2026-11-03T13:03:12.000Z",
+   "comuns": [
+    "bomba",
+    "Ameaças",
+    "dois",
+    "aviões",
+    "destino",
+    "Varsóvia"
+   ],
+   "politica": null,
+   "materias": [
+    {
+     "veiculo": "cnn",
+     "titulo": "Ameaças de bomba são relatadas em dois aviões com destino a Varsóvia",
+     "tituloMarcado": [
+      [
+       "Ameaças",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "bomba",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "são",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "relatadas",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "dois",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "aviões",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "com",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "destino",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "a",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Varsóvia",
+       false
+      ]
+     ],
+     "trecho": "Aeronave vinda de Londres pousou em Modlin, que foi fechado, enquanto outro avião, procedente de Copenhague, passou por inspeção em Chopin",
+     "link": "https://www.cnnbrasil.com.br/internacional/ameacas-de-bomba-sao-relatadas-em-dois-avioes-com-destino-a-varsovia/",
+     "publicadoEm": "2026-11-03T12:15:41.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "folha",
+     "titulo": "Dois aviões com destino a Varsóvia recebem ameaça de bomba, e aeroporto suspende operações",
+     "tituloMarcado": [
+      [
+       "Dois",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "aviões",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "com",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "destino",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "a",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Varsóvia",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "recebem",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ameaça",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "bomba,",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "aeroporto",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "suspende",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "operações",
+       true
+      ]
+     ],
+     "trecho": "Dois aviões de passageiros que voavam para Varsóvia, a capital da Polônia, receberam alertas de ameaça de bomba nesta terça-feira (3).",
+     "link": "https://www1.folha.uol.com.br/mundo/2026/11/dois-avioes-com-destino-a-varsovia-recebem-ameaca-de-bomba-e-aeroporto-suspende-operacoes.shtml",
+     "publicadoEm": "2026-11-03T12:29:00.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "veja",
+     "titulo": "Alerta de bomba desvia voo de Londres para aeroporto na Polônia",
+     "tituloMarcado": [
+      [
+       "Alerta",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "bomba",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "desvia",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "voo",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Londres",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "para",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "aeroporto",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "na",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Polônia",
+       true
+      ]
+     ],
+     "trecho": "Aeronave da LOT, com 181 pessoas a bordo, precisou fazer um pouso não programado em Varsóvia; outro avião também recebeu ameaça semelhante",
+     "link": "https://veja.abril.com.br/mundo/ameaca-de-bomba-desvia-voo-de-londres-para-aeroporto-na-polonia/",
+     "publicadoEm": "2026-11-03T13:03:12.000Z",
+     "tipo": "noticia",
+     "numero": null
+    }
+   ]
+  },
+  {
+   "id": "https://g1.globo.com/economia/noticia/2026/11/03/ministro-da-fazenda-diz-que-proposta-para-o-imposto-do-pecado-pode-ser-enviada-hoje-ao-congresso-objetivo-e-manter-carga-atual-em-2027.ghtml",
+   "veiculos": 3,
+   "primeiro": "2026-11-03T12:15:24.000Z",
+   "ultimo": "2026-11-03T13:01:00.000Z",
+   "comuns": [
+    "imposto",
+    "enviada",
+    "terça",
+    "Ministro",
+    "deve",
+    "Congresso"
+   ],
+   "politica": null,
+   "materias": [
+    {
+     "veiculo": "g1",
+     "titulo": "Ministro diz que proposta para 'imposto do pecado' deve ser enviada nesta terça ao Congresso; objetivo é manter carga em 2027",
+     "tituloMarcado": [
+      [
+       "Ministro",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "diz",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "que",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "proposta",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "para",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "'imposto",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "do",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "pecado'",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "deve",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ser",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "enviada",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "nesta",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "terça",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ao",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Congresso;",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "objetivo",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "é",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "manter",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "carga",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "2027",
+       true
+      ]
+     ],
+     "trecho": "Durigan diz que proposta para 'imposto do pecado' deve ser enviada nesta terça ao Congresso O ministro da Fazenda, Dario Durigan, informou nesta terça-feira (3) que tem reunião agendada hoje com o presidente Luiz Inácio…",
+     "link": "https://g1.globo.com/economia/noticia/2026/11/03/ministro-da-fazenda-diz-que-proposta-para-o-imposto-do-pecado-pode-ser-enviada-hoje-ao-congresso-objetivo-e-manter-carga-atual-em-2027.ghtml",
+     "publicadoEm": "2026-11-03T12:15:24.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "cnn",
+     "titulo": "Governo quer enviar MP sobre imposto seletivo nesta terça-feira (3)",
+     "tituloMarcado": [
+      [
+       "Governo",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "quer",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "enviar",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "MP",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "sobre",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "imposto",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "seletivo",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "nesta",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "terça-feira",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "(3)",
+       false
+      ]
+     ],
+     "trecho": "Proposta elaborada pela equipe econômica tem aval dos setores afetados pelo tributo criado pela reforma tributária",
+     "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/governo-quer-enviar-mp-sobre-imposto-seletivo-nesta-terca-feira-3/",
+     "publicadoEm": "2026-11-03T12:21:54.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "folha",
+     "titulo": "Governo deve enviar nesta terça (3) alíquota do Imposto Seletivo ao Congresso, diz ministro",
+     "tituloMarcado": [
+      [
+       "Governo",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "deve",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "enviar",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "nesta",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "terça",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "(3)",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "alíquota",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "do",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Imposto",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Seletivo",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ao",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Congresso,",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "diz",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ministro",
+       false
+      ]
+     ],
+     "trecho": "O ministro da Fazenda, Dario Durigan, afirmou que o governo deve enviar ainda nesta terça-feira (3) ao Congresso Nacional uma medida provisória prevendo as alíquotas do Imposto Seletivo, criado pela reforma tributária…",
+     "link": "https://www1.folha.uol.com.br/mercado/2026/11/governo-deve-enviar-nesta-terca-3-aliquota-do-imposto-seletivo-ao-congresso-diz-ministro.shtml",
+     "publicadoEm": "2026-11-03T13:01:00.000Z",
+     "tipo": "noticia",
+     "numero": null
+    }
+   ]
+  },
+  {
+   "id": "https://www.gazetadopovo.com.br/republica/governo-fala-em-crime-politico-e-envia-forca-nacional-para-proteger-indigenas/",
+   "veiculos": 3,
+   "primeiro": "2026-11-01T16:48:01.000Z",
+   "ultimo": "2026-11-03T12:59:06.000Z",
+   "comuns": [
+    "Força",
+    "Nacional",
+    "indígenas",
+    "apoiará",
+    "Funai",
+    "Terra"
+   ],
+   "politica": null,
+   "materias": [
+    {
+     "veiculo": "gazetadopovo",
+     "titulo": "Governo fala em crime político e envia Força Nacional para proteger indígenas",
+     "tituloMarcado": [
+      [
+       "Governo",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "fala",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "crime",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "político",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "envia",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Força",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Nacional",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "para",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "proteger",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "indígenas",
+       false
+      ]
+     ],
+     "trecho": "Mobilização prevê 145 agentes em três comunidades; dois servidores são afastados após ameaças de envenenamento da água.",
+     "link": "https://www.gazetadopovo.com.br/republica/governo-fala-em-crime-politico-e-envia-forca-nacional-para-proteger-indigenas/",
+     "publicadoEm": "2026-11-01T16:48:01.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "agenciabrasil",
+     "titulo": "Força Nacional apoiará Funai na Terra Indígena Ituna-Itatá, no Pará",
+     "tituloMarcado": [
+      [
+       "Força",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Nacional",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "apoiará",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Funai",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "na",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Terra",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Indígena",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Ituna-Itatá,",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "no",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Pará",
+       false
+      ]
+     ],
+     "trecho": "Agentes da Força Nacional de Segurança Pública vão atuar na Terra Indígena Ituna-Itatá, no Pará, em apoio à Fundação Nacional dos Povos Indígenas (Funai). O Ministério da Justiça e Segurança Pública autorizou a…",
+     "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/forca-nacional-apoiara-funai-na-terra-indigena-ituna-itata-no-para",
+     "publicadoEm": "2026-11-03T12:26:00.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "cartacapital",
+     "titulo": "Força Nacional apoiará Funai na Terra Indígena Ituna-Itatá, no Pará",
+     "tituloMarcado": [
+      [
+       "Força",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Nacional",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "apoiará",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Funai",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "na",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Terra",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Indígena",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Ituna-Itatá,",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "no",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Pará",
+       false
+      ]
+     ],
+     "trecho": "Os agentes atuarão por 180 dias para proteger pessoas e patrimônio na área indígena",
+     "link": "https://www.cartacapital.com.br/sociedade/forca-nacional-apoiara-funai-na-terra-indigena-ituna-itata-no-para/",
+     "publicadoEm": "2026-11-03T12:59:06.000Z",
+     "tipo": "noticia",
+     "numero": null
+    }
+   ]
+  },
+  {
+   "id": "https://www.estadao.com.br/brasil/temporais-com-ventos-de-109-kmh-deixam-rastro-de-destruicao-no-parana/",
+   "veiculos": 3,
+   "primeiro": "2026-11-02T23:52:52.000Z",
+   "ultimo": "2026-11-03T12:58:26.000Z",
+   "comuns": [
+    "Temporais",
+    "destruição",
+    "ventos",
+    "km",
+    "rastro",
+    "Maringá"
+   ],
+   "politica": null,
+   "materias": [
+    {
+     "veiculo": "estadao",
+     "titulo": "Temporais com ventos de 109 km/h deixam rastro de destruição no Paraná",
+     "tituloMarcado": [
+      [
+       "Temporais",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "com",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ventos",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "109",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "km/h",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "deixam",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "rastro",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "destruição",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "no",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Paraná",
+       true
+      ]
+     ],
+     "trecho": "Uma série de fortes tempestades atingiu 21 municípios do Paraná entre o domingo, 1.º, e a madrugada desta segunda-feira, 2, deixando um rastro de destruição. Segundo boletim da Defesa Civil estadual, 4 mil pessoas foram…",
+     "link": "https://www.estadao.com.br/brasil/temporais-com-ventos-de-109-kmh-deixam-rastro-de-destruicao-no-parana/",
+     "publicadoEm": "2026-11-02T23:52:52.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "cnn",
+     "titulo": "Maringá (PR) suspende aulas após temporal que deixou rastro de destruição",
+     "tituloMarcado": [
+      [
+       "Maringá",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "(PR)",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "suspende",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "aulas",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "após",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "temporal",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "que",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "deixou",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "rastro",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "destruição",
+       false
+      ]
+     ],
+     "trecho": "Vendaval provocou a queda de mais de 360 árvores, danificou imóveis e atingiu até a sede do Corpo de Bombeiros; cinco escolas não terão aula e equipes atuam na recuperação da cidade",
+     "link": "https://www.cnnbrasil.com.br/nacional/sul/pr/maringa-pr-suspende-aulas-apos-temporal-que-deixou-rastro-de-destruicao/",
+     "publicadoEm": "2026-11-03T11:49:40.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "g1",
+     "titulo": "Empresas de Maringá são destruídas por temporal com ventos de mais de 90 km/h; ainda não há confirmação de tornado",
+     "tituloMarcado": [
+      [
+       "Empresas",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Maringá",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "são",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "destruídas",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "por",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "temporal",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "com",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ventos",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "mais",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "90",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "km/h;",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ainda",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "não",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "há",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "confirmação",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "tornado",
+       true
+      ]
+     ],
+     "trecho": "Empresas de Maringá são destruídas por temporal com ventos de mais de 90 km/h Barracões de fábricas em Maringá, no Norte do Paraná, tiveram a estrutura destruída durante o temporal que a cidade registrou na madrugada de…",
+     "link": "https://g1.globo.com/pr/norte-noroeste/noticia/2026/11/03/empresas-de-maringa-sao-destruidas-por-temporal.ghtml",
+     "publicadoEm": "2026-11-03T12:58:26.000Z",
+     "tipo": "noticia",
+     "numero": null
+    }
+   ]
+  },
+  {
+   "id": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/03/quais-sao-os-proximos-feriados-de-2026.ghtml",
+   "veiculos": 3,
+   "primeiro": "2026-11-03T03:00:00.000Z",
+   "ultimo": "2026-11-03T12:01:12.000Z",
+   "comuns": [
+    "feriados",
+    "próximos",
+    "2026"
+   ],
+   "politica": null,
+   "materias": [
+    {
+     "veiculo": "g1",
+     "titulo": "Quais são os próximos feriados de 2026? Veja os três que restam",
+     "tituloMarcado": [
+      [
+       "Quais",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "são",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "os",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "próximos",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "feriados",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "2026?",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Veja",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "os",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "três",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "que",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "restam",
+       true
+      ]
+     ],
+     "trecho": "Praia de Copacabana lotada em feriado no Rio Sérgio Telles/ TV Globo Após o feriado de Finados, na segunda-feira (2), que proporcionou a muitos trabalhadores três dias seguidos de descanso, já há quem esteja de olho no…",
+     "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/03/quais-sao-os-proximos-feriados-de-2026.ghtml",
+     "publicadoEm": "2026-11-03T03:00:00.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "folha",
+     "titulo": "Próximo feriado nacional cai em um domingo; veja calendário até o fim do ano",
+     "tituloMarcado": [
+      [
+       "Próximo",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "feriado",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "nacional",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "cai",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "um",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "domingo;",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "veja",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "calendário",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "até",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "o",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "fim",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "do",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ano",
+       true
+      ]
+     ],
+     "trecho": "Depois do feriado de Finados, celebrado nesta segunda-feira (2), o próximo feriado nacional será a Proclamação da República, em 15 de novembro. Como cai em um domingo, porém, não representa um dia de folga para quem já…",
+     "link": "https://www1.folha.uol.com.br/mercado/2026/11/proximo-feriado-nacional-cai-em-um-domingo-veja-calendario-ate-o-fim-do-ano.shtml",
+     "publicadoEm": "2026-11-03T07:00:00.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "cnn",
+     "titulo": "Feriados, emendas e pontos facultativos: veja os “últimos respiros” de 2026",
+     "tituloMarcado": [
+      [
+       "Feriados,",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "emendas",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "pontos",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "facultativos:",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "veja",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "os",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "“últimos",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "respiros”",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "2026",
+       false
+      ]
+     ],
+     "trecho": "Calendário tem três datas nacionais até dezembro, sendo duas em sextas-feiras; ano também terá pontos facultativos nas vésperas de Natal e Ano-Novo",
+     "link": "https://www.cnnbrasil.com.br/nacional/brasil/feriados-emendas-e-pontos-facultativos-veja-os-ultimos-respiros-de-2026/",
+     "publicadoEm": "2026-11-03T12:01:12.000Z",
+     "tipo": "noticia",
+     "numero": null
+    }
+   ]
+  },
+  {
+   "id": "https://www.gazetadopovo.com.br/mundo/o-que-esta-em-jogo-para-trump-nas-eleicoes-que-definirao-o-controle-do-congresso-dos-eua/",
+   "veiculos": 3,
+   "primeiro": "2026-11-03T00:57:08.000Z",
+   "ultimo": "2026-11-03T11:19:45.000Z",
+   "comuns": [
+    "eleições",
+    "EUA",
+    "Trump",
+    "controle",
+    "Congresso",
+    "pode"
+   ],
+   "politica": "eleições",
+   "materias": [
+    {
+     "veiculo": "gazetadopovo",
+     "titulo": "O que está em jogo para Trump nas eleições que definirão o controle do Congresso dos EUA",
+     "tituloMarcado": [
+      [
+       "O",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "que",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "está",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "jogo",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "para",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Trump",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "nas",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "eleições",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "que",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "definirão",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "o",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "controle",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "do",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Congresso",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "dos",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "EUA",
+       false
+      ]
+     ],
+     "trecho": "Disputa pela Câmara e pelo Senado dos EUA pode fortalecer Trump ou ampliar investigações e limitar sua agenda até o fim do mandato.",
+     "link": "https://www.gazetadopovo.com.br/mundo/o-que-esta-em-jogo-para-trump-nas-eleicoes-que-definirao-o-controle-do-congresso-dos-eua/",
+     "publicadoEm": "2026-11-03T00:57:08.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "bbc",
+     "titulo": "Por que a disputa pelo Senado no Texas pode ser decisiva nas eleições dos EUA",
+     "tituloMarcado": [
+      [
+       "Por",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "que",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "a",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "disputa",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "pelo",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Senado",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "no",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Texas",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "pode",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ser",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "decisiva",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "nas",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "eleições",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "dos",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "EUA",
+       false
+      ]
+     ],
+     "trecho": "A disputa de mais de US$ 500 milhões por uma vaga no Senado do Texas está entre as mais acompanhadas das eleições de meio de mandato dos EUA — e seu impacto vai além do controle do Congresso.",
+     "link": "https://www.bbc.com/portuguese/articles/ckg5jlz270g8o?at_medium=RSS&at_campaign=rss",
+     "publicadoEm": "2026-11-03T10:04:52.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "cartacapital",
+     "titulo": "EUA vão às urnas em eleição que testa a força de Trump e pode mudar o controle do Congresso",
+     "tituloMarcado": [
+      [
+       "EUA",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "vão",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "às",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "urnas",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "eleição",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "que",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "testa",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "a",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "força",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Trump",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "pode",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "mudar",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "o",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "controle",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "do",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Congresso",
+       false
+      ]
+     ],
+     "trecho": "Toda a Câmara e 35 das 100 cadeiras do Senado estão em disputa; mais de 54 milhões de americanos já votaram antecipadamente,",
+     "link": "https://www.cartacapital.com.br/mundo/eua-vao-as-urnas-em-eleicao-que-testa-a-forca-de-trump-e-pode-mudar-o-controle-do-congresso/",
+     "publicadoEm": "2026-11-03T11:19:45.000Z",
+     "tipo": "noticia",
+     "numero": null
+    }
+   ]
+  },
+  {
+   "id": "https://g1.globo.com/economia/noticia/2026/11/02/midterms-nos-eua-eleicoes-podem-mudar-planos-de-trump-e-mexer-com-dolar-e-juros-no-brasil.ghtml",
+   "veiculos": 3,
+   "primeiro": "2026-11-02T05:00:00.000Z",
+   "ultimo": "2026-11-03T04:57:42.000Z",
+   "comuns": [
+    "eleições",
+    "Trump",
+    "EUA",
+    "podem",
+    "futuro"
+   ],
+   "politica": "eleições",
+   "materias": [
+    {
+     "veiculo": "g1",
+     "titulo": "Midterms nos EUA: eleições podem mudar planos de Trump e mexer com dólar e juros no Brasil",
+     "tituloMarcado": [
+      [
+       "Midterms",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "nos",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "EUA:",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "eleições",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "podem",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "mudar",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "planos",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Trump",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "mexer",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "com",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "dólar",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "juros",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "no",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Brasil",
+       true
+      ]
+     ],
+     "trecho": "Por que Trump está preocupado com as midterms? As eleições de meio de mandato nos Estados Unidos, marcadas para esta terça-feira (3), podem mudar os rumos da política econômica do presidente Donald Trump — com possíveis…",
+     "link": "https://g1.globo.com/economia/noticia/2026/11/02/midterms-nos-eua-eleicoes-podem-mudar-planos-de-trump-e-mexer-com-dolar-e-juros-no-brasil.ghtml",
+     "publicadoEm": "2026-11-02T05:00:00.000Z",
+     "tipo": "noticia",
+     "numero": {
+      "ok": false,
+      "descricao": "meta Selic vigente na semana da nota",
+      "valorNoticia": 66,
+      "candidatos": [
+       {
+        "serie": "selic",
+        "periodo": "2026-11-02",
+        "valor": 13.75
+       }
+      ],
+      "nota": "O número citado não foi encontrado na série oficial (meta Selic vigente na semana da nota). Pode se referir a outro recorte; recomendamos ler a fonte."
+     }
+    },
+    {
+     "veiculo": "bbc",
+     "titulo": "O que são as eleições de meio de mandato dos EUA e por que elas podem selar o futuro de Trump?",
+     "tituloMarcado": [
+      [
+       "O",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "que",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "são",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "as",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "eleições",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "meio",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "mandato",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "dos",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "EUA",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "por",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "que",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "elas",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "podem",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "selar",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "o",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "futuro",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Trump?",
+       false
+      ]
+     ],
+     "trecho": "Os eleitores dos EUA irão às urnas na terça-feira em uma votação que poderá ter grande impacto na presidência de Donald Trump.",
+     "link": "https://www.bbc.com/portuguese/articles/cwg7xpyd1jrgo?at_medium=RSS&at_campaign=rss",
+     "publicadoEm": "2026-11-02T14:53:58.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "gazetadopovo",
+     "titulo": "Eleições legislativas decidem o futuro político de Donald Trump nos Estados Unidos",
+     "tituloMarcado": [
+      [
+       "Eleições",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "legislativas",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "decidem",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "o",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "futuro",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "político",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Donald",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Trump",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "nos",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Estados",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Unidos",
+       true
+      ]
+     ],
+     "trecho": "Entenda como as eleições legislativas nos EUA podem fortalecer Donald Trump ou dar poder aos democratas para investigar e bloquear o governo republicano.",
+     "link": "https://www.gazetadopovo.com.br/mundo/eleicoes-legislativas-decidem-o-futuro-politico-de-donald-trump-nos-estados-unidos/",
+     "publicadoEm": "2026-11-03T04:57:42.000Z",
      "tipo": "noticia",
      "numero": null
     }

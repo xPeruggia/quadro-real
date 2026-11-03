@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-11-03T09:52:47.626Z",
+ "geradoEm": "2026-11-03T14:02:36.064Z",
  "temas": [
   {
    "id": "precos",
@@ -50,7 +50,7 @@
     "nomeOficial": "IPCA - Variação acumulada em 12 meses",
     "unidadeOficial": null,
     "url": "https://apisidra.ibge.gov.br/values/t/1737/n1/all/v/2265/p/last%2012",
-    "consultadoEm": "2026-11-03T09:52:47.626Z"
+    "consultadoEm": "2026-11-03T14:02:36.064Z"
    },
    "conferencia": {
     "tipo": "sgs",
@@ -265,7 +265,7 @@
     "nomeOficial": "IPCA - Variação mensal",
     "unidadeOficial": null,
     "url": "https://apisidra.ibge.gov.br/values/t/1737/n1/all/v/63/p/last%2012",
-    "consultadoEm": "2026-11-03T09:52:47.626Z"
+    "consultadoEm": "2026-11-03T14:02:36.064Z"
    },
    "conferencia": {
     "tipo": "sgs",
@@ -478,7 +478,7 @@
     "codigo": 432,
     "referencia": "Série 432 do SGS",
     "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.432/dados/ultimos/12?formato=json",
-    "consultadoEm": "2026-11-03T09:52:47.626Z"
+    "consultadoEm": "2026-11-03T14:02:36.064Z"
    },
    "conferencia": null,
    "status": "fonte-unica",
@@ -761,7 +761,7 @@
     "codigo": 1,
     "referencia": "Série 1 do SGS",
     "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.1/dados/ultimos/12?formato=json",
-    "consultadoEm": "2026-11-03T09:52:47.626Z"
+    "consultadoEm": "2026-11-03T14:02:36.064Z"
    },
    "conferencia": {
     "tipo": "ptax",
@@ -1061,7 +1061,7 @@
     "nomeOficial": "Taxa trimestre contra trimestre imediatamente anterior",
     "unidadeOficial": null,
     "url": "https://apisidra.ibge.gov.br/values/t/5932/n1/all/v/6564/p/last%2012/c11255/90707",
-    "consultadoEm": "2026-11-03T09:52:47.626Z"
+    "consultadoEm": "2026-11-03T14:02:36.064Z"
    },
    "conferencia": null,
    "status": "fonte-unica",
@@ -1155,7 +1155,7 @@
     "nomeOficial": "Taxa acumulada ao longo do ano (em relação ao mesmo período do ano anterior)",
     "unidadeOficial": "%",
     "url": "https://apisidra.ibge.gov.br/values/t/5932/n1/all/v/6563/p/last%2012/c11255/90707",
-    "consultadoEm": "2026-11-03T09:52:47.626Z"
+    "consultadoEm": "2026-11-03T14:02:36.064Z"
    },
    "conferencia": null,
    "status": "fonte-unica",
@@ -1249,7 +1249,7 @@
     "nomeOficial": "Taxa de desocupação, na semana de referência, das pessoas de 14 anos ou mais de idade",
     "unidadeOficial": "%",
     "url": "https://apisidra.ibge.gov.br/values/t/6381/n1/all/v/4099/p/last%2012",
-    "consultadoEm": "2026-11-03T09:52:47.626Z"
+    "consultadoEm": "2026-11-03T14:02:36.064Z"
    },
    "conferencia": {
     "tipo": "sgs",
@@ -1464,7 +1464,7 @@
     "nomeOficial": "Rendimento médio mensal real das pessoas de 14 anos ou mais de idade ocupadas na semana de referência com rendimento de trabalho, habitualmente recebido em todos os trabalhos",
     "unidadeOficial": "Reais",
     "url": "https://apisidra.ibge.gov.br/values/t/6390/n1/all/v/5933/p/last%2012",
-    "consultadoEm": "2026-11-03T09:52:47.626Z"
+    "consultadoEm": "2026-11-03T14:02:36.064Z"
    },
    "conferencia": null,
    "status": "fonte-unica",
@@ -1650,7 +1650,7 @@
     "codigo": 13762,
     "referencia": "Série 13762 do SGS",
     "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.13762/dados/ultimos/12?formato=json",
-    "consultadoEm": "2026-11-03T09:52:47.626Z"
+    "consultadoEm": "2026-11-03T14:02:36.064Z"
    },
    "conferencia": {
     "tipo": "razao",
@@ -1854,7 +1854,7 @@
     "codigo": 13761,
     "referencia": "Série 13761 do SGS",
     "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.13761/dados/ultimos/12?formato=json",
-    "consultadoEm": "2026-11-03T09:52:47.626Z"
+    "consultadoEm": "2026-11-03T14:02:36.064Z"
    },
    "conferencia": null,
    "status": "fonte-unica",
@@ -2040,7 +2040,7 @@
     "codigo": 4513,
     "referencia": "Série 4513 do SGS",
     "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.4513/dados/ultimos/12?formato=json",
-    "consultadoEm": "2026-11-03T09:52:47.626Z"
+    "consultadoEm": "2026-11-03T14:02:36.064Z"
    },
    "conferencia": {
     "tipo": "razao",
@@ -2246,7 +2246,7 @@
     "codigo": 5793,
     "referencia": "Série 5793 do SGS",
     "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.5793/dados/ultimos/12?formato=json",
-    "consultadoEm": "2026-11-03T09:52:47.626Z"
+    "consultadoEm": "2026-11-03T14:02:36.064Z"
    },
    "conferencia": null,
    "status": "fonte-unica",
@@ -2753,71 +2753,71 @@
   }
  },
  "focus": {
-  "dataPesquisa": "2026-10-23",
+  "dataPesquisa": "2026-10-30",
   "itens": [
    {
     "indicador": "IPCA",
     "nome": "Inflação (IPCA)",
     "unidade": "%",
     "ano": 2026,
-    "mediana": 5.1891,
-    "respondentes": 142
+    "mediana": 5.2166,
+    "respondentes": 144
    },
    {
     "indicador": "IPCA",
     "nome": "Inflação (IPCA)",
     "unidade": "%",
     "ano": 2027,
-    "mediana": 4.3368,
-    "respondentes": 142
+    "mediana": 4.7646,
+    "respondentes": 144
    },
    {
     "indicador": "PIB Total",
     "nome": "Crescimento do PIB",
     "unidade": "%",
     "ano": 2026,
-    "mediana": 1.8,
-    "respondentes": 113
+    "mediana": 1.7607,
+    "respondentes": 117
    },
    {
     "indicador": "PIB Total",
     "nome": "Crescimento do PIB",
     "unidade": "%",
     "ano": 2027,
-    "mediana": 1.3145,
-    "respondentes": 113
+    "mediana": 1.198,
+    "respondentes": 116
    },
    {
     "indicador": "Selic",
     "nome": "Selic no fim do ano",
     "unidade": "% a.a.",
     "ano": 2026,
-    "mediana": 13.25,
-    "respondentes": 137
+    "mediana": 13.5,
+    "respondentes": 143
    },
    {
     "indicador": "Selic",
     "nome": "Selic no fim do ano",
     "unidade": "% a.a.",
     "ano": 2027,
-    "mediana": 11.75,
-    "respondentes": 136
+    "mediana": 12.5,
+    "respondentes": 143
    },
    {
     "indicador": "Câmbio",
     "nome": "Dólar no fim do ano",
     "unidade": "R$",
     "ano": 2026,
-    "mediana": 5.0495,
-    "respondentes": 112
+    "mediana": 5.3428,
+    "respondentes": 120
    },
    {
     "indicador": "Câmbio",
     "nome": "Dólar no fim do ano",
     "unidade": "R$",
     "ano": 2027,
-    "mediana": 5.15,
-    "respondentes": 111
+    "mediana": 5.4,
+    "respondentes": 119
    }
   ],
   "url": "https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoAnuais?$top=8&$filter=Indicador%20eq%20'IPCA'%20and%20baseCalculo%20eq%200&$orderby=Data%20desc&$format=json",
