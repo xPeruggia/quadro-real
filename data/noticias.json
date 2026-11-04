@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-11-04T14:02:40.189Z",
+ "geradoEm": "2026-11-04T22:35:48.775Z",
  "criterio": "Somente comunicados publicados diretamente pelo IBGE e pelo Banco Central. Itens com termos político-partidários são retirados e listados com o termo encontrado.",
  "fontes": [
   {
@@ -13,11 +13,35 @@
    "fonte": "BCB",
    "ok": true,
    "itens": 100,
-   "ultimoSucesso": "2026-11-04T14:02:40.189Z",
+   "ultimoSucesso": "2026-11-04T22:35:48.775Z",
    "url": null
   }
  ],
  "itens": [
+  {
+   "fonte": "BCB",
+   "fonteNome": "Banco Central do Brasil",
+   "id": "bcb-21309",
+   "tipo": "Nota à imprensa",
+   "titulo": "Copom mantém a taxa Selic em 13,75% a.a.",
+   "resumo": "",
+   "publicadoEm": "2026-11-04T21:31:35Z",
+   "link": "https://www.bcb.gov.br/detalhenoticia/21309/nota",
+   "categoria": "dados",
+   "verificacoes": {
+    "fonteOficial": true,
+    "semConteudoPolitico": true,
+    "numero": {
+     "ok": true,
+     "descricao": "meta Selic vigente na semana da nota",
+     "serie": "selic",
+     "periodo": "2026-11-04",
+     "valorNoticia": 13.75,
+     "valorSerie": 13.75,
+     "nota": "13,75% confere com a série oficial (meta Selic vigente na semana da nota)."
+    }
+   }
+  },
   {
    "fonte": "BCB",
    "fonteNome": "Banco Central do Brasil",
@@ -531,12 +555,12 @@
   {
    "fonte": "IBGE",
    "fonteNome": "Agência de Notícias do IBGE",
-   "id": "ibge-48292",
+   "id": "ibge-48289",
    "tipo": "Divulgação de dado oficial",
-   "titulo": "Em agosto, comércio varejista registra variação de 0,1%",
-   "resumo": "Em agosto de 2026, o volume de vendas no comércio varejista registrou variação de 0,1% frente a julho, na série com ajuste sazonal, após queda de 0,8% em julho de 2026. Com isso, a média móvel trimestral para o varejo, depois de recuar 0,1% no trimestre...",
+   "titulo": "Em setembro, safra prevista pelo IBGE para 2026 é de 354,5 milhões de toneladas",
+   "resumo": "A estimativa de setembro do IBGE para a produção de grãos em 2026 foi de 354,5 milhões de toneladas, 2,4% (8,4 milhões de toneladas) maior que a obtida em 2025 (346,1 milhões de toneladas). Em relação a agosto de 2026, houve aumento de 1.566.233...",
    "publicadoEm": "2026-10-15T09:00:00-03:00",
-   "link": "https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/48292-em-agosto-comercio-varejista-registra-variacao-0-1.html",
+   "link": "https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/48289-em-setembro-safra-prevista-pelo-ibge-para-2026-e-de-354-5-milhoes-de-toneladas.html",
    "editorias": "economicas",
    "categoria": "dados",
    "verificacoes": {
@@ -548,12 +572,12 @@
   {
    "fonte": "IBGE",
    "fonteNome": "Agência de Notícias do IBGE",
-   "id": "ibge-48289",
+   "id": "ibge-48292",
    "tipo": "Divulgação de dado oficial",
-   "titulo": "Em setembro, safra prevista pelo IBGE para 2026 é de 354,5 milhões de toneladas",
-   "resumo": "A estimativa de setembro do IBGE para a produção de grãos em 2026 foi de 354,5 milhões de toneladas, 2,4% (8,4 milhões de toneladas) maior que a obtida em 2025 (346,1 milhões de toneladas). Em relação a agosto de 2026, houve aumento de 1.566.233...",
+   "titulo": "Em agosto, comércio varejista registra variação de 0,1%",
+   "resumo": "Em agosto de 2026, o volume de vendas no comércio varejista registrou variação de 0,1% frente a julho, na série com ajuste sazonal, após queda de 0,8% em julho de 2026. Com isso, a média móvel trimestral para o varejo, depois de recuar 0,1% no trimestre...",
    "publicadoEm": "2026-10-15T09:00:00-03:00",
-   "link": "https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/48289-em-setembro-safra-prevista-pelo-ibge-para-2026-e-de-354-5-milhoes-de-toneladas.html",
+   "link": "https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/48292-em-agosto-comercio-varejista-registra-variacao-0-1.html",
    "editorias": "economicas",
    "categoria": "dados",
    "verificacoes": {
@@ -665,6 +689,23 @@
   {
    "fonte": "IBGE",
    "fonteNome": "Agência de Notícias do IBGE",
+   "id": "ibge-48251",
+   "tipo": "Divulgação de dado oficial",
+   "titulo": "Índice Nacional da Construção Civil apresenta variação de 0,30% em setembro",
+   "resumo": "O Índice Nacional da Construção Civil (Sinapi) apresentou variação de 0,30% em setembro, percentagem que representou a segunda menor no ano. A taxa ficou 0,14 ponto percentual abaixo daquela apresentada em agosto (0,44%). O acumulado dos últimos doze...",
+   "publicadoEm": "2026-10-09T09:00:00-03:00",
+   "link": "https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/48251-indice-nacional-da-construcao-civil-apresenta-variacao-de-0-30-em-setembro.html",
+   "editorias": "economicas",
+   "categoria": "dados",
+   "verificacoes": {
+    "fonteOficial": true,
+    "semConteudoPolitico": true,
+    "numero": null
+   }
+  },
+  {
+   "fonte": "IBGE",
+   "fonteNome": "Agência de Notícias do IBGE",
    "id": "ibge-48246",
    "tipo": "Divulgação de dado oficial",
    "titulo": "IPCA fica em 0,82% em setembro",
@@ -685,23 +726,6 @@
      "valorSerie": 0.82,
      "nota": "0,82% confere com a série oficial (IPCA de set/2026)."
     }
-   }
-  },
-  {
-   "fonte": "IBGE",
-   "fonteNome": "Agência de Notícias do IBGE",
-   "id": "ibge-48251",
-   "tipo": "Divulgação de dado oficial",
-   "titulo": "Índice Nacional da Construção Civil apresenta variação de 0,30% em setembro",
-   "resumo": "O Índice Nacional da Construção Civil (Sinapi) apresentou variação de 0,30% em setembro, percentagem que representou a segunda menor no ano. A taxa ficou 0,14 ponto percentual abaixo daquela apresentada em agosto (0,44%). O acumulado dos últimos doze...",
-   "publicadoEm": "2026-10-09T09:00:00-03:00",
-   "link": "https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/48251-indice-nacional-da-construcao-civil-apresenta-variacao-de-0-30-em-setembro.html",
-   "editorias": "economicas",
-   "categoria": "dados",
-   "verificacoes": {
-    "fonteOficial": true,
-    "semConteudoPolitico": true,
-    "numero": null
    }
   },
   {
@@ -749,23 +773,6 @@
    "link": "https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/48242-em-agosto-industria-recua-em-dez-dos-15-locais-pesquisados.html",
    "editorias": "economicas",
    "categoria": "dados",
-   "verificacoes": {
-    "fonteOficial": true,
-    "semConteudoPolitico": true,
-    "numero": null
-   }
-  },
-  {
-   "fonte": "IBGE",
-   "fonteNome": "Agência de Notícias do IBGE",
-   "id": "ibge-48253",
-   "tipo": "Notícia institucional",
-   "titulo": "Confest/Confege 2026 terá participação internacional e debates sobre dados, inovação e estatísticas",
-   "resumo": "O IBGE apresentou, nesta quinta-feira (8/10), a programação internacional da Conferência Nacional dos Agentes Produtores e Usuários de Dados (Confest/Confege) 2026, no Auditório Joaquim Victor de Holanda, na sede da Federação das Indústrias do Estado do...",
-   "publicadoEm": "2026-10-08T04:10:32-03:00",
-   "link": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48253-confest-coletiva-apresenta-programacao-internacional-2026.html",
-   "editorias": "ibge",
-   "categoria": "institucional",
    "verificacoes": {
     "fonteOficial": true,
     "semConteudoPolitico": true,
