@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-11-05T17:15:14.426Z",
+ "geradoEm": "2026-11-05T20:28:35.673Z",
  "criterio": "O detector lê as ementas das medidas provisórias e dos projetos de lei enviados pelo Poder Executivo à Câmara dos Deputados. Uma proposição entra na lista quando a ementa começa com um dos verbos abaixo seguido diretamente da palavra 'programa' (ex.: 'Institui o Programa…', 'Cria o Programa…', 'Dispõe sobre o Programa…'). Benefícios, adicionais e estratégias dentro de programas já existentes não entram. A classificação como social é automática, por palavras-chave, e pode ser corrigida por um editor no campo 'revisoes'.",
  "verbos": [
   "institui",
@@ -75,19 +75,9 @@
    "total": 43
   },
   {
-   "ano": 2015,
-   "tipo": "PL",
-   "total": 22
-  },
-  {
    "ano": 2016,
    "tipo": "MPV",
    "total": 56
-  },
-  {
-   "ano": 2016,
-   "tipo": "PL",
-   "total": 26
   },
   {
    "ano": 2017,
