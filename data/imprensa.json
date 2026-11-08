@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-11-08T15:53:00.705Z",
+ "geradoEm": "2026-11-08T18:13:45.736Z",
  "janelaHoras": 48,
  "nota": "Matérias publicadas pelos próprios veículos em seus feeds públicos (RSS). O site agrupa as que tratam do mesmo fato, mostra o título e um trecho curto de cada uma, com o link para o texto completo, e não classifica nenhum veículo. Palavras destacadas são as que só aquele veículo usou no título. \"Coluna ou opinião\" e \"Análise\" seguem a seção em que o próprio veículo publicou o texto.",
  "veiculos": [
@@ -22,7 +22,7 @@
    "nome": "Estadão",
    "idioma": "pt",
    "ok": true,
-   "materias": 54
+   "materias": 53
   },
   {
    "id": "cnn",
@@ -50,7 +50,7 @@
    "nome": "Agência Brasil",
    "idioma": "pt",
    "ok": true,
-   "materias": 16
+   "materias": 15
   },
   {
    "id": "poder360",
@@ -64,14 +64,14 @@
    "nome": "UOL",
    "idioma": "pt",
    "ok": true,
-   "materias": 14
+   "materias": 15
   },
   {
    "id": "gazetadopovo",
    "nome": "Gazeta do Povo",
    "idioma": "pt",
    "ok": true,
-   "materias": 132
+   "materias": 135
   },
   {
    "id": "cartacapital",
@@ -95,35 +95,28 @@
    "materias": 20
   }
  ],
- "totalMaterias": 586,
+ "totalMaterias": 584,
  "comparacoes": [
   {
-   "id": "https://www1.folha.uol.com.br/mundo/2026/11/presidente-de-israel-escolhe-gadi-eisenkot-rival-de-netanyahu-para-tentar-formar-governo.shtml",
-   "veiculos": 4,
-   "primeiro": "2026-11-07T20:41:00.000Z",
-   "ultimo": "2026-11-08T15:45:26.000Z",
+   "id": "https://www.cnnbrasil.com.br/educacao/enem-2026-tema-da-redacao-e-divulgado-veja/",
+   "veiculos": 7,
+   "primeiro": "2026-11-08T16:40:57.000Z",
+   "ultimo": "2026-11-08T18:01:30.000Z",
    "comuns": [
-    "Netanyahu",
-    "Israel",
-    "novo",
-    "governo"
+    "Enem",
+    "redação",
+    "tema",
+    "valorização",
+    "2026"
    ],
    "politica": null,
    "materias": [
     {
-     "veiculo": "folha",
-     "titulo": "Presidente de Israel indica opositor para formar novo governo e pode acabar com era Netanyahu",
+     "veiculo": "cnn",
+     "titulo": "Enem 2026: tema da redação é divulgado; veja",
      "tituloMarcado": [
       [
-       "Presidente",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
+       "Enem",
        false
       ],
       [
@@ -131,7 +124,7 @@
        ""
       ],
       [
-       "Israel",
+       "2026:",
        false
       ],
       [
@@ -139,15 +132,7 @@
        ""
       ],
       [
-       "indica",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "opositor",
+       "tema",
        false
       ],
       [
@@ -155,7 +140,7 @@
        ""
       ],
       [
-       "para",
+       "da",
        false
       ],
       [
@@ -163,102 +148,7 @@
        ""
       ],
       [
-       "formar",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "novo",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "governo",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "e",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "pode",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "acabar",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "com",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "era",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Netanyahu",
-       false
-      ]
-     ],
-     "trecho": "A era de Binyamin Netanyahu no poder de Israel pode chegar ao fim nas próximas semanas. O presidente do país, Isaac Herzog, indicou Gadi Eisenkot, principal rival político do atual premiê, para tentar formar um novo…",
-     "link": "https://www1.folha.uol.com.br/mundo/2026/11/presidente-de-israel-escolhe-gadi-eisenkot-rival-de-netanyahu-para-tentar-formar-governo.shtml",
-     "publicadoEm": "2026-11-07T20:41:00.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "gazetadopovo",
-     "titulo": "Opositor de Netanyahu é escolhido para organizar novo governo em Israel",
-     "tituloMarcado": [
-      [
-       "Opositor",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Netanyahu",
+       "redação",
        false
       ],
       [
@@ -274,7 +164,1180 @@
        ""
       ],
       [
-       "escolhido",
+       "divulgado;",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "veja",
+       false
+      ]
+     ],
+     "trecho": "Mais de 5 milhões de pessoas fizeram inscrição para o exame neste ano; primeiro dia de prova tem redação, linguagens e ciências humanas",
+     "link": "https://www.cnnbrasil.com.br/educacao/enem-2026-tema-da-redacao-e-divulgado-veja/",
+     "publicadoEm": "2026-11-08T16:40:57.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "g1",
+     "titulo": "Tema da redação do Enem 2026 é 'A valorização do Sistema Único de Saúde (SUS) como direito universal'",
+     "tituloMarcado": [
+      [
+       "Tema",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "da",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "redação",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "do",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Enem",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "2026",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "é",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "'A",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "valorização",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "do",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Sistema",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Único",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Saúde",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "(SUS)",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "como",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "direito",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "universal'",
+       false
+      ]
+     ],
+     "trecho": "Tema da redação convida a discutir a desvalorização do SUS também, diz professor O tema da redação do Exame Nacional do Ensino Médio (Enem) 2026 é “A valorização do Sistema Único de Saúde (SUS) como direito universal\"…",
+     "link": "https://g1.globo.com/educacao/enem/2026/noticia/2026/11/08/tema-da-redacao-do-enem-2026-e-a-valorizacao-do-sistema-unico-de-saude-sus-como-direito-universal.ghtml",
+     "publicadoEm": "2026-11-08T16:41:10.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "folha",
+     "titulo": "Tema da redação do Enem 2026 é 'a valorização do SUS como direito universal'",
+     "tituloMarcado": [
+      [
+       "Tema",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "da",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "redação",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "do",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Enem",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "2026",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "é",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "'a",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "valorização",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "do",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "SUS",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "como",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "direito",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "universal'",
+       false
+      ]
+     ],
+     "trecho": "O tema da redação do Enem 2026 é \"A valorização do SUS como direito universal\". A proposta foi apresentada aos candidatos neste domingo (8), durante o primeiro dia de provas do exame, que também incluiu questões de…",
+     "link": "https://www1.folha.uol.com.br/educacao/2026/11/tema-da-redacao-do-enem-2026-e-a-valorizacao-do-sus-como-direito-universal.shtml",
+     "publicadoEm": "2026-11-08T16:43:00.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "poder360",
+     "titulo": "Redação do Enem 2026 aborda valorização do SUS como direito universal",
+     "tituloMarcado": [
+      [
+       "Redação",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "do",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Enem",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "2026",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "aborda",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "valorização",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "do",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "SUS",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "como",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "direito",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "universal",
+       false
+      ]
+     ],
+     "trecho": "Tema foi divulgado pelo Inep neste domingo (8.nov); candidatos devem produzir texto dissertativo-argumentativo de até 30 linhas",
+     "link": "https://www.poder360.com.br/poder-educacao/tema-da-redacao-do-enem-2026-e-a-valorizacao-do-sus-como-direito-universal/",
+     "publicadoEm": "2026-11-08T17:09:05.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "agenciabrasil",
+     "titulo": "Tema da redação do Enem é “Valorização do SUS como direito universal”",
+     "tituloMarcado": [
+      [
+       "Tema",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "da",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "redação",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "do",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Enem",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "é",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "“Valorização",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "do",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "SUS",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "como",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "direito",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "universal”",
+       false
+      ]
+     ],
+     "trecho": "O tema da redação do Exame Nacional do Ensino Médio (Enem) de 2026 é “A valorização do Sistema Único de Saúde (SUS) como direito universal”, conforme divulgado pelo ministro da Educação, Leonardo Barchini, em redes…",
+     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/tema-da-redacao-do-enem-e-valorizacao-do-sus-como-direito-universal",
+     "publicadoEm": "2026-11-08T17:10:00.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "veja",
+     "titulo": "Valorização do SUS é tema da redação do Enem 2026",
+     "tituloMarcado": [
+      [
+       "Valorização",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "do",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "SUS",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "é",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "tema",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "da",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "redação",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "do",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Enem",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "2026",
+       false
+      ]
+     ],
+     "trecho": "Primeiro dia de provas acontece neste domingo, 8, com 90 questões sobre Linguagens, Códigos e suas Tecnologias e Ciências Humanas e suas Tecnologias",
+     "link": "https://veja.abril.com.br/brasil/a-valorizacao-do-sistema-unico-de-saude-sus-como-direito-universal-e-tema-da-redacao-do-enem/",
+     "publicadoEm": "2026-11-08T17:25:39.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "gazetadopovo",
+     "titulo": "Inep escolhe valorização do SUS como tema da redação do Enem",
+     "tituloMarcado": [
+      [
+       "Inep",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "escolhe",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "valorização",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "do",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "SUS",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "como",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "tema",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "da",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "redação",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "do",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Enem",
+       false
+      ]
+     ],
+     "trecho": "Candidatos devem escrever até 30 linhas sobre acesso universal ao sistema de saúde pública.",
+     "link": "https://www.gazetadopovo.com.br/educacao/inep-escolhe-valorizacao-do-sus-como-tema-da-redacao-do-enem/",
+     "publicadoEm": "2026-11-08T18:01:30.000Z",
+     "tipo": "noticia",
+     "numero": null
+    }
+   ]
+  },
+  {
+   "id": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/11/08/piloto-do-helicoptero-que-caiu-em-passos-mg-morre-apos-acidente.ghtm",
+   "veiculos": 4,
+   "primeiro": "2026-11-08T16:39:31.000Z",
+   "ultimo": "2026-11-08T17:28:48.000Z",
+   "comuns": [
+    "Morre",
+    "piloto",
+    "helicóptero",
+    "caiu"
+   ],
+   "politica": null,
+   "materias": [
+    {
+     "veiculo": "uol",
+     "titulo": "Morre piloto de helicóptero que caiu em Passos (MG)",
+     "tituloMarcado": [
+      [
+       "Morre",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "piloto",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "helicóptero",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "que",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "caiu",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Passos",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "(MG)",
+       false
+      ]
+     ],
+     "trecho": "O piloto do helicóptero que caiu ontem em Passos (MG) morreu, de acordo com a Polícia Civil de Minas.",
+     "link": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/11/08/piloto-do-helicoptero-que-caiu-em-passos-mg-morre-apos-acidente.ghtm",
+     "publicadoEm": "2026-11-08T16:39:31.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "veja",
+     "titulo": "Piloto de 43 anos morre após queda de helicóptero em fazenda em Minas Gerais",
+     "tituloMarcado": [
+      [
+       "Piloto",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "43",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "anos",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "morre",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "após",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "queda",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "helicóptero",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "fazenda",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Minas",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Gerais",
+       false
+      ]
+     ],
+     "trecho": "Corpo de Rafael Grossi Teixeira passará por análise do IML; outros quatro passageiros estão internados com quadro estável",
+     "link": "https://veja.abril.com.br/brasil/piloto-de-43-anos-morre-apos-queda-de-helicoptero-em-fazenda-em-minas-gerais/",
+     "publicadoEm": "2026-11-08T16:56:47.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "metropoles",
+     "titulo": "Morre piloto de helicóptero que caiu em MG a caminho de casamento",
+     "tituloMarcado": [
+      [
+       "Morre",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "piloto",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "helicóptero",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "que",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "caiu",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "MG",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "a",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "caminho",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "casamento",
+       true
+      ]
+     ],
+     "trecho": "Rafael Grossi chegou a ser resgatado com vida e levado ao hospital, mas não resistiu aos ferimentos. Outras quatro pessoas ficaram feridas",
+     "link": "https://www.metropoles.com/minas-gerais/morre-piloto-de-helicoptero-que-caiu-em-mg-a-caminho-de-casamento",
+     "publicadoEm": "2026-11-08T17:13:33.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "cnn",
+     "titulo": "Morre piloto de helicóptero que caiu em zona rural de Minas Gerais",
+     "tituloMarcado": [
+      [
+       "Morre",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "piloto",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "helicóptero",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "que",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "caiu",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "zona",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "rural",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Minas",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Gerais",
+       false
+      ]
+     ],
+     "trecho": "Acidente ocorreu neste sábado (7), na zona rural de Passos, no Sul do estado mineiro; outras quatro pessoas também estavam na aeronave",
+     "link": "https://www.cnnbrasil.com.br/nacional/sudeste/mg/morre-piloto-de-helicoptero-que-caiu-em-zona-rural-de-minas-gerais/",
+     "publicadoEm": "2026-11-08T17:28:48.000Z",
+     "tipo": "noticia",
+     "numero": null
+    }
+   ]
+  },
+  {
+   "id": "https://www.gazetadopovo.com.br/mundo/netanyahu-perde-apoio-de-aliado-e-rival-alcanca-maioria-para-tentar-formar-novo-governo-em-israel/",
+   "veiculos": 4,
+   "primeiro": "2026-11-06T21:51:53.000Z",
+   "ultimo": "2026-11-08T16:52:51.000Z",
+   "comuns": [
+    "Israel",
+    "Netanyahu",
+    "rival",
+    "formar",
+    "novo",
+    "governo"
+   ],
+   "politica": null,
+   "materias": [
+    {
+     "veiculo": "gazetadopovo",
+     "titulo": "Netanyahu perde apoio de aliado e rival alcança maioria para tentar formar novo governo em Israel",
+     "tituloMarcado": [
+      [
+       "Netanyahu",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "perde",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "apoio",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "aliado",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "rival",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "alcança",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "maioria",
        true
       ],
       [
@@ -290,8 +1353,16 @@
        ""
       ],
       [
-       "organizar",
-       true
+       "tentar",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "formar",
+       false
       ],
       [
        " ",
@@ -326,9 +1397,9 @@
        false
       ]
      ],
-     "trecho": "Opositor de Netanyahu foi designado para liderar as negociações destinadas a formar um novo governo em Israel.",
-     "link": "https://www.gazetadopovo.com.br/mundo/opositor-de-netanyahu-e-escolhido-para-organizar-novo-governo-em-israel/",
-     "publicadoEm": "2026-11-08T01:21:29.000Z",
+     "trecho": "Rival de Netanyahu recebe apoio de 67 deputados para tentar formar governo em Israel. Atual premiê perdeu apoio de um aliado histórico.",
+     "link": "https://www.gazetadopovo.com.br/mundo/netanyahu-perde-apoio-de-aliado-e-rival-alcanca-maioria-para-tentar-formar-novo-governo-em-israel/",
+     "publicadoEm": "2026-11-06T21:51:53.000Z",
      "tipo": "noticia",
      "numero": null
     },
@@ -386,7 +1457,7 @@
       ],
       [
        "rival",
-       true
+       false
       ],
       [
        " ",
@@ -418,7 +1489,7 @@
       ],
       [
        "pode",
-       false
+       true
       ],
       [
        " ",
@@ -476,11 +1547,19 @@
      "numero": null
     },
     {
-     "veiculo": "uol",
-     "titulo": "Eisenkot convida partido de Netanyahu a formar coalizão de governo",
+     "veiculo": "g1",
+     "titulo": "Presidente de Israel oficializa escolha de rival de Netanyahu para tentar formar novo governo",
      "tituloMarcado": [
       [
-       "Eisenkot",
+       "Presidente",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
        false
       ],
       [
@@ -488,7 +1567,15 @@
        ""
       ],
       [
-       "convida",
+       "Israel",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "oficializa",
        true
       ],
       [
@@ -496,8 +1583,24 @@
        ""
       ],
       [
-       "partido",
+       "escolha",
        true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "rival",
+       false
       ],
       [
        " ",
@@ -520,7 +1623,15 @@
        ""
       ],
       [
-       "a",
+       "para",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "tentar",
        false
       ],
       [
@@ -536,15 +1647,7 @@
        ""
       ],
       [
-       "coalizão",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
+       "novo",
        false
       ],
       [
@@ -556,382 +1659,26 @@
        false
       ]
      ],
-     "trecho": "Gadi Eisenkot, designado neste domingo (8) para formar um novo governo em Israel, disse estar aberto à possibilidade de o primeiro-ministro em fim de mandato, Benjamin Netanyahu, e um de seus aliados de extrema direita…",
-     "link": "https://noticias.uol.com.br/ultimas-noticias/afp/2026/11/08/eisenkot-convida-partido-de-netanyahu-a-formar-coalizao-de-governo.htm",
-     "publicadoEm": "2026-11-08T15:45:26.000Z",
-     "tipo": "noticia",
-     "numero": null
-    }
-   ]
-  },
-  {
-   "id": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/11/08/buscas-desaparecido-apos-embarcacoes-virarem-no-rio-dourado-lins.ghtml",
-   "veiculos": 4,
-   "primeiro": "2026-11-08T13:39:06.000Z",
-   "ultimo": "2026-11-08T15:36:35.000Z",
-   "comuns": [
-    "Temporal",
-    "desaparecido",
-    "após",
-    "SP"
-   ],
-   "politica": null,
-   "materias": [
-    {
-     "veiculo": "g1",
-     "titulo": "Temporal vira barcos com cinco pessoas em Lins, deixa desaparecido e causa estragos na região",
-     "tituloMarcado": [
-      [
-       "Temporal",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "vira",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "barcos",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "com",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "cinco",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "pessoas",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "em",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Lins,",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "deixa",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "desaparecido",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "e",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "causa",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "estragos",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "na",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "região",
-       true
-      ]
-     ],
-     "trecho": "Duas embarcações viram no Rio Dourado, em Lins (SP): Quatro dos cinco ocupantes foram resgatados com segurança pelo Corpo de Bombeiros, uma pessoa segue desaparecida. Gabriel Pelosi/TV TEM Duas embarcações de pequeno…",
-     "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/11/08/buscas-desaparecido-apos-embarcacoes-virarem-no-rio-dourado-lins.ghtml",
-     "publicadoEm": "2026-11-08T13:39:06.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "cnn",
-     "titulo": "Homem está desaparecido após ser arrastado por enxurrada na zona Sul de SP",
-     "tituloMarcado": [
-      [
-       "Homem",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "está",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "desaparecido",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "após",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "ser",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "arrastado",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "por",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "enxurrada",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "na",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "zona",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Sul",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "SP",
-       false
-      ]
-     ],
-     "trecho": "Defesa Civil informou que outro homem, de cerca de 50 anos, também está desaparecido após um barco virar no Rio Dourado em Lins, no interior paulista",
-     "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/homem-esta-desaparecido-apos-ser-arrastado-por-enxurrada-na-zona-sul-de-sp/",
-     "publicadoEm": "2026-11-08T14:18:59.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "metropoles",
-     "titulo": "Sobe para 2 o número de desaparecidos após temporal atingir estado de SP",
-     "tituloMarcado": [
-      [
-       "Sobe",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "para",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "2",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "o",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "número",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "desaparecidos",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "após",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "temporal",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "atingir",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "estado",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "SP",
-       false
-      ]
-     ],
-     "trecho": "Além de jovem arrastado por correnteza na zona sul da capital, uma pessoa está desaparecida após a embarcação onde ela estava virar em Lins",
-     "link": "https://www.metropoles.com/sao-paulo/sobe-para-2-o-numero-de-desaparecidos-apos-temporal-atingir-estado-de-sp",
-     "publicadoEm": "2026-11-08T14:34:34.000Z",
+     "trecho": "Presidente de Israel escolhe rival de Netanyahu para tentar formar novo governo O presidente de Israel, Isaac Herzog, oficializou, neste domingo (8), a escolha para que Gadi Eisenkot, principal adversário do…",
+     "link": "https://g1.globo.com/mundo/noticia/2026/11/08/presidente-de-israel-oficializa-escolha-de-rival-de-netanyahu-para-tentar-formar-novo-governo.ghtml",
+     "publicadoEm": "2026-11-08T16:26:47.000Z",
      "tipo": "noticia",
      "numero": null
     },
     {
      "veiculo": "uol",
-     "titulo": "Jovem some após ser arrastado por correnteza em temporal na zona sul de SP",
+     "titulo": "Eisenkot assume desafio de formar governo em meio à crise política israelense",
      "tituloMarcado": [
       [
-       "Jovem",
+       "Eisenkot",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "assume",
        true
       ],
       [
@@ -939,88 +1686,8 @@
        ""
       ],
       [
-       "some",
+       "desafio",
        true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "após",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "ser",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "arrastado",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "por",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "correnteza",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "em",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "temporal",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "na",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "zona",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "sul",
-       false
       ],
       [
        " ",
@@ -1035,13 +1702,69 @@
        ""
       ],
       [
-       "SP",
+       "formar",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "governo",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "meio",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "à",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "crise",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "política",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "israelense",
        false
       ]
      ],
-     "trecho": "Um jovem de 20 anos foi arrastado pela força da correnteza de um córrego durante o temporal que atingiu a cidade de São Paulo ontem. O córrego está localizado na Vila Fazzeoni, no bairro do Capão Redondo, na zona sul de…",
-     "link": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/11/08/jovem-de-20-anos-desaparece-apos-ser-arrastado-por-correnteza-em-temporal.htm",
-     "publicadoEm": "2026-11-08T15:36:35.000Z",
+     "trecho": "Com a missão oficialmente entregue pelo presidente israelense Isaac Herzog neste domingo (8), o líder da oposição Gadi Eisenkot entra na fase decisiva das negociações para tentar formar o próximo governo de Israel. O…",
+     "link": "https://noticias.uol.com.br/ultimas-noticias/rfi/2026/11/08/eisenkot-assume-desafio-de-formar-governo-em-meio-a-crise-politica-israelense.htm",
+     "publicadoEm": "2026-11-08T16:52:51.000Z",
      "tipo": "noticia",
      "numero": null
     }
@@ -1051,14 +1774,13 @@
    "id": "https://c-level.folha.uol.com.br/negocios/2026/11/csn-assina-contrato-para-vender-unidade-de-cimentos-a-chinesa-huaxin-por-r-127-bi.shtml",
    "veiculos": 4,
    "primeiro": "2026-11-08T12:42:00.000Z",
-   "ultimo": "2026-11-08T15:24:25.000Z",
+   "ultimo": "2026-11-08T16:05:38.000Z",
    "comuns": [
-    "CSN",
     "cimentos",
     "chinesa",
+    "CSN",
     "Huaxin",
-    "12,7",
-    "vender"
+    "12,7"
    ],
    "politica": null,
    "materias": [
@@ -1108,7 +1830,7 @@
       ],
       [
        "unidade",
-       false
+       true
       ],
       [
        " ",
@@ -1227,7 +1949,7 @@
       ],
       [
        "venda",
-       true
+       false
       ],
       [
        " ",
@@ -1444,19 +2166,11 @@
      "numero": null
     },
     {
-     "veiculo": "uol",
-     "titulo": "CSN fecha acordo de R$12,7 bi para vender unidade de cimento à chinesa Huaxin",
+     "veiculo": "gazetadopovo",
+     "titulo": "Gigante nacional do cimento fecha venda para grupo chinês",
      "tituloMarcado": [
       [
-       "CSN",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "fecha",
+       "Gigante",
        true
       ],
       [
@@ -1464,63 +2178,15 @@
        ""
       ],
       [
-       "acordo",
-       false
+       "nacional",
+       true
       ],
       [
        " ",
        ""
       ],
       [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "R$12,7",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "bi",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "para",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "vender",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "unidade",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
+       "do",
        false
       ],
       [
@@ -1536,7 +2202,15 @@
        ""
       ],
       [
-       "à",
+       "fecha",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "venda",
        false
       ],
       [
@@ -1544,7 +2218,7 @@
        ""
       ],
       [
-       "chinesa",
+       "para",
        false
       ],
       [
@@ -1552,13 +2226,489 @@
        ""
       ],
       [
-       "Huaxin",
+       "grupo",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "chinês",
        false
       ]
      ],
-     "trecho": "BRASÍLIA, 8 Nov (Reuters) - A CSN assinou um acordo para vender sua unidade de cimento, a CSN?Cimentos, à chinesa Huaxin, em?uma transação que avalia o negócio em R$12,7 bilhões com base no valor da empresa, informou a…",
-     "link": "https://noticias.uol.com.br/ultimas-noticias/reuters/2026/11/08/csn-fecha-acordo-de-r127-bi-para-vender-unidade-de-cimento-a-chinesa-huaxin.htm",
-     "publicadoEm": "2026-11-08T15:24:25.000Z",
+     "trecho": "Contrato de venda da CSN Cimentos é assinado com grupo chinês Huaxin Building Materials Group. Saiba na Gazeta do Povo.",
+     "link": "https://www.gazetadopovo.com.br/economia/gigante-nacional-do-cimento-csn-fecha-acordo-vendida-grupo-chines/",
+     "publicadoEm": "2026-11-08T16:05:38.000Z",
+     "tipo": "noticia",
+     "numero": null
+    }
+   ]
+  },
+  {
+   "id": "https://www1.folha.uol.com.br/cotidiano/2026/11/dez-pessoas-morrem-apos-carro-capotar-e-cair-em-lago-em-barra-mansa-rj.shtml",
+   "veiculos": 4,
+   "primeiro": "2026-11-08T14:50:00.000Z",
+   "ultimo": "2026-11-08T15:59:30.000Z",
+   "comuns": [
+    "Barra",
+    "Mansa",
+    "Dez",
+    "pessoas",
+    "acidente"
+   ],
+   "politica": null,
+   "materias": [
+    {
+     "veiculo": "folha",
+     "titulo": "Dez pessoas morrem após carro capotar e cair em lago em Barra Mansa (RJ)",
+     "tituloMarcado": [
+      [
+       "Dez",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "pessoas",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "morrem",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "após",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "carro",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "capotar",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "cair",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "lago",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Barra",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Mansa",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "(RJ)",
+       false
+      ]
+     ],
+     "trecho": "Dez pessoas morreram na noite deste sábado (7) após um carro capotar e cair em um lago na cidade de Barra Mansa, no Rio de Janeiro. Cinco adultos e cinco crianças foram encontrados sem vida dentro do veículo.",
+     "link": "https://www1.folha.uol.com.br/cotidiano/2026/11/dez-pessoas-morrem-apos-carro-capotar-e-cair-em-lago-em-barra-mansa-rj.shtml",
+     "publicadoEm": "2026-11-08T14:50:00.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "agenciabrasil",
+     "titulo": "Dez pessoas morrem em acidente em Barra Mansa, no Rio de Janeiro",
+     "tituloMarcado": [
+      [
+       "Dez",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "pessoas",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "morrem",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "acidente",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Barra",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Mansa,",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "no",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Rio",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Janeiro",
+       true
+      ]
+     ],
+     "trecho": "Um acidente matou dez pessoas na noite desse sábado (7). Um veículo capotou e caiu em um lago, em Barra Mansa, no sul fluminense. Cinco adultos e cinco crianças morreram. A Polícia Civil investiga as causas. De acordo…",
+     "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/dez-pessoas-morrem-em-acidente-em-barra-mansa-no-rio-de-janeiro",
+     "publicadoEm": "2026-11-08T15:05:00.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "g1",
+     "titulo": "Prefeitura de Barra Mansa decreta luto oficial de três dias após acidente que deixou dez mortos",
+     "tituloMarcado": [
+      [
+       "Prefeitura",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Barra",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Mansa",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "decreta",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "luto",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "oficial",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "três",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "dias",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "após",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "acidente",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "que",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "deixou",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "dez",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "mortos",
+       true
+      ]
+     ],
+     "trecho": "Prefeitura de Barra Mansa Divulgação/Prefeitura de Barra Mansa A Prefeitura de Barra Mansa (RJ) decretou luto oficial de três dias após o acidente que matou dez pessoas na madruga deste domingo (8) na Estrada Fazenda…",
+     "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/11/08/prefeitura-de-barra-mansa-decreta-luto-oficial-de-tres-dias-apos-acidente-que-deixou-dez-mortos.ghtml",
+     "publicadoEm": "2026-11-08T15:21:44.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "estadao",
+     "titulo": "Acidente de carro deixa 10 pessoas mortas em Barra Mansa (RJ)",
+     "tituloMarcado": [
+      [
+       "Acidente",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "carro",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "deixa",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "10",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "pessoas",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "mortas",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Barra",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Mansa",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "(RJ)",
+       false
+      ]
+     ],
+     "trecho": "Dez pessoas morreram em um acidente de carro na madrugada deste domingo, 8, em Barra Mansa, município na região sul do Estado do Rio de Janeiro. O Corpo de Bombeiros informou que o veículo capotou e caiu dentro de um…",
+     "link": "https://www.estadao.com.br/brasil/acidente-de-carro-deixa-10-pessoas-mortas-em-barra-mansa-rj/",
+     "publicadoEm": "2026-11-08T15:59:30.000Z",
      "tipo": "noticia",
      "numero": null
     }
@@ -2000,24 +3150,26 @@
    ]
   },
   {
-   "id": "https://www.cnnbrasil.com.br/politica/quaest-62-dizem-que-flavio-errou-ao-fugir-para-os-estados-unidos/",
-   "veiculos": 4,
-   "primeiro": "2026-11-08T11:37:01.000Z",
-   "ultimo": "2026-11-08T12:44:26.000Z",
+   "id": "https://www.cnnbrasil.com.br/politica/ana-elisa-expoe-ameacas-de-estupro-e-morte-apos-criticas-por-usar-escolta/",
+   "veiculos": 3,
+   "primeiro": "2026-11-08T14:27:25.000Z",
+   "ultimo": "2026-11-08T18:10:51.000Z",
    "comuns": [
-    "Quaest",
-    "Flávio",
-    "62%",
-    "EUA"
+    "Ana",
+    "Elisa",
+    "ameaças",
+    "estupro",
+    "morte",
+    "após"
    ],
-   "politica": "eleição",
+   "politica": null,
    "materias": [
     {
      "veiculo": "cnn",
-     "titulo": "Quaest: 62% dizem que Flávio errou ao fugir para os Estados Unidos",
+     "titulo": "Ana Elisa expõe ameaças de estupro e morte após críticas por usar escolta",
      "tituloMarcado": [
       [
-       "Quaest:",
+       "Ana",
        false
       ],
       [
@@ -2025,7 +3177,7 @@
        ""
       ],
       [
-       "62%",
+       "Elisa",
        false
       ],
       [
@@ -2033,71 +3185,7 @@
        ""
       ],
       [
-       "dizem",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "que",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Flávio",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "errou",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "ao",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "fugir",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "para",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "os",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Estados",
+       "expõe",
        true
       ],
       [
@@ -2105,22 +3193,7 @@
        ""
       ],
       [
-       "Unidos",
-       true
-      ]
-     ],
-     "trecho": "Pesquisa \"O Brasil depois das urnas\" ouviu 2.004 pessoas entre os dias 30 de outubro e 2 de novembro; margem de erro é de dois pontos percentuais, para mais ou para menos, com intervalo de confiança de 95%",
-     "link": "https://www.cnnbrasil.com.br/politica/quaest-62-dizem-que-flavio-errou-ao-fugir-para-os-estados-unidos/",
-     "publicadoEm": "2026-11-08T11:37:01.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "folha",
-     "titulo": "62% afirmam que Flávio errou ao fugir para os EUA, e 61% dizem que eleição foi justa, mostra pesquisa Quaest",
-     "tituloMarcado": [
-      [
-       "62%",
+       "ameaças",
        false
       ],
       [
@@ -2128,15 +3201,7 @@
        ""
       ],
       [
-       "afirmam",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "que",
+       "de",
        false
       ],
       [
@@ -2144,55 +3209,7 @@
        ""
       ],
       [
-       "Flávio",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "errou",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "ao",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "fugir",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "para",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "os",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "EUA,",
+       "estupro",
        false
       ],
       [
@@ -2208,7 +3225,23 @@
        ""
       ],
       [
-       "61%",
+       "morte",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "após",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "críticas",
        true
       ],
       [
@@ -2216,7 +3249,7 @@
        ""
       ],
       [
-       "dizem",
+       "por",
        false
       ],
       [
@@ -2224,31 +3257,7 @@
        ""
       ],
       [
-       "que",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "eleição",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "foi",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "justa,",
+       "usar",
        true
       ],
       [
@@ -2256,54 +3265,22 @@
        ""
       ],
       [
-       "mostra",
+       "escolta",
        true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "pesquisa",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Quaest",
-       false
       ]
      ],
-     "trecho": "Pesquisa Quaest divulgada neste domingo (8) mostra que 61% dos brasileiros acreditam que as eleições deste ano foram limpas e justas, ante 30% que consideram que houve fraude. Não sabem ou não opinam 9%.",
-     "link": "https://www1.folha.uol.com.br/poder/2026/11/quaest-61-dizem-que-eleicoes-foram-limpas-e-justas-30-fraudadas.shtml",
-     "publicadoEm": "2026-11-08T12:00:00.000Z",
+     "trecho": "Mensagens violentas motivaram a adoção de segurança armada em tempo integral para proteger a deputada federal eleita por Minas Gerais",
+     "link": "https://www.cnnbrasil.com.br/politica/ana-elisa-expoe-ameacas-de-estupro-e-morte-apos-criticas-por-usar-escolta/",
+     "publicadoEm": "2026-11-08T14:27:25.000Z",
      "tipo": "noticia",
      "numero": null
     },
     {
-     "veiculo": "estadao",
-     "titulo": "Maioria reprova ida de Flávio aos EUA, crê que ele fugiu e vê eleições limpas no Brasil, diz Quaest",
+     "veiculo": "metropoles",
+     "titulo": "Irmão de Cleitinho defende Ana Elisa após ameaças de morte e estupro",
      "tituloMarcado": [
       [
-       "Maioria",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "reprova",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "ida",
+       "Irmão",
        true
       ],
       [
@@ -2319,31 +3296,7 @@
        ""
       ],
       [
-       "Flávio",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "aos",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "EUA,",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "crê",
+       "Cleitinho",
        true
       ],
       [
@@ -2351,24 +3304,56 @@
        ""
       ],
       [
-       "que",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "ele",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "fugiu",
+       "defende",
        true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Ana",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Elisa",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "após",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ameaças",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "morte",
+       false
       ],
       [
        " ",
@@ -2383,79 +3368,23 @@
        ""
       ],
       [
-       "vê",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "eleições",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "limpas",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "no",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Brasil,",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "diz",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Quaest",
+       "estupro",
        false
       ]
      ],
-     "trecho": "A maioria dos brasileiros reprova a decisão do senador Flávio Bolsonaro (PL-RJ) de fugir do Brasil após ser derrotado nas eleições presidenciais, mostra pesquisa Quaest divulgada neste domingo, 8. Para 62% dos…",
-     "link": "https://www.estadao.com.br/politica/maioria-reprova-ida-de-flavio-aos-eua-cre-que-ele-fugiu-e-ve-eleicoes-limpas-no-brasil-diz-quaest/",
-     "publicadoEm": "2026-11-08T12:00:00.000Z",
+     "trecho": "Gleidson manifestou solidariedade à deputada eleita Ana Elisa, do PT, e criticou ataques à escolta policial para proteger a parlamentar",
+     "link": "https://www.metropoles.com/minas-gerais/irmao-de-cleitinho-defende-ana-elisa-apos-ameacas-de-morte-e-estupro",
+     "publicadoEm": "2026-11-08T17:38:06.000Z",
      "tipo": "noticia",
      "numero": null
     },
     {
-     "veiculo": "cartacapital",
-     "titulo": "Quaest: 62% dos eleitores reprovam fuga de Flávio aos EUA",
+     "veiculo": "g1",
+     "titulo": "Ministério dos Direitos Humanos pede investigação de ameaças contra deputada eleita Ana Elisa",
      "tituloMarcado": [
       [
-       "Quaest:",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "62%",
-       false
+       "Ministério",
+       true
       ],
       [
        " ",
@@ -2470,7 +3399,7 @@
        ""
       ],
       [
-       "eleitores",
+       "Direitos",
        true
       ],
       [
@@ -2478,15 +3407,23 @@
        ""
       ],
       [
-       "reprovam",
-       false
+       "Humanos",
+       true
       ],
       [
        " ",
        ""
       ],
       [
-       "fuga",
+       "pede",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "investigação",
        true
       ],
       [
@@ -2502,7 +3439,7 @@
        ""
       ],
       [
-       "Flávio",
+       "ameaças",
        false
       ],
       [
@@ -2510,7 +3447,7 @@
        ""
       ],
       [
-       "aos",
+       "contra",
        false
       ],
       [
@@ -2518,39 +3455,63 @@
        ""
       ],
       [
-       "EUA",
+       "deputada",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "eleita",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Ana",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Elisa",
        false
       ]
      ],
-     "trecho": "Levantamento mostra também que 29% consideram acertada a decisão; a pesquisa foi realizada entre os dias 30 de outubro e 2 de novembro",
-     "link": "https://www.cartacapital.com.br/carta-capital/quaest-62-dos-eleitores-reprovam-fuga-de-flavio-aos-eua/",
-     "publicadoEm": "2026-11-08T12:44:26.000Z",
+     "trecho": "Deputada eleita Ana Elisa expõe ameaças de estupro O Ministério dos Direitos Humanos e da Cidadania (MDHC) afirmou, neste domingo (8), que acompanha as ameaças feitas contra a deputada federal eleita Ana Elisa (PT). A…",
+     "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/08/ministerio-dos-direitos-humanos-pede-investigacao-de-ameacas-contra-deputada-eleita-ana-elisa.ghtml",
+     "publicadoEm": "2026-11-08T18:10:51.000Z",
      "tipo": "noticia",
      "numero": null
     }
    ]
   },
   {
-   "id": "https://www1.folha.uol.com.br/cotidiano/2026/11/confira-a-partir-das-11h-deste-domingo-8-o-resultado-do-concurso-3083-da-mega-sena.shtml",
+   "id": "https://www1.folha.uol.com.br/cotidiano/2026/11/empresario-conhecido-como-rei-da-sucata-e-preso-sob-suspeita-de-lavar-dinheiro-para-o-cv.shtml",
    "veiculos": 3,
-   "primeiro": "2026-11-08T12:15:00.000Z",
-   "ultimo": "2026-11-08T15:45:53.000Z",
+   "primeiro": "2026-11-08T14:54:00.000Z",
+   "ultimo": "2026-11-08T17:43:39.000Z",
    "comuns": [
-    "Aposta",
-    "Goiânia",
-    "leva",
-    "Mega-Sena",
-    "59,5",
-    "milhões"
+    "Rei",
+    "Sucata",
+    "preso",
+    "suspeita",
+    "lavar",
+    "dinheiro"
    ],
    "politica": null,
    "materias": [
     {
      "veiculo": "folha",
-     "titulo": "Aposta única de Goiânia leva R$ 59,5 milhões do concurso 3083 da Mega-Sena",
+     "titulo": "Empresário conhecido como Rei da Sucata é preso sob suspeita de lavar dinheiro para o CV",
      "tituloMarcado": [
       [
-       "Aposta",
+       "Empresário",
        false
       ],
       [
@@ -2558,7 +3519,7 @@
        ""
       ],
       [
-       "única",
+       "conhecido",
        true
       ],
       [
@@ -2566,7 +3527,7 @@
        ""
       ],
       [
-       "de",
+       "como",
        false
       ],
       [
@@ -2574,221 +3535,7 @@
        ""
       ],
       [
-       "Goiânia",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "leva",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "R$",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "59,5",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "milhões",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "do",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "concurso",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "3083",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "da",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Mega-Sena",
-       false
-      ]
-     ],
-     "trecho": "Uma aposta de Goiânia foi a única acertadora das seis dezenas do concurso 3083 da Mega-Sena, sorteado na manhã deste domingo (8), e receberá o prêmio de R$ 59.526.903,72.",
-     "link": "https://www1.folha.uol.com.br/cotidiano/2026/11/confira-a-partir-das-11h-deste-domingo-8-o-resultado-do-concurso-3083-da-mega-sena.shtml",
-     "publicadoEm": "2026-11-08T12:15:00.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "g1",
-     "titulo": "Mega-Sena: aposta de Goiânia leva sozinha prêmio de R$ 59,5 milhões",
-     "tituloMarcado": [
-      [
-       "Mega-Sena:",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "aposta",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Goiânia",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "leva",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "sozinha",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "prêmio",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "R$",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "59,5",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "milhões",
-       false
-      ]
-     ],
-     "trecho": "Mega-Sena, concurso 3083: confira os números sorteados Uma aposta de Goiânia levou sozinha o prêmio máximo de R$ 59.526.903,72 da edição da Mega-Sena sorteada neste domingo (8). A aposta que acertou os números 22 - 25 -…",
-     "link": "https://g1.globo.com/go/goias/noticia/2026/11/08/mega-sena-aposta-de-goiania-premio-de-r-595-milhoes.ghtml",
-     "publicadoEm": "2026-11-08T15:02:48.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "uol",
-     "titulo": "Aposta de Goiânia leva prêmio da Mega-Sena; veja dezenas sorteadas",
-     "tituloMarcado": [
-      [
-       "Aposta",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Goiânia",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "leva",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "prêmio",
+       "Rei",
        false
       ],
       [
@@ -2804,136 +3551,8 @@
        ""
       ],
       [
-       "Mega-Sena;",
+       "Sucata",
        false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "veja",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "dezenas",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "sorteadas",
-       true
-      ]
-     ],
-     "trecho": "ma aposta simples feita na Casa Lotérica Ponto Certo, na cidade de Goiânia, acertou as seis dezenas do Concurso 3.083 da Mega-Sena sorteadas neste domingo (8).O ganhador receberá o prêmio de R$ 59.52...",
-     "link": "https://tnonline.uol.com.br/noticias/cotidiano/aposta-de-goiania-leva-premio-da-mega-sena-veja-dezenas-sorteadas-1172072",
-     "publicadoEm": "2026-11-08T15:45:53.000Z",
-     "tipo": "noticia",
-     "numero": null
-    }
-   ]
-  },
-  {
-   "id": "https://www.estadao.com.br/politica/apos-eleicao-48-aprovam-e-44-desaprovam-governo-lula-economia-e-principal-preocupacao/",
-   "veiculos": 3,
-   "primeiro": "2026-11-08T12:00:00.000Z",
-   "ultimo": "2026-11-08T15:37:09.000Z",
-   "comuns": [
-    "48%",
-    "aprovam",
-    "44%",
-    "desaprovam",
-    "governo",
-    "Lula"
-   ],
-   "politica": "eleição",
-   "materias": [
-    {
-     "veiculo": "estadao",
-     "titulo": "Após eleição, 48% aprovam e 44% desaprovam governo Lula; economia é principal preocupação",
-     "tituloMarcado": [
-      [
-       "Após",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "eleição,",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "48%",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "aprovam",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "e",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "44%",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "desaprovam",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "governo",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Lula;",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "economia",
-       true
       ],
       [
        " ",
@@ -2948,30 +3567,86 @@
        ""
       ],
       [
-       "principal",
-       true
+       "preso",
+       false
       ],
       [
        " ",
        ""
       ],
       [
-       "preocupação",
-       true
+       "sob",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "suspeita",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "lavar",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "dinheiro",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "para",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "o",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "CV",
+       false
       ]
      ],
-     "trecho": "Pesquisa Quaest divulgada neste domingo, 8, aponta que 48% dos brasileiros aprovam o governo do presidente Luiz Inácio Lula da Silva, contra 44% que reprovam a gestão. São 8% os que não sabem ou não responderam. No dia…",
-     "link": "https://www.estadao.com.br/politica/apos-eleicao-48-aprovam-e-44-desaprovam-governo-lula-economia-e-principal-preocupacao/",
-     "publicadoEm": "2026-11-08T12:00:00.000Z",
+     "trecho": "Agentes da Polícia Civil do Rio de Janeiro prenderam o empresário Rodrigo Leonardo de Lima Alcântara, conhecido como Rei da Sucata. Ele foi detido neste sábado (8) em uma joalheria no shopping Cidade Jardim, na zona sul…",
+     "link": "https://www1.folha.uol.com.br/cotidiano/2026/11/empresario-conhecido-como-rei-da-sucata-e-preso-sob-suspeita-de-lavar-dinheiro-para-o-cv.shtml",
+     "publicadoEm": "2026-11-08T14:54:00.000Z",
      "tipo": "noticia",
      "numero": null
     },
     {
-     "veiculo": "g1",
-     "titulo": "Quaest: 48% aprovam e 44% desaprovam governo Lula na primeira pesquisa após a eleição",
+     "veiculo": "cnn",
+     "titulo": "“Rei da Sucata”, suspeito de lavar dinheiro para o CV, é preso em SP",
      "tituloMarcado": [
       [
-       "Quaest:",
+       "“Rei",
        false
       ],
       [
@@ -2979,7 +3654,7 @@
        ""
       ],
       [
-       "48%",
+       "da",
        false
       ],
       [
@@ -2987,7 +3662,7 @@
        ""
       ],
       [
-       "aprovam",
+       "Sucata”,",
        false
       ],
       [
@@ -2995,7 +3670,7 @@
        ""
       ],
       [
-       "e",
+       "suspeito",
        false
       ],
       [
@@ -3003,7 +3678,7 @@
        ""
       ],
       [
-       "44%",
+       "de",
        false
       ],
       [
@@ -3011,7 +3686,7 @@
        ""
       ],
       [
-       "desaprovam",
+       "lavar",
        false
       ],
       [
@@ -3019,7 +3694,7 @@
        ""
       ],
       [
-       "governo",
+       "dinheiro",
        false
       ],
       [
@@ -3027,7 +3702,7 @@
        ""
       ],
       [
-       "Lula",
+       "para",
        false
       ],
       [
@@ -3035,7 +3710,7 @@
        ""
       ],
       [
-       "na",
+       "o",
        false
       ],
       [
@@ -3043,7 +3718,166 @@
        ""
       ],
       [
-       "primeira",
+       "CV,",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "é",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "preso",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "SP",
+       false
+      ]
+     ],
+     "trecho": "Investigado teria usado empresa de metais para transferir R$ 4,6 milhões a operador financeiro ligado ao traficante Rabicó; suspeito foi localizado no Shopping Cidade Jardim, em São Paulo",
+     "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/rei-da-sucata-suspeito-de-lavar-dinheiro-para-o-cv-e-preso-em-sp/",
+     "publicadoEm": "2026-11-08T15:03:52.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "veja",
+     "titulo": "‘Rei da Sucata’: empresário suspeito de lavar dinheiro para o CV é preso em joalheria em SP",
+     "tituloMarcado": [
+      [
+       "‘Rei",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "da",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Sucata’:",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "empresário",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "suspeito",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "lavar",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "dinheiro",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "para",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "o",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "CV",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "é",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "preso",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "joalheria",
        true
       ],
       [
@@ -3051,7 +3885,63 @@
        ""
       ],
       [
-       "pesquisa",
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "SP",
+       false
+      ]
+     ],
+     "trecho": "Rodrigo Leonardo de Lima Alcântara constar em alerta vermelho na lista da Interpol e chegou a fugir para os Estados Unidos",
+     "link": "https://veja.abril.com.br/brasil/rei-da-sucata-empresario-suspeito-de-lavar-dinheiro-para-o-cv-e-preso-em-joalheria-em-sp/",
+     "publicadoEm": "2026-11-08T17:43:39.000Z",
+     "tipo": "noticia",
+     "numero": null
+    }
+   ]
+  },
+  {
+   "id": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/08/policial-militar-e-preso-apos-atirar-e-matar-uma-mulher-e-deixar-quatro-pessoas-feridas-no-df.ghtml",
+   "veiculos": 3,
+   "primeiro": "2026-11-08T15:18:22.000Z",
+   "ultimo": "2026-11-08T17:39:32.000Z",
+   "comuns": [
+    "PM",
+    "mulher",
+    "após",
+    "atirar",
+    "Asa",
+    "Sul"
+   ],
+   "politica": null,
+   "materias": [
+    {
+     "veiculo": "g1",
+     "titulo": "PM é preso após atirar contra grupo em posto na Asa Sul, em Brasília; mulher morre e 4 pessoas ficam feridas",
+     "tituloMarcado": [
+      [
+       "PM",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "é",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "preso",
        true
       ],
       [
@@ -3067,7 +3957,7 @@
        ""
       ],
       [
-       "a",
+       "atirar",
        false
       ],
       [
@@ -3075,22 +3965,142 @@
        ""
       ],
       [
-       "eleição",
+       "contra",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "grupo",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "posto",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "na",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Asa",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Sul,",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Brasília;",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "mulher",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "morre",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "4",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "pessoas",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ficam",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "feridas",
        false
       ]
      ],
-     "trecho": "Aprovação do governo Lula. Arte/g1 Pesquisa Quaest divulgada neste domingo (8) mostra que 48% dos brasileiros aprovam o governo do presidente Lula (PT), reeleito para o quarto mandato, enquanto 44% desaprovam. Este é o…",
-     "link": "https://g1.globo.com/politica/noticia/2026/11/08/quaest-48percent-aprovam-e-44percent-desaprovam-governo-lula-na-primeira-pesquisa-apos-a-eleicao.ghtml",
-     "publicadoEm": "2026-11-08T12:38:32.000Z",
+     "trecho": "Posto de combustíveis na 302 Sul, em Brasília TV Globo/Reprodução Um policial militar de 27 anos foi preso após matar uma mulher e deixar outras quatro pessoas feridas a tiros. O crime aconteceu em um posto de…",
+     "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/08/policial-militar-e-preso-apos-atirar-e-matar-uma-mulher-e-deixar-quatro-pessoas-feridas-no-df.ghtml",
+     "publicadoEm": "2026-11-08T15:18:22.000Z",
      "tipo": "noticia",
      "numero": null
     },
     {
-     "veiculo": "cnn",
-     "titulo": "Quaest: 48% aprovam governo Lula; desaprovação é de 44%",
+     "veiculo": "poder360",
+     "titulo": "Mulher morre e 4 ficam feridos após PM atirar em van em Brasília",
      "tituloMarcado": [
       [
-       "Quaest:",
+       "Mulher",
        false
       ],
       [
@@ -3098,7 +4108,7 @@
        ""
       ],
       [
-       "48%",
+       "morre",
        false
       ],
       [
@@ -3106,7 +4116,7 @@
        ""
       ],
       [
-       "aprovam",
+       "e",
        false
       ],
       [
@@ -3114,7 +4124,7 @@
        ""
       ],
       [
-       "governo",
+       "4",
        false
       ],
       [
@@ -3122,7 +4132,7 @@
        ""
       ],
       [
-       "Lula;",
+       "ficam",
        false
       ],
       [
@@ -3130,7 +4140,7 @@
        ""
       ],
       [
-       "desaprovação",
+       "feridos",
        false
       ],
       [
@@ -3138,7 +4148,278 @@
        ""
       ],
       [
-       "é",
+       "após",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "PM",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "atirar",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "van",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Brasília",
+       false
+      ]
+     ],
+     "trecho": "O autor dos disparos foi preso no Parque da Cidade; grupo se desentendeu quando voltava de festa de aniversário",
+     "link": "https://www.poder360.com.br/poder-justica/mulher-morre-e-4-ficam-feridos-apos-pm-atirar-em-van-em-brasilia/",
+     "publicadoEm": "2026-11-08T17:17:21.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "metropoles",
+     "titulo": "Asa Sul: mulher morta era amiga de esposa do PM que atirou em van",
+     "tituloMarcado": [
+      [
+       "Asa",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Sul:",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "mulher",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "morta",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "era",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "amiga",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "esposa",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "do",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "PM",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "que",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "atirou",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "van",
+       false
+      ]
+     ],
+     "trecho": "Alessandra da Silva Oliveira, de 26 anos, foi morta a tiros após fazer um comentário que teria desagradado o policial militar",
+     "link": "https://www.metropoles.com/distrito-federal/na-mira/asa-sul-mulher-morta-era-amiga-de-esposa-do-pm-que-atirou-em-van",
+     "publicadoEm": "2026-11-08T17:39:32.000Z",
+     "tipo": "noticia",
+     "numero": null
+    }
+   ]
+  },
+  {
+   "id": "https://www1.folha.uol.com.br/esporte/2026/11/alcaraz-vence-shelton-e-conquista-titulo-inedito-no-masters-1000-de-paris.shtml",
+   "veiculos": 3,
+   "primeiro": "2026-11-08T16:43:00.000Z",
+   "ultimo": "2026-11-08T17:37:56.000Z",
+   "comuns": [
+    "Alcaraz",
+    "vence",
+    "Shelton",
+    "Masters",
+    "Paris",
+    "conquista"
+   ],
+   "politica": null,
+   "materias": [
+    {
+     "veiculo": "folha",
+     "titulo": "Alcaraz vence Shelton e conquista título inédito no Masters 1000 de Paris",
+     "tituloMarcado": [
+      [
+       "Alcaraz",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "vence",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Shelton",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "conquista",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "título",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "inédito",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "no",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Masters",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "1000",
        false
       ],
       [
@@ -3154,13 +4435,1986 @@
        ""
       ],
       [
-       "44%",
+       "Paris",
        false
       ]
      ],
-     "trecho": "Foram ouvidas 2.004 pessoas entre os dias 30 de outubro e 2 de novembro; margem de erro é de dois pontos percentuais, para mais ou para menos, com intervalo de confiança de 95%",
-     "link": "https://www.cnnbrasil.com.br/politica/quaest-48-aprovam-governo-lula-desaprovacao-e-de-44/",
-     "publicadoEm": "2026-11-08T15:37:09.000Z",
+     "trecho": "O espanhol Carlos Alcaraz, número 3 do mundo, conquistou neste domingo (8) seu primeiro título do Masters 1000 de Paris ao derrotar o americano Ben Shelton por 2 sets a 0, com parciais de 7/6 (7/5) e 7/5. Com a vitória…",
+     "link": "https://www1.folha.uol.com.br/esporte/2026/11/alcaraz-vence-shelton-e-conquista-titulo-inedito-no-masters-1000-de-paris.shtml",
+     "publicadoEm": "2026-11-08T16:43:00.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "cnn",
+     "titulo": "Alcaraz vence Shelton e conquista o Masters de Paris pela primeira vez",
+     "tituloMarcado": [
+      [
+       "Alcaraz",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "vence",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Shelton",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "conquista",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "o",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Masters",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Paris",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "pela",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "primeira",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "vez",
+       false
+      ]
+     ],
+     "trecho": "Espanhol superou o norte-americano por 2 sets a 0 na decisão e garantiu seu nono título de nível ATP 1000 na carreira",
+     "link": "https://www.cnnbrasil.com.br/esportes/tenis/alcaraz-vence-shelton-e-conquista-o-masters-de-paris-pela-primeira-vez/",
+     "publicadoEm": "2026-11-08T16:50:41.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "metropoles",
+     "titulo": "Alcaraz vence Ben Shelton e é campeão do Masters 1000 de Paris pela 1ª vez",
+     "tituloMarcado": [
+      [
+       "Alcaraz",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "vence",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Ben",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Shelton",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "é",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "campeão",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "do",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Masters",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "1000",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Paris",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "pela",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "1ª",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "vez",
+       false
+      ]
+     ],
+     "trecho": "Carlos Alcaraz chega a sequência de nove vitórias seguidas; resultado também marca revanche contra Ben Shelton",
+     "link": "https://www.metropoles.com/esportes/alcaraz-vence-ben-shelton-e-e-campeao-do-masters-1000-de-paris-pela-1a-vez",
+     "publicadoEm": "2026-11-08T17:37:56.000Z",
+     "tipo": "noticia",
+     "numero": null
+    }
+   ]
+  },
+  {
+   "id": "https://www1.folha.uol.com.br/cotidiano/2026/11/primeiro-dia-do-enem-neste-domingo-8-deve-ser-com-chuva-nas-regioes-sudeste-centro-oeste-e-norte.shtml",
+   "veiculos": 3,
+   "primeiro": "2026-11-08T08:00:00.000Z",
+   "ultimo": "2026-11-08T17:24:42.000Z",
+   "comuns": [
+    "Enem",
+    "Primeiro",
+    "dia",
+    "domingo",
+    "Estudantes"
+   ],
+   "politica": null,
+   "materias": [
+    {
+     "veiculo": "folha",
+     "titulo": "Primeiro dia do Enem, neste domingo (8), deve ser com chuva nas regiões Sudeste, Centro-Oeste e Norte",
+     "tituloMarcado": [
+      [
+       "Primeiro",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "dia",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "do",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Enem,",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "neste",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "domingo",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "(8),",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "deve",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ser",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "com",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "chuva",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "nas",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "regiões",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Sudeste,",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Centro-Oeste",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Norte",
+       true
+      ]
+     ],
+     "trecho": "Mais de 5,5 milhões de estudantes brasileiros realizam na tarde deste domingo o primeiro dia de provas do Enem (Exame Nacional do Ensino Médio), buscando uma vaga em universidades. Enquanto os candidatos das regiões Sul…",
+     "link": "https://www1.folha.uol.com.br/cotidiano/2026/11/primeiro-dia-do-enem-neste-domingo-8-deve-ser-com-chuva-nas-regioes-sudeste-centro-oeste-e-norte.shtml",
+     "publicadoEm": "2026-11-08T08:00:00.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "g1",
+     "titulo": "Estudantes de Rondônia enfrentam o primeiro dia de prova do Enem 2026",
+     "tituloMarcado": [
+      [
+       "Estudantes",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Rondônia",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "enfrentam",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "o",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "primeiro",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "dia",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "prova",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "do",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Enem",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "2026",
+       true
+      ]
+     ],
+     "trecho": "Mais de 43 mil pessoas se inscreveram para o primeiro dia de provas do Exame Nacional do Ensino Médio (Enem) 2026, que acontece neste domingo (8) em Rondônia. Desse total, cerca de 21 mil são estudantes que estão…",
+     "link": "https://g1.globo.com/ro/rondonia/noticia/2026/11/08/estudantes-de-rondonia-enfrentam-o-primeiro-dia-de-provas-do-enem-2026.ghtml",
+     "publicadoEm": "2026-11-08T16:48:01.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "cartacapital",
+     "titulo": "Mais de 5 milhões de estudantes participam do Enem neste domingo",
+     "tituloMarcado": [
+      [
+       "Mais",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "5",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "milhões",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "estudantes",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "participam",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "do",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Enem",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "neste",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "domingo",
+       false
+      ]
+     ],
+     "trecho": "O Exame Nacional do Ensino Médio é dividido em dois dias de provas, sendo o primeiro hoje e o segundo no próximo domingo 15",
+     "link": "https://www.cartacapital.com.br/educacao/mais-de-5-milhoes-de-estudantes-participam-do-enem-neste-domingo/",
+     "publicadoEm": "2026-11-08T17:24:42.000Z",
+     "tipo": "noticia",
+     "numero": null
+    }
+   ]
+  },
+  {
+   "id": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/copa-do-brasil-radio-nacional-transmite-vasco-x-palmeiras-17h",
+   "veiculos": 3,
+   "primeiro": "2026-11-08T11:10:00.000Z",
+   "ultimo": "2026-11-08T17:17:04.000Z",
+   "comuns": [
+    "Vasco",
+    "Palmeiras",
+    "Copa",
+    "Brasil"
+   ],
+   "politica": null,
+   "materias": [
+    {
+     "veiculo": "agenciabrasil",
+     "titulo": "Copa do Brasil: Rádio Nacional transmite Vasco x Palmeiras às 17h",
+     "tituloMarcado": [
+      [
+       "Copa",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "do",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Brasil:",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Rádio",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Nacional",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "transmite",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Vasco",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "x",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Palmeiras",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "às",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "17h",
+       true
+      ]
+     ],
+     "trecho": "O jogo de volta da semifinal da Copa do Brasil 2026 entre Vasco e Palmeiras será disputado neste domingo (8), às 17h, no Estádio de São Januário, no Rio de Janeiro (RJ). O confronto ganha transmissão da Rádio Nacional…",
+     "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/copa-do-brasil-radio-nacional-transmite-vasco-x-palmeiras-17h",
+     "publicadoEm": "2026-11-08T11:10:00.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "folha",
+     "titulo": "Globo substitui Luís Roberto por morte da mãe e terá Gustavo Villani em Vasco x Palmeiras",
+     "tituloMarcado": [
+      [
+       "Globo",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "substitui",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Luís",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Roberto",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "por",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "morte",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "da",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "mãe",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "terá",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Gustavo",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Villani",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Vasco",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "x",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Palmeiras",
+       false
+      ]
+     ],
+     "trecho": "A Globo decidiu substituir às pressas o narrador de Vasco x Palmeiras, pela semifinal da Copa do Brasil, que acontece neste domingo (8). Gustavo Villani vai narrar a partida. Luís Roberto foi afastado para ficar com sua…",
+     "link": "https://f5.folha.uol.com.br/colunistas/outro-canal/2026/11/globo-substitui-luis-roberto-por-morte-da-mae-e-tera-gustavo-villani-em-vasco-x-palmeiras.shtml",
+     "publicadoEm": "2026-11-08T17:04:00.000Z",
+     "tipo": "coluna",
+     "numero": null
+    },
+    {
+     "veiculo": "metropoles",
+     "titulo": "Saiba onde assistir a Vasco x Palmeiras pela semifinal da Copa do Brasil",
+     "tituloMarcado": [
+      [
+       "Saiba",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "onde",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "assistir",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "a",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Vasco",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "x",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Palmeiras",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "pela",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "semifinal",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "da",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Copa",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "do",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Brasil",
+       false
+      ]
+     ],
+     "trecho": "Vasco e Palmeiras duelam pela partida de volta da semifinal da Copa do Brasil; Alviverde tem vantagem no placar",
+     "link": "https://www.metropoles.com/esportes/saiba-onde-assistir-a-vasco-x-palmeiras-pela-semifinal-da-copa-do-brasil",
+     "publicadoEm": "2026-11-08T17:17:04.000Z",
+     "tipo": "noticia",
+     "numero": null
+    }
+   ]
+  },
+  {
+   "id": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/homem-desaparecido-em-naufragio-no-interior-de-sp-e-encontrado-morto/",
+   "veiculos": 3,
+   "primeiro": "2026-11-08T15:57:37.000Z",
+   "ultimo": "2026-11-08T17:05:32.000Z",
+   "comuns": [
+    "desaparecido",
+    "SP",
+    "interior",
+    "Chuvas",
+    "morte"
+   ],
+   "politica": null,
+   "materias": [
+    {
+     "veiculo": "cnn",
+     "titulo": "Homem desaparecido em naufrágio no interior de SP é encontrado morto",
+     "tituloMarcado": [
+      [
+       "Homem",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "desaparecido",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "naufrágio",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "no",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "interior",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "SP",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "é",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "encontrado",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "morto",
+       true
+      ]
+     ],
+     "trecho": "Vítima era um pescador que desapareceu na noite deste sábado (7) por causa do mau tempo que atingiu a região e virou os dois barcos, segundo a Defesa Civil",
+     "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/homem-desaparecido-em-naufragio-no-interior-de-sp-e-encontrado-morto/",
+     "publicadoEm": "2026-11-08T15:57:37.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "folha",
+     "titulo": "Chuvas provocam uma morte e um desaparecimento no estado de SP; interior tem 4 desabrigados",
+     "tituloMarcado": [
+      [
+       "Chuvas",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "provocam",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "uma",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "morte",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "um",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "desaparecimento",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "no",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "estado",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "SP;",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "interior",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "tem",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "4",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "desabrigados",
+       true
+      ]
+     ],
+     "trecho": "As chuvas que atingem o estado de São Paulo desde a tarde de sábado (7) provocaram uma morte e deixaram ao menos um desaparecido. No interior, os temporais provocaram destelhamentos, quedas de árvore, alagamentos e…",
+     "link": "https://www1.folha.uol.com.br/cotidiano/2026/11/chuvas-provocam-uma-morte-e-um-desaparecimento-no-estado-de-sp-interior-tem-4-desabrigados.shtml",
+     "publicadoEm": "2026-11-08T15:59:00.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "uol",
+     "titulo": "Defesa Civil confirma uma morte e um desaparecimento após chuva forte em SP",
+     "tituloMarcado": [
+      [
+       "Defesa",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Civil",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "confirma",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "uma",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "morte",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "um",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "desaparecimento",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "após",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "chuva",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "forte",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "SP",
+       false
+      ]
+     ],
+     "trecho": "A Defesa Civil do Estado de São Paulo confirmou neste hoje a morte de um pescador de 50 anos e o desaparecimento de um jovem de 20 anos em um córrego após as fortes chuvas que atingiram o estado.",
+     "link": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/11/08/defesa-civil-confirma-uma-morte-e-um-desaparecimento-apos-chuva-forte-em-sp.htm",
+     "publicadoEm": "2026-11-08T17:05:32.000Z",
+     "tipo": "noticia",
+     "numero": null
+    }
+   ]
+  },
+  {
+   "id": "https://www.gazetadopovo.com.br/mundo/ataque-a-tiros-mata-6-pessoas-ao-lado-de-basilica-na-polonia/",
+   "veiculos": 3,
+   "primeiro": "2026-11-08T08:06:50.000Z",
+   "ultimo": "2026-11-08T16:54:00.000Z",
+   "comuns": [
+    "Polônia",
+    "Ataque",
+    "Atirador"
+   ],
+   "politica": null,
+   "materias": [
+    {
+     "veiculo": "gazetadopovo",
+     "titulo": "Ataque a tiros mata 6 pessoas ao lado de basílica na Polônia",
+     "tituloMarcado": [
+      [
+       "Ataque",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "a",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "tiros",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "mata",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "6",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "pessoas",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ao",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "lado",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "basílica",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "na",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Polônia",
+       false
+      ]
+     ],
+     "trecho": "Arcebispo de Cracóvia convoca cidade à oração após ataque que deixou 6 mortos e 16 feridos na Praça do Mercado Principal, ao lado da Basílica de Santa Maria.",
+     "link": "https://www.gazetadopovo.com.br/mundo/ataque-a-tiros-mata-6-pessoas-ao-lado-de-basilica-na-polonia/",
+     "publicadoEm": "2026-11-08T08:06:50.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "bbc",
+     "titulo": "Atirador deixa 6 mortos e vários feridos em praça no centro de Cracóvia, na Polônia; o que se sabe",
+     "tituloMarcado": [
+      [
+       "Atirador",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "deixa",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "6",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "mortos",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "vários",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "feridos",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "praça",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "no",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "centro",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Cracóvia,",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "na",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Polônia;",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "o",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "que",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "se",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "sabe",
+       true
+      ]
+     ],
+     "trecho": "Polícia também encontrou três corpos na casa do atirador, que foi descrito pelas autoridades como um cidadão polonês de 25 anos.",
+     "link": "https://www.bbc.com/portuguese/articles/cm5yn1gyv07no?at_medium=RSS&at_campaign=rss",
+     "publicadoEm": "2026-11-08T09:27:54.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "uol",
+     "titulo": "Choque e luto na Polônia após ataque de atirador \"ultranacionalista\"",
+     "tituloMarcado": [
+      [
+       "Choque",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "luto",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "na",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Polônia",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "após",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ataque",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "atirador",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "\"ultranacionalista\"",
+       true
+      ]
+     ],
+     "trecho": "hoque e luto na Polônia após ataque de atirador \"ultranacionalista\" - Homem abriu fogo de dentro de um carro contra praça turística na Cracóvia, matando seis pessoas e ferindo outras 15. Pais e...",
+     "link": "https://noticias.uol.com.br/ultimas-noticias/deutschewelle/2026/11/08/choque-e-luto-na-polonia-apos-ataque-de-atirador-ultranacionalista.htm",
+     "publicadoEm": "2026-11-08T16:54:00.000Z",
+     "tipo": "noticia",
+     "numero": null
+    }
+   ]
+  },
+  {
+   "id": "https://www.gazetadopovo.com.br/mundo/opositor-de-netanyahu-e-escolhido-para-organizar-novo-governo-em-israel/",
+   "veiculos": 3,
+   "primeiro": "2026-11-08T01:21:29.000Z",
+   "ultimo": "2026-11-08T16:22:10.000Z",
+   "comuns": [
+    "Netanyahu",
+    "Opositor",
+    "novo",
+    "governo",
+    "Israel",
+    "convida"
+   ],
+   "politica": "eleições",
+   "materias": [
+    {
+     "veiculo": "gazetadopovo",
+     "titulo": "Opositor de Netanyahu é escolhido para organizar novo governo em Israel",
+     "tituloMarcado": [
+      [
+       "Opositor",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Netanyahu",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "é",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "escolhido",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "para",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "organizar",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "novo",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "governo",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Israel",
+       false
+      ]
+     ],
+     "trecho": "Opositor de Netanyahu foi designado para liderar as negociações destinadas a formar um novo governo em Israel.",
+     "link": "https://www.gazetadopovo.com.br/mundo/opositor-de-netanyahu-e-escolhido-para-organizar-novo-governo-em-israel/",
+     "publicadoEm": "2026-11-08T01:21:29.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "folha",
+     "titulo": "Eisenkot convida partido de Netanyahu a formar coalizão após eleições em Israel",
+     "tituloMarcado": [
+      [
+       "Eisenkot",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "convida",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "partido",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Netanyahu",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "a",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "formar",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "coalizão",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "após",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "eleições",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Israel",
+       false
+      ]
+     ],
+     "trecho": "Gadi Eisenkot, designadopara formar um novo governo em Israel, disse estar aberto à possibilidade de o primeiro-ministro em fim de mandato, Binyamin Netanyahu, e alguns de seus aliados de extrema direita integrarem uma…",
+     "link": "https://www1.folha.uol.com.br/mundo/2026/11/eisenkot-convida-partido-de-netanyahu-a-formar-coalizao-apos-eleicoes-em-israel.shtml",
+     "publicadoEm": "2026-11-08T16:09:00.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "cartacapital",
+     "titulo": "Líder da oposição convida partido de Netanyahu para coalizão do novo governo",
+     "tituloMarcado": [
+      [
+       "Líder",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "da",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "oposição",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "convida",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "partido",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Netanyahu",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "para",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "coalizão",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "do",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "novo",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "governo",
+       false
+      ]
+     ],
+     "trecho": "O gesto de Gadi Eisenkot ocorre após o presidente israelense, Isaac Herzog, afirmar que o país enfrenta uma 'nova realidade' após as eleições nos EUA",
+     "link": "https://www.cartacapital.com.br/mundo/eisenkot-convida-partido-de-netanyahu-a-formar-coalizao-de-governo/",
+     "publicadoEm": "2026-11-08T16:22:10.000Z",
      "tipo": "noticia",
      "numero": null
     }
@@ -3170,13 +6424,12 @@
    "id": "https://www.cnnbrasil.com.br/politica/lula-diz-que-enem-e-guerra-contra-o-retrocesso-vale-a-pena-ter-diploma/",
    "veiculos": 3,
    "primeiro": "2026-11-08T14:40:57.000Z",
-   "ultimo": "2026-11-08T15:24:20.000Z",
+   "ultimo": "2026-11-08T15:56:00.000Z",
    "comuns": [
     "Lula",
     "Enem",
     "guerra",
-    "participação",
-    "educação"
+    "retrocesso"
    ],
    "politica": "Lula",
    "materias": [
@@ -3234,7 +6487,7 @@
       ],
       [
        "retrocesso”",
-       true
+       false
       ],
       [
        " ",
@@ -3258,7 +6511,7 @@
       ],
       [
        "participação",
-       false
+       true
       ],
       [
        " ",
@@ -3272,117 +6525,6 @@
      "trecho": "Durante visita à sala de monitoramento do Inep, presidente desejou tranquilidade e uma boa prova a quem vai realizar o primeiro dia do exame, neste domingo (8)",
      "link": "https://www.cnnbrasil.com.br/politica/lula-diz-que-enem-e-guerra-contra-o-retrocesso-vale-a-pena-ter-diploma/",
      "publicadoEm": "2026-11-08T14:40:57.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "g1",
-     "titulo": "Lula diz que Enem representa 'guerra pela educação' e destaca participação de idosos",
-     "tituloMarcado": [
-      [
-       "Lula",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "diz",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "que",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Enem",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "representa",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "'guerra",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "pela",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "educação'",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "e",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "destaca",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "participação",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "idosos",
-       true
-      ]
-     ],
-     "trecho": "O presidente Luiz Inácio Lula da Silva (PT) afirmou neste domingo que o Exame Nacional do Ensino Médio (Enem), realizado com o apoio de milhares de profissionais e com mais de cinco milhões de inscritos, representa uma…",
-     "link": "https://g1.globo.com/educacao/enem/2026/noticia/2026/11/08/lula-diz-que-enem-representa-guerra-pela-educacao-e-destaca-participacao-de-idosos.ghtml",
-     "publicadoEm": "2026-11-08T15:00:34.000Z",
      "tipo": "noticia",
      "numero": null
     },
@@ -3432,7 +6574,7 @@
       ],
       [
        "educação”,",
-       false
+       true
       ],
       [
        " ",
@@ -3472,62 +6614,13 @@
      "publicadoEm": "2026-11-08T15:24:20.000Z",
      "tipo": "noticia",
      "numero": null
-    }
-   ]
-  },
-  {
-   "id": "https://www1.folha.uol.com.br/cotidiano/2026/11/dez-pessoas-morrem-apos-carro-capotar-e-cair-em-lago-em-barra-mansa-rj.shtml",
-   "veiculos": 3,
-   "primeiro": "2026-11-08T14:50:00.000Z",
-   "ultimo": "2026-11-08T15:21:44.000Z",
-   "comuns": [
-    "Dez",
-    "Barra",
-    "Mansa",
-    "pessoas",
-    "morrem",
-    "após"
-   ],
-   "politica": null,
-   "materias": [
+    },
     {
-     "veiculo": "folha",
-     "titulo": "Dez pessoas morrem após carro capotar e cair em lago em Barra Mansa (RJ)",
+     "veiculo": "agenciabrasil",
+     "titulo": "Aplicação do Enem é operação de guerra contra o retrocesso, diz Lula",
      "tituloMarcado": [
       [
-       "Dez",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "pessoas",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "morrem",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "após",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "carro",
+       "Aplicação",
        true
       ],
       [
@@ -3535,7 +6628,581 @@
        ""
       ],
       [
-       "capotar",
+       "do",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Enem",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "é",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "operação",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "guerra",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "contra",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "o",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "retrocesso,",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "diz",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Lula",
+       false
+      ]
+     ],
+     "trecho": "Ao aplicar o Exame Nacional do Ensino Médio (Enem) para mais de 5 milhões de inscritos, o Brasil trava uma guerra contra o retrocesso, afirmou neste domingo (8) o presidente Luiz Inácio Lula da Silva. “Nós aqui estamos…",
+     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/aplicacao-do-enem-e-operacao-de-guerra-contra-o-retrocesso-diz-lula",
+     "publicadoEm": "2026-11-08T15:56:00.000Z",
+     "tipo": "noticia",
+     "numero": null
+    }
+   ]
+  },
+  {
+   "id": "https://www1.folha.uol.com.br/cotidiano/2026/11/confira-a-partir-das-11h-deste-domingo-8-o-resultado-do-concurso-3083-da-mega-sena.shtml",
+   "veiculos": 3,
+   "primeiro": "2026-11-08T12:15:00.000Z",
+   "ultimo": "2026-11-08T15:34:00.000Z",
+   "comuns": [
+    "Aposta",
+    "Goiânia",
+    "leva",
+    "Mega-Sena",
+    "milhões",
+    "3083"
+   ],
+   "politica": null,
+   "materias": [
+    {
+     "veiculo": "folha",
+     "titulo": "Aposta única de Goiânia leva R$ 59,5 milhões do concurso 3083 da Mega-Sena",
+     "tituloMarcado": [
+      [
+       "Aposta",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "única",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Goiânia",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "leva",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "R$",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "59,5",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "milhões",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "do",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "concurso",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "3083",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "da",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Mega-Sena",
+       false
+      ]
+     ],
+     "trecho": "Uma aposta de Goiânia foi a única acertadora das seis dezenas do concurso 3083 da Mega-Sena, sorteado na manhã deste domingo (8), e receberá o prêmio de R$ 59.526.903,72.",
+     "link": "https://www1.folha.uol.com.br/cotidiano/2026/11/confira-a-partir-das-11h-deste-domingo-8-o-resultado-do-concurso-3083-da-mega-sena.shtml",
+     "publicadoEm": "2026-11-08T12:15:00.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "g1",
+     "titulo": "Mega-Sena 3083: aposta simples de Goiânia leva quase R$ 60 milhões; confira os números sorteados",
+     "tituloMarcado": [
+      [
+       "Mega-Sena",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "3083:",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "aposta",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "simples",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Goiânia",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "leva",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "quase",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "R$",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "60",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "milhões;",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "confira",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "os",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "números",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "sorteados",
+       false
+      ]
+     ],
+     "trecho": "Como funciona a Mega-Sena? O sorteio do concurso 3083 da Mega-Sena foi realizado neste domingo (8), em São Paulo. Uma aposta simples de Goiânia levou quase R$ 60 milhões. 📱Favorite o g1 no Google e acompanhe as…",
+     "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/08/mega-sena-3083-confira-os-numeros-sorteados.ghtml",
+     "publicadoEm": "2026-11-08T14:00:55.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "agenciabrasil",
+     "titulo": "Aposta de Goiânia leva prêmio da Mega-Sena; veja dezenas sorteadas",
+     "tituloMarcado": [
+      [
+       "Aposta",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Goiânia",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "leva",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "prêmio",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "da",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Mega-Sena;",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "veja",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "dezenas",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "sorteadas",
+       false
+      ]
+     ],
+     "trecho": "Uma aposta simples feita na Casa Lotérica Ponto Certo, na cidade de Goiânia, acertou as seis dezenas do Concurso 3.083 da Mega-Sena sorteadas neste domingo (8). O ganhador receberá o prêmio de R$ R$ 59.526.903,72…",
+     "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/aposta-de-goiania-leva-premio-da-mega-sena-veja-dezenas-sorteadas",
+     "publicadoEm": "2026-11-08T15:34:00.000Z",
+     "tipo": "noticia",
+     "numero": null
+    }
+   ]
+  },
+  {
+   "id": "https://www1.folha.uol.com.br/educacao/2026/11/professores-comentam-redacao-e-questoes-do-1o-dia-do-enem-2026-assista.shtml",
+   "veiculos": 3,
+   "primeiro": "2026-11-08T07:00:00.000Z",
+   "ultimo": "2026-11-08T15:26:46.000Z",
+   "comuns": [
+    "provas",
+    "1º",
+    "dia",
+    "Enem",
+    "2026",
+    "fazem"
+   ],
+   "politica": null,
+   "materias": [
+    {
+     "veiculo": "folha",
+     "titulo": "Começa aplicação de provas do 1º dia do Enem; a partir das 19h, professores comentam redação e questões",
+     "tituloMarcado": [
+      [
+       "Começa",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "aplicação",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "provas",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "do",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "1º",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "dia",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "do",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Enem;",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "a",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "partir",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "das",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "19h,",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "professores",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "comentam",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "redação",
        true
       ],
       [
@@ -3551,70 +7218,22 @@
        ""
       ],
       [
-       "cair",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "em",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "lago",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "em",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Barra",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Mansa",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "(RJ)",
+       "questões",
        true
       ]
      ],
-     "trecho": "Dez pessoas morreram na noite deste sábado (7) após um carro capotar e cair em um lago na cidade de Barra Mansa, no Rio de Janeiro. Cinco adultos e cinco crianças foram encontrados sem vida dentro do veículo.",
-     "link": "https://www1.folha.uol.com.br/cotidiano/2026/11/dez-pessoas-morrem-apos-carro-capotar-e-cair-em-lago-em-barra-mansa-rj.shtml",
-     "publicadoEm": "2026-11-08T14:50:00.000Z",
+     "trecho": "Começou às 13h30 deste domingo (8) o primeiro dia de provas do Enem (Exame Nacional do Ensino Médio). A aplicação, iniciada meia horas após o fechamento dos portões, estende-se até as 19h.",
+     "link": "https://www1.folha.uol.com.br/educacao/2026/11/professores-comentam-redacao-e-questoes-do-1o-dia-do-enem-2026-assista.shtml",
+     "publicadoEm": "2026-11-08T07:00:00.000Z",
      "tipo": "noticia",
      "numero": null
     },
     {
-     "veiculo": "agenciabrasil",
-     "titulo": "Dez pessoas morrem em acidente em Barra Mansa, no Rio de Janeiro",
+     "veiculo": "cnn",
+     "titulo": "Enem 2026: milhões de estudantes fazem 1º dia de provas em todo o Brasil",
      "tituloMarcado": [
       [
-       "Dez",
+       "Enem",
        false
       ],
       [
@@ -3622,7 +7241,7 @@
        ""
       ],
       [
-       "pessoas",
+       "2026:",
        false
       ],
       [
@@ -3630,7 +7249,63 @@
        ""
       ],
       [
-       "morrem",
+       "milhões",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "estudantes",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "fazem",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "1º",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "dia",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "provas",
        false
       ],
       [
@@ -3646,237 +7321,7 @@
        ""
       ],
       [
-       "acidente",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "em",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Barra",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Mansa,",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "no",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Rio",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Janeiro",
-       true
-      ]
-     ],
-     "trecho": "Um acidente matou dez pessoas na noite desse sábado (7). Um veículo capotou e caiu em um lago, em Barra Mansa, no sul fluminense. Cinco adultos e cinco crianças morreram. A Polícia Civil investiga as causas. De acordo…",
-     "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/dez-pessoas-morrem-em-acidente-em-barra-mansa-no-rio-de-janeiro",
-     "publicadoEm": "2026-11-08T15:05:00.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "g1",
-     "titulo": "Prefeitura de Barra Mansa decreta luto oficial de três dias após acidente que deixou dez mortos",
-     "tituloMarcado": [
-      [
-       "Prefeitura",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Barra",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Mansa",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "decreta",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "luto",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "oficial",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "três",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "dias",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "após",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "acidente",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "que",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "deixou",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "dez",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "mortos",
-       true
-      ]
-     ],
-     "trecho": "Prefeitura de Barra Mansa Divulgação/Prefeitura de Barra Mansa A Prefeitura de Barra Mansa (RJ) decretou luto oficial de três dias após o acidente que matou dez pessoas na madruga deste domingo (8) na Estrada Fazenda…",
-     "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/11/08/prefeitura-de-barra-mansa-decreta-luto-oficial-de-tres-dias-apos-acidente-que-deixou-dez-mortos.ghtml",
-     "publicadoEm": "2026-11-08T15:21:44.000Z",
-     "tipo": "noticia",
-     "numero": null
-    }
-   ]
-  },
-  {
-   "id": "https://veja.abril.com.br/brasil/como-montar-o-kit-de-emergencia-domestico-recomendado-pela-defesa-civil/",
-   "veiculos": 3,
-   "primeiro": "2026-11-08T12:46:39.000Z",
-   "ultimo": "2026-11-08T14:59:25.000Z",
-   "comuns": [
-    "emergência",
-    "Defesa",
-    "Civil",
-    "kits",
-    "não"
-   ],
-   "politica": null,
-   "materias": [
-    {
-     "veiculo": "veja",
-     "titulo": "Como montar o kit de emergência recomendado pela Defesa Civil",
-     "tituloMarcado": [
-      [
-       "Como",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "montar",
+       "todo",
        true
       ],
       [
@@ -3892,70 +7337,22 @@
        ""
       ],
       [
-       "kit",
+       "Brasil",
        true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "emergência",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "recomendado",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "pela",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Defesa",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Civil",
-       false
       ]
      ],
-     "trecho": "Orientação sugere armazenar água, alimentos não perecíveis e medicamentos para suprir necessidades básicas por três dias",
-     "link": "https://veja.abril.com.br/brasil/como-montar-o-kit-de-emergencia-domestico-recomendado-pela-defesa-civil/",
-     "publicadoEm": "2026-11-08T12:46:39.000Z",
+     "trecho": "Além da redação, candidatos respondem a 45 questões de linguagens e 45 perguntas de ciências humanas",
+     "link": "https://www.cnnbrasil.com.br/educacao/enem-2026-primeiro-dia-de-prova/",
+     "publicadoEm": "2026-11-08T15:00:22.000Z",
      "tipo": "noticia",
      "numero": null
     },
     {
      "veiculo": "g1",
-     "titulo": "Defesa Civil diz que kits de emergência são preventivos e que não há razões para pânico",
+     "titulo": "Enem 2026: Entre ansiedade e sonho da universidade, candidatos fazem 1º dia de provas no Acre",
      "tituloMarcado": [
       [
-       "Defesa",
+       "Enem",
        false
       ],
       [
@@ -3963,7 +7360,7 @@
        ""
       ],
       [
-       "Civil",
+       "2026:",
        false
       ],
       [
@@ -3971,7 +7368,7 @@
        ""
       ],
       [
-       "diz",
+       "Entre",
        false
       ],
       [
@@ -3979,47 +7376,7 @@
        ""
       ],
       [
-       "que",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "kits",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "emergência",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "são",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "preventivos",
+       "ansiedade",
        true
       ],
       [
@@ -4035,23 +7392,7 @@
        ""
       ],
       [
-       "que",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "não",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "há",
+       "sonho",
        true
       ],
       [
@@ -4059,7 +7400,15 @@
        ""
       ],
       [
-       "razões",
+       "da",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "universidade,",
        true
       ],
       [
@@ -4067,30 +7416,15 @@
        ""
       ],
       [
-       "para",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "pânico",
+       "candidatos",
        true
-      ]
-     ],
-     "trecho": "A Defesa Civil Nacional fez uma nova postagem nas redes sociais neste domingo (8) afirmando que falar de kit de emergência não é sinal de perigo, mas \"sinal de que prevenir faz parte da rotina\". Post da defesa civil…",
-     "link": "https://g1.globo.com/meio-ambiente/noticia/2026/11/08/defesa-civil-kits-de-emergencia-preventivos.ghtml",
-     "publicadoEm": "2026-11-08T14:38:48.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "poder360",
-     "titulo": "Defesa Civil diz que kits de emergência não indicam risco: “calma”",
-     "tituloMarcado": [
+      ],
       [
-       "Defesa",
+       " ",
+       ""
+      ],
+      [
+       "fazem",
        false
       ],
       [
@@ -4098,7 +7432,7 @@
        ""
       ],
       [
-       "Civil",
+       "1º",
        false
       ],
       [
@@ -4106,23 +7440,7 @@
        ""
       ],
       [
-       "diz",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "que",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "kits",
+       "dia",
        false
       ],
       [
@@ -4138,7 +7456,7 @@
        ""
       ],
       [
-       "emergência",
+       "provas",
        false
       ],
       [
@@ -4146,7 +7464,7 @@
        ""
       ],
       [
-       "não",
+       "no",
        false
       ],
       [
@@ -4154,29 +7472,13 @@
        ""
       ],
       [
-       "indicam",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "risco:",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "“calma”",
+       "Acre",
        true
       ]
      ],
-     "trecho": "Órgão esclareceu publicação sobre suprimentos para as primeiras 72 horas de desastres",
-     "link": "https://www.poder360.com.br/poder-brasil/defesa-civil-diz-que-kits-de-emergencia-nao-indicam-risco-calma/",
-     "publicadoEm": "2026-11-08T14:59:25.000Z",
+     "trecho": "Enem 2026: Entre ansiedade e sonho da universidade, candidatos fazem 1º dia de prova no AC O primeiro dia de provas do Exame Nacional do Ensino Médio (Enem) 2026 foi marcado pela movimentação de candidatos nos locais de…",
+     "link": "https://g1.globo.com/ac/acre/noticia/2026/11/08/enem-2026-1-dia-rio-branco-acre.ghtml",
+     "publicadoEm": "2026-11-08T15:26:46.000Z",
      "tipo": "noticia",
      "numero": null
     }
@@ -4495,1803 +7797,6 @@
      "trecho": "Pedro Alliana assumiu após impeachment de Santiago Peña e anunciou reembolso para poupadores afetados pelo fechamento da instituição bancária",
      "link": "https://www.cnnbrasil.com.br/internacional/novo-presidente-do-paraguai-promete-priorizar-vitimas-do-ueno-bank/",
      "publicadoEm": "2026-11-08T14:26:03.000Z",
-     "tipo": "noticia",
-     "numero": null
-    }
-   ]
-  },
-  {
-   "id": "https://www.gazetadopovo.com.br/economia/imposto-do-pecado-comeca-em-2027-e-tera-novas-aliquotas-em-2028/",
-   "veiculos": 3,
-   "primeiro": "2026-11-06T19:24:48.000Z",
-   "ultimo": "2026-11-08T13:56:00.000Z",
-   "comuns": [
-    "Imposto",
-    "pecado"
-   ],
-   "politica": null,
-   "materias": [
-    {
-     "veiculo": "gazetadopovo",
-     "titulo": "O que é o Imposto do pecado e quais produtos passam a fazer parte da tributação?",
-     "tituloMarcado": [
-      [
-       "O",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "que",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "é",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "o",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Imposto",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "do",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "pecado",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "e",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "quais",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "produtos",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "passam",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "a",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "fazer",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "parte",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "da",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "tributação?",
-       true
-      ]
-     ],
-     "trecho": "Imposto do pecado começa em 2027 e terá novas alíquotas em 2028. Veja produtos afetados e como será a cobrança.",
-     "link": "https://www.gazetadopovo.com.br/economia/imposto-do-pecado-comeca-em-2027-e-tera-novas-aliquotas-em-2028/",
-     "publicadoEm": "2026-11-06T19:24:48.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "g1",
-     "titulo": "‘Imposto do pecado’: veículos a diesel são os mais prejudicados; veja o que pesa em cada tipo de carro",
-     "tituloMarcado": [
-      [
-       "‘Imposto",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "do",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "pecado’:",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "veículos",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "a",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "diesel",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "são",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "os",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "mais",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "prejudicados;",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "veja",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "o",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "que",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "pesa",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "em",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "cada",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "tipo",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "carro",
-       true
-      ]
-     ],
-     "trecho": "O que é o 'imposto do pecado' e como ele vai funcionar? O governo federal publicou na última quarta-feira (4) uma medida provisória (MP) que define as regras de cobrança do Imposto Seletivo, também conhecido como…",
-     "link": "https://g1.globo.com/carros/noticia/2026/11/07/imposto-do-pecado-carro-diesel.ghtml",
-     "publicadoEm": "2026-11-07T08:00:01.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "veja",
-     "titulo": "Imposto do Pecado: o vinho vai ficar mais caro ou estão fazendo tempestade na taça?",
-     "tituloMarcado": [
-      [
-       "Imposto",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "do",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Pecado:",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "o",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "vinho",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "vai",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "ficar",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "mais",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "caro",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "ou",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "estão",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "fazendo",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "tempestade",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "na",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "taça?",
-       true
-      ]
-     ],
-     "trecho": "Há muita desinformação sobre o real impacto da reforma tributária sobre o setor",
-     "link": "https://veja.abril.com.br/coluna/al-vino/imposto-do-pecado-o-vinho-vai-ficar-mais-caro-ou-estao-fazendo-tempestade-na-taca/",
-     "publicadoEm": "2026-11-08T13:56:00.000Z",
-     "tipo": "coluna",
-     "numero": null
-    }
-   ]
-  },
-  {
-   "id": "https://www.cartacapital.com.br/esporte/palmeiras-ou-vasco-weverton-revela-quem-prefere-enfrentar-na-decisao/",
-   "veiculos": 3,
-   "primeiro": "2026-11-08T10:33:58.000Z",
-   "ultimo": "2026-11-08T13:30:06.000Z",
-   "comuns": [
-    "Palmeiras",
-    "Vasco",
-    "Copa",
-    "Brasil"
-   ],
-   "politica": null,
-   "materias": [
-    {
-     "veiculo": "cartacapital",
-     "titulo": "Palmeiras ou Vasco? Weverton revela quem prefere enfrentar na decisão",
-     "tituloMarcado": [
-      [
-       "Palmeiras",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "ou",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Vasco?",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Weverton",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "revela",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "quem",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "prefere",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "enfrentar",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "na",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "decisão",
-       true
-      ]
-     ],
-     "trecho": "Goleiro destaca carinho pelo ex-clube após classificação do Tricolor gaúcho; Vasco e Verdão disputam a segunda vaga na decisão neste domingo",
-     "link": "https://www.cartacapital.com.br/esporte/palmeiras-ou-vasco-weverton-revela-quem-prefere-enfrentar-na-decisao/",
-     "publicadoEm": "2026-11-08T10:33:58.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "agenciabrasil",
-     "titulo": "Copa do Brasil: Rádio Nacional transmite Vasco x Palmeiras às 17h",
-     "tituloMarcado": [
-      [
-       "Copa",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "do",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Brasil:",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Rádio",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Nacional",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "transmite",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Vasco",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "x",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Palmeiras",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "às",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "17h",
-       true
-      ]
-     ],
-     "trecho": "O jogo de volta da semifinal da Copa do Brasil 2026 entre Vasco e Palmeiras será disputado neste domingo (8), às 17h, no Estádio de São Januário, no Rio de Janeiro (RJ). O confronto ganha transmissão da Rádio Nacional…",
-     "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/copa-do-brasil-radio-nacional-transmite-vasco-x-palmeiras-17h",
-     "publicadoEm": "2026-11-08T11:10:00.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "veja",
-     "titulo": "Vasco x Palmeiras na Copa do Brasil: onde assistir, horário e escalações",
-     "tituloMarcado": [
-      [
-       "Vasco",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "x",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Palmeiras",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "na",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Copa",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "do",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Brasil:",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "onde",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "assistir,",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "horário",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "e",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "escalações",
-       true
-      ]
-     ],
-     "trecho": "Equipes se enfrentam neste domingo, 8, no Rio, pelo jogo de volta da semifinal; na ida, paulistas venceram por 1 a 0",
-     "link": "https://veja.abril.com.br/esporte/vasco-x-palmeiras-na-copa-do-brasil-onde-assistir-horario-e-escalacoes/",
-     "publicadoEm": "2026-11-08T13:30:06.000Z",
-     "tipo": "noticia",
-     "numero": null
-    }
-   ]
-  },
-  {
-   "id": "https://www.gazetadopovo.com.br/mundo/ataque-a-tiros-mata-6-pessoas-ao-lado-de-basilica-na-polonia/",
-   "veiculos": 3,
-   "primeiro": "2026-11-08T08:06:50.000Z",
-   "ultimo": "2026-11-08T12:38:33.000Z",
-   "comuns": [
-    "Polônia",
-    "Ataque",
-    "tiros",
-    "mortos"
-   ],
-   "politica": null,
-   "materias": [
-    {
-     "veiculo": "gazetadopovo",
-     "titulo": "Ataque a tiros mata 6 pessoas ao lado de basílica na Polônia",
-     "tituloMarcado": [
-      [
-       "Ataque",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "a",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "tiros",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "mata",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "6",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "pessoas",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "ao",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "lado",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "basílica",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "na",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Polônia",
-       false
-      ]
-     ],
-     "trecho": "Arcebispo de Cracóvia convoca cidade à oração após ataque que deixou 6 mortos e 16 feridos na Praça do Mercado Principal, ao lado da Basílica de Santa Maria.",
-     "link": "https://www.gazetadopovo.com.br/mundo/ataque-a-tiros-mata-6-pessoas-ao-lado-de-basilica-na-polonia/",
-     "publicadoEm": "2026-11-08T08:06:50.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "bbc",
-     "titulo": "Atirador deixa 6 mortos e vários feridos em praça no centro de Cracóvia, na Polônia; o que se sabe",
-     "tituloMarcado": [
-      [
-       "Atirador",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "deixa",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "6",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "mortos",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "e",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "vários",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "feridos",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "em",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "praça",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "no",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "centro",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Cracóvia,",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "na",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Polônia;",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "o",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "que",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "se",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "sabe",
-       true
-      ]
-     ],
-     "trecho": "Polícia também encontrou três corpos na casa do atirador, que foi descrito pelas autoridades como um cidadão polonês de 25 anos.",
-     "link": "https://www.bbc.com/portuguese/articles/cm5yn1gyv07no?at_medium=RSS&at_campaign=rss",
-     "publicadoEm": "2026-11-08T09:27:54.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "g1",
-     "titulo": "Brasileira relata desespero durante ataque a tiros que deixou 6 mortos na Polônia",
-     "tituloMarcado": [
-      [
-       "Brasileira",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "relata",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "desespero",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "durante",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "ataque",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "a",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "tiros",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "que",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "deixou",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "6",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "mortos",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "na",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Polônia",
-       false
-      ]
-     ],
-     "trecho": "Potiguar estava na praça onde aconteceu atentado na Polônia A advogada potiguar Ruthiane Basílio presenciou momentos de terror durante uma viagem de trabalho a Cracóvia, na Polônia, neste sábado (7). Ela estava dentro…",
-     "link": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/11/08/brasileira-relata-desespero-durante-ataque-a-tiros-que-deixou-6-mortos-na-polonia.ghtml",
-     "publicadoEm": "2026-11-08T12:38:33.000Z",
-     "tipo": "noticia",
-     "numero": null
-    }
-   ]
-  },
-  {
-   "id": "https://www1.folha.uol.com.br/esporte/2026/11/gremio-segura-o-atletico-mg-em-bh-e-vai-a-final-da-copa-do-brasil.shtml",
-   "veiculos": 3,
-   "primeiro": "2026-11-07T23:11:00.000Z",
-   "ultimo": "2026-11-08T10:55:25.000Z",
-   "comuns": [
-    "Grêmio",
-    "final",
-    "Atlético-MG",
-    "Copa",
-    "Brasil",
-    "após"
-   ],
-   "politica": null,
-   "materias": [
-    {
-     "veiculo": "folha",
-     "titulo": "Grêmio segura o Atlético-MG em BH e vai à final da Copa do Brasil",
-     "tituloMarcado": [
-      [
-       "Grêmio",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "segura",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "o",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Atlético-MG",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "em",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "BH",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "e",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "vai",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "à",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "final",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "da",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Copa",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "do",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Brasil",
-       false
-      ]
-     ],
-     "trecho": "O Grêmio empatou com o Atlético-MG em 1 a 1 neste sábado (7), em Belo Horizonte, e avançou à final da Copa do Brasil. Os gols foram de Renan Lodi, para os mineiros, e Carlos Vinícius, para os gaúchos.",
-     "link": "https://www1.folha.uol.com.br/esporte/2026/11/gremio-segura-o-atletico-mg-em-bh-e-vai-a-final-da-copa-do-brasil.shtml",
-     "publicadoEm": "2026-11-07T23:11:00.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "agenciabrasil",
-     "titulo": "Grêmio avança à final da Copa do Brasil após empate com Atlético-MG",
-     "tituloMarcado": [
-      [
-       "Grêmio",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "avança",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "à",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "final",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "da",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Copa",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "do",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Brasil",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "após",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "empate",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "com",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Atlético-MG",
-       false
-      ]
-     ],
-     "trecho": "O Grêmio é o primeiro finalista da Copa do Brasil. Jogando em Belo Horizonte, o Tricolor Gaúcho empatou em 1 a 1 com o Atlético-MG na noite deste sábado (7) e garantiu a classificação, pois já vencera o jogo de ida em…",
-     "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/gremio-avanca-final-da-copa-do-brasil-apos-empate-com-atletico-mg",
-     "publicadoEm": "2026-11-08T00:33:00.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "cartacapital",
-     "titulo": "Renato rebate críticas no Grêmio após vaga na final e dispara: “Eu sou o cara”",
-     "tituloMarcado": [
-      [
-       "Renato",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "rebate",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "críticas",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "no",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Grêmio",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "após",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "vaga",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "na",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "final",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "e",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "dispara:",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "“Eu",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "sou",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "o",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "cara”",
-       true
-      ]
-     ],
-     "trecho": "Treinador rebate críticas por escalação alternativa contra o Flamengo, destaca planejamento e exalta próprio trabalho após classificação sobre o Atlético-MG",
-     "link": "https://www.cartacapital.com.br/esporte/renato-rebate-criticas-no-gremio-apos-vaga-na-final-e-dispara-eu-sou-o-cara/",
-     "publicadoEm": "2026-11-08T10:55:25.000Z",
-     "tipo": "noticia",
-     "numero": null
-    }
-   ]
-  },
-  {
-   "id": "https://www.gazetadopovo.com.br/mundo/pena-preso-paraguai-apos-impeachment/",
-   "veiculos": 3,
-   "primeiro": "2026-11-07T00:34:36.000Z",
-   "ultimo": "2026-11-07T23:12:00.000Z",
-   "comuns": [
-    "Santiago",
-    "Peña",
-    "Paraguai",
-    "após",
-    "impeachment"
-   ],
-   "politica": "impeachment",
-   "materias": [
-    {
-     "veiculo": "gazetadopovo",
-     "titulo": "Santiago Peña é preso no Paraguai após impeachment",
-     "tituloMarcado": [
-      [
-       "Santiago",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Peña",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "é",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "preso",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "no",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Paraguai",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "após",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "impeachment",
-       false
-      ]
-     ],
-     "trecho": "Santiago Peña começa a cumprir prisão domiciliar após impeachment no Paraguai. Ex-presidente é investigado por suspeitas no Ueno Bank.",
-     "link": "https://www.gazetadopovo.com.br/mundo/pena-preso-paraguai-apos-impeachment/",
-     "publicadoEm": "2026-11-07T00:34:36.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "bbc",
-     "titulo": "'Caso Master do Paraguai': entenda a crise de banco que derrubou o presidente Santiago Peña",
-     "tituloMarcado": [
-      [
-       "'Caso",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Master",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "do",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Paraguai':",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "entenda",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "a",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "crise",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "banco",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "que",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "derrubou",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "o",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "presidente",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Santiago",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Peña",
-       false
-      ]
-     ],
-     "trecho": "A intervenção no Ueno Bank, uma das maiores instituições financeiras do Paraguai, abalou o sistema bancário do país e os mais altos escalões do poder político.",
-     "link": "https://www.bbc.com/portuguese/articles/cmq8njl81978o?at_medium=RSS&at_campaign=rss",
-     "publicadoEm": "2026-11-07T10:53:57.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "folha",
-     "titulo": "Justiça do Paraguai decreta prisão preventiva de Santiago Peña após impeachment",
-     "tituloMarcado": [
-      [
-       "Justiça",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "do",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Paraguai",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "decreta",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "prisão",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "preventiva",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Santiago",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Peña",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "após",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "impeachment",
-       false
-      ]
-     ],
-     "trecho": "O ex-presidente do Paraguai Santiago Peña teve a prisão preventiva decretada neste sábado (7), após ser acusado de envolvimento em uma crise bancária que deixou milhões de correntistas sem acesso a seus depósitos e…",
-     "link": "https://www1.folha.uol.com.br/mundo/2026/11/justica-do-paraguai-decreta-prisao-preventiva-de-santiago-pena-apos-impeachment.shtml",
-     "publicadoEm": "2026-11-07T23:12:00.000Z",
      "tipo": "noticia",
      "numero": null
     }
@@ -6652,12 +8157,12 @@
    "primeiro": "2026-11-06T18:43:45.000Z",
    "ultimo": "2026-11-07T13:40:26.000Z",
    "comuns": [
-    "Escândalos",
-    "Ueno",
-    "Bank",
     "Banco",
     "Master",
-    "Paraguai"
+    "Paraguai",
+    "Escândalos",
+    "Ueno",
+    "Bank"
    ],
    "politica": null,
    "materias": [
@@ -6790,10 +8295,18 @@
     },
     {
      "veiculo": "bbc",
-     "titulo": "Ueno Bank: escândalo que levou à queda do presidente do Paraguai pode ser comparado ao do Banco Master?",
+     "titulo": "'Caso Master do Paraguai': entenda a crise de banco que derrubou o presidente Santiago Peña",
      "tituloMarcado": [
       [
-       "Ueno",
+       "'Caso",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Master",
        false
       ],
       [
@@ -6801,7 +8314,7 @@
        ""
       ],
       [
-       "Bank:",
+       "do",
        false
       ],
       [
@@ -6809,7 +8322,47 @@
        ""
       ],
       [
-       "escândalo",
+       "Paraguai':",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "entenda",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "a",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "crise",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "banco",
        false
       ],
       [
@@ -6825,31 +8378,15 @@
        ""
       ],
       [
-       "levou",
-       false
+       "derrubou",
+       true
       ],
       [
        " ",
        ""
       ],
       [
-       "à",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "queda",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "do",
+       "o",
        false
       ],
       [
@@ -6865,77 +8402,21 @@
        ""
       ],
       [
-       "do",
-       false
+       "Santiago",
+       true
       ],
       [
        " ",
        ""
       ],
       [
-       "Paraguai",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "pode",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "ser",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "comparado",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "ao",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "do",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Banco",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Master?",
-       false
+       "Peña",
+       true
       ]
      ],
-     "trecho": "Crescimento rápido, exposição relevante de recursos públicos e relações próximas com o mundo político estão entre as semelhanças dos dois casos. Mas analistas apontam diferenças relevantes",
-     "link": "https://www.bbc.com/portuguese/articles/c6eq33z529jwo?at_medium=RSS&at_campaign=rss",
-     "publicadoEm": "2026-11-07T13:26:41.000Z",
+     "trecho": "A intervenção no Ueno Bank, uma das maiores instituições financeiras do Paraguai, abalou o sistema bancário do país e os mais altos escalões do poder político.",
+     "link": "https://www.bbc.com/portuguese/articles/cmq8njl81978o?at_medium=RSS&at_campaign=rss",
+     "publicadoEm": "2026-11-07T10:53:57.000Z",
      "tipo": "noticia",
      "numero": null
     },
@@ -6977,7 +8458,7 @@
       ],
       [
        "levou",
-       false
+       true
       ],
       [
        " ",
@@ -6993,7 +8474,7 @@
       ],
       [
        "queda",
-       false
+       true
       ],
       [
        " ",
@@ -7033,7 +8514,7 @@
       ],
       [
        "pode",
-       false
+       true
       ],
       [
        " ",
@@ -7049,7 +8530,7 @@
       ],
       [
        "comparado",
-       false
+       true
       ],
       [
        " ",
