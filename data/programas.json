@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-11-09T19:41:01.097Z",
+ "geradoEm": "2026-11-09T22:52:57.600Z",
  "criterio": "O detector lê as ementas das medidas provisórias e dos projetos de lei enviados pelo Poder Executivo à Câmara dos Deputados. Uma proposição entra na lista quando a ementa começa com um dos verbos abaixo seguido diretamente da palavra 'programa' (ex.: 'Institui o Programa…', 'Cria o Programa…', 'Dispõe sobre o Programa…'). Benefícios, adicionais e estratégias dentro de programas já existentes não entram. A classificação como social é automática, por palavras-chave, e pode ser corrigida por um editor no campo 'revisoes'.",
  "verbos": [
   "institui",
@@ -75,9 +75,19 @@
    "total": 43
   },
   {
+   "ano": 2015,
+   "tipo": "PL",
+   "total": 22
+  },
+  {
    "ano": 2016,
    "tipo": "MPV",
    "total": 56
+  },
+  {
+   "ano": 2016,
+   "tipo": "PL",
+   "total": 26
   },
   {
    "ano": 2017,
@@ -85,9 +95,19 @@
    "total": 51
   },
   {
+   "ano": 2017,
+   "tipo": "PL",
+   "total": 19
+  },
+  {
    "ano": 2018,
    "tipo": "MPV",
    "total": 53
+  },
+  {
+   "ano": 2018,
+   "tipo": "PL",
+   "total": 16
   },
   {
    "ano": 2019,
@@ -95,14 +115,29 @@
    "total": 48
   },
   {
+   "ano": 2019,
+   "tipo": "PL",
+   "total": 25
+  },
+  {
    "ano": 2020,
    "tipo": "MPV",
    "total": 108
   },
   {
+   "ano": 2020,
+   "tipo": "PL",
+   "total": 18
+  },
+  {
    "ano": 2021,
    "tipo": "MPV",
    "total": 70
+  },
+  {
+   "ano": 2021,
+   "tipo": "PL",
+   "total": 16
   },
   {
    "ano": 2022,
@@ -148,6 +183,11 @@
    "ano": 2026,
    "tipo": "MPV",
    "total": 68
+  },
+  {
+   "ano": 2026,
+   "tipo": "PL",
+   "total": 10
   }
  ],
  "itens": [
