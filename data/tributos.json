@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-11-11T01:36:17.933Z",
+ "geradoEm": "2026-11-11T16:59:50.399Z",
  "receita": {
   "url": "https://www.gov.br/receitafederal/dados/arrecadacao-estado.csv",
   "pagina": "https://www.gov.br/receitafederal/dados",
@@ -984,7 +984,7 @@
     "ementa": "Institui a Contribuição Social sobre a Propriedade de Sistemas de Interface entre Usuários de Internet (CPSI) e dispõe sobre outras providências voltadas ao fortalecimento da soberania digital do Brasil.",
     "especie": "contribuição",
     "dataApresentacao": "2025-07-17",
-    "situacao": "Aguardando Designação de Relator(a)",
+    "situacao": "Aguardando Parecer",
     "link": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2538208"
    },
    {
@@ -1109,6 +1109,6 @@
     "link": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2352061"
    }
   ],
-  "atualizadoEm": "2026-11-11T01:36:17.933Z"
+  "atualizadoEm": "2026-11-11T16:59:50.399Z"
  }
 }

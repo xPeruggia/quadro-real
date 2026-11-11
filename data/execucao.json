@@ -1,7 +1,7 @@
 {
- "inicio": "2026-11-11T01:36:17.933Z",
- "fim": "2026-11-11T01:44:43.947Z",
- "segundos": 506,
+ "inicio": "2026-11-11T16:59:50.399Z",
+ "fim": "2026-11-11T17:05:30.870Z",
+ "segundos": 340,
  "partes": [
   "series",
   "orcamento",
@@ -12,9 +12,9 @@
   "tributos",
   "seguranca"
  ],
- "chamadas": 263,
- "falhas": 2,
- "repeticoes": 6,
+ "chamadas": 254,
+ "falhas": 1,
+ "repeticoes": 1,
  "status": {
   "confere": 6,
   "fonte-unica": 6
@@ -23,10 +23,6 @@
   {
    "parte": "noticias",
    "mensagem": "IBGE: fetch failed. Mantidas as notícias anteriores dessa fonte."
-  },
-  {
-   "parte": "tributos",
-   "mensagem": "Arrecadação da Receita: fetch failed. Mantidos os dados anteriores."
   }
  ],
  "fontes": [
@@ -35,35 +31,35 @@
    "chamadas": 8,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 5031
+   "ms": 4621
   },
   {
    "host": "api.bcb.gov.br",
    "chamadas": 33,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 16446
+   "ms": 10963
   },
   {
    "host": "olinda.bcb.gov.br",
    "chamadas": 11,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 5322
+   "ms": 7435
   },
   {
    "host": "apidatalake.tesouro.gov.br",
    "chamadas": 32,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 20953
+   "ms": 23432
   },
   {
    "host": "dadosabertos.camara.leg.br",
-   "chamadas": 152,
+   "chamadas": 147,
    "falhas": 0,
-   "repeticoes": 6,
-   "ms": 189465
+   "repeticoes": 1,
+   "ms": 140702
   },
   {
    "host": "servicodados.ibge.gov.br",
@@ -77,108 +73,119 @@
    "chamadas": 1,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 930
+   "ms": 1048
   },
   {
    "host": "g1.globo.com",
    "chamadas": 2,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 2028
+   "ms": 1438
   },
   {
    "host": "feeds.folha.uol.com.br",
    "chamadas": 1,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 1318
+   "ms": 893
   },
   {
    "host": "www.estadao.com.br",
    "chamadas": 3,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 450
+   "ms": 360
   },
   {
    "host": "www.cnnbrasil.com.br",
    "chamadas": 1,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 300
+   "ms": 329
   },
   {
    "host": "feeds.bbci.co.uk",
    "chamadas": 1,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 82
+   "ms": 73
   },
   {
    "host": "feeds.elpais.com",
    "chamadas": 1,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 86
+   "ms": 834
   },
   {
    "host": "agenciabrasil.ebc.com.br",
    "chamadas": 2,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 475
+   "ms": 806
   },
   {
    "host": "www.poder360.com.br",
    "chamadas": 1,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 208
+   "ms": 285
   },
   {
    "host": "rss.uol.com.br",
    "chamadas": 1,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 180
+   "ms": 285
   },
   {
    "host": "www.gazetadopovo.com.br",
    "chamadas": 1,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 206
+   "ms": 220
   },
   {
    "host": "www.cartacapital.com.br",
    "chamadas": 1,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 153
+   "ms": 163
   },
   {
    "host": "veja.abril.com.br",
    "chamadas": 1,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 86
+   "ms": 2329
   },
   {
    "host": "www.metropoles.com",
    "chamadas": 1,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 256
+   "ms": 370
   },
   {
    "host": "www.gov.br",
-   "chamadas": 7,
-   "falhas": 5,
+   "chamadas": 3,
+   "falhas": 0,
    "repeticoes": 0,
-   "ms": 53484
+   "ms": 54171
   }
  ],
  "historico": [
+  {
+   "inicio": "2026-11-11T16:59:50.399Z",
+   "segundos": 340,
+   "chamadas": 254,
+   "falhas": 1,
+   "status": {
+    "confere": 6,
+    "fonte-unica": 6
+   },
+   "avisos": 1
+  },
   {
    "inicio": "2026-11-11T01:36:17.933Z",
    "segundos": 506,
@@ -826,17 +833,6 @@
    "inicio": "2026-10-26T09:38:37.995Z",
    "segundos": 289,
    "chamadas": 157,
-   "falhas": 1,
-   "status": {
-    "confere": 6,
-    "fonte-unica": 6
-   },
-   "avisos": 1
-  },
-  {
-   "inicio": "2026-10-26T03:30:06.335Z",
-   "segundos": 248,
-   "chamadas": 155,
    "falhas": 1,
    "status": {
     "confere": 6,
