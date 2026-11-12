@@ -1,6 +1,39 @@
 {
- "atualizadoEm": "2026-11-12T02:36:24.152Z",
+ "atualizadoEm": "2026-11-12T17:29:29.200Z",
  "entradas": [
+  {
+   "em": "2026-11-12",
+   "tipo": "novo",
+   "serie": "ipca12m",
+   "periodo": "2026-10",
+   "valor": 4.63,
+   "anterior": {
+    "periodo": "2026-09",
+    "valor": 4.58
+   }
+  },
+  {
+   "em": "2026-11-12",
+   "tipo": "novo",
+   "serie": "ipcaMes",
+   "periodo": "2026-10",
+   "valor": 0.14,
+   "anterior": {
+    "periodo": "2026-09",
+    "valor": 0.82
+   }
+  },
+  {
+   "em": "2026-11-12",
+   "tipo": "revisao",
+   "serie": "dolar",
+   "periodo": "2026-11",
+   "valor": 5.526,
+   "anterior": {
+    "periodo": "2026-11",
+    "valor": 5.5134
+   }
+  },
   {
    "em": "2026-11-11",
    "tipo": "revisao",
