@@ -1,6 +1,28 @@
 {
- "atualizadoEm": "2026-11-13T17:04:22.697Z",
+ "atualizadoEm": "2026-11-13T20:21:01.561Z",
  "entradas": [
+  {
+   "em": "2026-11-13",
+   "tipo": "revisao",
+   "serie": "dbgg",
+   "periodo": "2026-09",
+   "valor": 82.95,
+   "anterior": {
+    "periodo": "2026-09",
+    "valor": 82.93
+   }
+  },
+  {
+   "em": "2026-11-13",
+   "tipo": "revisao",
+   "serie": "dlsp",
+   "periodo": "2026-09",
+   "valor": 70,
+   "anterior": {
+    "periodo": "2026-09",
+    "valor": 69.98
+   }
+  },
   {
    "em": "2026-11-13",
    "tipo": "revisao",

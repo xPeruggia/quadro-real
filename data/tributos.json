@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-11-13T17:04:22.697Z",
+ "geradoEm": "2026-11-13T20:21:01.561Z",
  "receita": {
   "url": "https://www.gov.br/receitafederal/dados/arrecadacao-estado.csv",
   "pagina": "https://www.gov.br/receitafederal/dados",
@@ -911,6 +911,17 @@
   "desde": 2023,
   "itens": [
    {
+    "id": 2652867,
+    "siglaTipo": "PLP",
+    "numero": 297,
+    "ano": 2026,
+    "ementa": "Institui o Imposto sobre Grandes Fortunas.",
+    "especie": "imposto",
+    "dataApresentacao": "2026-11-11",
+    "situacao": null,
+    "link": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652867"
+   },
+   {
     "id": 2644401,
     "siglaTipo": "PL",
     "numero": 5162,
@@ -1109,6 +1120,6 @@
     "link": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2352061"
    }
   ],
-  "atualizadoEm": "2026-11-13T17:04:22.697Z"
+  "atualizadoEm": "2026-11-13T20:21:01.561Z"
  }
 }
