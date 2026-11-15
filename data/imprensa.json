@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-11-15T16:12:21.644Z",
+ "geradoEm": "2026-11-15T19:15:15.391Z",
  "janelaHoras": 48,
  "nota": "Matérias publicadas pelos próprios veículos em seus feeds públicos (RSS). O site agrupa as que tratam do mesmo fato, mostra o título e um trecho curto de cada uma, com o link para o texto completo, e não classifica nenhum veículo. Palavras destacadas são as que só aquele veículo usou no título. \"Coluna ou opinião\" e \"Análise\" seguem a seção em que o próprio veículo publicou o texto.",
  "veiculos": [
@@ -8,7 +8,7 @@
    "nome": "g1",
    "idioma": "pt",
    "ok": true,
-   "materias": 132
+   "materias": 131
   },
   {
    "id": "folha",
@@ -22,7 +22,7 @@
    "nome": "Estadão",
    "idioma": "pt",
    "ok": true,
-   "materias": 57
+   "materias": 58
   },
   {
    "id": "cnn",
@@ -36,7 +36,7 @@
    "nome": "BBC News Brasil",
    "idioma": "pt",
    "ok": true,
-   "materias": 16
+   "materias": 15
   },
   {
    "id": "elpais",
@@ -50,7 +50,7 @@
    "nome": "Agência Brasil",
    "idioma": "pt",
    "ok": true,
-   "materias": 18
+   "materias": 17
   },
   {
    "id": "poder360",
@@ -64,14 +64,14 @@
    "nome": "UOL",
    "idioma": "pt",
    "ok": true,
-   "materias": 0
+   "materias": 15
   },
   {
    "id": "gazetadopovo",
    "nome": "Gazeta do Povo",
    "idioma": "pt",
    "ok": true,
-   "materias": 134
+   "materias": 128
   },
   {
    "id": "cartacapital",
@@ -95,24 +95,26 @@
    "materias": 20
   }
  ],
- "totalMaterias": 588,
+ "totalMaterias": 591,
  "comparacoes": [
   {
-   "id": "https://www.poder360.com.br/poder-educacao/enem-2026-tem-provas-de-matematica-e-ciencias-da-natureza-neste-domingo/",
-   "veiculos": 5,
-   "primeiro": "2026-11-15T14:10:42.000Z",
-   "ultimo": "2026-11-15T15:41:00.000Z",
+   "id": "https://g1.globo.com/educacao/enem/2026/noticia/2026/11/15/enem-2026-ministro-da-educacao-cita-tentativas-de-ataques-hacker-a-pagina-do-inep-e-diz-que-governo-esta-controlando-situacao.ghtml",
+   "veiculos": 7,
+   "primeiro": "2026-11-15T16:17:26.000Z",
+   "ultimo": "2026-11-15T19:01:00.000Z",
    "comuns": [
+    "ministro",
+    "hacker",
+    "Inep",
     "Enem",
-    "provas",
-    "2026",
-    "dia"
+    "ataques",
+    "tentativas"
    ],
    "politica": null,
    "materias": [
     {
-     "veiculo": "poder360",
-     "titulo": "Enem 2026 tem provas de matemática e ciências da natureza neste domingo",
+     "veiculo": "g1",
+     "titulo": "Enem 2026: ministro da Educação cita tentativas de ataques hacker à página do Inep e diz que governo está 'controlando' situação",
      "tituloMarcado": [
       [
        "Enem",
@@ -123,7 +125,7 @@
        ""
       ],
       [
-       "2026",
+       "2026:",
        false
       ],
       [
@@ -131,48 +133,8 @@
        ""
       ],
       [
-       "tem",
+       "ministro",
        false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "provas",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "matemática",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "e",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "ciências",
-       true
       ],
       [
        " ",
@@ -187,7 +149,15 @@
        ""
       ],
       [
-       "natureza",
+       "Educação",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "cita",
        true
       ],
       [
@@ -195,7 +165,7 @@
        ""
       ],
       [
-       "neste",
+       "tentativas",
        false
       ],
       [
@@ -203,22 +173,7 @@
        ""
       ],
       [
-       "domingo",
-       true
-      ]
-     ],
-     "trecho": "Participantes respondem a 90 questões; portões fecham às 13h, pelo horário de Brasília",
-     "link": "https://www.poder360.com.br/poder-educacao/enem-2026-tem-provas-de-matematica-e-ciencias-da-natureza-neste-domingo/",
-     "publicadoEm": "2026-11-15T14:10:42.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "g1",
-     "titulo": "Enem 2026: Veja FOTOS do 2º dia de prova no interior de SP",
-     "tituloMarcado": [
-      [
-       "Enem",
+       "de",
        false
       ],
       [
@@ -226,7 +181,7 @@
        ""
       ],
       [
-       "2026:",
+       "ataques",
        false
       ],
       [
@@ -234,7 +189,7 @@
        ""
       ],
       [
-       "Veja",
+       "hacker",
        false
       ],
       [
@@ -242,8 +197,16 @@
        ""
       ],
       [
-       "FOTOS",
-       true
+       "à",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "página",
+       false
       ],
       [
        " ",
@@ -258,7 +221,7 @@
        ""
       ],
       [
-       "2º",
+       "Inep",
        false
       ],
       [
@@ -266,7 +229,7 @@
        ""
       ],
       [
-       "dia",
+       "e",
        false
       ],
       [
@@ -274,7 +237,7 @@
        ""
       ],
       [
-       "de",
+       "diz",
        false
       ],
       [
@@ -282,7 +245,7 @@
        ""
       ],
       [
-       "prova",
+       "que",
        false
       ],
       [
@@ -290,15 +253,7 @@
        ""
       ],
       [
-       "no",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "interior",
+       "governo",
        true
       ],
       [
@@ -306,7 +261,7 @@
        ""
       ],
       [
-       "de",
+       "está",
        false
       ],
       [
@@ -314,22 +269,30 @@
        ""
       ],
       [
-       "SP",
+       "'controlando'",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "situação",
        true
       ]
      ],
-     "trecho": "Enem 2026: 34,2 mil candidatos fazem 2º dia de prova na região de São Carlos e Araraquara O segundo dia de provas do Exame Nacional do Ensino Médio (Enem) 2026 movimenta os locais de aplicação neste domingo (15). Na…",
-     "link": "https://g1.globo.com/sp/sao-carlos-regiao/educacao/noticia/2026/11/15/enem-2026-veja-fotos-do-2o-dia-de-prova-no-interior-de-sp.ghtml",
-     "publicadoEm": "2026-11-15T14:29:46.000Z",
+     "trecho": "Alckmin visita sede do Inep no 2º dia de provas do Enem O ministro da Educação, Leonardo Barchini, disse que a página do Instituto Nacional de Estudos e Pesquisas Educacionais (Inep) na internet tem sido alvo de…",
+     "link": "https://g1.globo.com/educacao/enem/2026/noticia/2026/11/15/enem-2026-ministro-da-educacao-cita-tentativas-de-ataques-hacker-a-pagina-do-inep-e-diz-que-governo-esta-controlando-situacao.ghtml",
+     "publicadoEm": "2026-11-15T16:17:26.000Z",
      "tipo": "noticia",
      "numero": null
     },
     {
-     "veiculo": "cnn",
-     "titulo": "Enem 2026: portões são abertos nos locais de prova no 2º dia de exame",
+     "veiculo": "veja",
+     "titulo": "Ministro da Educação relata ‘ataques hackers’ ao Inep em dia de Enem",
      "tituloMarcado": [
       [
-       "Enem",
+       "Ministro",
        false
       ],
       [
@@ -337,7 +300,7 @@
        ""
       ],
       [
-       "2026:",
+       "da",
        false
       ],
       [
@@ -345,7 +308,7 @@
        ""
       ],
       [
-       "portões",
+       "Educação",
        false
       ],
       [
@@ -353,7 +316,7 @@
        ""
       ],
       [
-       "são",
+       "relata",
        false
       ],
       [
@@ -361,15 +324,7 @@
        ""
       ],
       [
-       "abertos",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "nos",
+       "‘ataques",
        false
       ],
       [
@@ -377,7 +332,7 @@
        ""
       ],
       [
-       "locais",
+       "hackers’",
        false
       ],
       [
@@ -385,7 +340,7 @@
        ""
       ],
       [
-       "de",
+       "ao",
        false
       ],
       [
@@ -393,7 +348,7 @@
        ""
       ],
       [
-       "prova",
+       "Inep",
        false
       ],
       [
@@ -401,15 +356,7 @@
        ""
       ],
       [
-       "no",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "2º",
+       "em",
        false
       ],
       [
@@ -433,22 +380,22 @@
        ""
       ],
       [
-       "exame",
+       "Enem",
        false
       ]
      ],
-     "trecho": "Estudantes respondem a 45 questões de matemática e 45 de ciências da natureza neste domingo (15)",
-     "link": "https://www.cnnbrasil.com.br/educacao/enem-2026-segundo-dia-de-prova/",
-     "publicadoEm": "2026-11-15T15:00:03.000Z",
+     "trecho": "Segundo dia da prova acontece neste domingo entre as 13h30 e as 18h30 em 1.900 cidades do país",
+     "link": "https://veja.abril.com.br/brasil/ministro-da-educacao-relata-ataques-hackers-ao-inep-em-dia-de-enem/",
+     "publicadoEm": "2026-11-15T17:20:40.000Z",
      "tipo": "noticia",
      "numero": null
     },
     {
      "veiculo": "metropoles",
-     "titulo": "Portões são fechados no locais de prova do Enem 2026; exame começa às 13h30",
+     "titulo": "Enem 2026: ministro relata tentativas de ataque hacker ao sistema do Inep",
      "tituloMarcado": [
       [
-       "Portões",
+       "Enem",
        false
       ],
       [
@@ -456,7 +403,7 @@
        ""
       ],
       [
-       "são",
+       "2026:",
        false
       ],
       [
@@ -464,15 +411,7 @@
        ""
       ],
       [
-       "fechados",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "no",
+       "ministro",
        false
       ],
       [
@@ -480,7 +419,15 @@
        ""
       ],
       [
-       "locais",
+       "relata",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "tentativas",
        false
       ],
       [
@@ -496,7 +443,134 @@
        ""
       ],
       [
-       "prova",
+       "ataque",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "hacker",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ao",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "sistema",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "do",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Inep",
+       false
+      ]
+     ],
+     "trecho": "Segundo o ministro Leonardo Barchini, página do Inep sofre tentantiva de ataque, mas o governo controla a situação",
+     "link": "https://www.metropoles.com/brasil/ministro-fala-em-ataques-hackers-ao-sistema-do-inep-em-dia-de-enem",
+     "publicadoEm": "2026-11-15T18:14:56.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "cnn",
+     "titulo": "Enem 2026: ministro relata tentativas de ataques hackers à página do Inep",
+     "tituloMarcado": [
+      [
+       "Enem",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "2026:",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ministro",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "relata",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "tentativas",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ataques",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "hackers",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "à",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "página",
        false
       ],
       [
@@ -512,86 +586,22 @@
        ""
       ],
       [
-       "Enem",
+       "Inep",
        false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "2026;",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "exame",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "começa",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "às",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "13h30",
-       true
       ]
      ],
-     "trecho": "Candidatos respondem a questões de matemática e ciências da natureza; portões fecham às 13h, e exame vai até as 18h30, no fuso de Brasília",
-     "link": "https://www.metropoles.com/brasil/segundo-dia-provas-enem-2026",
-     "publicadoEm": "2026-11-15T15:00:56.000Z",
+     "trecho": "Leonardo Barchini, ministro da Educação, afirmou que o governo monitora as investidas contra o portal e garantiu que a situação está sob controle",
+     "link": "https://www.cnnbrasil.com.br/educacao/enem-2026-ministro-relata-tentativas-de-ataques-hacker-a-pagina-do-inep/",
+     "publicadoEm": "2026-11-15T18:30:26.000Z",
      "tipo": "noticia",
      "numero": null
     },
     {
-     "veiculo": "agenciabrasil",
-     "titulo": "Candidatos contam expectativas para o segundo dia de provas do Enem",
+     "veiculo": "gazetadopovo",
+     "titulo": "Hackers tentam atacar site do Inep no segundo dia do Enem, diz ministro",
      "tituloMarcado": [
       [
-       "Candidatos",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "contam",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "expectativas",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "para",
+       "Hackers",
        false
       ],
       [
@@ -599,7 +609,47 @@
        ""
       ],
       [
-       "o",
+       "tentam",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "atacar",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "site",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "do",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Inep",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "no",
        false
       ],
       [
@@ -623,7 +673,7 @@
        ""
       ],
       [
-       "de",
+       "do",
        false
       ],
       [
@@ -631,7 +681,38 @@
        ""
       ],
       [
-       "provas",
+       "Enem,",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "diz",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ministro",
+       false
+      ]
+     ],
+     "trecho": "Leonardo Barchini, ministro da Educação, afirma que site do Inep sofre tentativas de ataques de hackers no segundo dia do Enem 2026.",
+     "link": "https://www.gazetadopovo.com.br/vida-e-cidadania/hackers-tentam-atacar-site-do-inep-enem/",
+     "publicadoEm": "2026-11-15T18:36:57.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "poder360",
+     "titulo": "Site do Inep sofre tentativas de ataque hacker, diz ministro",
+     "tituloMarcado": [
+      [
+       "Site",
        false
       ],
       [
@@ -647,51 +728,7 @@
        ""
       ],
       [
-       "Enem",
-       false
-      ]
-     ],
-     "trecho": "Os portões dos locais de prova já foram abertos para que os estudantes possam participar do segundo dia de provas do Exame Nacional do Ensino Médio (Enem). Neste domingo (15), os participantes vão responder a 90…",
-     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/candidatos-contam-expectativas-para-o-segundo-dia-de-provas-do-enem",
-     "publicadoEm": "2026-11-15T15:41:00.000Z",
-     "tipo": "noticia",
-     "numero": null
-    }
-   ]
-  },
-  {
-   "id": "https://www.gazetadopovo.com.br/republica/hugo-motta-se-reune-com-ministros-de-lula-e-alcolumbre-para-discutir-ajuste-fiscal/",
-   "veiculos": 4,
-   "primeiro": "2026-11-13T18:15:28.000Z",
-   "ultimo": "2026-11-15T15:50:16.000Z",
-   "comuns": [
-    "ajuste",
-    "fiscal"
-   ],
-   "politica": "Lula",
-   "materias": [
-    {
-     "veiculo": "gazetadopovo",
-     "titulo": "Hugo Motta se reúne com ministros de Lula e Alcolumbre para discutir ajuste fiscal",
-     "tituloMarcado": [
-      [
-       "Hugo",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Motta",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "se",
+       "Inep",
        false
       ],
       [
@@ -699,7 +736,7 @@
        ""
       ],
       [
-       "reúne",
+       "sofre",
        true
       ],
       [
@@ -707,15 +744,7 @@
        ""
       ],
       [
-       "com",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "ministros",
+       "tentativas",
        false
       ],
       [
@@ -731,15 +760,7 @@
        ""
       ],
       [
-       "Lula",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "e",
+       "ataque",
        false
       ],
       [
@@ -747,15 +768,7 @@
        ""
       ],
       [
-       "Alcolumbre",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "para",
+       "hacker,",
        false
       ],
       [
@@ -763,15 +776,7 @@
        ""
       ],
       [
-       "discutir",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "ajuste",
+       "diz",
        false
       ],
       [
@@ -779,23 +784,165 @@
        ""
       ],
       [
-       "fiscal",
+       "ministro",
        false
       ]
      ],
-     "trecho": "Hugo Motta articula votação do ajuste fiscal na Câmara após aprovação no Senado; oposição critica o PLP 299/2026 e cobra mudanças no projeto.",
-     "link": "https://www.gazetadopovo.com.br/republica/hugo-motta-se-reune-com-ministros-de-lula-e-alcolumbre-para-discutir-ajuste-fiscal/",
-     "publicadoEm": "2026-11-13T18:15:28.000Z",
+     "trecho": "Leonardo Barchini, da Educação, diz que governo controla as investidas; número de ocorrências não foi informado",
+     "link": "https://www.poder360.com.br/poder-educacao/site-do-inep-sofre-tentativas-de-ataque-hacker-diz-ministro/",
+     "publicadoEm": "2026-11-15T18:56:07.000Z",
      "tipo": "noticia",
      "numero": null
     },
+    {
+     "veiculo": "uol",
+     "titulo": "Enem 2026: ministro da Educação diz que página do Inep é alvo de ataques hackers",
+     "tituloMarcado": [
+      [
+       "Enem",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "2026:",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ministro",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "da",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Educação",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "diz",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "que",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "página",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "do",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Inep",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "é",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "alvo",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ataques",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "hackers",
+       false
+      ]
+     ],
+     "trecho": "O ministro da Educação, Leonardo Barchini, disse que a página do Instituto Nacional de Estudos e Pesquisas (Inep) na internet têm sofrido ataques hackers neste domingo, 15, segundo dia de provas do Exame Nacional do…",
+     "link": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/11/15/enem-2026-ministro-da-educacao-diz-que-pagina-do-inep-e-alvo-de-ataques-hackers.htm",
+     "publicadoEm": "2026-11-15T19:01:00.000Z",
+     "tipo": "noticia",
+     "numero": null
+    }
+   ]
+  },
+  {
+   "id": "https://www.estadao.com.br/economia/ministro-faz-defesa-do-projeto-de-ajuste-fiscal-em-video-divulgado-pelo-governo/",
+   "veiculos": 5,
+   "primeiro": "2026-11-14T16:48:01.000Z",
+   "ultimo": "2026-11-15T18:16:21.000Z",
+   "comuns": [
+    "ajuste",
+    "fiscal",
+    "Alckmin",
+    "projeto"
+   ],
+   "politica": "votação",
+   "materias": [
     {
      "veiculo": "estadao",
      "titulo": "Ministro faz defesa do projeto de ajuste fiscal em vídeo divulgado pelo governo",
      "tituloMarcado": [
       [
        "Ministro",
-       false
+       true
       ],
       [
        " ",
@@ -986,7 +1133,7 @@
       ],
       [
        "direção",
-       true
+       false
       ],
       [
        " ",
@@ -994,7 +1141,7 @@
       ],
       [
        "correta'",
-       true
+       false
       ],
       [
        " ",
@@ -1018,7 +1165,7 @@
       ],
       [
        "esperar",
-       false
+       true
       ],
       [
        " ",
@@ -1026,7 +1173,7 @@
       ],
       [
        "votação",
-       false
+       true
       ],
       [
        " ",
@@ -1061,18 +1208,18 @@
        false
       ]
      ],
-     "trecho": "O presidente em exercício, Geraldo Alckmin, afirmou neste domingo (15) que o projeto de ajuste fiscal do governo é uma medida tomada \"na direção correta\" e que espera que o Senado termine de votar o texto para que a…",
+     "trecho": "Alckmin visita sede do Inep no 2º dia de provas do Enem O presidente em exercício, Geraldo Alckmin, afirmou neste domingo (15) que o projeto de ajuste fiscal do governo é uma medida tomada \"na direção correta\" e que…",
      "link": "https://g1.globo.com/politica/noticia/2026/11/15/ajuste-fiscal-alckmin-afirma-que-projeto-do-governo-vai-na-direcao-correta-e-diz-esperar-votacao-na-camara-nesta-semana.ghtml",
      "publicadoEm": "2026-11-15T15:23:09.000Z",
      "tipo": "noticia",
      "numero": null
     },
     {
-     "veiculo": "metropoles",
-     "titulo": "Alckmin defende ajuste fiscal e espera votação na Câmara nesta semana",
+     "veiculo": "folha",
+     "titulo": "Projeto de ajuste fiscal vai na direção correta e deve chegar à Câmara nesta semana, diz Alckmin",
      "tituloMarcado": [
       [
-       "Alckmin",
+       "Projeto",
        false
       ],
       [
@@ -1080,8 +1227,8 @@
        ""
       ],
       [
-       "defende",
-       true
+       "de",
+       false
       ],
       [
        " ",
@@ -1104,23 +1251,7 @@
        ""
       ],
       [
-       "e",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "espera",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "votação",
+       "vai",
        false
       ],
       [
@@ -1129,6 +1260,54 @@
       ],
       [
        "na",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "direção",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "correta",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "deve",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "chegar",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "à",
        false
       ],
       [
@@ -1152,13 +1331,661 @@
        ""
       ],
       [
-       "semana",
+       "semana,",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "diz",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Alckmin",
        false
       ]
      ],
-     "trecho": "Presidente em exercício defendeu medidas para equilibrar contas públicas e afirmou que programas sociais serão preservados",
-     "link": "https://www.metropoles.com/brasil/alckmin-defende-ajuste-fiscal-e-espera-votacao-na-camara-nesta-semana",
-     "publicadoEm": "2026-11-15T15:50:16.000Z",
+     "trecho": "O presidente da República em exercício, Geraldo Alckmin, disse que o governo espera para a terça-feira (17) o término da votação dos destaques à proposta de ajuste fiscal no Senado e o envio do texto à Câmara dos…",
+     "link": "https://www1.folha.uol.com.br/mercado/2026/11/projeto-de-ajuste-fiscal-vai-na-direcao-correta-e-deve-chegar-a-camara-nesta-semana-diz-alckmin.shtml",
+     "publicadoEm": "2026-11-15T16:41:00.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "veja",
+     "titulo": "Pacote de ajuste fiscal persegue superávit sem mexer nos mais pobres, diz Alckmin",
+     "tituloMarcado": [
+      [
+       "Pacote",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ajuste",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "fiscal",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "persegue",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "superávit",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "sem",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "mexer",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "nos",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "mais",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "pobres,",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "diz",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Alckmin",
+       false
+      ]
+     ],
+     "trecho": "Pacote de revisão de gastos e despesas apresentado na semana passada pode ser votado na Câmara dos Deputados nesta semana",
+     "link": "https://veja.abril.com.br/economia/pacote-de-ajuste-fiscal-alckmin/",
+     "publicadoEm": "2026-11-15T18:10:23.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "gazetadopovo",
+     "titulo": "Alckmin rebate fogo amigo da esquerda: “ajuste fiscal não atinge os mais pobres”",
+     "tituloMarcado": [
+      [
+       "Alckmin",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "rebate",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "fogo",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "amigo",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "da",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "esquerda:",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "“ajuste",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "fiscal",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "não",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "atinge",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "os",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "mais",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "pobres”",
+       false
+      ]
+     ],
+     "trecho": "Alckmin rebate críticas da esquerda ao ajuste fiscal e afirma que medidas do governo não prejudicam os mais pobres.",
+     "link": "https://www.gazetadopovo.com.br/economia/alckmin-diz-ajuste-fiscal-nao-atinge-os-mais-pobres/",
+     "publicadoEm": "2026-11-15T18:16:21.000Z",
+     "tipo": "noticia",
+     "numero": null
+    }
+   ]
+  },
+  {
+   "id": "https://g1.globo.com/mundo/noticia/2026/11/15/trump-culpa-governo-biden-por-paralisacao-nacional-de-voos-nos-eua.ghtml",
+   "veiculos": 4,
+   "primeiro": "2026-11-15T15:19:33.000Z",
+   "ultimo": "2026-11-15T18:53:10.000Z",
+   "comuns": [
+    "Trump",
+    "culpa",
+    "Biden"
+   ],
+   "politica": null,
+   "materias": [
+    {
+     "veiculo": "g1",
+     "titulo": "Trump culpa governo Biden por paralisação nacional de voos nos EUA",
+     "tituloMarcado": [
+      [
+       "Trump",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "culpa",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "governo",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Biden",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "por",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "paralisação",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "nacional",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "voos",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "nos",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "EUA",
+       false
+      ]
+     ],
+     "trecho": "Trump culpa governo Biden por paralisação nacional de voos nos EUA O presidente dos Estados Unidos, Donald Trump, culpou neste domingo (15) o governo de seu antecessor, Joe Biden, pela paralisação dos voos em todo o…",
+     "link": "https://g1.globo.com/mundo/noticia/2026/11/15/trump-culpa-governo-biden-por-paralisacao-nacional-de-voos-nos-eua.ghtml",
+     "publicadoEm": "2026-11-15T15:19:33.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "gazetadopovo",
+     "titulo": "Trump culpa Biden por caos aéreo e cobra verba do Congresso para modernizar sistema",
+     "tituloMarcado": [
+      [
+       "Trump",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "culpa",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Biden",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "por",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "caos",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "aéreo",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "cobra",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "verba",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "do",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Congresso",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "para",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "modernizar",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "sistema",
+       true
+      ]
+     ],
+     "trecho": "Em publicações neste domingo (15), Trump disse que governo Biden atrasou processo de modernização de sistema aéreo em vários anos",
+     "link": "https://www.gazetadopovo.com.br/mundo/trump-biden-caos-aereo/",
+     "publicadoEm": "2026-11-15T17:32:16.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "folha",
+     "titulo": "Trump culpa Biden por caos aéreo; problemas devem persistir até segunda",
+     "tituloMarcado": [
+      [
+       "Trump",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "culpa",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Biden",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "por",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "caos",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "aéreo;",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "problemas",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "devem",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "persistir",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "até",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "segunda",
+       true
+      ]
+     ],
+     "trecho": "O governo Trump afirmou neste domingo (15) que o caos no transporte aéreo dos Estados Unidos provocado por uma ordem de suspensão das decolagens pode se prolongar pela segunda-feira (16), adiando sua previsão de retorno…",
+     "link": "https://www1.folha.uol.com.br/mundo/2026/11/trump-culpa-biden-por-caos-aereo-problemas-devem-persistir-ate-segunda.shtml",
+     "publicadoEm": "2026-11-15T18:44:00.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "cnn",
+     "titulo": "Trump culpa governo Biden por suspensão de voos nos EUA",
+     "tituloMarcado": [
+      [
+       "Trump",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "culpa",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "governo",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Biden",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "por",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "suspensão",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "voos",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "nos",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "EUA",
+       false
+      ]
+     ],
+     "trecho": "Republicano se manifestou dois dias após paralisação e pane nas comunicações",
+     "link": "https://www.cnnbrasil.com.br/internacional/trump-culpa-governo-biden-por-suspensao-de-voos-nos-eua/",
+     "publicadoEm": "2026-11-15T18:53:10.000Z",
      "tipo": "noticia",
      "numero": null
     }
@@ -2076,1382 +2903,25 @@
    ]
   },
   {
-   "id": "https://www1.folha.uol.com.br/cotidiano/2026/11/confira-a-partir-das-11h-deste-domingo-15-o-resultado-do-concurso-3086-da-mega-sena.shtml",
-   "veiculos": 4,
-   "primeiro": "2026-11-15T07:00:00.000Z",
-   "ultimo": "2026-11-15T15:14:00.000Z",
+   "id": "https://www.cnnbrasil.com.br/internacional/quatro-economistas-se-movimentam-para-eleicao-presidencial-na-argentina/",
+   "veiculos": 3,
+   "primeiro": "2026-11-15T16:06:40.000Z",
+   "ultimo": "2026-11-15T19:09:23.000Z",
    "comuns": [
-    "Mega-Sena",
-    "3086",
-    "acumula",
-    "34",
-    "milhões",
-    "confira"
+    "presidencial",
+    "Argentina",
+    "Milei",
+    "disputará",
+    "2027"
    ],
    "politica": null,
    "materias": [
-    {
-     "veiculo": "folha",
-     "titulo": "Mega-Sena 3086 acumula e premiação pode chegar a R$ 34 milhões nesta terça (17)",
-     "tituloMarcado": [
-      [
-       "Mega-Sena",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "3086",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "acumula",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "e",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "premiação",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "pode",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "chegar",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "a",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "R$",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "34",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "milhões",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "nesta",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "terça",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "(17)",
-       true
-      ]
-     ],
-     "trecho": "A Caixa Econômica Federal sorteou na manhã deste domingo (15), o concurso 3086 da Mega-Sena, cujo prêmio principal é de R$ 26.855.904,50.",
-     "link": "https://www1.folha.uol.com.br/cotidiano/2026/11/confira-a-partir-das-11h-deste-domingo-15-o-resultado-do-concurso-3086-da-mega-sena.shtml",
-     "publicadoEm": "2026-11-15T07:00:00.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "g1",
-     "titulo": "Mega-Sena 3086: prêmio acumula e vai a R$ 34 milhões; confira os números sorteados",
-     "tituloMarcado": [
-      [
-       "Mega-Sena",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "3086:",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "prêmio",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "acumula",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "e",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "vai",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "a",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "R$",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "34",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "milhões;",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "confira",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "os",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "números",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "sorteados",
-       false
-      ]
-     ],
-     "trecho": "Concurso 3.086 da Mega-Sena: veja os números sorteados O sorteio do concurso 3.086 da Mega-Sena foi realizado na manhã deste domingo (15) em São Paulo. O prêmio caso houvesse o acerto das seis dezenas era de R$ R$…",
-     "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/15/mega-sena-3086-confira-os-numeros-sorteados.ghtml",
-     "publicadoEm": "2026-11-15T14:05:58.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "veja",
-     "titulo": "Mega-Sena: confira os números sorteados do concurso 3086",
-     "tituloMarcado": [
-      [
-       "Mega-Sena:",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "confira",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "os",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "números",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "sorteados",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "do",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "concurso",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "3086",
-       false
-      ]
-     ],
-     "trecho": "Prêmio é de mais de R$ 26 milhões. Confira o resultado",
-     "link": "https://veja.abril.com.br/brasil/mega-sena-confira-os-numeros-sorteados-do-concurso-3086/",
-     "publicadoEm": "2026-11-15T14:25:40.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "agenciabrasil",
-     "titulo": "Mega-Sena acumula para R$ 34 milhões; confira os números sorteados",
-     "tituloMarcado": [
-      [
-       "Mega-Sena",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "acumula",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "para",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "R$",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "34",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "milhões;",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "confira",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "os",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "números",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "sorteados",
-       false
-      ]
-     ],
-     "trecho": "Nenhum apostador acertou as seis dezenas do Concurso 3.086 da Mega-Sena, realizado neste domingo (15). O prêmio acumulou e está estimado em R$ 34 milhões para o próximo sorteio. Os números sorteados foram: 03 - 20 - 35…",
-     "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/mega-sena-acumula-para-r-34-milhoes-confira-os-numeros-sorteados",
-     "publicadoEm": "2026-11-15T15:14:00.000Z",
-     "tipo": "noticia",
-     "numero": null
-    }
-   ]
-  },
-  {
-   "id": "https://www1.folha.uol.com.br/ambiente/2026/11/canada-anuncia-us-400-milhoes-para-o-fundo-da-florestas-em-encontro-com-lula.shtml",
-   "veiculos": 4,
-   "primeiro": "2026-11-15T05:32:00.000Z",
-   "ultimo": "2026-11-15T15:06:28.000Z",
-   "comuns": [
-    "Canadá",
-    "anuncia",
-    "Fundo",
-    "Florestas",
-    "Lula"
-   ],
-   "politica": "Lula",
-   "materias": [
-    {
-     "veiculo": "folha",
-     "titulo": "Canadá anuncia US$ 400 milhões para o Fundo das Florestas em encontro com Lula",
-     "tituloMarcado": [
-      [
-       "Canadá",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "anuncia",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "US$",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "400",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "milhões",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "para",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "o",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Fundo",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "das",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Florestas",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "em",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "encontro",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "com",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Lula",
-       false
-      ]
-     ],
-     "trecho": "O primeiro-ministro do Canadá, Mark Carney, anunciou o aporte de US$ 400 milhões de dólares ao Fundo das Florestas Tropicais para Sempre (TFFF, na sigla em inglês) durante reunião bilateral com o presidente Luiz Inácio…",
-     "link": "https://www1.folha.uol.com.br/ambiente/2026/11/canada-anuncia-us-400-milhoes-para-o-fundo-da-florestas-em-encontro-com-lula.shtml",
-     "publicadoEm": "2026-11-15T05:32:00.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "veja",
-     "titulo": "Canadá anuncia aporte bilionário em fundo de proteção a florestas após reunião com Lula",
-     "tituloMarcado": [
-      [
-       "Canadá",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "anuncia",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "aporte",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "bilionário",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "em",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "fundo",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "proteção",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "a",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "florestas",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "após",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "reunião",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "com",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Lula",
-       false
-      ]
-     ],
-     "trecho": "Mark Carney promete repasse de 400 milhões de dólares (R$ 2,26 bilhões) ao TFFF ao longo de quatro anos; líderes também discutem acordo entre Mercosul e Canadá",
-     "link": "https://veja.abril.com.br/politica/canada-anuncia-aporte-bilionario-em-fundo-de-protecao-a-florestas-apos-reuniao-com-lula/",
-     "publicadoEm": "2026-11-15T13:30:08.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "poder360",
-     "titulo": "Após reunião com Lula, Canadá anuncia US$ 400 mi a fundo de florestas",
-     "tituloMarcado": [
-      [
-       "Após",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "reunião",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "com",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Lula,",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Canadá",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "anuncia",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "US$",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "400",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "mi",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "a",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "fundo",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "florestas",
-       false
-      ]
-     ],
-     "trecho": "Presidente diz que premiê visitará o Brasil no 1º trimestre de 2027; Lula retribuirá com viagem ao país norte-americano",
-     "link": "https://www.poder360.com.br/poder-sustentavel/apos-reuniao-com-lula-canada-anuncia-us-400-mi-a-fundo-de-florestas/",
-     "publicadoEm": "2026-11-15T13:50:43.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "g1",
-     "titulo": "Canadá anuncia até R$ 2,2 bilhões para fundo de proteção de florestas liderado pelo Brasil",
-     "tituloMarcado": [
-      [
-       "Canadá",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "anuncia",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "até",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "R$",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "2,2",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "bilhões",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "para",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "fundo",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "proteção",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "florestas",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "liderado",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "pelo",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Brasil",
-       true
-      ]
-     ],
-     "trecho": "Primeiro-ministro do Canadá, Mark Carney, agradece após discurso no Parlamento europeu em Strasburgo, na França, em 17 de setembro de 2026. REUTERS/Yves Herman O Canadá se comprometeu a contribuir com até 560 milhões de…",
-     "link": "https://g1.globo.com/meio-ambiente/noticia/2026/11/15/canada-fundo-de-protecao-de-florestas-brasil.ghtml",
-     "publicadoEm": "2026-11-15T15:06:28.000Z",
-     "tipo": "noticia",
-     "numero": null
-    }
-   ]
-  },
-  {
-   "id": "https://www.estadao.com.br/brasil/mais-de-20-horas-de-trabalho-no-incendio-em-fabrica-de-produtos-quimicos-em-salto/",
-   "veiculos": 4,
-   "primeiro": "2026-11-14T14:57:47.000Z",
-   "ultimo": "2026-11-15T14:50:09.000Z",
-   "comuns": [
-    "combatem",
-    "Bombeiros",
-    "incêndio",
-    "Salto"
-   ],
-   "politica": null,
-   "materias": [
-    {
-     "veiculo": "estadao",
-     "titulo": "Bombeiros ainda combatem focos de incêndio em fábrica de Salto; operação passa de 24h de trabalho",
-     "tituloMarcado": [
-      [
-       "Bombeiros",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "ainda",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "combatem",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "focos",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "incêndio",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "em",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "fábrica",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Salto;",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "operação",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "passa",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "24h",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "trabalho",
-       false
-      ]
-     ],
-     "trecho": "Viaturas do Corpo de Bombeiros seguem em atividade nos rescaldos do incêndio na fábrica de produtos químicos Pyrozzar que feriu 9 pessoas no interior paulista.",
-     "link": "https://www.estadao.com.br/brasil/mais-de-20-horas-de-trabalho-no-incendio-em-fabrica-de-produtos-quimicos-em-salto/",
-     "publicadoEm": "2026-11-14T14:57:47.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "folha",
-     "titulo": "Indústria de Salto (SP) tem novo foco de incêndio; bombeiros entram no 3º dia de combate ao fogo",
-     "tituloMarcado": [
-      [
-       "Indústria",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Salto",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "(SP)",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "tem",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "novo",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "foco",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "incêndio;",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "bombeiros",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "entram",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "no",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "3º",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "dia",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "combate",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "ao",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "fogo",
-       false
-      ]
-     ],
-     "trecho": "O Corpo de Bombeiros atua neste domingo (15) no combate ao incêndio na indústria química Pyrozzar Pirosol, em Salto, interior de São Paulo, pelo teceiro dia.",
-     "link": "https://www1.folha.uol.com.br/cotidiano/2026/11/industria-de-salto-sp-tem-novo-foco-de-incendio-bombeiros-entram-no-3o-dia-de-combate-ao-fogo.shtml",
-     "publicadoEm": "2026-11-15T13:03:00.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "metropoles",
-     "titulo": "Após 48h, bombeiros combatem \"pequenos focos\" em fábrica que pegou fogo",
-     "tituloMarcado": [
-      [
-       "Após",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "48h,",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "bombeiros",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "combatem",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "\"pequenos",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "focos\"",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "em",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "fábrica",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "que",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "pegou",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "fogo",
-       false
-      ]
-     ],
-     "trecho": "Segundo o Corpo de Bombeiros, reignição foi contida na noite desse sábado (14/11) em uma área atingida pelo incêndio",
-     "link": "https://www.metropoles.com/sao-paulo/apos-48h-bombeiros-combatem-pequenos-focos-em-fabrica-que-pegou-fogo",
-     "publicadoEm": "2026-11-15T13:56:29.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
     {
      "veiculo": "cnn",
-     "titulo": "Trabalhos de combate ao incêndio em indústria em Salto ultrapassa 50 horas",
+     "titulo": "Quatro economistas se movimentam para eleição presidencial na Argentina",
      "tituloMarcado": [
       [
-       "Trabalhos",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "combate",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "ao",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "incêndio",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "em",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "indústria",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "em",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Salto",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "ultrapassa",
+       "Quatro",
        true
       ],
       [
@@ -3459,7 +2929,7 @@
        ""
       ],
       [
-       "50",
+       "economistas",
        true
       ],
       [
@@ -3467,38 +2937,7 @@
        ""
       ],
       [
-       "horas",
-       true
-      ]
-     ],
-     "trecho": "Fogo iniciou, na manhã de sexta-feira (13), na indústria que armazenava cerca de 100 mil litros de solventes altamente inflamáveis; nove pessoas ficaram feridas, sendo quatro bombeiros e cinco civis",
-     "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/trabalhos-de-combate-ao-incendio-em-industria-em-salto-ultrapassa-50-horas/",
-     "publicadoEm": "2026-11-15T14:50:09.000Z",
-     "tipo": "noticia",
-     "numero": null
-    }
-   ]
-  },
-  {
-   "id": "https://www1.folha.uol.com.br/mundo/2026/11/avioes-colidem-em-pista-de-aeroporto-de-miami.shtml",
-   "veiculos": 3,
-   "primeiro": "2026-11-15T12:05:00.000Z",
-   "ultimo": "2026-11-15T15:52:08.000Z",
-   "comuns": [
-    "Aviões",
-    "aeroporto",
-    "colidem",
-    "pista",
-    "Miami"
-   ],
-   "politica": null,
-   "materias": [
-    {
-     "veiculo": "folha",
-     "titulo": "Aviões colidem em pista de aeroporto de Miami",
-     "tituloMarcado": [
-      [
-       "Aviões",
+       "se",
        false
       ],
       [
@@ -3506,70 +2945,7 @@
        ""
       ],
       [
-       "colidem",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "em",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "pista",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "aeroporto",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Miami",
-       false
-      ]
-     ],
-     "trecho": "Dois aviões colidiram em uma pista de taxiamento do Aeroporto Internacional de Miami na noite de sábado (14), informaram autoridades. O episódio ocorreu um dia depois de uma suspensão nacional de decolagens nos Estados…",
-     "link": "https://www1.folha.uol.com.br/mundo/2026/11/avioes-colidem-em-pista-de-aeroporto-de-miami.shtml",
-     "publicadoEm": "2026-11-15T12:05:00.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "veja",
-     "titulo": "EUA têm colisão de aviões em aeroporto depois de caos aéreo",
-     "tituloMarcado": [
-      [
-       "EUA",
+       "movimentam",
        true
       ],
       [
@@ -3577,7 +2953,7 @@
        ""
       ],
       [
-       "têm",
+       "para",
        false
       ],
       [
@@ -3585,7 +2961,7 @@
        ""
       ],
       [
-       "colisão",
+       "eleição",
        true
       ],
       [
@@ -3593,86 +2969,7 @@
        ""
       ],
       [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "aviões",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "em",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "aeroporto",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "depois",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "caos",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "aéreo",
-       true
-      ]
-     ],
-     "trecho": "Aeronaves da UPS e da Copa Airlines se chocaram em pista de taxiamento de Miami na noite de sábado, deixando dois feridos leves",
-     "link": "https://veja.abril.com.br/mundo/eua-tem-colisao-de-avioes-em-aeroporto-depois-de-caos-aereo/",
-     "publicadoEm": "2026-11-15T12:37:06.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "poder360",
-     "titulo": "Aviões colidem na pista do Aeroporto Internacional de Miami",
-     "tituloMarcado": [
-      [
-       "Aviões",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "colidem",
+       "presidencial",
        false
       ],
       [
@@ -3688,8 +2985,499 @@
        ""
       ],
       [
-       "pista",
+       "Argentina",
        false
+      ]
+     ],
+     "trecho": "Milei, Kicillof, Melconian e Lacunza articulam projetos e equipes de olho na disputa de 2027",
+     "link": "https://www.cnnbrasil.com.br/internacional/quatro-economistas-se-movimentam-para-eleicao-presidencial-na-argentina/",
+     "publicadoEm": "2026-11-15T16:06:40.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "gazetadopovo",
+     "titulo": "Javier Milei anuncia que disputará novo mandato na Argentina em 2027",
+     "tituloMarcado": [
+      [
+       "Javier",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Milei",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "anuncia",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "que",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "disputará",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "novo",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "mandato",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "na",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Argentina",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "2027",
+       false
+      ]
+     ],
+     "trecho": "Javier Milei confirma que tentará a reeleição na Argentina em 2027. Confira as metas econômicas do presidente e quem são os possíveis adversários políticos.",
+     "link": "https://www.gazetadopovo.com.br/mundo/javier-milei-anuncia-que-disputara-novo-mandato-na-argentina-em-2027/",
+     "publicadoEm": "2026-11-15T17:50:01.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "poder360",
+     "titulo": "Milei confirma que disputará reeleição à Presidência em 2027",
+     "tituloMarcado": [
+      [
+       "Milei",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "confirma",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "que",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "disputará",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "reeleição",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "à",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Presidência",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "2027",
+       false
+      ]
+     ],
+     "trecho": "Presidente anunciou intenção de concorrer no ano que vem e apresentou metas econômicas para um eventual 2º mandato",
+     "link": "https://www.poder360.com.br/poder-internacional/milei-confirma-que-disputara-reeleicao-a-presidencia-em-2027/",
+     "publicadoEm": "2026-11-15T19:09:23.000Z",
+     "tipo": "noticia",
+     "numero": null
+    }
+   ]
+  },
+  {
+   "id": "https://www.cnnbrasil.com.br/internacional/ira-diz-ter-atacado-base-militar-dos-eua-em-bahrein/",
+   "veiculos": 3,
+   "primeiro": "2026-11-15T15:03:02.000Z",
+   "ultimo": "2026-11-15T19:01:29.000Z",
+   "comuns": [
+    "Irã",
+    "atacado",
+    "militar",
+    "Golfo",
+    "Pérsico",
+    "Bahrein"
+   ],
+   "politica": null,
+   "materias": [
+    {
+     "veiculo": "cnn",
+     "titulo": "Irã diz ter atacado base militar dos EUA no Golfo Pérsico",
+     "tituloMarcado": [
+      [
+       "Irã",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "diz",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ter",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "atacado",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "base",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "militar",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "dos",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "EUA",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "no",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Golfo",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Pérsico",
+       false
+      ]
+     ],
+     "trecho": "Seis veículos não operados foram utilizados na operação que atingiu a base de helicópteros de Al-Riffa em segunda fase de uma resposta retaliatória de Teerã contra Washington",
+     "link": "https://www.cnnbrasil.com.br/internacional/ira-diz-ter-atacado-base-militar-dos-eua-em-bahrein/",
+     "publicadoEm": "2026-11-15T15:03:02.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "folha",
+     "titulo": "Irã ataca Bahrein e amplia escalada militar no Golfo",
+     "tituloMarcado": [
+      [
+       "Irã",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ataca",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Bahrein",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "amplia",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "escalada",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "militar",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "no",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Golfo",
+       false
+      ]
+     ],
+     "trecho": "O Bahrein afirmou neste domingo (15) que seus sistemas de defesa aérea interceptaram e destruíram vários ataques iranianos. O país emitiu o primeiro alerta de ameaça à população desde setembro, após a República Islâmica…",
+     "link": "https://www1.folha.uol.com.br/mundo/2026/11/ira-ataca-bahrein-e-amplia-escalada-militar-no-golfo.shtml",
+     "publicadoEm": "2026-11-15T16:53:00.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "poder360",
+     "titulo": "Irã ataca o Bahrein e amplia escalada militar no Golfo Pérsico",
+     "tituloMarcado": [
+      [
+       "Irã",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ataca",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "o",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Bahrein",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "amplia",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "escalada",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "militar",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "no",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Golfo",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Pérsico",
+       false
+      ]
+     ],
+     "trecho": "Não há registro de mortos ou feridos; de acordo com o Ministério da Defesa do Bahrein, vários dos drones foram interceptados",
+     "link": "https://www.poder360.com.br/poder-internacional/ira-ataca-o-bahrein-e-amplia-escalada-militar-no-golfo-persico/",
+     "publicadoEm": "2026-11-15T19:01:29.000Z",
+     "tipo": "noticia",
+     "numero": null
+    }
+   ]
+  },
+  {
+   "id": "https://www.estadao.com.br/brasil/voos-do-brasil-comecam-a-voltar-ao-normal-apos-fim-da-paralisacao-no-trafego-aereo-dos-eua/",
+   "veiculos": 3,
+   "primeiro": "2026-11-14T14:13:46.000Z",
+   "ultimo": "2026-11-15T18:47:09.000Z",
+   "comuns": [
+    "tráfego",
+    "aéreo",
+    "EUA",
+    "normal",
+    "após"
+   ],
+   "politica": null,
+   "materias": [
+    {
+     "veiculo": "estadao",
+     "titulo": "Voos do Brasil começam a voltar ao normal após fim da paralisação no tráfego aéreo dos EUA",
+     "tituloMarcado": [
+      [
+       "Voos",
+       true
       ],
       [
        " ",
@@ -3704,7 +3492,23 @@
        ""
       ],
       [
-       "Aeroporto",
+       "Brasil",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "começam",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "a",
        false
       ],
       [
@@ -3712,7 +3516,110 @@
        ""
       ],
       [
-       "Internacional",
+       "voltar",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ao",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "normal",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "após",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "fim",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "da",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "paralisação",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "no",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "tráfego",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "aéreo",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "dos",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "EUA",
+       false
+      ]
+     ],
+     "trecho": "Depois da sexta-feira com 9 vôos cancelados para os EUA, operação aérea começa a voltar ao normal",
+     "link": "https://www.estadao.com.br/brasil/voos-do-brasil-comecam-a-voltar-ao-normal-apos-fim-da-paralisacao-no-trafego-aereo-dos-eua/",
+     "publicadoEm": "2026-11-14T14:13:46.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "g1",
+     "titulo": "Controle de tráfego aéreo dos EUA ainda opera com disquetes; veja como eles funcionam",
+     "tituloMarcado": [
+      [
+       "Controle",
        true
       ],
       [
@@ -3728,13 +3635,1895 @@
        ""
       ],
       [
-       "Miami",
+       "tráfego",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "aéreo",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "dos",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "EUA",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ainda",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "opera",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "com",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "disquetes;",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "veja",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "como",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "eles",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "funcionam",
+       true
+      ]
+     ],
+     "trecho": "Armazenamento de disquetes, em foto de julho de 2022 Iswoar/Wikimedia Commons O apagão aéreo da última sexta-feira (13) nos Estados Unidos chamou atenção para as ferramentas usadas no país para controlar o tráfego de…",
+     "link": "https://g1.globo.com/tecnologia/noticia/2026/11/14/controle-de-trafego-aereo-dos-eua-ainda-opera-com-disquetes-veja-como-eles-funcionam.ghtml",
+     "publicadoEm": "2026-11-14T17:23:56.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "uol",
+     "titulo": "Após pane, tráfego aéreo dos EUA só deve se normalizar na segunda-feira",
+     "tituloMarcado": [
+      [
+       "Após",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "pane,",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "tráfego",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "aéreo",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "dos",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "EUA",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "só",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "deve",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "se",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "normalizar",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "na",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "segunda-feira",
+       true
+      ]
+     ],
+     "trecho": "governo de Donald Trump alertou neste domingo (15) que os problemas no transporte aéreo dos Estados Unidos podem continuar até segunda-feira (16). A avaliação contraria a expectativa de uma recupera...",
+     "link": "https://noticias.uol.com.br/ultimas-noticias/rfi/2026/11/15/apos-pane-trafego-aereo-dos-eua-so-deve-se-normalizar-na-segunda-feira.htm",
+     "publicadoEm": "2026-11-15T18:47:09.000Z",
+     "tipo": "noticia",
+     "numero": null
+    }
+   ]
+  },
+  {
+   "id": "https://www.metropoles.com/esportes/na-reestreia-profissional-ronaldinho-gaucho-participa-de-gol-do-ravenna",
+   "veiculos": 3,
+   "primeiro": "2026-11-15T17:36:51.000Z",
+   "ultimo": "2026-11-15T18:47:00.000Z",
+   "comuns": [
+    "Ronaldinho",
+    "Ravenna",
+    "reestreia",
+    "participa",
+    "gol"
+   ],
+   "politica": null,
+   "materias": [
+    {
+     "veiculo": "metropoles",
+     "titulo": "Na reestreia profissional, Ronaldinho Gaúcho participa de gol do Ravenna",
+     "tituloMarcado": [
+      [
+       "Na",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "reestreia",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "profissional,",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Ronaldinho",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Gaúcho",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "participa",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "gol",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "do",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Ravenna",
        false
       ]
      ],
-     "trecho": "Incidente ocorreu um dia depois de pane que suspendeu todos os voos nos Estados Unidos",
-     "link": "https://www.poder360.com.br/poder-internacional/avioes-colidem-na-pista-do-aeroporto-internacional-de-miami/",
-     "publicadoEm": "2026-11-15T15:52:08.000Z",
+     "trecho": "O ídolo brasileiro faz sua estreia no Ravenna em partida diante do Forlì, pela terceira divisão do Campeonato Italiano",
+     "link": "https://www.metropoles.com/esportes/na-reestreia-profissional-ronaldinho-gaucho-participa-de-gol-do-ravenna",
+     "publicadoEm": "2026-11-15T17:36:51.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "cnn",
+     "titulo": "Em reestreia de Ronaldinho, Ravenna vence Forlì na Série C da Itália",
+     "tituloMarcado": [
+      [
+       "Em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "reestreia",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Ronaldinho,",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Ravenna",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "vence",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Forlì",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "na",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Série",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "C",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "da",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Itália",
+       true
+      ]
+     ],
+     "trecho": "Bruxo participa de gol em vitória tranquila dos mandantes por 2 a 0",
+     "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-italiano/em-reestreia-de-ronaldinho-ravenna-vence-forli-na-serie-c-da-italia/",
+     "publicadoEm": "2026-11-15T18:27:19.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "folha",
+     "titulo": "Ronaldinho joga 45 minutos em volta aos gramados e participa de gol do Ravenna",
+     "tituloMarcado": [
+      [
+       "Ronaldinho",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "joga",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "45",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "minutos",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "volta",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "aos",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "gramados",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "participa",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "gol",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "do",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Ravenna",
+       false
+      ]
+     ],
+     "trecho": "Ronaldinho Gaúcho atuou durante todo o primeiro tempo em seu retorno aos gramados, na vitória por 2 a 0 do Ravenna sobre o Forlì, pela terceira divisão do Campeonato Italiano. Aos 46 anos, 11 após o anúncio de sua…",
+     "link": "https://www1.folha.uol.com.br/esporte/2026/11/ronaldinho-joga-45-minutos-em-volta-aos-gramados-e-participa-de-gol-do-ravenna.shtml",
+     "publicadoEm": "2026-11-15T18:47:00.000Z",
+     "tipo": "noticia",
+     "numero": null
+    }
+   ]
+  },
+  {
+   "id": "https://g1.globo.com/inovacao/noticia/2026/11/15/quais-paises-estao-na-mira-do-brasil-para-desenvolver-cadeias-de-minerais-criticos-e-terras-raras.ghtml",
+   "veiculos": 3,
+   "primeiro": "2026-11-15T06:00:00.000Z",
+   "ultimo": "2026-11-15T18:32:42.000Z",
+   "comuns": [
+    "Brasil",
+    "minerais",
+    "críticos",
+    "terras",
+    "raras",
+    "Lula"
+   ],
+   "politica": "Lula",
+   "materias": [
+    {
+     "veiculo": "g1",
+     "titulo": "Quais países estão na mira do Brasil para desenvolver cadeias de minerais críticos e terras raras?",
+     "tituloMarcado": [
+      [
+       "Quais",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "países",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "estão",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "na",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "mira",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "do",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Brasil",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "para",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "desenvolver",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "cadeias",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "minerais",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "críticos",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "terras",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "raras?",
+       false
+      ]
+     ],
+     "trecho": "Terras raras: a disputa global por uma riqueza brasileira Um dos focos do governo Lula 4 é ampliar a exploração de minerais críticos e terras raras no Brasil, que reúne algumas das maiores reservas mundiais de elementos…",
+     "link": "https://g1.globo.com/inovacao/noticia/2026/11/15/quais-paises-estao-na-mira-do-brasil-para-desenvolver-cadeias-de-minerais-criticos-e-terras-raras.ghtml",
+     "publicadoEm": "2026-11-15T06:00:00.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "agenciabrasil",
+     "titulo": "Lula busca investimentos da Ásia para exploração de minerais críticos",
+     "tituloMarcado": [
+      [
+       "Lula",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "busca",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "investimentos",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "da",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Ásia",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "para",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "exploração",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "minerais",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "críticos",
+       false
+      ]
+     ],
+     "trecho": "O presidente Luiz Inácio Lula da Silva afirmou neste domingo (15), nas Filipinas, que o Brasil pretende atrair investimentos para a exploração e a industrialização de minerais críticos e terras raras, em uma estratégia…",
+     "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/lula-busca-investimentos-na-asia-para-explorar-minerais-criticos",
+     "publicadoEm": "2026-11-15T16:30:00.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "metropoles",
+     "titulo": "Lula condiciona exploração de terras raras à \"agregação de valor\" no Brasil",
+     "tituloMarcado": [
+      [
+       "Lula",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "condiciona",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "exploração",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "terras",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "raras",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "à",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "\"agregação",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "valor\"",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "no",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Brasil",
+       false
+      ]
+     ],
+     "trecho": "Em cúpula nas Filipinas, presidente defendeu investimentos estrangeiros no setor e criticou poder das grandes empresas de tecnologia",
+     "link": "https://www.metropoles.com/brasil/lula-condiciona-exploracao-de-terras-raras-a-agregacao-de-valor-no-brasil",
+     "publicadoEm": "2026-11-15T18:32:42.000Z",
+     "tipo": "noticia",
+     "numero": null
+    }
+   ]
+  },
+  {
+   "id": "https://g1.globo.com/tecnologia/noticia/2026/11/15/familia-jensen-huang.ghtml",
+   "veiculos": 3,
+   "primeiro": "2026-11-15T05:00:00.000Z",
+   "ultimo": "2026-11-15T18:15:17.000Z",
+   "comuns": [
+    "Huang",
+    "Nvidia",
+    "Jensen",
+    "após"
+   ],
+   "politica": null,
+   "materias": [
+    {
+     "veiculo": "g1",
+     "titulo": "Casamento de 40 anos e dois filhos: quem é quem na família de Jensen Huang, que deixou Nvidia após casos extraconjugais",
+     "tituloMarcado": [
+      [
+       "Casamento",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "40",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "anos",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "dois",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "filhos:",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "quem",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "é",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "quem",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "na",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "família",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Jensen",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Huang,",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "que",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "deixou",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Nvidia",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "após",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "casos",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "extraconjugais",
+       true
+      ]
+     ],
+     "trecho": "Jensen e Lori Huang têm dois filhos: Madison e Spencer Reuters/Carlos Barria; Reuters/Aaron; Divulgação/Nvidia; Divulgação/Nvidia A revelação dos casos extraconjugais do fundador e ex-CEO da Nvidia, Jensen Huang, trouxe…",
+     "link": "https://g1.globo.com/tecnologia/noticia/2026/11/15/familia-jensen-huang.ghtml",
+     "publicadoEm": "2026-11-15T05:00:00.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "folha",
+     "titulo": "CEOs de empresas de tecnologia defendem Huang e pedem volta do executivo à Nvidia",
+     "tituloMarcado": [
+      [
+       "CEOs",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "empresas",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "tecnologia",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "defendem",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Huang",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "pedem",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "volta",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "do",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "executivo",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "à",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Nvidia",
+       false
+      ]
+     ],
+     "trecho": "Muitos executivos e investidores do Vale do Silício estão se mobilizando em apoio a Jensen Huang, que renunciou ao cargo de CEO da Nvidia na quinta-feira (12) após revelações de que manteve três casos extraconjugais com…",
+     "link": "https://c-level.folha.uol.com.br/negocios/2026/11/ceos-de-empresas-de-tecnologia-defendem-huang-e-pedem-volta-do-executivo-a-nvidia.shtml",
+     "publicadoEm": "2026-11-15T13:45:00.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "gazetadopovo",
+     "titulo": "Nvidia sofre desvalorização histórica após saída repentina de Jensen Huang",
+     "tituloMarcado": [
+      [
+       "Nvidia",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "sofre",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "desvalorização",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "histórica",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "após",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "saída",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "repentina",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Jensen",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Huang",
+       false
+      ]
+     ],
+     "trecho": "A Nvidia perdeu US$ 573 bilhões em uma semana após a renúncia do CEO Jensen Huang. Entenda os impactos da crise e as suspeitas de espionagem chinesa.",
+     "link": "https://www.gazetadopovo.com.br/mundo/nvidia-sofre-desvalorizacao-historica-apos-saida-repentina-de-jensen-huang/",
+     "publicadoEm": "2026-11-15T18:15:17.000Z",
+     "tipo": "noticia",
+     "numero": null
+    }
+   ]
+  },
+  {
+   "id": "https://www.cnnbrasil.com.br/nacional/sudeste/mg/defesa-civil-emite-alerta-severo-para-chuvas-intensas-em-belo-horizonte/",
+   "veiculos": 3,
+   "primeiro": "2026-11-15T17:22:54.000Z",
+   "ultimo": "2026-11-15T17:58:28.000Z",
+   "comuns": [
+    "chuvas",
+    "alerta",
+    "severo",
+    "Belo",
+    "Horizonte",
+    "granizo"
+   ],
+   "politica": null,
+   "materias": [
+    {
+     "veiculo": "cnn",
+     "titulo": "Defesa Civil emite alerta severo para chuvas intensas em Belo Horizonte",
+     "tituloMarcado": [
+      [
+       "Defesa",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Civil",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "emite",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "alerta",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "severo",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "para",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "chuvas",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "intensas",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Belo",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Horizonte",
+       false
+      ]
+     ],
+     "trecho": "Aviso aponta risco de enxurradas e alagamentos nas próximas duas horas; população deve adotar medidas de proteção",
+     "link": "https://www.cnnbrasil.com.br/nacional/sudeste/mg/defesa-civil-emite-alerta-severo-para-chuvas-intensas-em-belo-horizonte/",
+     "publicadoEm": "2026-11-15T17:22:54.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "g1",
+     "titulo": "BH registra chuva forte e granizo nesta tarde de domingo",
+     "tituloMarcado": [
+      [
+       "BH",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "registra",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "chuva",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "forte",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "granizo",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "nesta",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "tarde",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "domingo",
+       false
+      ]
+     ],
+     "trecho": "BH registra chuva forte e granizo nesta tarde de domingo Chuva forte e com granizo é registrada em Belo Horizonte nesta tarde de domingo (15). A capital e mais de 800 cidades do estado estão entre as incluídas no aviso…",
+     "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/15/bh-registra-chuva-forte-e-granizo-nesta-tarde-de-domingo.ghtml",
+     "publicadoEm": "2026-11-15T17:38:00.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "metropoles",
+     "titulo": "Belo Horizonte tem granizo e alerta severo de chuva neste domingo (15/11)",
+     "tituloMarcado": [
+      [
+       "Belo",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Horizonte",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "tem",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "granizo",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "alerta",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "severo",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "chuva",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "neste",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "domingo",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "(15/11)",
+       false
+      ]
+     ],
+     "trecho": "Forte chuva derrubou um galho que quase atingiu uma tenda na tradicional Feira Hippie de BH",
+     "link": "https://www.metropoles.com/minas-gerais/belo-horizonte-tem-granizo-e-alerta-severo-de-chuva-neste-domingo-15-11",
+     "publicadoEm": "2026-11-15T17:58:28.000Z",
+     "tipo": "noticia",
+     "numero": null
+    }
+   ]
+  },
+  {
+   "id": "https://www1.folha.uol.com.br/esporte/2026/11/infantino-se-encontra-com-lula-nas-filipinas-e-o-parabeniza-por-reeleicao.shtml",
+   "veiculos": 3,
+   "primeiro": "2026-11-15T16:03:00.000Z",
+   "ultimo": "2026-11-15T17:49:02.000Z",
+   "comuns": [
+    "Lula",
+    "encontra",
+    "presidente",
+    "Fifa",
+    "reunião",
+    "Copa"
+   ],
+   "politica": "Lula",
+   "materias": [
+    {
+     "veiculo": "folha",
+     "titulo": "Infantino se encontra com Lula nas Filipinas e o parabeniza por reeleição",
+     "tituloMarcado": [
+      [
+       "Infantino",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "se",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "encontra",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "com",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Lula",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "nas",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Filipinas",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "o",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "parabeniza",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "por",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "reeleição",
+       true
+      ]
+     ],
+     "trecho": "O presidente da Fifa (Federação Internacional de Futebol), Gianni Infantino, publicou fotos ao lado do presidente do Brasil, Luiz Inácio Lula da Silva. O encontro ocorreu em Manila, nas Filipinas, durante a cúpula dos…",
+     "link": "https://www1.folha.uol.com.br/esporte/2026/11/infantino-se-encontra-com-lula-nas-filipinas-e-o-parabeniza-por-reeleicao.shtml",
+     "publicadoEm": "2026-11-15T16:03:00.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "veja",
+     "titulo": "Lula e presidente da Fifa combinam reunião sobre Copa Feminina de 2027",
+     "tituloMarcado": [
+      [
+       "Lula",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "presidente",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "da",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Fifa",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "combinam",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "reunião",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "sobre",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Copa",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Feminina",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "2027",
+       true
+      ]
+     ],
+     "trecho": "Gianni Infantino relatou conversa com o petista durante cúpula nas Filipinas e disse ter parabenizado o brasileiro pela reeleição",
+     "link": "https://veja.abril.com.br/brasil/lula-e-presidente-da-fifa-combinam-reuniao-sobre-copa-feminina-de-2027/",
+     "publicadoEm": "2026-11-15T16:47:38.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "metropoles",
+     "titulo": "Presidente da Fifa encontra Lula e anuncia reunião sobre a Copa feminina",
+     "tituloMarcado": [
+      [
+       "Presidente",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "da",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Fifa",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "encontra",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Lula",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "anuncia",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "reunião",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "sobre",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "a",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Copa",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "feminina",
+       false
+      ]
+     ],
+     "trecho": "Ambos se reuniram nas Filipinas, às margens da 49ª Cúpula da Associação de Nações do Sudeste Asiático; Lula participou como convidado",
+     "link": "https://www.metropoles.com/brasil/presidente-da-fifa-encontra-lula-e-anuncia-reuniao-sobre-a-copa-feminina",
+     "publicadoEm": "2026-11-15T17:49:02.000Z",
      "tipo": "noticia",
      "numero": null
     }
@@ -4187,769 +5976,6 @@
    ]
   },
   {
-   "id": "https://www.estadao.com.br/brasil/aviao-atinge-torre-de-transmissao-de-energia-e-cai-em-area-de-mata-em-sc-npr/",
-   "veiculos": 3,
-   "primeiro": "2026-11-14T17:21:40.000Z",
-   "ultimo": "2026-11-15T15:38:43.000Z",
-   "comuns": [
-    "avião",
-    "atinge",
-    "mata",
-    "agrícola",
-    "carro",
-    "deixa"
-   ],
-   "politica": null,
-   "materias": [
-    {
-     "veiculo": "estadao",
-     "titulo": "Vídeo: avião atinge torre de transmissão de energia e cai em área de mata em SC",
-     "tituloMarcado": [
-      [
-       "Vídeo:",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "avião",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "atinge",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "torre",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "transmissão",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "energia",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "e",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "cai",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "em",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "área",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "mata",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "em",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "SC",
-       true
-      ]
-     ],
-     "trecho": "Um avião de pequeno porte caiu em uma área de mata após atingir uma torre de transmissão de energia elétrica durante manobras acrobáticas em Brusque, Santa Catarina, neste sábado, 14. O piloto, de 49 anos, ficou preso…",
-     "link": "https://www.estadao.com.br/brasil/aviao-atinge-torre-de-transmissao-de-energia-e-cai-em-area-de-mata-em-sc-npr/",
-     "publicadoEm": "2026-11-14T17:21:40.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "g1",
-     "titulo": "Avião agrícola atinge carro, mata passageiro e deixa mais dois feridos em Goiás",
-     "tituloMarcado": [
-      [
-       "Avião",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "agrícola",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "atinge",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "carro,",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "mata",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "passageiro",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "e",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "deixa",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "mais",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "dois",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "feridos",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "em",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Goiás",
-       false
-      ]
-     ],
-     "trecho": "Avião agrícola atinge carro, mata homem e deixa feridos em Goiás Um avião agrícola atingiu um carro em Aragarças, na região oeste de Goiás, segundo a Polícia Militar. O acidente matou um homem e deixou dois feridos…",
-     "link": "https://g1.globo.com/go/goias/noticia/2026/11/15/aviao-atinge-carro-em-goias.ghtml",
-     "publicadoEm": "2026-11-15T14:19:28.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "metropoles",
-     "titulo": "Avião agrícola atinge carro, mata homem e deixa dois feridos em Goiás",
-     "tituloMarcado": [
-      [
-       "Avião",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "agrícola",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "atinge",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "carro,",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "mata",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "homem",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "e",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "deixa",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "dois",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "feridos",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "em",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Goiás",
-       false
-      ]
-     ],
-     "trecho": "O caso ocorreu em Aragarças. Segundo a PMGO, cinco pessoas estavam no carro no momento da colisão e um homem morreu",
-     "link": "https://www.metropoles.com/distrito-federal/na-mira/aviao-agricola-atinge-carro-mata-homem-e-deixa-dois-feridos-em-goias",
-     "publicadoEm": "2026-11-15T15:38:43.000Z",
-     "tipo": "noticia",
-     "numero": null
-    }
-   ]
-  },
-  {
-   "id": "https://www.gazetadopovo.com.br/mundo/eua-voos-cancelados-sabado-30-bilhoes/",
-   "veiculos": 3,
-   "primeiro": "2026-11-14T12:59:26.000Z",
-   "ultimo": "2026-11-15T15:19:33.000Z",
-   "comuns": [
-    "EUA",
-    "voos",
-    "paralisação",
-    "após",
-    "Trump"
-   ],
-   "politica": null,
-   "materias": [
-    {
-     "veiculo": "gazetadopovo",
-     "titulo": "EUA têm 3,5 mil voos cancelados neste sábado após paralisação; Trump pede US$ 30 bilhões para setor",
-     "tituloMarcado": [
-      [
-       "EUA",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "têm",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "3,5",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "mil",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "voos",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "cancelados",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "neste",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "sábado",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "após",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "paralisação;",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Trump",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "pede",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "US$",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "30",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "bilhões",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "para",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "setor",
-       true
-      ]
-     ],
-     "trecho": "Na sexta-feira, paralisação geral por cerca de quatro horas no setor aéreo dos EUA cancelou ou atrasou quase 15 mil voos",
-     "link": "https://www.gazetadopovo.com.br/mundo/eua-voos-cancelados-sabado-30-bilhoes/",
-     "publicadoEm": "2026-11-14T12:59:26.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "estadao",
-     "titulo": "Voos do Brasil começam a voltar ao normal após fim da paralisação no tráfego aéreo dos EUA",
-     "tituloMarcado": [
-      [
-       "Voos",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "do",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Brasil",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "começam",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "a",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "voltar",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "ao",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "normal",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "após",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "fim",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "da",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "paralisação",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "no",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "tráfego",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "aéreo",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "dos",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "EUA",
-       false
-      ]
-     ],
-     "trecho": "Depois da sexta-feira com 9 vôos cancelados para os EUA, operação aérea começa a voltar ao normal",
-     "link": "https://www.estadao.com.br/brasil/voos-do-brasil-comecam-a-voltar-ao-normal-apos-fim-da-paralisacao-no-trafego-aereo-dos-eua/",
-     "publicadoEm": "2026-11-14T14:13:46.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "g1",
-     "titulo": "Trump culpa governo Biden por paralisação nacional de voos nos EUA",
-     "tituloMarcado": [
-      [
-       "Trump",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "culpa",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "governo",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Biden",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "por",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "paralisação",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "nacional",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "voos",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "nos",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "EUA",
-       false
-      ]
-     ],
-     "trecho": "O presidente dos EUA, Donald Trump, discursa na Sala de Imprensa da Casa Branca REUTERS/Aaron Schwartz O presidente dos Estados Unidos, Donald Trump, culpou neste domingo (15) o governo de seu antecessor, Joe Biden…",
-     "link": "https://g1.globo.com/mundo/noticia/2026/11/15/trump-culpa-governo-biden-por-paralisacao-nacional-de-voos-nos-eua.ghtml",
-     "publicadoEm": "2026-11-15T15:19:33.000Z",
-     "tipo": "noticia",
-     "numero": null
-    }
-   ]
-  },
-  {
    "id": "https://www.bbc.com/portuguese/articles/cqjd7lpvj452o?at_medium=RSS&at_campaign=rss",
    "veiculos": 3,
    "primeiro": "2026-11-15T13:10:42.000Z",
@@ -4958,16 +5984,32 @@
     "15",
     "novembro",
     "feriado",
-    "historiadores",
-    "acreditam",
-    "monarquia"
+    "golpe",
+    "monarquia",
+    "historiadores"
    ],
    "politica": "golpe",
    "materias": [
     {
      "veiculo": "bbc",
-     "titulo": "15 de novembro é feriado de quê? Por que historiadores acreditam que a monarquia sofreu 'um golpe'",
+     "titulo": "Por que 15 de novembro é feriado e o que um 'golpe na monarquia' tem a ver com a data?",
      "tituloMarcado": [
+      [
+       "Por",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "que",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
       [
        "15",
        false
@@ -5009,7 +6051,7 @@
        ""
       ],
       [
-       "de",
+       "e",
        false
       ],
       [
@@ -5017,15 +6059,7 @@
        ""
       ],
       [
-       "quê?",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Por",
+       "o",
        false
       ],
       [
@@ -5041,7 +6075,7 @@
        ""
       ],
       [
-       "historiadores",
+       "um",
        false
       ],
       [
@@ -5049,7 +6083,7 @@
        ""
       ],
       [
-       "acreditam",
+       "'golpe",
        false
       ],
       [
@@ -5057,7 +6091,23 @@
        ""
       ],
       [
-       "que",
+       "na",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "monarquia'",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "tem",
        false
       ],
       [
@@ -5073,7 +6123,15 @@
        ""
       ],
       [
-       "monarquia",
+       "ver",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "com",
        false
       ],
       [
@@ -5081,7 +6139,7 @@
        ""
       ],
       [
-       "sofreu",
+       "a",
        false
       ],
       [
@@ -5089,16 +6147,8 @@
        ""
       ],
       [
-       "'um",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "golpe'",
-       false
+       "data?",
+       true
       ]
      ],
      "trecho": "Quase um século e meio depois, tema ainda suscita debates sobre a Proclamação da República. Primeiras críticas apareceram meses após Marechal Deodoro da Fonseca proclamá-la.",
@@ -5396,26 +6446,26 @@
    ]
   },
   {
-   "id": "https://www.cnnbrasil.com.br/pop/celebridades/bruna-marquezine-pega-buque-em-casamento-de-leo-fuchs-em-noronha-veja/",
+   "id": "https://www.estadao.com.br/brasil/mais-de-20-horas-de-trabalho-no-incendio-em-fabrica-de-produtos-quimicos-em-salto/",
    "veiculos": 3,
-   "primeiro": "2026-11-15T11:51:05.000Z",
-   "ultimo": "2026-11-15T15:06:07.000Z",
+   "primeiro": "2026-11-14T14:57:47.000Z",
+   "ultimo": "2026-11-15T14:50:09.000Z",
    "comuns": [
-    "casamento",
-    "Leo",
-    "Fuchs",
-    "Noronha",
-    "Bruna",
-    "Marquezine"
+    "combatem",
+    "incêndio",
+    "Salto",
+    "Bombeiros",
+    "trabalho",
+    "Indústria"
    ],
    "politica": null,
    "materias": [
     {
-     "veiculo": "cnn",
-     "titulo": "Bruna Marquezine pega buquê em casamento de Leo Fuchs em Noronha; veja",
+     "veiculo": "estadao",
+     "titulo": "Bombeiros ainda combatem focos de incêndio em fábrica de Salto; operação passa de 24h de trabalho",
      "tituloMarcado": [
       [
-       "Bruna",
+       "Bombeiros",
        false
       ],
       [
@@ -5423,7 +6473,15 @@
        ""
       ],
       [
-       "Marquezine",
+       "ainda",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "combatem",
        false
       ],
       [
@@ -5431,32 +6489,8 @@
        ""
       ],
       [
-       "pega",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "buquê",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "em",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "casamento",
-       false
+       "focos",
+       true
       ],
       [
        " ",
@@ -5471,15 +6505,7 @@
        ""
       ],
       [
-       "Leo",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Fuchs",
+       "incêndio",
        false
       ],
       [
@@ -5495,7 +6521,15 @@
        ""
       ],
       [
-       "Noronha;",
+       "fábrica",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
        false
       ],
       [
@@ -5503,54 +6537,70 @@
        ""
       ],
       [
-       "veja",
+       "Salto;",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "operação",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "passa",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "24h",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "trabalho",
        false
       ]
      ],
-     "trecho": "Na cerimônia, realizada no último sábado (14), os convidados gritaram em coro que a atriz iria se unir ao namorado e cantor canadense",
-     "link": "https://www.cnnbrasil.com.br/pop/celebridades/bruna-marquezine-pega-buque-em-casamento-de-leo-fuchs-em-noronha-veja/",
-     "publicadoEm": "2026-11-15T11:51:05.000Z",
+     "trecho": "Viaturas do Corpo de Bombeiros seguem em atividade nos rescaldos do incêndio na fábrica de produtos químicos Pyrozzar que feriu 9 pessoas no interior paulista.",
+     "link": "https://www.estadao.com.br/brasil/mais-de-20-horas-de-trabalho-no-incendio-em-fabrica-de-produtos-quimicos-em-salto/",
+     "publicadoEm": "2026-11-14T14:57:47.000Z",
      "tipo": "noticia",
      "numero": null
     },
     {
      "veiculo": "folha",
-     "titulo": "Shawn Mendes canta em casamento de Leo Fuchs e Gustavo Oliveira em Noronha; veja vídeos",
+     "titulo": "Indústria de Salto (SP) tem novo foco de incêndio; bombeiros entram no 3º dia de combate ao fogo",
      "tituloMarcado": [
       [
-       "Shawn",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Mendes",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "canta",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "em",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "casamento",
+       "Indústria",
        false
       ],
       [
@@ -5566,7 +6616,7 @@
        ""
       ],
       [
-       "Leo",
+       "Salto",
        false
       ],
       [
@@ -5574,7 +6624,270 @@
        ""
       ],
       [
-       "Fuchs",
+       "(SP)",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "tem",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "novo",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "foco",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "incêndio;",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "bombeiros",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "entram",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "no",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "3º",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "dia",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "combate",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ao",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "fogo",
+       true
+      ]
+     ],
+     "trecho": "O Corpo de Bombeiros atua neste domingo (15) no combate ao incêndio na indústria química Pyrozzar Pirosol, em Salto, interior de São Paulo, pelo teceiro dia.",
+     "link": "https://www1.folha.uol.com.br/cotidiano/2026/11/industria-de-salto-sp-tem-novo-foco-de-incendio-bombeiros-entram-no-3o-dia-de-combate-ao-fogo.shtml",
+     "publicadoEm": "2026-11-15T13:03:00.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "cnn",
+     "titulo": "Trabalhos de combate ao incêndio em indústria em Salto ultrapassa 50 horas",
+     "tituloMarcado": [
+      [
+       "Trabalhos",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "combate",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ao",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "incêndio",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "indústria",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Salto",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ultrapassa",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "50",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "horas",
+       true
+      ]
+     ],
+     "trecho": "Fogo iniciou, na manhã de sexta-feira (13), na indústria que armazenava cerca de 100 mil litros de solventes altamente inflamáveis; nove pessoas ficaram feridas, sendo quatro bombeiros e cinco civis",
+     "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/trabalhos-de-combate-ao-incendio-em-industria-em-salto-ultrapassa-50-horas/",
+     "publicadoEm": "2026-11-15T14:50:09.000Z",
+     "tipo": "noticia",
+     "numero": null
+    }
+   ]
+  },
+  {
+   "id": "https://www1.folha.uol.com.br/cotidiano/2026/11/confira-a-partir-das-11h-deste-domingo-15-o-resultado-do-concurso-3086-da-mega-sena.shtml",
+   "veiculos": 3,
+   "primeiro": "2026-11-15T07:00:00.000Z",
+   "ultimo": "2026-11-15T14:25:40.000Z",
+   "comuns": [
+    "Mega-Sena",
+    "3086",
+    "acumula",
+    "premiação",
+    "34",
+    "milhões"
+   ],
+   "politica": null,
+   "materias": [
+    {
+     "veiculo": "folha",
+     "titulo": "Mega-Sena 3086 acumula e premiação pode chegar a R$ 34 milhões nesta terça (17)",
+     "tituloMarcado": [
+      [
+       "Mega-Sena",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "3086",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "acumula",
        false
       ],
       [
@@ -5590,7 +6903,7 @@
        ""
       ],
       [
-       "Gustavo",
+       "premiação",
        false
       ],
       [
@@ -5598,7 +6911,23 @@
        ""
       ],
       [
-       "Oliveira",
+       "pode",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "chegar",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "a",
        false
       ],
       [
@@ -5606,7 +6935,7 @@
        ""
       ],
       [
-       "em",
+       "R$",
        false
       ],
       [
@@ -5614,7 +6943,7 @@
        ""
       ],
       [
-       "Noronha;",
+       "34",
        false
       ],
       [
@@ -5622,7 +6951,7 @@
        ""
       ],
       [
-       "veja",
+       "milhões",
        false
       ],
       [
@@ -5630,22 +6959,38 @@
        ""
       ],
       [
-       "vídeos",
+       "nesta",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "terça",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "(17)",
        true
       ]
      ],
-     "trecho": "O cantor canadense Shawn Mendes participou da festa de casamento do produtor cultural e diretor teatral Leo Fuchs com o escritor e professor universitário Gustavo Oliveira, na noite de sábado (14), em Fernando de…",
-     "link": "https://f5.folha.uol.com.br/celebridades/2026/11/shawn-mendes-canta-em-casamento-de-leo-fuchs-e-gustavo-oliveira-em-noronha-veja-videos.shtml",
-     "publicadoEm": "2026-11-15T12:00:00.000Z",
+     "trecho": "A Caixa Econômica Federal sorteou na manhã deste domingo (15), o concurso 3086 da Mega-Sena, cujo prêmio principal é de R$ 26.855.904,50.",
+     "link": "https://www1.folha.uol.com.br/cotidiano/2026/11/confira-a-partir-das-11h-deste-domingo-15-o-resultado-do-concurso-3086-da-mega-sena.shtml",
+     "publicadoEm": "2026-11-15T07:00:00.000Z",
      "tipo": "noticia",
      "numero": null
     },
     {
      "veiculo": "g1",
-     "titulo": "Bruna Marquezine pega buquê do casamento de Léo Fuchs e Gustavo Oliveira em Fernando de Noronha; VÍDEO",
+     "titulo": "Mega-Sena 3086: prêmio acumula e vai a R$ 34 milhões; confira os números sorteados",
      "tituloMarcado": [
       [
-       "Bruna",
+       "Mega-Sena",
        false
       ],
       [
@@ -5653,7 +6998,7 @@
        ""
       ],
       [
-       "Marquezine",
+       "3086:",
        false
       ],
       [
@@ -5661,7 +7006,7 @@
        ""
       ],
       [
-       "pega",
+       "prêmio",
        false
       ],
       [
@@ -5669,7 +7014,134 @@
        ""
       ],
       [
-       "buquê",
+       "acumula",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "vai",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "a",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "R$",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "34",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "milhões;",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "confira",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "os",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "números",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "sorteados",
+       false
+      ]
+     ],
+     "trecho": "Concurso 3.086 da Mega-Sena: veja os números sorteados O sorteio do concurso 3.086 da Mega-Sena foi realizado na manhã deste domingo (15) em São Paulo. O prêmio caso houvesse o acerto das seis dezenas era de R$ R$…",
+     "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/15/mega-sena-3086-confira-os-numeros-sorteados.ghtml",
+     "publicadoEm": "2026-11-15T14:05:58.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "veja",
+     "titulo": "Mega-Sena: confira os números sorteados do concurso 3086",
+     "tituloMarcado": [
+      [
+       "Mega-Sena:",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "confira",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "os",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "números",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "sorteados",
        false
       ],
       [
@@ -5685,71 +7157,7 @@
        ""
       ],
       [
-       "casamento",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Léo",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Fuchs",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "e",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Gustavo",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Oliveira",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "em",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Fernando",
+       "concurso",
        true
       ],
       [
@@ -5757,30 +7165,14 @@
        ""
       ],
       [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Noronha;",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "VÍDEO",
+       "3086",
        false
       ]
      ],
-     "trecho": "Bruna Marquezine pega buquê de casamento em Fernando de Noronha A atriz Bruna Marquezine e o cantor Shawn Mendes se divertiram na festa de casamento de Léo Fuchs e Gustavo Oliveira, realizada no sábado (14), na Praia do…",
-     "link": "https://g1.globo.com/pe/pernambuco/blog/viver-noronha/post/2026/11/15/bruna-marquezine-pega-buque-do-casamento-de-leo-fuchs-e-gustavo-oliveira-em-fernando-de-noronha-video.ghtml",
-     "publicadoEm": "2026-11-15T15:06:07.000Z",
-     "tipo": "coluna",
+     "trecho": "Prêmio é de mais de R$ 26 milhões. Confira o resultado",
+     "link": "https://veja.abril.com.br/brasil/mega-sena-confira-os-numeros-sorteados-do-concurso-3086/",
+     "publicadoEm": "2026-11-15T14:25:40.000Z",
+     "tipo": "noticia",
      "numero": null
     }
    ]
@@ -6218,623 +7610,6 @@
      "trecho": "Uma das empresas mais valiosas da história do mercado americano, Nvidia passa por crise de governança após renúncia de Jensen Huang",
      "link": "https://www.gazetadopovo.com.br/mundo/nvidia-valor-mercado-renuncia-huang/",
      "publicadoEm": "2026-11-15T14:14:10.000Z",
-     "tipo": "noticia",
-     "numero": null
-    }
-   ]
-  },
-  {
-   "id": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/espanha-x-inglaterra-horario-e-onde-assistir-ao-jogo-da-nations-league/",
-   "veiculos": 3,
-   "primeiro": "2026-11-15T09:45:12.000Z",
-   "ultimo": "2026-11-15T14:10:58.000Z",
-   "comuns": [
-    "Espanha",
-    "Inglaterra",
-    "assistir",
-    "horário"
-   ],
-   "politica": null,
-   "materias": [
-    {
-     "veiculo": "cnn",
-     "titulo": "Espanha x Inglaterra: horário e onde assistir ao jogo da Nations League",
-     "tituloMarcado": [
-      [
-       "Espanha",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "x",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Inglaterra:",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "horário",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "e",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "onde",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "assistir",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "ao",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "jogo",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "da",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Nations",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "League",
-       true
-      ]
-     ],
-     "trecho": "Seleções se enfrentam neste domingo (15), no Metropolitano, em Madri, pela última rodada do Grupo A3 da competição europeia",
-     "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/espanha-x-inglaterra-horario-e-onde-assistir-ao-jogo-da-nations-league/",
-     "publicadoEm": "2026-11-15T09:45:12.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "veja",
-     "titulo": "Espanha x Inglaterra: onde assistir, horário e escalações",
-     "tituloMarcado": [
-      [
-       "Espanha",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "x",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Inglaterra:",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "onde",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "assistir,",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "horário",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "e",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "escalações",
-       true
-      ]
-     ],
-     "trecho": "Seleções se enfrentam neste domingo, 15, pela última rodada da Liga das Nações",
-     "link": "https://veja.abril.com.br/esporte/espanha-x-inglaterra-onde-assistir-horario-e-escalacoes/",
-     "publicadoEm": "2026-11-15T13:15:24.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "metropoles",
-     "titulo": "Espanha x Inglaterra: saiba onde assistir à Liga das Nações",
-     "tituloMarcado": [
-      [
-       "Espanha",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "x",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Inglaterra:",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "saiba",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "onde",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "assistir",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "à",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Liga",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "das",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Nações",
-       true
-      ]
-     ],
-     "trecho": "Pela última rodada da fase de grupos da Liga das Nações, Espanha e Inglaterra se enfentam neste domingo (15/11), às 16h45",
-     "link": "https://www.metropoles.com/esportes/espanha-x-inglaterra-saiba-onde-assistir-a-liga-das-nacoes",
-     "publicadoEm": "2026-11-15T14:10:58.000Z",
-     "tipo": "noticia",
-     "numero": null
-    }
-   ]
-  },
-  {
-   "id": "https://www1.folha.uol.com.br/cotidiano/2026/11/estado-de-sao-paulo-tem-alerta-para-temporais-neste-domingo-15.shtml",
-   "veiculos": 3,
-   "primeiro": "2026-11-15T08:00:00.000Z",
-   "ultimo": "2026-11-15T13:34:00.000Z",
-   "comuns": [
-    "domingo",
-    "Estado",
-    "São",
-    "Paulo",
-    "chuva"
-   ],
-   "politica": null,
-   "materias": [
-    {
-     "veiculo": "folha",
-     "titulo": "Estado de São Paulo tem alerta para temporais neste domingo (15)",
-     "tituloMarcado": [
-      [
-       "Estado",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "São",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Paulo",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "tem",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "alerta",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "para",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "temporais",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "neste",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "domingo",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "(15)",
-       true
-      ]
-     ],
-     "trecho": "A previsão do tempo para este domingo (15) aponta atenção na Grande São Paulo. Depois de uma manhã com períodos de sol e elevação das temperaturas, a chegada de áreas de instabilidade deve provocar pancadas de chuva de…",
-     "link": "https://www1.folha.uol.com.br/cotidiano/2026/11/estado-de-sao-paulo-tem-alerta-para-temporais-neste-domingo-15.shtml",
-     "publicadoEm": "2026-11-15T08:00:00.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "g1",
-     "titulo": "Calor de 38 °C e previsão de chuva marcam o domingo em MS; veja onde chove mais",
-     "tituloMarcado": [
-      [
-       "Calor",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "38",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "°C",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "e",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "previsão",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "chuva",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "marcam",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "o",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "domingo",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "em",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "MS;",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "veja",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "onde",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "chove",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "mais",
-       false
-      ]
-     ],
-     "trecho": "Campo Grande registra chuva na manhã deste domingo (15) Nadine Lopes/g1 O calor continua em Mato Grosso do Sul neste domingo (15), mas a previsão também indica aumento das condições para chuva em diferentes regiões do…",
-     "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/11/15/calor-de-38-c-e-previsao-de-chuva-marcam-o-domingo-em-ms-veja-onde-chove-mais.ghtml",
-     "publicadoEm": "2026-11-15T13:21:51.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "agenciabrasil",
-     "titulo": "Fortes chuvas devem atingir estado de São Paulo neste domingo",
-     "tituloMarcado": [
-      [
-       "Fortes",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "chuvas",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "devem",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "atingir",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "estado",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "São",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Paulo",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "neste",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "domingo",
-       false
-      ]
-     ],
-     "trecho": "Pancadas de chuva típicas de verão, que podem ser de forte intensidade, são esperadas para este domingo (15) no estado de São Paulo. O alerta é da Defesa Civil do estado de São Paulo, que informou esperar acumulados…",
-     "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/fortes-chuvas-devem-atingir-estado-de-sao-paulo-neste-domingo",
-     "publicadoEm": "2026-11-15T13:34:00.000Z",
      "tipo": "noticia",
      "numero": null
     }
