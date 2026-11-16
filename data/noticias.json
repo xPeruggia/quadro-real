@@ -1,19 +1,19 @@
 {
- "geradoEm": "2026-11-16T19:27:38.629Z",
+ "geradoEm": "2026-11-16T22:44:55.214Z",
  "criterio": "Somente comunicados publicados diretamente pelo IBGE e pelo Banco Central. Itens com termos político-partidários são retirados e listados com o termo encontrado.",
  "fontes": [
   {
    "fonte": "IBGE",
    "ok": true,
    "itens": 30,
-   "ultimoSucesso": "2026-11-16T19:27:38.629Z",
+   "ultimoSucesso": "2026-11-16T22:44:55.214Z",
    "url": "https://servicodados.ibge.gov.br/api/v3/noticias/?qtd=40"
   },
   {
    "fonte": "BCB",
    "ok": true,
    "itens": 100,
-   "ultimoSucesso": "2026-11-16T19:27:38.629Z",
+   "ultimoSucesso": "2026-11-16T22:44:55.214Z",
    "url": null
   }
  ],
@@ -43,6 +43,23 @@
    "resumo": "Agenda IBGE traz a programação do instituto para a semana - Foto: Bel Corção/Brasil com S O Instituto Brasileiro de Geografia e Estatística (IBGE) disponibilizou hoje (16) a Agenda IBGE para a semana de 16 a 22 de novembro. A edição reúne reuniões...",
    "publicadoEm": "2026-11-16T09:00:30-03:00",
    "link": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48640-ibge-disponibiliza-agenda-semanal-com-programacoes-para-os-dias-16-a-22-de-novembro.html",
+   "editorias": "ibge",
+   "categoria": "institucional",
+   "verificacoes": {
+    "fonteOficial": true,
+    "semConteudoPolitico": true,
+    "numero": null
+   }
+  },
+  {
+   "fonte": "IBGE",
+   "fonteNome": "Agência de Notícias do IBGE",
+   "id": "ibge-48647",
+   "tipo": "Notícia institucional",
+   "titulo": "IBGE recebe homenagem pelos seus 90 anos na Assembleia Legislativa da Bahia",
+   "resumo": "A Assembleia Legislativa da Bahia (ALBA) realizou, nesta segunda-feira (16), uma sessão especial em homenagem aos 90 anos do Instituto Brasileiro de Geografia e Estatística (IBGE), celebrados em 29 de maio. A iniciativa foi proposta pelo deputado Zó...",
+   "publicadoEm": "2026-11-16T04:29:43-03:00",
+   "link": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48647-ibge-recebe-homenagem-pelos-seus-90-anos-na-assembleia-legislativa-da-bahia.html",
    "editorias": "ibge",
    "categoria": "institucional",
    "verificacoes": {
@@ -557,23 +574,6 @@
    "resumo": "Com o tema “Memória que inspira, atuação que transforma e futuro que nos move”, a Associação Brasileira de Estudos Populacionais (ABEP) deu início ao seu XXIV Encontro, que está sendo realizado de 9 a 12 de novembro, na Universidade Estadual de Campinas...",
    "publicadoEm": "2026-11-11T03:00:22-03:00",
    "link": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48566-ibge-destaca-transformacoes-demograficas-e-desafios-futuros-no-24-encontro-da-abep.html",
-   "editorias": "ibge",
-   "categoria": "institucional",
-   "verificacoes": {
-    "fonteOficial": true,
-    "semConteudoPolitico": true,
-    "numero": null
-   }
-  },
-  {
-   "fonte": "IBGE",
-   "fonteNome": "Agência de Notícias do IBGE",
-   "id": "ibge-48416",
-   "tipo": "Notícia institucional",
-   "titulo": "IBGE prorroga inscrições para a nova capacitação do SINGED Lab Desastres",
-   "resumo": "O Instituto Brasileiro de Geografia e Estatística (IBGE) convida gestores públicos, profissionais da iniciativa privada, pesquisadores, estudantes e demais interessados a participarem da 4ª capacitação nacional do SINGED Lab Desastres, que será realizada...",
-   "publicadoEm": "2026-11-10T11:31:27-03:00",
-   "link": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48416-ibge-abre-inscricoes-para-nova-capacitacao-virtual-nacional-do-singed-lab-desastres.html",
    "editorias": "ibge",
    "categoria": "institucional",
    "verificacoes": {

@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-11-16T19:27:38.629Z",
+ "geradoEm": "2026-11-16T22:44:55.214Z",
  "receita": {
   "url": "https://www.gov.br/receitafederal/dados/arrecadacao-estado.csv",
   "pagina": "https://www.gov.br/receitafederal/dados",
@@ -984,7 +984,7 @@
     "ementa": "Institui a Contribuição Social Digital – CSD, destinada a financiar iniciativas de fortalecimento da infraestrutura, desenvolvimento e capacitação tecnológicos e de novo instrumento de transferência de renda a ser criado nomeado PIX das big techs para os usuários de plataformas brasileiros.",
     "especie": "contribuição",
     "dataApresentacao": "2025-07-23",
-    "situacao": "Aguardando Parecer",
+    "situacao": "Pronta para Pauta",
     "link": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2538793"
    },
    {
@@ -1120,6 +1120,6 @@
     "link": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2352061"
    }
   ],
-  "atualizadoEm": "2026-11-16T19:27:38.629Z"
+  "atualizadoEm": "2026-11-16T22:44:55.214Z"
  }
 }
