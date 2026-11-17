@@ -1,23 +1,39 @@
 {
- "geradoEm": "2026-11-17T18:22:24.048Z",
+ "geradoEm": "2026-11-17T21:31:04.126Z",
  "criterio": "Somente comunicados publicados diretamente pelo IBGE e pelo Banco Central. Itens com termos político-partidários são retirados e listados com o termo encontrado.",
  "fontes": [
   {
    "fonte": "IBGE",
    "ok": true,
    "itens": 30,
-   "ultimoSucesso": "2026-11-17T18:22:24.048Z",
+   "ultimoSucesso": "2026-11-17T21:31:04.126Z",
    "url": "https://servicodados.ibge.gov.br/api/v3/noticias/?qtd=40"
   },
   {
    "fonte": "BCB",
    "ok": true,
    "itens": 100,
-   "ultimoSucesso": "2026-11-17T18:22:24.048Z",
+   "ultimoSucesso": "2026-11-17T21:31:04.126Z",
    "url": null
   }
  ],
  "itens": [
+  {
+   "fonte": "BCB",
+   "fonteNome": "Banco Central do Brasil",
+   "id": "bcb-21321",
+   "tipo": "Nota à imprensa",
+   "titulo": "BC anuncia leilões de swap cambial tradicional para fins de rolagem dos contratos vincendos em 4 de janeiro de 2027",
+   "resumo": "",
+   "publicadoEm": "2026-11-17T21:30:21Z",
+   "link": "https://www.bcb.gov.br/detalhenoticia/21321/nota",
+   "categoria": "institucional",
+   "verificacoes": {
+    "fonteOficial": true,
+    "semConteudoPolitico": true,
+    "numero": null
+   }
+  },
   {
    "fonte": "IBGE",
    "fonteNome": "Agência de Notícias do IBGE",
@@ -761,22 +777,6 @@
    "resumo": "",
    "publicadoEm": "2026-10-27T19:25:27Z",
    "link": "https://www.bcb.gov.br/detalhenoticia/21300/nota",
-   "categoria": "dados",
-   "verificacoes": {
-    "fonteOficial": true,
-    "semConteudoPolitico": true,
-    "numero": null
-   }
-  },
-  {
-   "fonte": "BCB",
-   "fonteNome": "Banco Central do Brasil",
-   "id": "bcb-21298",
-   "tipo": "Nota à imprensa",
-   "titulo": "BC divulga o Relatório de Estabilidade Financeira do primeiro semestre de 2026",
-   "resumo": "",
-   "publicadoEm": "2026-10-27T11:02:19Z",
-   "link": "https://www.bcb.gov.br/detalhenoticia/21298/nota",
    "categoria": "dados",
    "verificacoes": {
     "fonteOficial": true,
