@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-11-17T04:15:35.846Z",
+ "geradoEm": "2026-11-17T18:22:24.048Z",
  "receita": {
   "url": "https://www.gov.br/receitafederal/dados/arrecadacao-estado.csv",
   "pagina": "https://www.gov.br/receitafederal/dados",
@@ -911,6 +911,17 @@
   "desde": 2023,
   "itens": [
    {
+    "id": 2654382,
+    "siglaTipo": "PLP",
+    "numero": 307,
+    "ano": 2026,
+    "ementa": "Institui o Imposto sobre Grandes Fortunas, previsto no art. 153, inciso VII, da Constituição Federal.",
+    "especie": "imposto",
+    "dataApresentacao": "2026-11-17",
+    "situacao": null,
+    "link": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2654382"
+   },
+   {
     "id": 2652867,
     "siglaTipo": "PLP",
     "numero": 297,
@@ -984,7 +995,7 @@
     "ementa": "Institui a Contribuição Social Digital – CSD, destinada a financiar iniciativas de fortalecimento da infraestrutura, desenvolvimento e capacitação tecnológicos e de novo instrumento de transferência de renda a ser criado nomeado PIX das big techs para os usuários de plataformas brasileiros.",
     "especie": "contribuição",
     "dataApresentacao": "2025-07-23",
-    "situacao": "Pronta para Pauta",
+    "situacao": "Aguardando Deliberação",
     "link": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2538793"
    },
    {
@@ -1120,6 +1131,6 @@
     "link": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2352061"
    }
   ],
-  "atualizadoEm": "2026-11-17T04:15:35.846Z"
+  "atualizadoEm": "2026-11-17T18:22:24.048Z"
  }
 }

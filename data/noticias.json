@@ -1,23 +1,40 @@
 {
- "geradoEm": "2026-11-17T04:15:35.846Z",
+ "geradoEm": "2026-11-17T18:22:24.048Z",
  "criterio": "Somente comunicados publicados diretamente pelo IBGE e pelo Banco Central. Itens com termos político-partidários são retirados e listados com o termo encontrado.",
  "fontes": [
   {
    "fonte": "IBGE",
    "ok": true,
    "itens": 30,
-   "ultimoSucesso": "2026-11-17T04:15:35.846Z",
+   "ultimoSucesso": "2026-11-17T18:22:24.048Z",
    "url": "https://servicodados.ibge.gov.br/api/v3/noticias/?qtd=40"
   },
   {
    "fonte": "BCB",
    "ok": true,
    "itens": 100,
-   "ultimoSucesso": "2026-11-17T04:15:35.846Z",
+   "ultimoSucesso": "2026-11-17T18:22:24.048Z",
    "url": null
   }
  ],
  "itens": [
+  {
+   "fonte": "IBGE",
+   "fonteNome": "Agência de Notícias do IBGE",
+   "id": "ibge-48654",
+   "tipo": "Notícia institucional",
+   "titulo": "Espaço Juventude: estão abertas as inscrições para programação especial na conferência do IBGE",
+   "resumo": "Para marcar a presença do Rio Grande do Norte nesse debate global, a Subsecretaria de Juventude do Estado do Rio Grande do Norte (SEJUV) promoverá o seminário “Juventudes no Centro”, e o Centro de Acesso a Direitos e Inclusão Social (CAIS), projeto do...",
+   "publicadoEm": "2026-11-17T08:31:43-03:00",
+   "link": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48654-espaco-juventude-estao-abertas-as-inscricoes-para-programacao-especial-na-conferencia-do-ibge.html",
+   "editorias": "ibge",
+   "categoria": "institucional",
+   "verificacoes": {
+    "fonteOficial": true,
+    "semConteudoPolitico": true,
+    "numero": null
+   }
+  },
   {
    "fonte": "BCB",
    "fonteNome": "Banco Central do Brasil",
@@ -607,23 +624,6 @@
    "resumo": "A iniciativa faz parte de um esforço mais amplo de valorização do patrimônio institucional e de aprimoramento das condições de trabalho dos servidores. - Foto: Hiago Martins O IBGE inaugurou nesta terça-feira (10) a primeira etapa das obras de...",
    "publicadoEm": "2026-11-10T05:37:59-03:00",
    "link": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48549-ibge-entrega-primeira-etapa-de-recuperacao-do-complexo-canabarro-e-nova-frota-de-veiculos.html",
-   "editorias": "ibge",
-   "categoria": "institucional",
-   "verificacoes": {
-    "fonteOficial": true,
-    "semConteudoPolitico": true,
-    "numero": null
-   }
-  },
-  {
-   "fonte": "IBGE",
-   "fonteNome": "Agência de Notícias do IBGE",
-   "id": "ibge-48538",
-   "tipo": "Notícia institucional",
-   "titulo": "IBGE faz coletiva em Mossoró para divulgar conferência internacional no estado",
-   "resumo": "Mossoró (RN) sediará, no próximo dia 13 de novembro, às 10h, uma coletiva pública para apresentar a Conferência Nacional dos Produtores e Usuários de Informações Estatísticas, Geográficas, Geoespaciais e Ambientais (CONFEST/CONFEGE 2026), que será...",
-   "publicadoEm": "2026-11-10T01:58:53-03:00",
-   "link": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48538-ibge-faz-coletiva-em-mossoro-para-divulgar-conferencia-internacional-no-estado.html",
    "editorias": "ibge",
    "categoria": "institucional",
    "verificacoes": {
