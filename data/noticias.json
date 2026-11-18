@@ -1,23 +1,122 @@
 {
- "geradoEm": "2026-11-18T03:14:42.033Z",
+ "geradoEm": "2026-11-18T17:54:57.925Z",
  "criterio": "Somente comunicados publicados diretamente pelo IBGE e pelo Banco Central. Itens com termos político-partidários são retirados e listados com o termo encontrado.",
  "fontes": [
   {
    "fonte": "IBGE",
    "ok": true,
    "itens": 30,
-   "ultimoSucesso": "2026-11-18T03:14:42.033Z",
+   "ultimoSucesso": "2026-11-18T17:54:57.925Z",
    "url": "https://servicodados.ibge.gov.br/api/v3/noticias/?qtd=40"
   },
   {
    "fonte": "BCB",
    "ok": true,
    "itens": 100,
-   "ultimoSucesso": "2026-11-18T03:14:42.033Z",
+   "ultimoSucesso": "2026-11-18T17:54:57.925Z",
    "url": null
   }
  ],
  "itens": [
+  {
+   "fonte": "BCB",
+   "fonteNome": "Banco Central do Brasil",
+   "id": "bcb-21323",
+   "tipo": "Nota à imprensa",
+   "titulo": "BC divulga Fluxo cambial mensal",
+   "resumo": "",
+   "publicadoEm": "2026-11-18T17:31:13Z",
+   "link": "https://www.bcb.gov.br/detalhenoticia/21323/nota",
+   "categoria": "dados",
+   "verificacoes": {
+    "fonteOficial": true,
+    "semConteudoPolitico": true,
+    "numero": null
+   }
+  },
+  {
+   "fonte": "BCB",
+   "fonteNome": "Banco Central do Brasil",
+   "id": "bcb-21322",
+   "tipo": "Nota à imprensa",
+   "titulo": "BC divulga estudo sobre os canais de transmissão da política monetária por meio do crédito",
+   "resumo": "",
+   "publicadoEm": "2026-11-18T12:30:49Z",
+   "link": "https://www.bcb.gov.br/detalhenoticia/21322/nota",
+   "categoria": "dados",
+   "verificacoes": {
+    "fonteOficial": true,
+    "semConteudoPolitico": true,
+    "numero": null
+   }
+  },
+  {
+   "fonte": "IBGE",
+   "fonteNome": "Agência de Notícias do IBGE",
+   "id": "ibge-48656",
+   "tipo": "Notícia institucional",
+   "titulo": "Desigualdade racial ainda marca acesso a emprego, educação, segurança e saneamento",
+   "resumo": "Segundo a pesquisa, 33,4% das pessoas ocupadas brancas estavam em ocupações informais, entre as pretas esse percentual atingiu 42,6% e, entre as pardas, 45,4% em 2025 - Foto: Agência IBGE Notícias Trabalho e renda, educação, participação e gestão,...",
+   "publicadoEm": "2026-11-18T10:00:00-03:00",
+   "link": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48656-desigualdade-racial-ainda-marca-acesso-a-emprego-educacao-seguranca-e-saneamento.html",
+   "editorias": "economicas",
+   "categoria": "dados",
+   "verificacoes": {
+    "fonteOficial": true,
+    "semConteudoPolitico": true,
+    "numero": null
+   }
+  },
+  {
+   "fonte": "IBGE",
+   "fonteNome": "Agência de Notícias do IBGE",
+   "id": "ibge-48657",
+   "tipo": "Divulgação de dado oficial",
+   "titulo": "PNAD Contínua Trimestral: desocupação cai em 8 das 27 UFs no 3° trimestre de 2026",
+   "resumo": "A taxa de desocupação do país no terceiro trimestre de 2026 foi de 5,2%, redução de 0,2 ponto percentual em comparação com o 2º trimestre de 2026 (5,4%) e recuo de 0,4 ponto percentual frente ao 3º trimestre de 2025 (5,6%). Frente ao trimestre...",
+   "publicadoEm": "2026-11-18T09:00:00-03:00",
+   "link": "https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/48657-pnad-continua-trimestral-desocupacao-cai-em-8-das-27-ufs-no-3-trimestre-de-2026.html",
+   "editorias": "sociais",
+   "categoria": "dados",
+   "verificacoes": {
+    "fonteOficial": true,
+    "semConteudoPolitico": true,
+    "numero": {
+     "ok": true,
+     "descricao": "taxa de desocupação de jul–set/2026",
+     "serie": "desemprego",
+     "periodo": "2026-09",
+     "valorNoticia": 5.2,
+     "valorSerie": 5.2,
+     "nota": "5,2% confere com a série oficial (taxa de desocupação de jul–set/2026)."
+    }
+   }
+  },
+  {
+   "fonte": "IBGE",
+   "fonteNome": "Agência de Notícias do IBGE",
+   "id": "ibge-48658",
+   "tipo": "Notícia institucional",
+   "titulo": "Desocupação cai em oito estados e fica estável em 18 no terceiro trimestre",
+   "resumo": "Pernambuco, Amapá, Sergipe e Bahia registraram as maiores taxas de desocupação - Foto: Ari Dias/AEN A taxa de desocupação do país, no terceiro trimestre (5,2%), registrou redução de 0,2 ponto percentual em comparação com o trimestre anterior (5,4%) e...",
+   "publicadoEm": "2026-11-18T09:00:00-03:00",
+   "link": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48658-desocupacao-cai-em-oito-estados-e-fica-estavel-em-18-no-terceiro-trimestre.html",
+   "editorias": "sociais",
+   "categoria": "dados",
+   "verificacoes": {
+    "fonteOficial": true,
+    "semConteudoPolitico": true,
+    "numero": {
+     "ok": true,
+     "descricao": "taxa de desocupação de jul–set/2026",
+     "serie": "desemprego",
+     "periodo": "2026-09",
+     "valorNoticia": 5.2,
+     "valorSerie": 5.2,
+     "nota": "5,2% confere com a série oficial (taxa de desocupação de jul–set/2026)."
+    }
+   }
+  },
   {
    "fonte": "BCB",
    "fonteNome": "Banco Central do Brasil",
@@ -499,40 +598,6 @@
   {
    "fonte": "IBGE",
    "fonteNome": "Agência de Notícias do IBGE",
-   "id": "ibge-48542",
-   "tipo": "Divulgação de dado oficial",
-   "titulo": "Em setembro, indústria recua em 9 dos 15 locais pesquisados",
-   "resumo": "Com a queda de 0,8% na produção industrial em setembro de 2026, na série com ajuste sazonal, 9 dos 15 locais pesquisados pelo IBGE acompanharam esse movimento negativo. Goiás (-4,1%), São Paulo (-3,8%) e Pernambuco (-3,0%) apresentaram os recuos mais...",
-   "publicadoEm": "2026-11-11T09:00:00-03:00",
-   "link": "https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/48542-pim-pf-regional-setembro-2026-release.html",
-   "editorias": "economicas",
-   "categoria": "dados",
-   "verificacoes": {
-    "fonteOficial": true,
-    "semConteudoPolitico": true,
-    "numero": null
-   }
-  },
-  {
-   "fonte": "IBGE",
-   "fonteNome": "Agência de Notícias do IBGE",
-   "id": "ibge-48546",
-   "tipo": "Divulgação de dado oficial",
-   "titulo": "Volume de serviços varia -0,1% em setembro ",
-   "resumo": "Período Variação (%) Volume Receita Nominal Setembro 26 / Agosto 26* -0,1 0,5 Setembro 26 / Setembro 25 -0,1 6,4 Acumulada Janeiro-Setembro 1,5 7,2 Acumulada em 12 Meses 1,9 7,3 * série com ajuste sazonal Em setembro de 2026, o volume de serviços variou...",
-   "publicadoEm": "2026-11-11T09:00:00-03:00",
-   "link": "https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/48546-release-pms-setembro.html",
-   "editorias": "economicas",
-   "categoria": "dados",
-   "verificacoes": {
-    "fonteOficial": true,
-    "semConteudoPolitico": true,
-    "numero": null
-   }
-  },
-  {
-   "fonte": "IBGE",
-   "fonteNome": "Agência de Notícias do IBGE",
    "id": "ibge-48539",
    "tipo": "Notícia institucional",
    "titulo": "Produção industrial recua em 9 dos 15 locais pesquisados em setembro",
@@ -625,23 +690,6 @@
    "publicadoEm": "2026-11-10T11:01:06Z",
    "link": "https://www.bcb.gov.br/detalhenoticia/21312/nota",
    "categoria": "dados",
-   "verificacoes": {
-    "fonteOficial": true,
-    "semConteudoPolitico": true,
-    "numero": null
-   }
-  },
-  {
-   "fonte": "IBGE",
-   "fonteNome": "Agência de Notícias do IBGE",
-   "id": "ibge-48549",
-   "tipo": "Notícia institucional",
-   "titulo": "IBGE entrega primeira etapa de recuperação do Complexo Canabarro e nova frota de veículos",
-   "resumo": "A iniciativa faz parte de um esforço mais amplo de valorização do patrimônio institucional e de aprimoramento das condições de trabalho dos servidores. - Foto: Hiago Martins O IBGE inaugurou nesta terça-feira (10) a primeira etapa das obras de...",
-   "publicadoEm": "2026-11-10T05:37:59-03:00",
-   "link": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48549-ibge-entrega-primeira-etapa-de-recuperacao-do-complexo-canabarro-e-nova-frota-de-veiculos.html",
-   "editorias": "ibge",
-   "categoria": "institucional",
    "verificacoes": {
     "fonteOficial": true,
     "semConteudoPolitico": true,
@@ -745,38 +793,6 @@
    "resumo": "",
    "publicadoEm": "2026-10-28T12:00:22Z",
    "link": "https://www.bcb.gov.br/detalhenoticia/21302/nota",
-   "categoria": "dados",
-   "verificacoes": {
-    "fonteOficial": true,
-    "semConteudoPolitico": true,
-    "numero": null
-   }
-  },
-  {
-   "fonte": "BCB",
-   "fonteNome": "Banco Central do Brasil",
-   "id": "bcb-21301",
-   "tipo": "Nota à imprensa",
-   "titulo": "BC anuncia leilões de swap cambial tradicional para fins de rolagem dos contratos vincendos em 1º de dezembro de 2026",
-   "resumo": "",
-   "publicadoEm": "2026-10-27T21:30:16Z",
-   "link": "https://www.bcb.gov.br/detalhenoticia/21301/nota",
-   "categoria": "institucional",
-   "verificacoes": {
-    "fonteOficial": true,
-    "semConteudoPolitico": true,
-    "numero": null
-   }
-  },
-  {
-   "fonte": "BCB",
-   "fonteNome": "Banco Central do Brasil",
-   "id": "bcb-21300",
-   "tipo": "Nota à imprensa",
-   "titulo": "BC divulga Estatísticas de Pagamentos de Varejo e de Cartões do primeiro semestre de 2026",
-   "resumo": "",
-   "publicadoEm": "2026-10-27T19:25:27Z",
-   "link": "https://www.bcb.gov.br/detalhenoticia/21300/nota",
    "categoria": "dados",
    "verificacoes": {
     "fonteOficial": true,
