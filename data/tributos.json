@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-11-18T17:54:57.925Z",
+ "geradoEm": "2026-11-18T21:06:48.990Z",
  "receita": {
   "url": "https://www.gov.br/receitafederal/dados/arrecadacao-estado.csv",
   "pagina": "https://www.gov.br/receitafederal/dados",
@@ -951,7 +951,7 @@
     "ementa": "Institui a Taxa de Fiscalização Sanitária sobre Apostas de Quota Fixa (TFS-Apostas), destinada a compensar o Sistema Único de Saúde (SUS) pelos custos de prevenção, vigilância, diagnóstico, tratamento e reabilitação do transtorno do jogo; altera a Lei n.º 13.756, de 12 de dezembro de 2018; e dá outras providências.",
     "especie": "taxa",
     "dataApresentacao": "2026-07-22",
-    "situacao": "Aguardando Designação de Relator(a)",
+    "situacao": "Aguardando Encaminhamento",
     "link": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641479"
    },
    {
@@ -1131,6 +1131,6 @@
     "link": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2352061"
    }
   ],
-  "atualizadoEm": "2026-11-18T17:54:57.925Z"
+  "atualizadoEm": "2026-11-18T21:06:48.990Z"
  }
 }
