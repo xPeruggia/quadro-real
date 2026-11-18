@@ -1,19 +1,19 @@
 {
- "geradoEm": "2026-11-17T21:31:04.126Z",
+ "geradoEm": "2026-11-18T03:14:42.033Z",
  "criterio": "Somente comunicados publicados diretamente pelo IBGE e pelo Banco Central. Itens com termos político-partidários são retirados e listados com o termo encontrado.",
  "fontes": [
   {
    "fonte": "IBGE",
    "ok": true,
    "itens": 30,
-   "ultimoSucesso": "2026-11-17T21:31:04.126Z",
+   "ultimoSucesso": "2026-11-18T03:14:42.033Z",
    "url": "https://servicodados.ibge.gov.br/api/v3/noticias/?qtd=40"
   },
   {
    "fonte": "BCB",
    "ok": true,
    "itens": 100,
-   "ultimoSucesso": "2026-11-17T21:31:04.126Z",
+   "ultimoSucesso": "2026-11-18T03:14:42.033Z",
    "url": null
   }
  ],
