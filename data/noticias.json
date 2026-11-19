@@ -1,23 +1,39 @@
 {
- "geradoEm": "2026-11-19T18:07:55.206Z",
+ "geradoEm": "2026-11-19T21:11:46.652Z",
  "criterio": "Somente comunicados publicados diretamente pelo IBGE e pelo Banco Central. Itens com termos político-partidários são retirados e listados com o termo encontrado.",
  "fontes": [
   {
    "fonte": "IBGE",
    "ok": true,
    "itens": 30,
-   "ultimoSucesso": "2026-11-19T18:07:55.206Z",
+   "ultimoSucesso": "2026-11-19T21:11:46.652Z",
    "url": "https://servicodados.ibge.gov.br/api/v3/noticias/?qtd=40"
   },
   {
    "fonte": "BCB",
    "ok": true,
    "itens": 100,
-   "ultimoSucesso": "2026-11-19T18:07:55.206Z",
+   "ultimoSucesso": "2026-11-19T21:11:46.652Z",
    "url": null
   }
  ],
  "itens": [
+  {
+   "fonte": "BCB",
+   "fonteNome": "Banco Central do Brasil",
+   "id": "bcb-21326",
+   "tipo": "Nota à imprensa",
+   "titulo": "BC aperfeiçoa norma sobre a participação em operações no mercado aberto",
+   "resumo": "",
+   "publicadoEm": "2026-11-19T21:14:32Z",
+   "link": "https://www.bcb.gov.br/detalhenoticia/21326/nota",
+   "categoria": "institucional",
+   "verificacoes": {
+    "fonteOficial": true,
+    "semConteudoPolitico": true,
+    "numero": null
+   }
+  },
   {
    "fonte": "BCB",
    "fonteNome": "Banco Central do Brasil",
@@ -96,6 +112,23 @@
    "link": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48680-abate-de-bovinos-tem-queda-anual-no-terceiro-trimestre-enquanto-o-de-suinos-e-frangos-avanca.html",
    "editorias": "economicas",
    "categoria": "dados",
+   "verificacoes": {
+    "fonteOficial": true,
+    "semConteudoPolitico": true,
+    "numero": null
+   }
+  },
+  {
+   "fonte": "IBGE",
+   "fonteNome": "Agência de Notícias do IBGE",
+   "id": "ibge-48702",
+   "tipo": "Notícia institucional",
+   "titulo": "Quer trabalhar no IBGE? Live esclarece dúvidas sobre seleção com remuneração de até R$ 5.562/mês",
+   "resumo": "As oportunidades estão distribuídas por municípios de todo o país e exigem ensino fundamental completo.- Foto: Equipe CCDI/CCS O Instituto Brasileiro de Geografia e Estatística (IBGE) realizará, no dia 23 de novembro, às 10h, uma nova live para tirar...",
+   "publicadoEm": "2026-11-19T03:20:00-03:00",
+   "link": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48702-quer-trabalhar-no-ibge-live-esclarece-duvidas-sobre-selecao-com-remuneracao-de-ate-r-5-562-mes.html",
+   "editorias": "ibge",
+   "categoria": "institucional",
    "verificacoes": {
     "fonteOficial": true,
     "semConteudoPolitico": true,
@@ -680,23 +713,6 @@
    }
   },
   {
-   "fonte": "IBGE",
-   "fonteNome": "Agência de Notícias do IBGE",
-   "id": "ibge-48566",
-   "tipo": "Notícia institucional",
-   "titulo": "IBGE destaca transformações demográficas e desafios futuros no 24º Encontro da ABEP",
-   "resumo": "Com o tema “Memória que inspira, atuação que transforma e futuro que nos move”, a Associação Brasileira de Estudos Populacionais (ABEP) deu início ao seu XXIV Encontro, que está sendo realizado de 9 a 12 de novembro, na Universidade Estadual de Campinas...",
-   "publicadoEm": "2026-11-11T03:00:22-03:00",
-   "link": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48566-ibge-destaca-transformacoes-demograficas-e-desafios-futuros-no-24-encontro-da-abep.html",
-   "editorias": "ibge",
-   "categoria": "institucional",
-   "verificacoes": {
-    "fonteOficial": true,
-    "semConteudoPolitico": true,
-    "numero": null
-   }
-  },
-  {
    "fonte": "BCB",
    "fonteNome": "Banco Central do Brasil",
    "id": "bcb-21312",
@@ -778,22 +794,6 @@
    "publicadoEm": "2026-10-29T11:32:01Z",
    "link": "https://www.bcb.gov.br/detalhenoticia/21304/nota",
    "categoria": "dados",
-   "verificacoes": {
-    "fonteOficial": true,
-    "semConteudoPolitico": true,
-    "numero": null
-   }
-  },
-  {
-   "fonte": "BCB",
-   "fonteNome": "Banco Central do Brasil",
-   "id": "bcb-21305",
-   "tipo": "Nota à imprensa",
-   "titulo": "Banco Central decreta Liquidação Extrajudicial da MW Instituição de Pagamento Ltda.",
-   "resumo": "",
-   "publicadoEm": "2026-10-29T10:39:39Z",
-   "link": "https://www.bcb.gov.br/detalhenoticia/21305/nota",
-   "categoria": "institucional",
    "verificacoes": {
     "fonteOficial": true,
     "semConteudoPolitico": true,
