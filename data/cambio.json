@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-11-20T02:45:26.764Z",
+ "geradoEm": "2026-11-20T17:41:17.367Z",
  "fonte": {
   "orgao": "Banco Central do Brasil",
   "sistema": "PTAX (Olinda)",
@@ -11,7 +11,6 @@
    "codigo": "USD",
    "nome": "Dólar americano",
    "pontos": [
-    ["2025-10-15",5.4464],
     ["2025-10-16",5.4354],
     ["2025-10-17",5.439],
     ["2025-10-20",5.3771],
@@ -287,13 +286,12 @@
     ["2026-11-18",5.8102],
     ["2026-11-19",5.8889]
    ],
-   "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoMoedaPeriodo(moeda=@moeda,dataInicial=@dataInicial,dataFinalCotacao=@dataFinalCotacao)?@moeda='USD'&@dataInicial='10-15-2025'&@dataFinalCotacao='11-19-2026'&$filter=tipoBoletim%20eq%20'Fechamento'&$format=json&$select=cotacaoVenda,dataHoraCotacao"
+   "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoMoedaPeriodo(moeda=@moeda,dataInicial=@dataInicial,dataFinalCotacao=@dataFinalCotacao)?@moeda='USD'&@dataInicial='10-16-2025'&@dataFinalCotacao='11-20-2026'&$filter=tipoBoletim%20eq%20'Fechamento'&$format=json&$select=cotacaoVenda,dataHoraCotacao"
   },
   {
    "codigo": "EUR",
    "nome": "Euro",
    "pontos": [
-    ["2025-10-15",6.3391],
     ["2025-10-16",6.3409],
     ["2025-10-17",6.3489],
     ["2025-10-20",6.2675],
@@ -569,13 +567,12 @@
     ["2026-11-18",6.372],
     ["2026-11-19",6.4672]
    ],
-   "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoMoedaPeriodo(moeda=@moeda,dataInicial=@dataInicial,dataFinalCotacao=@dataFinalCotacao)?@moeda='EUR'&@dataInicial='10-15-2025'&@dataFinalCotacao='11-19-2026'&$filter=tipoBoletim%20eq%20'Fechamento'&$format=json&$select=cotacaoVenda,dataHoraCotacao"
+   "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoMoedaPeriodo(moeda=@moeda,dataInicial=@dataInicial,dataFinalCotacao=@dataFinalCotacao)?@moeda='EUR'&@dataInicial='10-16-2025'&@dataFinalCotacao='11-20-2026'&$filter=tipoBoletim%20eq%20'Fechamento'&$format=json&$select=cotacaoVenda,dataHoraCotacao"
   },
   {
    "codigo": "GBP",
    "nome": "Libra esterlina",
    "pontos": [
-    ["2025-10-15",7.2965],
     ["2025-10-16",7.2965],
     ["2025-10-17",7.2997],
     ["2025-10-20",7.2161],
@@ -851,13 +848,12 @@
     ["2026-11-18",7.6398],
     ["2026-11-19",7.7262]
    ],
-   "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoMoedaPeriodo(moeda=@moeda,dataInicial=@dataInicial,dataFinalCotacao=@dataFinalCotacao)?@moeda='GBP'&@dataInicial='10-15-2025'&@dataFinalCotacao='11-19-2026'&$filter=tipoBoletim%20eq%20'Fechamento'&$format=json&$select=cotacaoVenda,dataHoraCotacao"
+   "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoMoedaPeriodo(moeda=@moeda,dataInicial=@dataInicial,dataFinalCotacao=@dataFinalCotacao)?@moeda='GBP'&@dataInicial='10-16-2025'&@dataFinalCotacao='11-20-2026'&$filter=tipoBoletim%20eq%20'Fechamento'&$format=json&$select=cotacaoVenda,dataHoraCotacao"
   },
   {
    "codigo": "JPY",
    "nome": "Iene japonês",
    "pontos": [
-    ["2025-10-15",0.03602],
     ["2025-10-16",0.03606],
     ["2025-10-17",0.03617],
     ["2025-10-20",0.03571],
@@ -1133,13 +1129,12 @@
     ["2026-11-18",0.03648],
     ["2026-11-19",0.03685]
    ],
-   "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoMoedaPeriodo(moeda=@moeda,dataInicial=@dataInicial,dataFinalCotacao=@dataFinalCotacao)?@moeda='JPY'&@dataInicial='10-15-2025'&@dataFinalCotacao='11-19-2026'&$filter=tipoBoletim%20eq%20'Fechamento'&$format=json&$select=cotacaoVenda,dataHoraCotacao"
+   "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoMoedaPeriodo(moeda=@moeda,dataInicial=@dataInicial,dataFinalCotacao=@dataFinalCotacao)?@moeda='JPY'&@dataInicial='10-16-2025'&@dataFinalCotacao='11-20-2026'&$filter=tipoBoletim%20eq%20'Fechamento'&$format=json&$select=cotacaoVenda,dataHoraCotacao"
   },
   {
    "codigo": "CHF",
    "nome": "Franco suíço",
    "pontos": [
-    ["2025-10-15",6.8336],
     ["2025-10-16",6.8318],
     ["2025-10-17",6.8674],
     ["2025-10-20",6.7927],
@@ -1415,13 +1410,12 @@
     ["2026-11-18",6.8931],
     ["2026-11-19",6.9865]
    ],
-   "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoMoedaPeriodo(moeda=@moeda,dataInicial=@dataInicial,dataFinalCotacao=@dataFinalCotacao)?@moeda='CHF'&@dataInicial='10-15-2025'&@dataFinalCotacao='11-19-2026'&$filter=tipoBoletim%20eq%20'Fechamento'&$format=json&$select=cotacaoVenda,dataHoraCotacao"
+   "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoMoedaPeriodo(moeda=@moeda,dataInicial=@dataInicial,dataFinalCotacao=@dataFinalCotacao)?@moeda='CHF'&@dataInicial='10-16-2025'&@dataFinalCotacao='11-20-2026'&$filter=tipoBoletim%20eq%20'Fechamento'&$format=json&$select=cotacaoVenda,dataHoraCotacao"
   },
   {
    "codigo": "CAD",
    "nome": "Dólar canadense",
    "pontos": [
-    ["2025-10-15",3.8811],
     ["2025-10-16",3.8697],
     ["2025-10-17",3.8723],
     ["2025-10-20",3.8328],
@@ -1697,7 +1691,7 @@
     ["2026-11-18",4.0543],
     ["2026-11-19",4.1147]
    ],
-   "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoMoedaPeriodo(moeda=@moeda,dataInicial=@dataInicial,dataFinalCotacao=@dataFinalCotacao)?@moeda='CAD'&@dataInicial='10-15-2025'&@dataFinalCotacao='11-19-2026'&$filter=tipoBoletim%20eq%20'Fechamento'&$format=json&$select=cotacaoVenda,dataHoraCotacao"
+   "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoMoedaPeriodo(moeda=@moeda,dataInicial=@dataInicial,dataFinalCotacao=@dataFinalCotacao)?@moeda='CAD'&@dataInicial='10-16-2025'&@dataFinalCotacao='11-20-2026'&$filter=tipoBoletim%20eq%20'Fechamento'&$format=json&$select=cotacaoVenda,dataHoraCotacao"
   }
  ]
 }
