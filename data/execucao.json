@@ -1,7 +1,7 @@
 {
- "inicio": "2026-11-22T17:00:32.108Z",
- "fim": "2026-11-22T17:08:33.580Z",
- "segundos": 481,
+ "inicio": "2026-11-22T20:10:00.835Z",
+ "fim": "2026-11-22T20:17:58.282Z",
+ "segundos": 477,
  "partes": [
   "series",
   "orcamento",
@@ -39,150 +39,161 @@
    "chamadas": 8,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 10137
+   "ms": 5540
   },
   {
    "host": "api.bcb.gov.br",
    "chamadas": 33,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 14807
+   "ms": 16348
   },
   {
    "host": "olinda.bcb.gov.br",
    "chamadas": 11,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 7681
+   "ms": 6720
   },
   {
    "host": "apidatalake.tesouro.gov.br",
    "chamadas": 32,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 39348
+   "ms": 45127
   },
   {
    "host": "dadosabertos.camara.leg.br",
    "chamadas": 148,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 92396
+   "ms": 88375
   },
   {
    "host": "servicodados.ibge.gov.br",
    "chamadas": 1,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 632
+   "ms": 412
   },
   {
    "host": "www.bcb.gov.br",
    "chamadas": 1,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 1194
+   "ms": 1087
   },
   {
    "host": "g1.globo.com",
    "chamadas": 2,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 2609
+   "ms": 2069
   },
   {
    "host": "feeds.folha.uol.com.br",
    "chamadas": 1,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 1085
+   "ms": 1297
   },
   {
    "host": "www.estadao.com.br",
    "chamadas": 3,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 812
+   "ms": 534
   },
   {
    "host": "www.cnnbrasil.com.br",
    "chamadas": 1,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 432
+   "ms": 512
   },
   {
    "host": "feeds.bbci.co.uk",
    "chamadas": 1,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 267
+   "ms": 323
   },
   {
    "host": "feeds.elpais.com",
    "chamadas": 1,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 247
+   "ms": 165
   },
   {
    "host": "agenciabrasil.ebc.com.br",
    "chamadas": 2,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 855
+   "ms": 775
   },
   {
    "host": "www.poder360.com.br",
    "chamadas": 1,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 211
+   "ms": 81
   },
   {
    "host": "rss.uol.com.br",
    "chamadas": 1,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 710
+   "ms": 1120
   },
   {
    "host": "www.gazetadopovo.com.br",
    "chamadas": 1,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 287
+   "ms": 292
   },
   {
    "host": "www.cartacapital.com.br",
    "chamadas": 1,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 230
+   "ms": 227
   },
   {
    "host": "veja.abril.com.br",
    "chamadas": 1,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 1100
+   "ms": 174
   },
   {
    "host": "www.metropoles.com",
    "chamadas": 1,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 500
+   "ms": 277
   },
   {
    "host": "www.gov.br",
    "chamadas": 13,
    "falhas": 13,
    "repeticoes": 0,
-   "ms": 134180
+   "ms": 134584
   }
  ],
  "historico": [
+  {
+   "inicio": "2026-11-22T20:10:00.835Z",
+   "segundos": 477,
+   "chamadas": 264,
+   "falhas": 3,
+   "status": {
+    "confere": 6,
+    "fonte-unica": 6
+   },
+   "avisos": 3
+  },
   {
    "inicio": "2026-11-22T17:00:32.108Z",
    "segundos": 481,
@@ -825,17 +836,6 @@
    "inicio": "2026-11-02T22:28:12.872Z",
    "segundos": 372,
    "chamadas": 254,
-   "falhas": 1,
-   "status": {
-    "confere": 6,
-    "fonte-unica": 6
-   },
-   "avisos": 1
-  },
-  {
-   "inicio": "2026-11-02T14:02:57.371Z",
-   "segundos": 311,
-   "chamadas": 253,
    "falhas": 1,
    "status": {
     "confere": 6,

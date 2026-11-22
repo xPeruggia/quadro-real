@@ -1,5 +1,5 @@
 {
- "geradoEm": "2026-11-22T17:00:32.108Z",
+ "geradoEm": "2026-11-22T20:10:00.835Z",
  "janelaHoras": 48,
  "nota": "Matérias publicadas pelos próprios veículos em seus feeds públicos (RSS). O site agrupa as que tratam do mesmo fato, mostra o título e um trecho curto de cada uma, com o link para o texto completo, e não classifica nenhum veículo. Palavras destacadas são as que só aquele veículo usou no título. \"Coluna ou opinião\" e \"Análise\" seguem a seção em que o próprio veículo publicou o texto.",
  "veiculos": [
@@ -8,7 +8,7 @@
    "nome": "g1",
    "idioma": "pt",
    "ok": true,
-   "materias": 131
+   "materias": 127
   },
   {
    "id": "folha",
@@ -22,7 +22,7 @@
    "nome": "Estadão",
    "idioma": "pt",
    "ok": true,
-   "materias": 49
+   "materias": 46
   },
   {
    "id": "cnn",
@@ -36,21 +36,21 @@
    "nome": "BBC News Brasil",
    "idioma": "pt",
    "ok": true,
-   "materias": 13
+   "materias": 15
   },
   {
    "id": "elpais",
    "nome": "El País",
    "idioma": "es",
    "ok": true,
-   "materias": 3
+   "materias": 2
   },
   {
    "id": "agenciabrasil",
    "nome": "Agência Brasil",
    "idioma": "pt",
    "ok": true,
-   "materias": 10
+   "materias": 11
   },
   {
    "id": "poder360",
@@ -71,7 +71,7 @@
    "nome": "Gazeta do Povo",
    "idioma": "pt",
    "ok": true,
-   "materias": 113
+   "materias": 107
   },
   {
    "id": "cartacapital",
@@ -95,18 +95,1519 @@
    "materias": 20
   }
  ],
- "totalMaterias": 563,
+ "totalMaterias": 548,
  "comparacoes": [
   {
-   "id": "https://www1.folha.uol.com.br/ambiente/2026/11/cop31-se-torna-a-mais-longa-conferencia-climatica-da-onu.shtml",
-   "veiculos": 7,
-   "primeiro": "2026-11-22T12:35:00.000Z",
-   "ultimo": "2026-11-22T15:59:00.000Z",
+   "id": "https://www.estadao.com.br/politica/jair-bolsonaro-faz-limpeza-com-sonda-diz-carlos-npr/",
+   "veiculos": 9,
+   "primeiro": "2026-11-21T10:28:18.000Z",
+   "ultimo": "2026-11-22T17:55:00.000Z",
    "comuns": [
+    "Bolsonaro",
+    "segue",
+    "estável",
+    "UTI",
+    "previsão",
+    "alta"
+   ],
+   "politica": "Bolsonaro",
+   "materias": [
+    {
+     "veiculo": "estadao",
+     "titulo": "Bolsonaro segue em UTI em estado estável, mas sem previsão de alta, informa hospital",
+     "tituloMarcado": [
+      [
+       "Bolsonaro",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "segue",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "UTI",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "estado",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "estável,",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "mas",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "sem",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "previsão",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "alta,",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "informa",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "hospital",
+       true
+      ]
+     ],
+     "trecho": "BRASÍLIA - O ex-presidente Jair Bolsonaro (PL) continua internado, neste sábado, 21, em uma unidade de terapia intensiva (UTI), sem previsão de alta, segundo boletim médico divulgado no início da tarde pelo Hospital DF…",
+     "link": "https://www.estadao.com.br/politica/jair-bolsonaro-faz-limpeza-com-sonda-diz-carlos-npr/",
+     "publicadoEm": "2026-11-21T10:28:18.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "gazetadopovo",
+     "titulo": "Bolsonaro está na UTI e tem quadro estável, diz novo boletim médico",
+     "tituloMarcado": [
+      [
+       "Bolsonaro",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "está",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "na",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "UTI",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "tem",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "quadro",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "estável,",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "diz",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "novo",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "boletim",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "médico",
+       false
+      ]
+     ],
+     "trecho": "Ex-presidente tem diagnóstico de abdômen agudo obstrutivo e, segundo boletim divulgado neste sábado (21), não há previsão de alta",
+     "link": "https://www.gazetadopovo.com.br/republica/bolsonaro-uti-quadro-estavel-boletim/",
+     "publicadoEm": "2026-11-21T19:06:27.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "cnn",
+     "titulo": "Bolsonaro tem quadro estável e segue sem previsão de alta, diz boletim",
+     "tituloMarcado": [
+      [
+       "Bolsonaro",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "tem",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "quadro",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "estável",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "segue",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "sem",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "previsão",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "alta,",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "diz",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "boletim",
+       false
+      ]
+     ],
+     "trecho": "Ex-presidente foi diagnosticado com quadro de abdômen agudo obstrutivo",
+     "link": "https://www.cnnbrasil.com.br/politica/bolsonaro-esta-estavel-e-segue-sem-previsao-de-alta-diz-boletim/",
+     "publicadoEm": "2026-11-22T16:53:43.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "g1",
+     "titulo": "Bolsonaro está clinicamente estável e segue em UTI, diz boletim médico",
+     "tituloMarcado": [
+      [
+       "Bolsonaro",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "está",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "clinicamente",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "estável",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "segue",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "UTI,",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "diz",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "boletim",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "médico",
+       false
+      ]
+     ],
+     "trecho": "Ex-presidente Jair Bolsonaro Pablo Porciuncula/AFP O ex-presidente Jair Bolsonaro está clinicamente estável, informou o Hospital DF Star na tarde deste domingo (22). Bolsonaro está internado na unidade de terapia…",
+     "link": "https://g1.globo.com/politica/politico/noticia/2026/11/22/bolsonaro-esta-estavel-diz-hospital.ghtml",
+     "publicadoEm": "2026-11-22T16:54:30.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "veja",
+     "titulo": "O que diz novo boletim médico sobre a saúde de Bolsonaro",
+     "tituloMarcado": [
+      [
+       "O",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "que",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "diz",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "novo",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "boletim",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "médico",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "sobre",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "a",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "saúde",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Bolsonaro",
+       false
+      ]
+     ],
+     "trecho": "Ex-presidente foi internado na última sexta-feira no Hospital DF Star, em Brasília, após sentir dores abdominais",
+     "link": "https://veja.abril.com.br/brasil/o-que-diz-novo-boletim-medico-sobre-a-saude-de-bolsonaro/",
+     "publicadoEm": "2026-11-22T17:05:39.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "poder360",
+     "titulo": "Bolsonaro está estável na UTI e segue sem previsão de alta, diz boletim",
+     "tituloMarcado": [
+      [
+       "Bolsonaro",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "está",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "estável",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "na",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "UTI",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "segue",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "sem",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "previsão",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "alta,",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "diz",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "boletim",
+       false
+      ]
+     ],
+     "trecho": "Ex-presidente permanece em jejum e recebe suporte nutricional; hospital informa diagnóstico de abdômen agudo obstrutivo",
+     "link": "https://www.poder360.com.br/poder-brasil/bolsonaro-esta-estavel-na-uti-e-segue-sem-previsao-de-alta-diz-boletim/",
+     "publicadoEm": "2026-11-22T17:18:04.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "cartacapital",
+     "titulo": "Bolsonaro tem quadro estável e segue sem previsão de alta, diz boletim médico",
+     "tituloMarcado": [
+      [
+       "Bolsonaro",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "tem",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "quadro",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "estável",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "segue",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "sem",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "previsão",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "alta,",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "diz",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "boletim",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "médico",
+       false
+      ]
+     ],
+     "trecho": "Ele foi diagnosticado com abdômen agudo obstrutivo",
+     "link": "https://www.cartacapital.com.br/politica/bolsonaro-tem-quadro-estavel-e-segue-sem-previsao-de-alta-diz-boletim-medico/",
+     "publicadoEm": "2026-11-22T17:37:33.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "folha",
+     "titulo": "Bolsonaro segue na UTI, com quadro estável e sem previsão de alta",
+     "tituloMarcado": [
+      [
+       "Bolsonaro",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "segue",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "na",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "UTI,",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "com",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "quadro",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "estável",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "sem",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "previsão",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "alta",
+       false
+      ]
+     ],
+     "trecho": "O ex-presidente Jair Bolsonaro segue internado em UTI (Unidade de Terapia Intensiva) sem previsão de alta. Segundo boletim médico divulgado na tarde deste domingo (22), o ex-presidente recebeu o diagnóstico de abdômen…",
+     "link": "https://www1.folha.uol.com.br/poder/2026/11/bolsonaro-segue-na-uti-com-quadro-estavel-e-sem-previsao-de-alta.shtml",
+     "publicadoEm": "2026-11-22T17:40:00.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "agenciabrasil",
+     "titulo": "Bolsonaro segue internado na UTI sem previsão de alta",
+     "tituloMarcado": [
+      [
+       "Bolsonaro",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "segue",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "internado",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "na",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "UTI",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "sem",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "previsão",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "alta",
+       false
+      ]
+     ],
+     "trecho": "O ex-presidente da República Jair Messias Bolsonaro segue internado em uma unidade de terapia intensiva (UTI), sem previsão de alta, no Hospital DF Star, em Brasília, com diagnóstico de abdômen agudo obstrutivo. A…",
+     "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/bolsonaro-segue-internado-na-uti-sem-previsao-de-alta",
+     "publicadoEm": "2026-11-22T17:55:00.000Z",
+     "tipo": "noticia",
+     "numero": null
+    }
+   ]
+  },
+  {
+   "id": "https://www.estadao.com.br/brasil/governo-lula-reconhece-calamidade-em-tupancireta-no-rs-chuva-deixou-5-mortos-e-mais-de-250-feridos-npr/",
+   "veiculos": 5,
+   "primeiro": "2026-11-22T11:35:30.000Z",
+   "ultimo": "2026-11-22T18:49:36.000Z",
+   "comuns": [
+    "Governo",
+    "reconhece",
+    "calamidade",
+    "Tupanciretã",
+    "Após",
+    "temporal"
+   ],
+   "politica": null,
+   "materias": [
+    {
+     "veiculo": "estadao",
+     "titulo": "Governo Lula reconhece calamidade em Tupanciretã, no RS; chuva deixou 5 mortos e mais de 250 feridos",
+     "tituloMarcado": [
+      [
+       "Governo",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Lula",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "reconhece",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "calamidade",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Tupanciretã,",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "no",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "RS;",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "chuva",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "deixou",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "5",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "mortos",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "mais",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "250",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "feridos",
+       true
+      ]
+     ],
+     "trecho": "O presidente Luiz Inácio Lula da Silva (PT) reconheceu neste sábado, 21, estado de calamidade em Tupanciretã, município no interior do Rio Grande do Sul, destruído por uma forte tempestade na sexta-feira, 20. A Defesa…",
+     "link": "https://www.estadao.com.br/brasil/governo-lula-reconhece-calamidade-em-tupancireta-no-rs-chuva-deixou-5-mortos-e-mais-de-250-feridos-npr/",
+     "publicadoEm": "2026-11-22T11:35:30.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "agenciabrasil",
+     "titulo": "Após temporal, governo reconhece calamidade pública em Tupanciretã",
+     "tituloMarcado": [
+      [
+       "Após",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "temporal,",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "governo",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "reconhece",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "calamidade",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "pública",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Tupanciretã",
+       false
+      ]
+     ],
+     "trecho": "O governo federal reconheceu o estado de calamidade pública na cidade de Tupanciretã, no Rio Grande do Sul, devastada por uma tempestade, na madrugada desta sexta-feira (20). A portaria foi publicada em edição extra do…",
+     "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/apos-temporal-governo-reconhece-calamidade-publica-em-tupancireta",
+     "publicadoEm": "2026-11-22T14:53:00.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "folha",
+     "titulo": "Governo federal reconhece calamidade em cidade do RS após temporal que deixou 5 mortos",
+     "tituloMarcado": [
+      [
+       "Governo",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "federal",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "reconhece",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "calamidade",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "cidade",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "do",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "RS",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "após",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "temporal",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "que",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "deixou",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "5",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "mortos",
+       false
+      ]
+     ],
+     "trecho": "O governo federal formalizou o reconhecimento do estado de calamidade pública em Tupanciretã, na região central do Rio Grande do Sul, após o temporal que deixou cinco mortos e 265 feridos na cidade. A medida consta de…",
+     "link": "https://www1.folha.uol.com.br/cotidiano/2026/11/governo-federal-reconhece-calamidade-em-cidade-do-rs-apos-temporal-que-deixou-5-mortos.shtml",
+     "publicadoEm": "2026-11-22T15:55:00.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "cartacapital",
+     "titulo": "Veja imagens da destruição causada pelo temporal em Tupanciretã, no Rio Grande do Sul",
+     "tituloMarcado": [
+      [
+       "Veja",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "imagens",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "da",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "destruição",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "causada",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "pelo",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "temporal",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Tupanciretã,",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "no",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Rio",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Grande",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "do",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Sul",
+       true
+      ]
+     ],
+     "trecho": "O governo federal reconheceu o estado de calamidade pública na cidade",
+     "link": "https://www.cartacapital.com.br/sociedade/veja-imagens-da-destruicao-causada-pelo-temporal-em-tupancireta-no-rio-grande-do-sul/",
+     "publicadoEm": "2026-11-22T18:28:54.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "veja",
+     "titulo": "Após tempestade que matou 5 em Tupanciretã, governo reconhece calamidade pública",
+     "tituloMarcado": [
+      [
+       "Após",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "tempestade",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "que",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "matou",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "5",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Tupanciretã,",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "governo",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "reconhece",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "calamidade",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "pública",
+       false
+      ]
+     ],
+     "trecho": "Vendaval em cidade do Rio Grande do Sul deixou 265 feridos e afetou 20 090 pessoas; foco inicial será em ajuda humanitária",
+     "link": "https://veja.abril.com.br/brasil/apos-tempestade-que-matou-5-em-tupancireta-governo-reconhece-calamidade-publica/",
+     "publicadoEm": "2026-11-22T18:49:36.000Z",
+     "tipo": "noticia",
+     "numero": null
+    }
+   ]
+  },
+  {
+   "id": "https://www1.folha.uol.com.br/ambiente/2026/11/cop31-se-torna-a-mais-longa-conferencia-climatica-da-onu.shtml",
+   "veiculos": 5,
+   "primeiro": "2026-11-22T12:35:00.000Z",
+   "ultimo": "2026-11-22T17:26:16.000Z",
+   "comuns": [
+    "acordo",
     "COP31",
     "combustíveis",
     "fósseis",
-    "acordo",
+    "termina",
     "após"
    ],
    "politica": null,
@@ -184,183 +1685,9 @@
        false
       ]
      ],
-     "trecho": "A conferência climática da ONU na cidade de Antália, na Turquia, terminou sem acordo neste domingo (22). Diversos países se recusaram a apoiar um texto que não mencionava o abandono dos combustíveis fósseis. A inclusão…",
+     "trecho": "A conferência climática da ONU na cidade de Antália, na Turquia, terminou sem acordo neste domingo (22). Diversos países se recusaram a apoiar uma decisão de capa -o documento político da COP- sem menção ao abandono dos…",
      "link": "https://www1.folha.uol.com.br/ambiente/2026/11/cop31-se-torna-a-mais-longa-conferencia-climatica-da-onu.shtml",
      "publicadoEm": "2026-11-22T12:35:00.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "veja",
-     "titulo": "COP31 termina sem acordo após impasse sobre combustíveis fósseis",
-     "tituloMarcado": [
-      [
-       "COP31",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "termina",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "sem",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "acordo",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "após",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "impasse",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "sobre",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "combustíveis",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "fósseis",
-       false
-      ]
-     ],
-     "trecho": "União Europeia e outros países rejeitaram a proposta final por falta de compromissos claros para abandonar fontes de energia poluentes",
-     "link": "https://veja.abril.com.br/mundo/cop31-caminha-para-encerramento-sem-acordo-apos-impasse-sobre-combustiveis-fosseis/",
-     "publicadoEm": "2026-11-22T13:02:29.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "cnn",
-     "titulo": "Disputa sobre transição dos combustíveis fósseis levou ao fracasso da COP31",
-     "tituloMarcado": [
-      [
-       "Disputa",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "sobre",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "transição",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "dos",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "combustíveis",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "fósseis",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "levou",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "ao",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "fracasso",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "da",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "COP31",
-       false
-      ]
-     ],
-     "trecho": "Especialistas criticaram a conferência como um fracasso espantoso de liderança, em um momento em que a crise climática se acelera com consequências cada vez mais letais",
-     "link": "https://www.cnnbrasil.com.br/internacional/disputa-sobre-transicao-dos-combustiveis-fosseis-levou-ao-fracasso-da-cop31/",
-     "publicadoEm": "2026-11-22T14:44:23.000Z",
      "tipo": "noticia",
      "numero": null
     },
@@ -440,93 +1767,6 @@
      "trecho": "O abandono dos combustíveis fósseis é rejeitado com firmeza por países produtores de petróleo, como a Arábia Saudita",
      "link": "https://www.cartacapital.com.br/mundo/cop31-termina-sem-acordo-apos-divergencias-sobre-combustiveis-fosseis/",
      "publicadoEm": "2026-11-22T15:02:44.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "uol",
-     "titulo": "ONU lamenta 'fracasso' da COP31 após impasse sobre combustíveis fósseis",
-     "tituloMarcado": [
-      [
-       "ONU",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "lamenta",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "'fracasso'",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "da",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "COP31",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "após",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "impasse",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "sobre",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "combustíveis",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "fósseis",
-       false
-      ]
-     ],
-     "trecho": "O secretário-geral da ONU, António Guterres, afirmou neste domingo (22) estar \"profundamente decepcionado\" com o fracasso da COP31 em adotar um projeto de acordo final que omitia qualquer menção explícita aos…",
-     "link": "https://noticias.uol.com.br/ultimas-noticias/rfi/2026/11/22/onu-lamenta-fracasso-da-cop31-apos-impasse-sobre-combustiveis-fosseis.htm",
-     "publicadoEm": "2026-11-22T15:25:23.000Z",
      "tipo": "noticia",
      "numero": null
     },
@@ -687,7 +1927,7 @@
       ],
       [
        "final",
-       true
+       false
       ]
      ],
      "trecho": "A 31ª Conferência das Nações Unidas sobre Mudança do Clima (COP31), realizada em Antália, na Turquia, terminou neste domingo (22) sem a elaboração de um acordo final. O impasse ocorreu em função de divergências de…",
@@ -695,19 +1935,4558 @@
      "publicadoEm": "2026-11-22T15:59:00.000Z",
      "tipo": "noticia",
      "numero": null
+    },
+    {
+     "veiculo": "gazetadopovo",
+     "titulo": "Cúpula do clima fracassa e termina sem acordo final",
+     "tituloMarcado": [
+      [
+       "Cúpula",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "do",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "clima",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "fracassa",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "termina",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "sem",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "acordo",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "final",
+       false
+      ]
+     ],
+     "trecho": "Países participantes não chegaram a consenso após União Europeia rejeitar texto sem menção a combustíveis fósseis",
+     "link": "https://www.gazetadopovo.com.br/mundo/cupula-clima-fracassa-termina-sem-acordo/",
+     "publicadoEm": "2026-11-22T17:26:16.000Z",
+     "tipo": "noticia",
+     "numero": null
+    }
+   ]
+  },
+  {
+   "id": "https://www.cnnbrasil.com.br/internacional/falha-em-sistema-da-delta-provoca-atrasos-e-paralisacao-temporaria-nos-eua/",
+   "veiculos": 4,
+   "primeiro": "2026-11-22T17:43:22.000Z",
+   "ultimo": "2026-11-22T20:03:36.000Z",
+   "comuns": [
+    "EUA",
+    "Falha",
+    "sistema",
+    "atrasos",
+    "voos"
+   ],
+   "politica": null,
+   "materias": [
+    {
+     "veiculo": "cnn",
+     "titulo": "Falha em sistema da Delta provoca atrasos e paralisação temporária nos EUA",
+     "tituloMarcado": [
+      [
+       "Falha",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "sistema",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "da",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Delta",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "provoca",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "atrasos",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "paralisação",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "temporária",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "nos",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "EUA",
+       false
+      ]
+     ],
+     "trecho": "Equipes estão trabalhando para restabelecer a automação dos cálculos de peso e balanceamento de voos de partida em Atlanta",
+     "link": "https://www.cnnbrasil.com.br/internacional/falha-em-sistema-da-delta-provoca-atrasos-e-paralisacao-temporaria-nos-eua/",
+     "publicadoEm": "2026-11-22T17:43:22.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "folha",
+     "titulo": "EUA dizem que todos os voos em Atlanta, aeroporto mais movimentado do mundo, sofrem atrasos",
+     "tituloMarcado": [
+      [
+       "EUA",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "dizem",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "que",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "todos",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "os",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "voos",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Atlanta,",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "aeroporto",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "mais",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "movimentado",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "do",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "mundo,",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "sofrem",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "atrasos",
+       false
+      ]
+     ],
+     "trecho": "Todos os voos da Delta Air Lines com origem ou destino em Atlanta, nos Estados Unidos, sofreram atrasos na manhã deste domingo (22), após um problema ter sido relatado no sistema que calcula o peso e o balanceamento da…",
+     "link": "https://www1.folha.uol.com.br/mundo/2026/11/eua-dizem-que-todos-os-voos-em-atlanta-aeroporto-mais-movimentado-do-mundo-sofrem-atrasos.shtml",
+     "publicadoEm": "2026-11-22T19:05:00.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "g1",
+     "titulo": "Agência de aviação dos EUA suspende voos de companhia aérea após falha em sistema",
+     "tituloMarcado": [
+      [
+       "Agência",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "aviação",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "dos",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "EUA",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "suspende",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "voos",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "companhia",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "aérea",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "após",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "falha",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "sistema",
+       false
+      ]
+     ],
+     "trecho": "FAA determinou uma suspensão temporária das decolagens da Delta Air Lines no Aeroporto Internacional Hartsfield-Jackson, em Atlanta. Reuters A Administração Federal de Aviação dos Estados Unidos (FAA, na sigla em…",
+     "link": "https://g1.globo.com/mundo/noticia/2026/11/22/suspensao-temporaria-voos-companhia-aerea-eua-falha-em-sistema.ghtml",
+     "publicadoEm": "2026-11-22T19:37:09.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "metropoles",
+     "titulo": "Falha em sistema da Delta provoca atrasos em centenas de voos nos EUA",
+     "tituloMarcado": [
+      [
+       "Falha",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "sistema",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "da",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Delta",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "provoca",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "atrasos",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "centenas",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "voos",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "nos",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "EUA",
+       false
+      ]
+     ],
+     "trecho": "Problema em ferramenta que calcula peso e balanceamento de aeronaves afetou operações em Atlanta, principal centro de conexões da Delta",
+     "link": "https://www.metropoles.com/mundo/falha-em-sistema-da-delta-provoca-atrasos-em-centenas-de-voos-nos-eua",
+     "publicadoEm": "2026-11-22T20:03:36.000Z",
+     "tipo": "noticia",
+     "numero": null
+    }
+   ]
+  },
+  {
+   "id": "https://www.gazetadopovo.com.br/republica/michelle-antecipa-retorno-ao-brasil-apos-internacao-de-bolsonaro/",
+   "veiculos": 4,
+   "primeiro": "2026-11-21T22:40:50.000Z",
+   "ultimo": "2026-11-22T17:08:32.000Z",
+   "comuns": [
+    "Michelle",
+    "Bolsonaro"
+   ],
+   "politica": "Bolsonaro",
+   "materias": [
+    {
+     "veiculo": "gazetadopovo",
+     "titulo": "Michelle retorna ao Brasil após internação de Bolsonaro",
+     "tituloMarcado": [
+      [
+       "Michelle",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "retorna",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ao",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Brasil",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "após",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "internação",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Bolsonaro",
+       false
+      ]
+     ],
+     "trecho": "Michelle Bolsonaro anuncia chegada ao Brasil após viagem a Israel e segue para Brasília, onde o ex-presidente está internado na UTI.",
+     "link": "https://www.gazetadopovo.com.br/republica/michelle-antecipa-retorno-ao-brasil-apos-internacao-de-bolsonaro/",
+     "publicadoEm": "2026-11-21T22:40:50.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "estadao",
+     "titulo": "‘Ele está com uma cara boa’, diz Michelle ao visitar Bolsonaro na UTI",
+     "tituloMarcado": [
+      [
+       "‘Ele",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "está",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "com",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "uma",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "cara",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "boa’,",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "diz",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Michelle",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ao",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "visitar",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Bolsonaro",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "na",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "UTI",
+       false
+      ]
+     ],
+     "trecho": "A senadora eleita e ex-primeira dama Michelle Bolsonaro (PL) atualizou o estado de saúde do ex-presidente Jair Bolsonaro (PL) que está internado na UTI Hospital DF Star, em Brasília, por causa de um quadro de abdômen…",
+     "link": "https://www.estadao.com.br/politica/ele-esta-com-uma-cara-boa-diz-michelle-ao-visitar-bolsonaro-na-uti-npr/",
+     "publicadoEm": "2026-11-22T12:08:50.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "cartacapital",
+     "titulo": "Após dias em Israel, Michelle retorna ao Brasil e visita Bolsonaro na UTI",
+     "tituloMarcado": [
+      [
+       "Após",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "dias",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Israel,",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Michelle",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "retorna",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ao",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Brasil",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "visita",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Bolsonaro",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "na",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "UTI",
+       false
+      ]
+     ],
+     "trecho": "A volta ao País, segundo a ex-primeira-dama, já estava previsto para acontecer neste fim de semana",
+     "link": "https://www.cartacapital.com.br/politica/apos-dias-em-israel-michelle-retorna-ao-brasil-e-visita-bolsonaro-na-uti/",
+     "publicadoEm": "2026-11-22T17:01:49.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "veja",
+     "titulo": "Michelle atualiza estado de saúde de Bolsonaro, internado há dois dias",
+     "tituloMarcado": [
+      [
+       "Michelle",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "atualiza",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "estado",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "saúde",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Bolsonaro,",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "internado",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "há",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "dois",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "dias",
+       false
+      ]
+     ],
+     "trecho": "Ex-primeira dama pediu orações para evitar procedimento mais invasivo",
+     "link": "https://veja.abril.com.br/brasil/michelle-atualiza-estado-de-saude-de-bolsonaro-internado-ha-dois-dias/",
+     "publicadoEm": "2026-11-22T17:08:32.000Z",
+     "tipo": "noticia",
+     "numero": null
+    }
+   ]
+  },
+  {
+   "id": "https://www1.folha.uol.com.br/cotidiano/2026/11/confira-a-partir-das-11h-deste-domingo-22-o-resultado-do-concurso-3089-da-mega-sena.shtml",
+   "veiculos": 4,
+   "primeiro": "2026-11-22T07:00:00.000Z",
+   "ultimo": "2026-11-22T17:05:14.000Z",
+   "comuns": [
+    "Mega-Sena",
+    "acumula",
+    "65",
+    "milhões"
+   ],
+   "politica": null,
+   "materias": [
+    {
+     "veiculo": "folha",
+     "titulo": "Mega-Sena 3089 acumula e premiação pode chegar a R$ 65 milhões na terça (24)",
+     "tituloMarcado": [
+      [
+       "Mega-Sena",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "3089",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "acumula",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "premiação",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "pode",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "chegar",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "a",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "R$",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "65",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "milhões",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "na",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "terça",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "(24)",
+       true
+      ]
+     ],
+     "trecho": "A Caixa Econômica Federal sorteou na manhã deste domingo (22), o concurso 3089 da Mega-Sena. O prêmio principal é de R$ 43.102.645,31. Nenhum apostador, porém, acertou os seis números e o valor pode chegar a R$ 65…",
+     "link": "https://www1.folha.uol.com.br/cotidiano/2026/11/confira-a-partir-das-11h-deste-domingo-22-o-resultado-do-concurso-3089-da-mega-sena.shtml",
+     "publicadoEm": "2026-11-22T07:00:00.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "g1",
+     "titulo": "Mega-Sena 3089 acumula e prêmio vai a R$ 65 milhões; confira os números sorteados",
+     "tituloMarcado": [
+      [
+       "Mega-Sena",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "3089",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "acumula",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "prêmio",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "vai",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "a",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "R$",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "65",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "milhões;",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "confira",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "os",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "números",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "sorteados",
+       false
+      ]
+     ],
+     "trecho": "Mega-Sena, concurso 3089: confira os números sorteados O sorteio do concurso 3.089 da Mega-Sena foi realizado na manhã deste domingo (22), em São Paulo. O prêmio para as apostas que acertassem as seis dezenas era de R$…",
+     "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/22/mega-sena-3089-confira-os-numeros-sorteados.ghtml",
+     "publicadoEm": "2026-11-22T14:05:01.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "agenciabrasil",
+     "titulo": "Mega-Sena acumula e deverá pagar 65 milhões no próximo sorteio",
+     "tituloMarcado": [
+      [
+       "Mega-Sena",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "acumula",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "deverá",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "pagar",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "65",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "milhões",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "no",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "próximo",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "sorteio",
+       false
+      ]
+     ],
+     "trecho": "Nenhum apostador acertou as dezenas do concurso 3.089 da Mega-Sena, sorteadas neste domingo (22), e o prêmio acumulou. De acordo com a Caixa, o próximo sorteio, que ocorrerá na próxima terça-feira (24), deverá pagar R$…",
+     "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/mega-sena-acumula-e-devera-pagar-65-milhoes-no-proximo-sorteio",
+     "publicadoEm": "2026-11-22T16:19:00.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "poder360",
+     "titulo": "Mega-Sena acumula e pode pagar R$ 65 milhões na 3ª feira",
+     "tituloMarcado": [
+      [
+       "Mega-Sena",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "acumula",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "pode",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "pagar",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "R$",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "65",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "milhões",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "na",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "3ª",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "feira",
+       true
+      ]
+     ],
+     "trecho": "Ninguém acertou as 6 dezenas; 26 apostas receberão R$ 51.466,57 cada com 5 acertos",
+     "link": "https://www.poder360.com.br/poder-brasil/mega-sena-acumula-e-pode-pagar-r-65-milhoes-na-3a-feira/",
+     "publicadoEm": "2026-11-22T17:05:14.000Z",
+     "tipo": "noticia",
+     "numero": null
+    }
+   ]
+  },
+  {
+   "id": "https://g1.globo.com/mundo/noticia/2026/11/22/bancada-democrata-na-camara-dos-eua-atinge-marca-historica.ghtml",
+   "veiculos": 3,
+   "primeiro": "2026-11-22T18:39:33.000Z",
+   "ultimo": "2026-11-22T19:59:00.000Z",
+   "comuns": [
+    "democrata",
+    "Câmara",
+    "EUA",
+    "maior",
+    "cadeiras",
+    "desde"
+   ],
+   "politica": null,
+   "materias": [
+    {
+     "veiculo": "g1",
+     "titulo": "Bancada democrata na Câmara dos EUA atinge marca histórica e é a maior em 34 anos",
+     "tituloMarcado": [
+      [
+       "Bancada",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "democrata",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "na",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Câmara",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "dos",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "EUA",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "atinge",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "marca",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "histórica",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "é",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "a",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "maior",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "34",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "anos",
+       true
+      ]
+     ],
+     "trecho": "Vista da cúpula do Capitólio dos Estados Unidos. Kent Nishimura / Reuters Os democratas garantiram seu melhor resultado em décadas nas eleições para a Câmara dos Representantes dos Estados Unidos, com pelo menos 258…",
+     "link": "https://g1.globo.com/mundo/noticia/2026/11/22/bancada-democrata-na-camara-dos-eua-atinge-marca-historica.ghtml",
+     "publicadoEm": "2026-11-22T18:39:33.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "uol",
+     "titulo": "Democratas conquistam maior número de cadeiras na Câmara dos EUA desde 1992",
+     "tituloMarcado": [
+      [
+       "Democratas",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "conquistam",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "maior",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "número",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "cadeiras",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "na",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Câmara",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "dos",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "EUA",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "desde",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "1992",
+       false
+      ]
+     ],
+     "trecho": "Os democratas garantiram uma maioria histórica na Câmara dos Representantes dos EUA, com pelo menos 258 cadeiras, o maior número desde 1992, de acordo com a agência de notícias Associated Press.",
+     "link": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/11/22/democratas-garantem-maioria-historica-na-camara-dos-eua-diz-ap.ghtm",
+     "publicadoEm": "2026-11-22T19:52:34.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "folha",
+     "titulo": "Democratas garantem 258 cadeiras na Câmara, melhor resultado desde 1992",
+     "tituloMarcado": [
+      [
+       "Democratas",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "garantem",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "258",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "cadeiras",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "na",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Câmara,",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "melhor",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "resultado",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "desde",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "1992",
+       false
+      ]
+     ],
+     "trecho": "Os democratas garantiram no domingo (22) a maior maioria na Câmara dos Representantes em uma eleição nacional em três décadas, conquistando pelo menos 258 cadeiras na Casa em uma reação avassaladora à alta dos preços e…",
+     "link": "https://www1.folha.uol.com.br/mundo/2026/11/democratas-garantem-258-cadeiras-na-camara-melhor-resultado-desde-1992.shtml",
+     "publicadoEm": "2026-11-22T19:59:00.000Z",
+     "tipo": "noticia",
+     "numero": null
+    }
+   ]
+  },
+  {
+   "id": "https://www.cnnbrasil.com.br/esportes/tenis/alcaraz-domina-zverev-e-e-campeao-do-atp-finals-pela-primeira-vez/",
+   "veiculos": 3,
+   "primeiro": "2026-11-22T19:17:43.000Z",
+   "ultimo": "2026-11-22T19:54:51.000Z",
+   "comuns": [
+    "Alcaraz",
+    "Zverev",
+    "ATP",
+    "Finals",
+    "primeira",
+    "vez"
+   ],
+   "politica": null,
+   "materias": [
+    {
+     "veiculo": "cnn",
+     "titulo": "Alcaraz domina Zverev e é campeão do ATP Finals pela primeira vez",
+     "tituloMarcado": [
+      [
+       "Alcaraz",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "domina",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Zverev",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "é",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "campeão",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "do",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ATP",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Finals",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "pela",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "primeira",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "vez",
+       false
+      ]
+     ],
+     "trecho": "Espanhol ditou o ritmo da final contra o número 1 do mundo em Turim e venceu a partida em dois sets, com parciais de 6-2 e 7-6 (7)",
+     "link": "https://www.cnnbrasil.com.br/esportes/tenis/alcaraz-domina-zverev-e-e-campeao-do-atp-finals-pela-primeira-vez/",
+     "publicadoEm": "2026-11-22T19:17:43.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "folha",
+     "titulo": "Alcaraz vence Zverev e conquista o ATP Finals pela primeira vez",
+     "tituloMarcado": [
+      [
+       "Alcaraz",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "vence",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Zverev",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "conquista",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "o",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ATP",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Finals",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "pela",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "primeira",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "vez",
+       false
+      ]
+     ],
+     "trecho": "Carlos Alcaraz conquistou o ATP Finals ao derrotar o número um do mundo, Alexander Zverev, por 6-2 e 7-6 (9/7) na decisão do título, neste domingo (22), em Turim.",
+     "link": "https://www1.folha.uol.com.br/esporte/2026/11/alcaraz-vence-zverev-e-conquista-o-atp-finals-pela-primeira-vez.shtml",
+     "publicadoEm": "2026-11-22T19:54:00.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "metropoles",
+     "titulo": "Carlos Alcaraz vence Zverev e conquista título inédito do ATP Finals",
+     "tituloMarcado": [
+      [
+       "Carlos",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Alcaraz",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "vence",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Zverev",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "conquista",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "título",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "inédito",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "do",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ATP",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Finals",
+       false
+      ]
+     ],
+     "trecho": "O título foi conquistado neste domingo (22/11), em Turim, na Itália, após superar o alemão número um do ranking mundial, Alexander Zverev",
+     "link": "https://www.metropoles.com/esportes/carlos-alcaraz-vence-zverev-e-conquista-titulo-inedito-do-atp-finals",
+     "publicadoEm": "2026-11-22T19:54:51.000Z",
+     "tipo": "noticia",
+     "numero": null
+    }
+   ]
+  },
+  {
+   "id": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/22/pm-e-preso-apos-disparar-arma-na-rua-e-ameacar-vigilantes-de-parque-na-zona-leste-de-sp.ghtml",
+   "veiculos": 3,
+   "primeiro": "2026-11-22T17:06:46.000Z",
+   "ultimo": "2026-11-22T19:53:32.000Z",
+   "comuns": [
+    "preso",
+    "após",
+    "ameaçar",
+    "vigilantes",
+    "SP",
+    "PM"
+   ],
+   "politica": null,
+   "materias": [
+    {
+     "veiculo": "g1",
+     "titulo": "PM é preso após disparar arma na rua e ameaçar vigilantes de parque na Zona Leste de SP",
+     "tituloMarcado": [
+      [
+       "PM",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "é",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "preso",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "após",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "disparar",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "arma",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "na",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "rua",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ameaçar",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "vigilantes",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "parque",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "na",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Zona",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Leste",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "SP",
+       false
+      ]
+     ],
+     "trecho": "Parque Fazenda da Juta Reprodução Um policial militar de 31 anos foi preso em flagrante na madrugada deste domingo (22), após realizar disparos de arma de fogo em via pública e ameaçar dois vigilantes do Parque…",
+     "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/22/pm-e-preso-apos-disparar-arma-na-rua-e-ameacar-vigilantes-de-parque-na-zona-leste-de-sp.ghtml",
+     "publicadoEm": "2026-11-22T17:06:46.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "metropoles",
+     "titulo": "PM é preso após atirar em rua e ameaçar vigilantes na zona leste de SP",
+     "tituloMarcado": [
+      [
+       "PM",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "é",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "preso",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "após",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "atirar",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "rua",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ameaçar",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "vigilantes",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "na",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "zona",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "leste",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "SP",
+       false
+      ]
+     ],
+     "trecho": "Policial de 31 anos admitiu ter feito os disparos e alegou que foi ameaçado por um grupo de pessoas.",
+     "link": "https://www.metropoles.com/sao-paulo/pm-e-preso-apos-atirar-em-rua-e-ameacar-vigilantes-na-zona-leste-de-sp",
+     "publicadoEm": "2026-11-22T19:10:10.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "cnn",
+     "titulo": "Policial militar é preso após atirar e ameaçar vigilantes em SP",
+     "tituloMarcado": [
+      [
+       "Policial",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "militar",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "é",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "preso",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "após",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "atirar",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ameaçar",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "vigilantes",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "SP",
+       false
+      ]
+     ],
+     "trecho": "Episódio aconteceu no Parque Municipal Fazenda da Juta no bairro de Sapopemba, Zona Leste da capital paulista",
+     "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/policial-militar-e-preso-apos-atirar-e-ameacar-vigilantes-em-sp/",
+     "publicadoEm": "2026-11-22T19:53:32.000Z",
+     "tipo": "noticia",
+     "numero": null
+    }
+   ]
+  },
+  {
+   "id": "https://www.metropoles.com/esportes/liverpool-goleia-e-mantem-united-em-penultimo-na-estreia-de-pochettino",
+   "veiculos": 3,
+   "primeiro": "2026-11-22T18:28:43.000Z",
+   "ultimo": "2026-11-22T19:41:00.000Z",
+   "comuns": [
+    "Liverpool",
+    "United",
+    "estreia",
+    "Pochettino"
+   ],
+   "politica": null,
+   "materias": [
+    {
+     "veiculo": "metropoles",
+     "titulo": "Liverpool goleia e mantém United em penúltimo na estreia de Pochettino",
+     "tituloMarcado": [
+      [
+       "Liverpool",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "goleia",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "mantém",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "United",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "penúltimo",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "na",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "estreia",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Pochettino",
+       false
+      ]
+     ],
+     "trecho": "O Liverpool venceu o Manchester United por 4 x 0, neste domingo (22/11), em Anfield, pela 11ª rodada da Premier League",
+     "link": "https://www.metropoles.com/esportes/liverpool-goleia-e-mantem-united-em-penultimo-na-estreia-de-pochettino",
+     "publicadoEm": "2026-11-22T18:28:43.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "cnn",
+     "titulo": "Liverpool amassa o Manchester United na estreia do técnico Pochettino",
+     "tituloMarcado": [
+      [
+       "Liverpool",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "amassa",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "o",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Manchester",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "United",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "na",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "estreia",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "do",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "técnico",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Pochettino",
+       false
+      ]
+     ],
+     "trecho": "Equipes se enfrentaram neste domingo (22), em Anfield, em duelo válido pela 11ª rodada do Campeonato Inglês; Reds atropelaram o rival",
+     "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/liverpool-amassa-o-manchester-united-na-estreia-do-tecnico-pochettino/",
+     "publicadoEm": "2026-11-22T18:43:17.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "folha",
+     "titulo": "Pochettino estreia no United com derrota de 4 a 0 para o Liverpool",
+     "tituloMarcado": [
+      [
+       "Pochettino",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "estreia",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "no",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "United",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "com",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "derrota",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "4",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "a",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "0",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "para",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "o",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Liverpool",
+       false
+      ]
+     ],
+     "trecho": "O argentino Mauricio Pochettino estreou como novo técnico do Manchester United com uma dura derrota por 4 a 0, fora de casa, para o Liverpool neste domingo (22), pela 11ª rodada do Campeonato Inglês.",
+     "link": "https://www1.folha.uol.com.br/esporte/2026/11/pochettino-estreia-no-united-com-derrota-de-4-a-0-para-o-liverpool.shtml",
+     "publicadoEm": "2026-11-22T19:41:00.000Z",
+     "tipo": "noticia",
+     "numero": null
+    }
+   ]
+  },
+  {
+   "id": "https://www1.folha.uol.com.br/mundo/2026/11/eisenkot-convida-partido-de-netanyahu-para-negociar-coalizao-em-israel.shtml",
+   "veiculos": 3,
+   "primeiro": "2026-11-22T02:00:00.000Z",
+   "ultimo": "2026-11-22T19:17:57.000Z",
+   "comuns": [
+    "Israel",
+    "Eisenkot",
+    "partido",
+    "Netanyahu",
+    "negociar"
+   ],
+   "politica": "partido",
+   "materias": [
+    {
+     "veiculo": "folha",
+     "titulo": "Eisenkot convida partido de Netanyahu para negociar coalizão em Israel",
+     "tituloMarcado": [
+      [
+       "Eisenkot",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "convida",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "partido",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Netanyahu",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "para",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "negociar",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "coalizão",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Israel",
+       false
+      ]
+     ],
+     "trecho": "Gadi Eisenkot, ex-chefe das Forças Armadas que tenta formar o próximo governo de Israel, convidou o partido Likud, do primeiro-ministro interino, Binyamin Netanyahu, para negociar uma possível coalizão, anunciou sua…",
+     "link": "https://www1.folha.uol.com.br/mundo/2026/11/eisenkot-convida-partido-de-netanyahu-para-negociar-coalizao-em-israel.shtml",
+     "publicadoEm": "2026-11-22T02:00:00.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "veja",
+     "titulo": "Israel abre investigação sobre incêndios atribuídos a colonos na Cisjordânia",
+     "tituloMarcado": [
+      [
+       "Israel",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "abre",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "investigação",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "sobre",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "incêndios",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "atribuídos",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "a",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "colonos",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "na",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Cisjordânia",
+       true
+      ]
+     ],
+     "trecho": "Gadi Eisenkot, rival de Benjamin Netanyahu e encarregado pelo presidente de formar um novo governo após as eleições, denunciou no X esses atos",
+     "link": "https://veja.abril.com.br/mundo/israel-abre-investigacao-sobre-incendios-atribuidos-a-colonos-na-cisjordania/",
+     "publicadoEm": "2026-11-22T19:13:39.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "cartacapital",
+     "titulo": "Partidos de Netanyahu e Eisenkot encerram negociações para formar governo em Israel sem acordo",
+     "tituloMarcado": [
+      [
+       "Partidos",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Netanyahu",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Eisenkot",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "encerram",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "negociações",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "para",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "formar",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "governo",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Israel",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "sem",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "acordo",
+       true
+      ]
+     ],
+     "trecho": "Uma possível coalizão exigiria concessões importantes de ambas as partes",
+     "link": "https://www.cartacapital.com.br/mundo/partidos-de-netanyahu-e-eisenkot-encerram-negociacoes-para-formar-governo-em-israel-sem-acordo/",
+     "publicadoEm": "2026-11-22T19:17:57.000Z",
+     "tipo": "noticia",
+     "numero": null
+    }
+   ]
+  },
+  {
+   "id": "https://f5.folha.uol.com.br/celebridades/2026/11/miley-cyrus-se-casa-com-maxx-morando-e-opta-por-convidados-vestidos-de-preto.shtml",
+   "veiculos": 3,
+   "primeiro": "2026-11-22T14:51:00.000Z",
+   "ultimo": "2026-11-22T18:48:10.000Z",
+   "comuns": [
+    "Miley",
+    "Cyrus",
+    "casa",
+    "Maxx",
+    "Morando",
+    "cerimônia"
+   ],
+   "politica": null,
+   "materias": [
+    {
+     "veiculo": "folha",
+     "titulo": "Miley Cyrus se casa com Maxx Morando e opta por convidados vestidos de preto",
+     "tituloMarcado": [
+      [
+       "Miley",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Cyrus",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "se",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "casa",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "com",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Maxx",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Morando",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "opta",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "por",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "convidados",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "vestidos",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "preto",
+       true
+      ]
+     ],
+     "trecho": "Miley Cyrus, 33, se casou com o músico Maxx Morando, 28, no sábado (21), em uma cerimônia reservada em Palm Springs, na Califórnia, nos Estados Unidos. Um dos detalhes que chamaram a atenção nas primeiras imagens do…",
+     "link": "https://f5.folha.uol.com.br/celebridades/2026/11/miley-cyrus-se-casa-com-maxx-morando-e-opta-por-convidados-vestidos-de-preto.shtml",
+     "publicadoEm": "2026-11-22T14:51:00.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "cnn",
+     "titulo": "Miley Cyrus se casa com Maxx Morando em cerimônia nos EUA; veja detalhes",
+     "tituloMarcado": [
+      [
+       "Miley",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Cyrus",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "se",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "casa",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "com",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Maxx",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Morando",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "cerimônia",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "nos",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "EUA;",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "veja",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "detalhes",
+       true
+      ]
+     ],
+     "trecho": "Segundo a revista People, a estrela do pop disse \"sim\" durante uma cerimônia em Palm Springs, na Califórnia, no sábado (21); fotos do casal durante a festa vazaram nas redes sociais",
+     "link": "https://www.cnnbrasil.com.br/pop/celebridades/miley-cyrus-se-casa-com-maxx-morando-em-cerimonia-nos-eua-veja-detalhes/",
+     "publicadoEm": "2026-11-22T15:30:45.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "g1",
+     "titulo": "Miley Cyrus se casa com baterista Maxx Morando em cerimônia privada na Califórnia; veja FOTOS",
+     "tituloMarcado": [
+      [
+       "Miley",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Cyrus",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "se",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "casa",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "com",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "baterista",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Maxx",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Morando",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "cerimônia",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "privada",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "na",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Califórnia;",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "veja",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "FOTOS",
+       true
+      ]
+     ],
+     "trecho": "Miley Cyrus se casa com baterista Maxx Morando no sábado (21) Instagram/Reprodução A cantora Miley Cyrus, vencedora do Grammy, se casou neste sábado (21) com o baterista Maxx Morando, seu parceiro de longa data. A…",
+     "link": "https://g1.globo.com/pop-arte/noticia/2026/11/22/miley-cyrus-se-casa-com-baterista-maxx-morando-em-cerimonia-privada-na-california-veja-fotos.ghtml",
+     "publicadoEm": "2026-11-22T18:48:10.000Z",
+     "tipo": "noticia",
+     "numero": null
+    }
+   ]
+  },
+  {
+   "id": "https://www1.folha.uol.com.br/ilustrada/2026/11/chitaozinho-e-xororo-anunciam-aposentadoria-apos-56-anos-de-carreira.shtml",
+   "veiculos": 3,
+   "primeiro": "2026-11-22T12:29:00.000Z",
+   "ultimo": "2026-11-22T18:33:39.000Z",
+   "comuns": [
+    "Chitãozinho",
+    "aposentadoria",
+    "Xororó",
+    "palcos",
+    "Filha",
+    "pai"
+   ],
+   "politica": null,
+   "materias": [
+    {
+     "veiculo": "folha",
+     "titulo": "Chitãozinho & Xororó anunciam aposentadoria dos palcos aos 56 anos da dupla",
+     "tituloMarcado": [
+      [
+       "Chitãozinho",
+       false
+      ],
+      [
+       " & ",
+       ""
+      ],
+      [
+       "Xororó",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "anunciam",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "aposentadoria",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "dos",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "palcos",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "aos",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "56",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "anos",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "da",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "dupla",
+       true
+      ]
+     ],
+     "trecho": "A dupla Chitãozinho & Xororó deve se aposentar dos palcos após 56 anos de carreira. A informação foi divulgada pela apresentadora Poliana Abritta nas redes do programa Fantástico, em que foi publicado um trecho da…",
+     "link": "https://www1.folha.uol.com.br/ilustrada/2026/11/chitaozinho-e-xororo-anunciam-aposentadoria-apos-56-anos-de-carreira.shtml",
+     "publicadoEm": "2026-11-22T12:29:00.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "cnn",
+     "titulo": "Filha de Chitãozinho sobre aposentadoria do pai: “Estava planejado”",
+     "tituloMarcado": [
+      [
+       "Filha",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Chitãozinho",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "sobre",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "aposentadoria",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "do",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "pai:",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "“Estava",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "planejado”",
+       true
+      ]
+     ],
+     "trecho": "Dupla do cantor com o irmão, Xororó, anunciaram que vão se afastar do palco após 56 anos de carreira",
+     "link": "https://www.cnnbrasil.com.br/pop/musica/filha-de-chitaozinho-sobre-aposentadoria-do-pai-estava-planejado/",
+     "publicadoEm": "2026-11-22T18:25:52.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "metropoles",
+     "titulo": "Filha de Chitãozinho detalha aposentadoria do pai e Xororó dos palcos",
+     "tituloMarcado": [
+      [
+       "Filha",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Chitãozinho",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "detalha",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "aposentadoria",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "do",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "pai",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Xororó",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "dos",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "palcos",
+       false
+      ]
+     ],
+     "trecho": "A apresentadora Aline Lima, filha mais velha do sertanejo Chitãozinho, disse a aposentadoria do músico é um “descanso mais que merecido”",
+     "link": "https://www.metropoles.com/colunas/fabia-oliveira/filha-de-chitaozinho-detalha-aposentadoria-do-pai-e-xororo-dos-palcos",
+     "publicadoEm": "2026-11-22T18:33:39.000Z",
+     "tipo": "coluna",
+     "numero": null
+    }
+   ]
+  },
+  {
+   "id": "https://www.bbc.com/portuguese/articles/c3ly7g7nen1go?at_medium=RSS&at_campaign=rss",
+   "veiculos": 3,
+   "primeiro": "2026-11-22T10:37:32.000Z",
+   "ultimo": "2026-11-22T17:47:13.000Z",
+   "comuns": [
+    "fibra",
+    "aproveitá-la",
+    "grande",
+    "parte",
+    "corpo",
+    "precisa"
+   ],
+   "politica": null,
+   "materias": [
+    {
+     "veiculo": "bbc",
+     "titulo": "Por que grande parte da fibra que seu corpo precisa acaba no lixo (e como aproveitá-la melhor em suas refeições)",
+     "tituloMarcado": [
+      [
+       "Por",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "que",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "grande",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "parte",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "da",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "fibra",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "que",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "seu",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "corpo",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "precisa",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "acaba",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "no",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "lixo",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "(e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "como",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "aproveitá-la",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "melhor",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "suas",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "refeições)",
+       false
+      ]
+     ],
+     "trecho": "Consumir cascas, sementes e talos de vegetais pode nos fornecer fibras essenciais, afirmam cientistas da área de alimentos.",
+     "link": "https://www.bbc.com/portuguese/articles/c3ly7g7nen1go?at_medium=RSS&at_campaign=rss",
+     "publicadoEm": "2026-11-22T10:37:32.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "folha",
+     "titulo": "Veja como aproveitar ao máximo frutas e legumes para consumo de fibras",
+     "tituloMarcado": [
+      [
+       "Veja",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "como",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "aproveitar",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ao",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "máximo",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "frutas",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "legumes",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "para",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "consumo",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "de",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "fibras",
+       false
+      ]
+     ],
+     "trecho": "O consumo de restos de frutas e vegetais, como cascas e talos, pode trazer benefícios à saúde que a maioria das pessoas está deixando de aproveitar, afirmam pesquisadores britânicos.",
+     "link": "https://www1.folha.uol.com.br/equilibrio/2026/11/veja-como-aproveitar-ao-maximo-frutas-e-legumes-para-consumo-de-fibras.shtml",
+     "publicadoEm": "2026-11-22T13:10:00.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "g1",
+     "titulo": "Por que grande parte da fibra que seu corpo precisa acaba no lixo (e como aproveitá-la melhor em suas refeições)",
+     "tituloMarcado": [
+      [
+       "Por",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "que",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "grande",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "parte",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "da",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "fibra",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "que",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "seu",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "corpo",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "precisa",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "acaba",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "no",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "lixo",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "(e",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "como",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "aproveitá-la",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "melhor",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "suas",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "refeições)",
+       false
+      ]
+     ],
+     "trecho": "Por que grande parte da fibra que seu corpo precisa acaba no lixo Getty Images via BBC O consumo de restos de frutas e vegetais, como cascas e talos, pode trazer benefícios à saúde que a maioria das pessoas está…",
+     "link": "https://g1.globo.com/saude/noticia/2026/11/22/por-que-grande-parte-da-fibra-que-seu-corpo-precisa-acaba-no-lixo-e-como-aproveita-la-melhor-em-suas-refeicoes.ghtml",
+     "publicadoEm": "2026-11-22T17:47:13.000Z",
+     "tipo": "noticia",
+     "numero": null
+    }
+   ]
+  },
+  {
+   "id": "https://www.bbc.com/portuguese/articles/cqdr1xmyg3kzo?at_medium=RSS&at_campaign=rss",
+   "veiculos": 3,
+   "primeiro": "2026-11-21T01:16:58.000Z",
+   "ultimo": "2026-11-22T17:25:53.000Z",
+   "comuns": [
+    "RS",
+    "cidade",
+    "destruição",
+    "temporal",
+    "após"
+   ],
+   "politica": null,
+   "materias": [
+    {
+     "veiculo": "bbc",
+     "titulo": "'A cidade acabou': a destruição causada por temporal que provocou mortes no RS",
+     "tituloMarcado": [
+      [
+       "'A",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "cidade",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "acabou':",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "a",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "destruição",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "causada",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "por",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "temporal",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "que",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "provocou",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "mortes",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "no",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "RS",
+       false
+      ]
+     ],
+     "trecho": "Trinta e oito cidades no Rio Grande do Sul tiveram danos humanos ou materiais, segundo a Defesa Civil. Tupanciretã, na região central do Estado, teve cinco óbitos e 265 pessoas feridas.",
+     "link": "https://www.bbc.com/portuguese/articles/cqdr1xmyg3kzo?at_medium=RSS&at_campaign=rss",
+     "publicadoEm": "2026-11-21T01:16:58.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "estadao",
+     "titulo": "Novos temporais devem atingir Sul do País após ‘supercélula’ arrasar cidade do RS; veja previsão",
+     "tituloMarcado": [
+      [
+       "Novos",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "temporais",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "devem",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "atingir",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Sul",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "do",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "País",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "após",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "‘supercélula’",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "arrasar",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "cidade",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "do",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "RS;",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "veja",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "previsão",
+       true
+      ]
+     ],
+     "trecho": "A previsão do tempo para a Região Sul do Brasil anuncia novos temporais neste fim de semana, após a passagem de uma supercélula de tempestade responsável por três mortes e pela destruição na cidade de Tupanciretã (RS)…",
+     "link": "https://www.estadao.com.br/brasil/novos-temporais-devem-atingir-sul-do-pais-apos-supercelula-veja-previsao-npr/",
+     "publicadoEm": "2026-11-21T10:42:16.000Z",
+     "tipo": "noticia",
+     "numero": null
+    },
+    {
+     "veiculo": "g1",
+     "titulo": "Empresa estima prejuízo milionário após ter silos destruídos por tempestade em Tupanciretã, no RS",
+     "tituloMarcado": [
+      [
+       "Empresa",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "estima",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "prejuízo",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "milionário",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "após",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "ter",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "silos",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "destruídos",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "por",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "tempestade",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "em",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "Tupanciretã,",
+       true
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "no",
+       false
+      ],
+      [
+       " ",
+       ""
+      ],
+      [
+       "RS",
+       false
+      ]
+     ],
+     "trecho": "Imagens aéreas mostram rastro de destruição causado por supercélula em Tupanciretã, no RS A destruição causada por um temporal em Tupanciretã, na Região Central do Rio Grande do Sul, deixou um prejuízo milionário para…",
+     "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/22/empresa-prejuizo-tupancireta-rs.ghtml",
+     "publicadoEm": "2026-11-22T17:25:53.000Z",
+     "tipo": "noticia",
+     "numero": null
     }
    ]
   },
   {
    "id": "https://www.estadao.com.br/economia/morre-paolo-bulgari-o-joalheiro-italiano-que-transformou-um-negocio-familiar-em-uma-grife-de-luxo-npr/",
-   "veiculos": 5,
+   "veiculos": 3,
    "primeiro": "2026-11-22T11:29:19.000Z",
-   "ultimo": "2026-11-22T16:47:02.000Z",
+   "ultimo": "2026-11-22T16:22:56.000Z",
    "comuns": [
+    "Morre",
     "Paolo",
     "Bulgari",
-    "Morre",
-    "joalheiro"
+    "joalheiro",
+    "italiano",
+    "transformou"
    ],
    "politica": null,
    "materias": [
@@ -982,85 +6761,6 @@
      "numero": null
     },
     {
-     "veiculo": "poder360",
-     "titulo": "Morre Paolo Bulgari, responsável pela expansão global da joalheria",
-     "tituloMarcado": [
-      [
-       "Morre",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Paolo",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Bulgari,",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "responsável",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "pela",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "expansão",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "global",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "da",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "joalheria",
-       false
-      ]
-     ],
-     "trecho": "Empresário, de 89 anos, presidiu a marca italiana desde 1984 e liderou a venda do controle da companhia ao grupo LVMH, em 2011",
-     "link": "https://www.poder360.com.br/poder-gente/morre-paolo-bulgari-responsavel-pela-expansao-global-da-joalheria/",
-     "publicadoEm": "2026-11-22T14:50:12.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
      "veiculo": "cnn",
      "titulo": "Morre Paolo Bulgari, que transformou negócio da família em marca de luxo",
      "tituloMarcado": [
@@ -1160,4055 +6860,6 @@
      "trecho": "Criações da Bvlgari ficaram famosas por serem usadas por estrelas de cinema e membros da realeza",
      "link": "https://www.cnnbrasil.com.br/style/luxo/morre-paolo-bulgari-que-transformou-negocio-da-familia-em-marca-de-luxo/",
      "publicadoEm": "2026-11-22T16:22:56.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "metropoles",
-     "titulo": "Pedras coloridas e ouro amarelo: a contribuição de Paolo Bulgari à Bvlgari",
-     "tituloMarcado": [
-      [
-       "Pedras",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "coloridas",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "e",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "ouro",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "amarelo:",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "a",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "contribuição",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Paolo",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Bulgari",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "à",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Bvlgari",
-       true
-      ]
-     ],
-     "trecho": "Presidente da joalheria italiana há mais de 40 anos morreu no último sábado (21/11) em Roma, na Itália",
-     "link": "https://www.metropoles.com/colunas/ilca-maria-estevao/pedras-coloridas-e-ouro-amarelo-a-contribuicao-de-paolo-bulgari-a-bvlgari",
-     "publicadoEm": "2026-11-22T16:47:02.000Z",
-     "tipo": "coluna",
-     "numero": null
-    }
-   ]
-  },
-  {
-   "id": "https://www.estadao.com.br/brasil/governo-lula-reconhece-calamidade-em-tupancireta-no-rs-chuva-deixou-5-mortos-e-mais-de-250-feridos-npr/",
-   "veiculos": 4,
-   "primeiro": "2026-11-22T11:35:30.000Z",
-   "ultimo": "2026-11-22T16:15:32.000Z",
-   "comuns": [
-    "Governo",
-    "reconhece",
-    "calamidade",
-    "mortos"
-   ],
-   "politica": null,
-   "materias": [
-    {
-     "veiculo": "estadao",
-     "titulo": "Governo Lula reconhece calamidade em Tupanciretã, no RS; chuva deixou 5 mortos e mais de 250 feridos",
-     "tituloMarcado": [
-      [
-       "Governo",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Lula",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "reconhece",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "calamidade",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "em",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Tupanciretã,",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "no",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "RS;",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "chuva",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "deixou",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "5",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "mortos",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "e",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "mais",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "250",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "feridos",
-       true
-      ]
-     ],
-     "trecho": "O presidente Luiz Inácio Lula da Silva (PT) reconheceu neste sábado, 21, estado de calamidade em Tupanciretã, município no interior do Rio Grande do Sul, destruído por uma forte tempestade na sexta-feira, 20. A Defesa…",
-     "link": "https://www.estadao.com.br/brasil/governo-lula-reconhece-calamidade-em-tupancireta-no-rs-chuva-deixou-5-mortos-e-mais-de-250-feridos-npr/",
-     "publicadoEm": "2026-11-22T11:35:30.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "agenciabrasil",
-     "titulo": "Após temporal, governo reconhece calamidade pública em Tupanciretã",
-     "tituloMarcado": [
-      [
-       "Após",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "temporal,",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "governo",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "reconhece",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "calamidade",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "pública",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "em",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Tupanciretã",
-       false
-      ]
-     ],
-     "trecho": "O governo federal reconheceu o estado de calamidade pública na cidade de Tupanciretã, no Rio Grande do Sul, devastada por uma tempestade, na madrugada desta sexta-feira (20). A portaria foi publicada em edição extra do…",
-     "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/apos-temporal-governo-reconhece-calamidade-publica-em-tupancireta",
-     "publicadoEm": "2026-11-22T14:53:00.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "folha",
-     "titulo": "Governo federal reconhece calamidade em cidade do RS após temporal que deixou 5 mortos",
-     "tituloMarcado": [
-      [
-       "Governo",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "federal",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "reconhece",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "calamidade",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "em",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "cidade",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "do",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "RS",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "após",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "temporal",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "que",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "deixou",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "5",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "mortos",
-       false
-      ]
-     ],
-     "trecho": "O governo federal formalizou o reconhecimento do estado de calamidade pública em Tupanciretã, na região central do Rio Grande do Sul, após o temporal que deixou cinco mortos e 265 feridos na cidade. A medida consta de…",
-     "link": "https://www1.folha.uol.com.br/cotidiano/2026/11/governo-federal-reconhece-calamidade-em-cidade-do-rs-apos-temporal-que-deixou-5-mortos.shtml",
-     "publicadoEm": "2026-11-22T15:55:00.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "cartacapital",
-     "titulo": "Sobe para 5 o número de mortos por tempestade que devastou cidade no Rio Grande do Sul",
-     "tituloMarcado": [
-      [
-       "Sobe",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "para",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "5",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "o",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "número",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "mortos",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "por",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "tempestade",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "que",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "devastou",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "cidade",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "no",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Rio",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Grande",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "do",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Sul",
-       true
-      ]
-     ],
-     "trecho": "O governo do presidente Lula reconheceu no sábado o estado de calamidade pública no município",
-     "link": "https://www.cartacapital.com.br/sociedade/sobe-para-5-o-numero-de-mortos-por-tempestade-que-devastou-cidade-no-rio-grande-do-sul/",
-     "publicadoEm": "2026-11-22T16:15:32.000Z",
-     "tipo": "noticia",
-     "numero": null
-    }
-   ]
-  },
-  {
-   "id": "https://www.cartacapital.com.br/esporte/apos-dembele-e-kvaratskhelia-luis-enrique-confirma-outra-lesao-grave-no-psg/",
-   "veiculos": 4,
-   "primeiro": "2026-11-22T10:04:49.000Z",
-   "ultimo": "2026-11-22T15:33:46.000Z",
-   "comuns": [
-    "PSG",
-    "confirma",
-    "lesão",
-    "Doué"
-   ],
-   "politica": null,
-   "materias": [
-    {
-     "veiculo": "cartacapital",
-     "titulo": "Após Dembélé e Kvaratskhelia, Luis Enrique confirma outra lesão grave no PSG",
-     "tituloMarcado": [
-      [
-       "Após",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Dembélé",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "e",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Kvaratskhelia,",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Luis",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Enrique",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "confirma",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "outra",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "lesão",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "grave",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "no",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "PSG",
-       false
-      ]
-     ],
-     "trecho": "Atacante francês sofreu uma grave lesão no joelho durante vitória sobre o Nice e pode desfalcar a equipe pelo restante da temporada.",
-     "link": "https://www.cartacapital.com.br/esporte/apos-dembele-e-kvaratskhelia-luis-enrique-confirma-outra-lesao-grave-no-psg/",
-     "publicadoEm": "2026-11-22T10:04:49.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "cnn",
-     "titulo": "PSG confirma cirurgia de Désiré Doué após grave lesão no joelho",
-     "tituloMarcado": [
-      [
-       "PSG",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "confirma",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "cirurgia",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Désiré",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Doué",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "após",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "grave",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "lesão",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "no",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "joelho",
-       false
-      ]
-     ],
-     "trecho": "Atacante do PSG sofreu ruptura do ligamento cruzado anterior na vitória sobre o Nice e não tem prazo para retornar aos gramados",
-     "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/psg-confirma-cirurgia-de-desire-doue-apos-grave-lesao-no-joelho/",
-     "publicadoEm": "2026-11-22T13:55:23.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "uol",
-     "titulo": "Astro do PSG Désiré Doué sofre ruptura de ligamento no joelho direito",
-     "tituloMarcado": [
-      [
-       "Astro",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "do",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "PSG",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Désiré",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Doué",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "sofre",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "ruptura",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "ligamento",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "no",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "joelho",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "direito",
-       true
-      ]
-     ],
-     "trecho": "O atacante francês Désiré Doué, do Paris Saint-Germain, sofreu uma ruptura do ligamento cruzado anterior do joelho direito, anunciou o clube parisiense neste domingo (22).",
-     "link": "https://noticias.uol.com.br/ultimas-noticias/afp/2026/11/22/astro-do-psg-desire-doue-sofre-ruptura-de-ligamento-no-joelho-direito.htm",
-     "publicadoEm": "2026-11-22T15:02:43.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "metropoles",
-     "titulo": "Doué, do PSG, tem lesão confirmada e Neymar manda mensagem a jogador",
-     "tituloMarcado": [
-      [
-       "Doué,",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "do",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "PSG,",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "tem",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "lesão",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "confirmada",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "e",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Neymar",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "manda",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "mensagem",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "a",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "jogador",
-       true
-      ]
-     ],
-     "trecho": "Atacante do Paris Saint-Germain, Désiré Doué teve confirmada um ruptura do ligamento cruzado anterior do joelho direito",
-     "link": "https://www.metropoles.com/esportes/doue-do-psg-tem-lesao-confirmada-e-neymar-manda-mensagem-a-jogador",
-     "publicadoEm": "2026-11-22T15:33:46.000Z",
-     "tipo": "noticia",
-     "numero": null
-    }
-   ]
-  },
-  {
-   "id": "https://www.cnnbrasil.com.br/internacional/drone-atinge-predio-na-regiao-de-kiev/",
-   "veiculos": 4,
-   "primeiro": "2026-11-22T09:09:17.000Z",
-   "ultimo": "2026-11-22T15:27:43.000Z",
-   "comuns": [
-    "Kiev",
-    "prédio",
-    "russo"
-   ],
-   "politica": null,
-   "materias": [
-    {
-     "veiculo": "cnn",
-     "titulo": "Drone atinge prédio na região de Kiev; ao menos 14 estão desaparecidos",
-     "tituloMarcado": [
-      [
-       "Drone",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "atinge",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "prédio",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "na",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "região",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Kiev;",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "ao",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "menos",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "14",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "estão",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "desaparecidos",
-       false
-      ]
-     ],
-     "trecho": "Imagens dos serviços de emergência mostraram equipes de resgate vasculhando escombros e ajudando moradores a descer do prédio danificado",
-     "link": "https://www.cnnbrasil.com.br/internacional/drone-atinge-predio-na-regiao-de-kiev/",
-     "publicadoEm": "2026-11-22T09:09:17.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "folha",
-     "titulo": "Ao menos duas pessoas morrem e 10 estão desaparecidas após ataque russo em Kiev",
-     "tituloMarcado": [
-      [
-       "Ao",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "menos",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "duas",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "pessoas",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "morrem",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "e",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "10",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "estão",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "desaparecidas",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "após",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "ataque",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "russo",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "em",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Kiev",
-       false
-      ]
-     ],
-     "trecho": "Pelo menos duas pessoas morreram e dez podem estar presas sob os escombros de um edifício residencial atingido por um drone russo, na manhã deste domingo (22), na região de Kiev, na Ucrânia, afirmou o presidente…",
-     "link": "https://www1.folha.uol.com.br/mundo/2026/11/ao-menos-14-pessoas-estao-desaparecidas-apos-drone-russo-atingir-predio-na-regiao-de-kiev-diz-zelenski.shtml",
-     "publicadoEm": "2026-11-22T09:36:00.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "g1",
-     "titulo": "Ataque russo perto de Kiev, na Ucrânia, atinge prédio de apartamentos e deixa mortos e feridos",
-     "tituloMarcado": [
-      [
-       "Ataque",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "russo",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "perto",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Kiev,",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "na",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Ucrânia,",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "atinge",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "prédio",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "apartamentos",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "e",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "deixa",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "mortos",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "e",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "feridos",
-       true
-      ]
-     ],
-     "trecho": "Bombeiros tentam apagar um incêndio após um ataque russo em Dymer, região de Kiev, Ucrânia, domingo, 22 de novembro de 2026. AP/Efrem Lukatsky Um ataque russo atingiu um prédio de apartamentos em uma vila perto da…",
-     "link": "https://g1.globo.com/mundo/noticia/2026/11/22/ataque-russo-kiev-ucrania.ghtml",
-     "publicadoEm": "2026-11-22T15:10:57.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "uol",
-     "titulo": "Pelo menos dois mortos em bombardeio russo que destruiu parcialmente prédio perto de Kiev",
-     "tituloMarcado": [
-      [
-       "Pelo",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "menos",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "dois",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "mortos",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "em",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "bombardeio",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "russo",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "que",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "destruiu",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "parcialmente",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "prédio",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "perto",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Kiev",
-       false
-      ]
-     ],
-     "trecho": "Pelo menos duas pessoas morreram em um bombardeio russo que destruiu parcialmente um prédio residencial ao norte de Kiev, informaram neste domingo (22) as autoridades ucranianas, que alertaram que pode haver mais…",
-     "link": "https://noticias.uol.com.br/ultimas-noticias/afp/2026/11/22/pelo-menos-dois-mortos-em-bombardeio-russo-que-destruiu-parcialmente-predio-perto-de-kiev.htm",
-     "publicadoEm": "2026-11-22T15:27:43.000Z",
-     "tipo": "noticia",
-     "numero": null
-    }
-   ]
-  },
-  {
-   "id": "https://www.poder360.com.br/poder-gente/bolsonaro-passa-noite-sem-dor-e-caminha-por-hospital-diz-michelle/",
-   "veiculos": 3,
-   "primeiro": "2026-11-22T15:34:52.000Z",
-   "ultimo": "2026-11-22T16:34:42.000Z",
-   "comuns": [
-    "dor",
-    "caminha",
-    "Michelle",
-    "Bolsonaro",
-    "noite",
-    "hospital"
-   ],
-   "politica": "Bolsonaro",
-   "materias": [
-    {
-     "veiculo": "poder360",
-     "titulo": "Bolsonaro passa noite sem dor e caminha por hospital, diz Michelle",
-     "tituloMarcado": [
-      [
-       "Bolsonaro",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "passa",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "noite",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "sem",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "dor",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "e",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "caminha",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "por",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "hospital,",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "diz",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Michelle",
-       false
-      ]
-     ],
-     "trecho": "Ex-presidente fez alguns exames e fará raio X contrastado para avaliar intestino; senadora pede orações",
-     "link": "https://www.poder360.com.br/poder-gente/bolsonaro-passa-noite-sem-dor-e-caminha-por-hospital-diz-michelle/",
-     "publicadoEm": "2026-11-22T15:34:52.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "estadao",
-     "titulo": "Bolsonaro passou noite sem dor e fez caminhada no hospital, diz Michelle",
-     "tituloMarcado": [
-      [
-       "Bolsonaro",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "passou",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "noite",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "sem",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "dor",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "e",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "fez",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "caminhada",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "no",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "hospital,",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "diz",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Michelle",
-       false
-      ]
-     ],
-     "trecho": "BRASÍLIA – O ex-presidente Jair Bolsonaro (PL) passou a noite bem e fez caminhada no hospital onde está internado, em Brasília, com problemas agudos de obstrução no intestino. As informações foram divulgadas neste…",
-     "link": "https://www.estadao.com.br/politica/bolsonaro-passou-noite-sem-dor-e-fez-caminhada-no-hospital-diz-michelle/",
-     "publicadoEm": "2026-11-22T16:16:22.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "gazetadopovo",
-     "titulo": "Michelle diz que ex-presidente está sem dor e caminhou pelo quarto",
-     "tituloMarcado": [
-      [
-       "Michelle",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "diz",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "que",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "ex-presidente",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "está",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "sem",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "dor",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "e",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "caminhou",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "pelo",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "quarto",
-       true
-      ]
-     ],
-     "trecho": "Ex-primeira-dama demonstrou otimismo com o tratamento de Bolsonaro e pediu orações pela recuperação do marido.",
-     "link": "https://www.gazetadopovo.com.br/republica/michelle-atualiza-estado-de-saude-de-bolsonaro-e-diz-que-ex-presidente-esta-sem-febre/",
-     "publicadoEm": "2026-11-22T16:34:42.000Z",
-     "tipo": "noticia",
-     "numero": null
-    }
-   ]
-  },
-  {
-   "id": "https://www.gazetadopovo.com.br/republica/michelle-antecipa-retorno-ao-brasil-apos-internacao-de-bolsonaro/",
-   "veiculos": 3,
-   "primeiro": "2026-11-21T22:40:50.000Z",
-   "ultimo": "2026-11-22T16:04:04.000Z",
-   "comuns": [
-    "Michelle",
-    "Bolsonaro",
-    "visitar"
-   ],
-   "politica": "Bolsonaro",
-   "materias": [
-    {
-     "veiculo": "gazetadopovo",
-     "titulo": "Michelle retorna ao Brasil após internação de Bolsonaro",
-     "tituloMarcado": [
-      [
-       "Michelle",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "retorna",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "ao",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Brasil",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "após",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "internação",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Bolsonaro",
-       false
-      ]
-     ],
-     "trecho": "Michelle Bolsonaro anuncia chegada ao Brasil após viagem a Israel e segue para Brasília, onde o ex-presidente está internado na UTI.",
-     "link": "https://www.gazetadopovo.com.br/republica/michelle-antecipa-retorno-ao-brasil-apos-internacao-de-bolsonaro/",
-     "publicadoEm": "2026-11-21T22:40:50.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "estadao",
-     "titulo": "‘Ele está com uma cara boa’, diz Michelle ao visitar Bolsonaro na UTI",
-     "tituloMarcado": [
-      [
-       "‘Ele",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "está",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "com",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "uma",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "cara",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "boa’,",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "diz",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Michelle",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "ao",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "visitar",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Bolsonaro",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "na",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "UTI",
-       true
-      ]
-     ],
-     "trecho": "A senadora eleita e ex-primeira dama Michelle Bolsonaro (PL) atualizou o estado de saúde do ex-presidente Jair Bolsonaro (PL) que está internado na UTI Hospital DF Star, em Brasília, por causa de um quadro de abdômen…",
-     "link": "https://www.estadao.com.br/politica/ele-esta-com-uma-cara-boa-diz-michelle-ao-visitar-bolsonaro-na-uti-npr/",
-     "publicadoEm": "2026-11-22T12:08:50.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "metropoles",
-     "titulo": "Michelle relata visita a Bolsonaro no hospital: \"Dei banho e o hidratei\"",
-     "tituloMarcado": [
-      [
-       "Michelle",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "relata",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "visita",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "a",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Bolsonaro",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "no",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "hospital:",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "\"Dei",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "banho",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "e",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "o",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "hidratei\"",
-       true
-      ]
-     ],
-     "trecho": "Ex-presidente está internado no DF Star, sem previsão de alta, após um quadro de dores associadas a uma distensão abdominal",
-     "link": "https://www.metropoles.com/brasil/michelle-descreve-visita-a-bolsonaro-no-hospital-dei-banho-e-o-hidratei",
-     "publicadoEm": "2026-11-22T16:04:04.000Z",
-     "tipo": "noticia",
-     "numero": null
-    }
-   ]
-  },
-  {
-   "id": "https://www.bbc.com/portuguese/articles/cqdr1xmyg3kzo?at_medium=RSS&at_campaign=rss",
-   "veiculos": 3,
-   "primeiro": "2026-11-21T01:16:58.000Z",
-   "ultimo": "2026-11-22T15:36:31.000Z",
-   "comuns": [
-    "cidade",
-    "temporal",
-    "RS",
-    "atingir",
-    "após"
-   ],
-   "politica": null,
-   "materias": [
-    {
-     "veiculo": "bbc",
-     "titulo": "'A cidade acabou': a destruição causada por temporal que provocou mortes no RS",
-     "tituloMarcado": [
-      [
-       "'A",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "cidade",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "acabou':",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "a",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "destruição",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "causada",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "por",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "temporal",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "que",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "provocou",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "mortes",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "no",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "RS",
-       false
-      ]
-     ],
-     "trecho": "Trinta e oito cidades no Rio Grande do Sul tiveram danos humanos ou materiais, segundo a Defesa Civil. Tupanciretã, na região central do Estado, teve cinco óbitos e 265 pessoas feridas.",
-     "link": "https://www.bbc.com/portuguese/articles/cqdr1xmyg3kzo?at_medium=RSS&at_campaign=rss",
-     "publicadoEm": "2026-11-21T01:16:58.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "estadao",
-     "titulo": "Novos temporais devem atingir Sul do País após ‘supercélula’ arrasar cidade do RS; veja previsão",
-     "tituloMarcado": [
-      [
-       "Novos",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "temporais",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "devem",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "atingir",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Sul",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "do",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "País",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "após",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "‘supercélula’",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "arrasar",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "cidade",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "do",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "RS;",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "veja",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "previsão",
-       true
-      ]
-     ],
-     "trecho": "A previsão do tempo para a Região Sul do Brasil anuncia novos temporais neste fim de semana, após a passagem de uma supercélula de tempestade responsável por três mortes e pela destruição na cidade de Tupanciretã (RS)…",
-     "link": "https://www.estadao.com.br/brasil/novos-temporais-devem-atingir-sul-do-pais-apos-supercelula-veja-previsao-npr/",
-     "publicadoEm": "2026-11-21T10:42:16.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "uol",
-     "titulo": "Temporais deixam 5 mortos e 265 feridos após atingir 46 cidades do RS",
-     "tituloMarcado": [
-      [
-       "Temporais",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "deixam",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "5",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "mortos",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "e",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "265",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "feridos",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "após",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "atingir",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "46",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "cidades",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "do",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "RS",
-       false
-      ]
-     ],
-     "trecho": "Os temporais que atingem o Rio Grande do Sul desde 16 de novembro provocaram 51 ocorrências em 46 municípios, segundo balanço preliminar da Defesa Civil divulgado hoje. Foram cinco mortes e 265 feridos, todos em…",
-     "link": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/11/22/temporais-deixam-5-mortos-e-265-feridos-apos-atingir-46-cidades-do-rs.ghtm",
-     "publicadoEm": "2026-11-22T15:36:31.000Z",
-     "tipo": "noticia",
-     "numero": null
-    }
-   ]
-  },
-  {
-   "id": "https://www.estadao.com.br/brasil/parana-registra-dois-tornados-no-mesmo-dia-classifica-simepar-npr/",
-   "veiculos": 3,
-   "primeiro": "2026-11-21T22:02:40.000Z",
-   "ultimo": "2026-11-22T15:17:24.000Z",
-   "comuns": [
-    "Paraná",
-    "tornados",
-    "registra",
-    "dois",
-    "dia"
-   ],
-   "politica": null,
-   "materias": [
-    {
-     "veiculo": "estadao",
-     "titulo": "Paraná registra dois tornados no mesmo dia, classifica Simepar",
-     "tituloMarcado": [
-      [
-       "Paraná",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "registra",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "dois",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "tornados",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "no",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "mesmo",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "dia,",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "classifica",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Simepar",
-       true
-      ]
-     ],
-     "trecho": "Dois tornados foram registrados no Paraná, nas cidades de Foz do Iguaçu e Manoel Ribas, nesta sexta-feira, 20. Os fenômenos foram classificados como F1 na Escala Fujita pelo Sistema de Tecnologia e Monitoramento…",
-     "link": "https://www.estadao.com.br/brasil/parana-registra-dois-tornados-no-mesmo-dia-classifica-simepar-npr/",
-     "publicadoEm": "2026-11-21T22:02:40.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "gazetadopovo",
-     "titulo": "Paraná registra dois novos tornados em dia de ventos fortes e muita chuva",
-     "tituloMarcado": [
-      [
-       "Paraná",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "registra",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "dois",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "novos",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "tornados",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "em",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "dia",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "ventos",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "fortes",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "e",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "muita",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "chuva",
-       true
-      ]
-     ],
-     "trecho": "Fenômenos foram confirmados pelo Simepar e ocorreram na sexta-feira (20) nas cidades de Foz do Iguaçu e Manoel Ribas",
-     "link": "https://www.gazetadopovo.com.br/parana/parana-registra-dois-novos-tornados/",
-     "publicadoEm": "2026-11-22T00:26:24.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "g1",
-     "titulo": "Cidades atingidas por tornados no Paraná passam por reconstrução após quedas de árvores e danos em imóveis",
-     "tituloMarcado": [
-      [
-       "Cidades",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "atingidas",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "por",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "tornados",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "no",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Paraná",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "passam",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "por",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "reconstrução",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "após",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "quedas",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "árvores",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "e",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "danos",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "em",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "imóveis",
-       true
-      ]
-     ],
-     "trecho": "50 mil casas estão sem energia depois da passagem de tornados no PR Moradores e equipes de diferentes órgãos trabalham na recuperação de Foz do Iguaçu e Manoel Ribas, no Paraná, após os tornados de intensidade F1 que…",
-     "link": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/11/22/cidades-atingidas-por-tornados-no-parana-passam-por-reconstrucao.ghtml",
-     "publicadoEm": "2026-11-22T15:17:24.000Z",
-     "tipo": "noticia",
-     "numero": null
-    }
-   ]
-  },
-  {
-   "id": "https://www.estadao.com.br/politica/jair-bolsonaro-faz-limpeza-com-sonda-diz-carlos-npr/",
-   "veiculos": 3,
-   "primeiro": "2026-11-21T10:28:18.000Z",
-   "ultimo": "2026-11-22T14:25:41.000Z",
-   "comuns": [
-    "Bolsonaro",
-    "estável",
-    "UTI",
-    "quadro",
-    "médico"
-   ],
-   "politica": "Bolsonaro",
-   "materias": [
-    {
-     "veiculo": "estadao",
-     "titulo": "Bolsonaro segue em UTI em estado estável, mas sem previsão de alta, informa hospital",
-     "tituloMarcado": [
-      [
-       "Bolsonaro",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "segue",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "em",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "UTI",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "em",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "estado",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "estável,",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "mas",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "sem",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "previsão",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "alta,",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "informa",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "hospital",
-       true
-      ]
-     ],
-     "trecho": "BRASÍLIA - O ex-presidente Jair Bolsonaro (PL) continua internado, neste sábado, 21, em uma unidade de terapia intensiva (UTI), sem previsão de alta, segundo boletim médico divulgado no início da tarde pelo Hospital DF…",
-     "link": "https://www.estadao.com.br/politica/jair-bolsonaro-faz-limpeza-com-sonda-diz-carlos-npr/",
-     "publicadoEm": "2026-11-21T10:28:18.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "gazetadopovo",
-     "titulo": "Bolsonaro está na UTI e tem quadro estável, diz novo boletim médico",
-     "tituloMarcado": [
-      [
-       "Bolsonaro",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "está",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "na",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "UTI",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "e",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "tem",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "quadro",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "estável,",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "diz",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "novo",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "boletim",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "médico",
-       false
-      ]
-     ],
-     "trecho": "Ex-presidente tem diagnóstico de abdômen agudo obstrutivo e, segundo boletim divulgado neste sábado (21), não há previsão de alta",
-     "link": "https://www.gazetadopovo.com.br/republica/bolsonaro-uti-quadro-estavel-boletim/",
-     "publicadoEm": "2026-11-21T19:06:27.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "cnn",
-     "titulo": "Bolsonaro apresenta quadro clinicamente estável, diz médico",
-     "tituloMarcado": [
-      [
-       "Bolsonaro",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "apresenta",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "quadro",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "clinicamente",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "estável,",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "diz",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "médico",
-       false
-      ]
-     ],
-     "trecho": "Ex-presidente passará por novos exames ainda na manhã deste domingo (22); equipe médica monitora evolução do quadro de obstrução abdominal",
-     "link": "https://www.cnnbrasil.com.br/politica/bolsonaro-apresenta-quadro-clinicamente-estavel-diz-medico/",
-     "publicadoEm": "2026-11-22T14:25:41.000Z",
-     "tipo": "noticia",
-     "numero": null
-    }
-   ]
-  },
-  {
-   "id": "https://www.cartacapital.com.br/politica/moraes-manda-retirar-tornozeleira-eletronica-de-bolsonaro-durante-a-internacao/",
-   "veiculos": 3,
-   "primeiro": "2026-11-22T13:31:09.000Z",
-   "ultimo": "2026-11-22T14:19:31.000Z",
-   "comuns": [
-    "Moraes",
-    "retirar",
-    "tornozeleira",
-    "Bolsonaro",
-    "durante",
-    "internação"
-   ],
-   "politica": "Bolsonaro",
-   "materias": [
-    {
-     "veiculo": "cartacapital",
-     "titulo": "Moraes manda retirar tornozeleira eletrônica de Bolsonaro durante a internação",
-     "tituloMarcado": [
-      [
-       "Moraes",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "manda",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "retirar",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "tornozeleira",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "eletrônica",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Bolsonaro",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "durante",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "a",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "internação",
-       false
-      ]
-     ],
-     "trecho": "No despacho, o ministro ressaltou que o equipamento deverá ser recolocado após a alta hospitalar",
-     "link": "https://www.cartacapital.com.br/politica/moraes-manda-retirar-tornozeleira-eletronica-de-bolsonaro-durante-a-internacao/",
-     "publicadoEm": "2026-11-22T13:31:09.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "veja",
-     "titulo": "Moraes autoriza retirada de tornozeleira eletrônica de Bolsonaro durante internação em Brasília",
-     "tituloMarcado": [
-      [
-       "Moraes",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "autoriza",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "retirada",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "tornozeleira",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "eletrônica",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Bolsonaro",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "durante",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "internação",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "em",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Brasília",
-       true
-      ]
-     ],
-     "trecho": "Equipamento deverá ser reinstalado após a alta",
-     "link": "https://veja.abril.com.br/brasil/moraes-autoriza-retirada-de-tornozeleira-eletronica-de-bolsonaro-durante-internacao-em-brasilia/",
-     "publicadoEm": "2026-11-22T13:57:53.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "gazetadopovo",
-     "titulo": "Moraes autorizou retirada de tornozeleira de Bolsonaro durante internação",
-     "tituloMarcado": [
-      [
-       "Moraes",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "autorizou",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "retirada",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "tornozeleira",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Bolsonaro",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "durante",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "internação",
-       false
-      ]
-     ],
-     "trecho": "O ministro Alexandre de Moraes autorizou a retirada da tornozeleira de Bolsonaro para a internação, mas vigília ininterrupta da PF permanece.",
-     "link": "https://www.gazetadopovo.com.br/republica/moraes-autorizou-retirada-de-tornozeleira-de-bolsonaro-durante-internacao/",
-     "publicadoEm": "2026-11-22T14:19:31.000Z",
-     "tipo": "noticia",
-     "numero": null
-    }
-   ]
-  },
-  {
-   "id": "https://www1.folha.uol.com.br/cotidiano/2026/11/confira-a-partir-das-11h-deste-domingo-22-o-resultado-do-concurso-3089-da-mega-sena.shtml",
-   "veiculos": 3,
-   "primeiro": "2026-11-22T07:00:00.000Z",
-   "ultimo": "2026-11-22T14:05:01.000Z",
-   "comuns": [
-    "Mega-Sena",
-    "3089",
-    "acumula",
-    "premiação",
-    "65",
-    "milhões"
-   ],
-   "politica": null,
-   "materias": [
-    {
-     "veiculo": "folha",
-     "titulo": "Mega-Sena 3089 acumula e premiação pode chegar a R$ 65 milhões na terça (24)",
-     "tituloMarcado": [
-      [
-       "Mega-Sena",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "3089",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "acumula",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "e",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "premiação",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "pode",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "chegar",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "a",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "R$",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "65",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "milhões",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "na",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "terça",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "(24)",
-       true
-      ]
-     ],
-     "trecho": "A Caixa Econômica Federal sorteou na manhã deste domingo (22), o concurso 3089 da Mega-Sena. O prêmio principal é de R$ 43.102.645,31. Nenhum apostador, porém, acertou os seis números e o valor pode chegar a R$ 65…",
-     "link": "https://www1.folha.uol.com.br/cotidiano/2026/11/confira-a-partir-das-11h-deste-domingo-22-o-resultado-do-concurso-3089-da-mega-sena.shtml",
-     "publicadoEm": "2026-11-22T07:00:00.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "veja",
-     "titulo": "Resultado da Mega-Sena: confira os números do concurso 3089",
-     "tituloMarcado": [
-      [
-       "Resultado",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "da",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Mega-Sena:",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "confira",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "os",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "números",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "do",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "concurso",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "3089",
-       false
-      ]
-     ],
-     "trecho": "O prêmio estimado é de 43 milhões de reais",
-     "link": "https://veja.abril.com.br/brasil/resultado-da-mega-sena-confira-os-numeros-do-concurso-3089/",
-     "publicadoEm": "2026-11-22T14:00:23.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "g1",
-     "titulo": "Mega-Sena 3089 acumula e prêmio vai a R$ 65 milhões; confira os números sorteados",
-     "tituloMarcado": [
-      [
-       "Mega-Sena",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "3089",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "acumula",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "e",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "prêmio",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "vai",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "a",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "R$",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "65",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "milhões;",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "confira",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "os",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "números",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "sorteados",
-       true
-      ]
-     ],
-     "trecho": "Mega-Sena, concurso 3089: confira os números sorteados O sorteio do concurso 3.089 da Mega-Sena foi realizado na manhã deste domingo (22), em São Paulo. O prêmio para as apostas que acertassem as seis dezenas era de R$…",
-     "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/22/mega-sena-3089-confira-os-numeros-sorteados.ghtml",
-     "publicadoEm": "2026-11-22T14:05:01.000Z",
-     "tipo": "noticia",
-     "numero": null
-    }
-   ]
-  },
-  {
-   "id": "https://veja.abril.com.br/cultura/chitaozinho-e-xororo-anunciam-aposentadoria-dos-palcos-apos-mais-de-50-anos-de-carreira/",
-   "veiculos": 3,
-   "primeiro": "2026-11-22T12:21:25.000Z",
-   "ultimo": "2026-11-22T12:29:00.000Z",
-   "comuns": [
-    "Chitãozinho",
-    "Xororó",
-    "anunciam",
-    "aposentadoria",
-    "anos",
-    "após"
-   ],
-   "politica": null,
-   "materias": [
-    {
-     "veiculo": "veja",
-     "titulo": "Chitãozinho e Xororó anunciam aposentadoria após mais de 50 anos de carreira",
-     "tituloMarcado": [
-      [
-       "Chitãozinho",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "e",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Xororó",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "anunciam",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "aposentadoria",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "após",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "mais",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "50",
-       true
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "anos",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "de",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "carreira",
-       true
-      ]
-     ],
-     "trecho": "Irmãos iniciaram a trajetória em 1970 e se tornaram uma das duplas mais populares da música sertaneja brasileira",
-     "link": "https://veja.abril.com.br/cultura/chitaozinho-e-xororo-anunciam-aposentadoria-dos-palcos-apos-mais-de-50-anos-de-carreira/",
-     "publicadoEm": "2026-11-22T12:21:25.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "cnn",
-     "titulo": "Chitãozinho e Xororó anunciam aposentadoria dos palcos após 56 anos",
-     "tituloMarcado": [
-      [
-       "Chitãozinho",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "e",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "Xororó",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "anunciam",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "aposentadoria",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "dos",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "palcos",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "após",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "56",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "anos",
-       false
-      ]
-     ],
-     "trecho": "Dono de sucessos como \"Evidências\", a dupla deixará de fazer apresentações ao vivo após mais de cinco décadas de estrada",
-     "link": "https://www.cnnbrasil.com.br/pop/musica/chitaozinho-e-xororo-anunciam-aposentadoria-dos-palcos/",
-     "publicadoEm": "2026-11-22T12:24:03.000Z",
-     "tipo": "noticia",
-     "numero": null
-    },
-    {
-     "veiculo": "folha",
-     "titulo": "Chitãozinho & Xororó anunciam aposentadoria dos palcos aos 56 anos da dupla",
-     "tituloMarcado": [
-      [
-       "Chitãozinho",
-       false
-      ],
-      [
-       " & ",
-       ""
-      ],
-      [
-       "Xororó",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "anunciam",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "aposentadoria",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "dos",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "palcos",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "aos",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "56",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "anos",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "da",
-       false
-      ],
-      [
-       " ",
-       ""
-      ],
-      [
-       "dupla",
-       true
-      ]
-     ],
-     "trecho": "A dupla Chitãozinho & Xororó deve se aposentar dos palcos após 56 anos de carreira. A informação foi divulgada pela apresentadora Poliana Abritta nas redes do programa Fantástico, em que foi publicado um trecho da…",
-     "link": "https://www1.folha.uol.com.br/ilustrada/2026/11/chitaozinho-e-xororo-anunciam-aposentadoria-apos-56-anos-de-carreira.shtml",
-     "publicadoEm": "2026-11-22T12:29:00.000Z",
      "tipo": "noticia",
      "numero": null
     }
