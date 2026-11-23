@@ -1,23 +1,74 @@
 {
- "geradoEm": "2026-11-23T02:04:24.577Z",
+ "geradoEm": "2026-11-23T21:05:57.779Z",
  "criterio": "Somente comunicados publicados diretamente pelo IBGE e pelo Banco Central. Itens com termos político-partidários são retirados e listados com o termo encontrado.",
  "fontes": [
   {
    "fonte": "IBGE",
    "ok": true,
    "itens": 30,
-   "ultimoSucesso": "2026-11-23T02:04:24.577Z",
+   "ultimoSucesso": "2026-11-23T21:05:57.779Z",
    "url": "https://servicodados.ibge.gov.br/api/v3/noticias/?qtd=40"
   },
   {
    "fonte": "BCB",
    "ok": true,
    "itens": 100,
-   "ultimoSucesso": "2026-11-23T02:04:24.577Z",
+   "ultimoSucesso": "2026-11-23T21:05:57.779Z",
    "url": null
   }
  ],
  "itens": [
+  {
+   "fonte": "IBGE",
+   "fonteNome": "Agência de Notícias do IBGE",
+   "id": "ibge-48706",
+   "tipo": "Notícia institucional",
+   "titulo": "IBGE disponibiliza Agenda semanal com programações para os dias 23 a 29 de novembro",
+   "resumo": "Agenda IBGE traz a programação do instituto para a semana - Foto: Bel Corção/Brasil com S O Instituto Brasileiro de Geografia e Estatística (IBGE) divulgou hoje (23) a Agenda IBGE para a semana de 23 a 29 de novembro. A publicação reúne compromissos da...",
+   "publicadoEm": "2026-11-23T09:00:00-03:00",
+   "link": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48706-ibge-disponibiliza-agenda-semanal-com-programacoes-para-os-dias-23-a-29-de-novembro.html",
+   "editorias": "ibge",
+   "categoria": "institucional",
+   "verificacoes": {
+    "fonteOficial": true,
+    "semConteudoPolitico": true,
+    "numero": null
+   }
+  },
+  {
+   "fonte": "IBGE",
+   "fonteNome": "Agência de Notícias do IBGE",
+   "id": "ibge-48711",
+   "tipo": "Notícia institucional",
+   "titulo": "Signed Lab Desastres é apresentado a ministérios e órgãos de governo em reunião no Planalto",
+   "resumo": "O Singed Lab Desastres, solução voltada à integração e ao uso de dados do IBGE em situações de desastres, foi apresentado nesta quarta-feira (18), no Palácio do Planalto, durante reunião do SASF. A apresentação foi feita por Leandro Albertini,...",
+   "publicadoEm": "2026-11-23T02:48:14-03:00",
+   "link": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48711-singed-lab-desastres-e-apresentado-a-ministerios-e-orgaos-de-governo-em-reuniao-do-sistema-de-assessoramento-para-assuntos-federativo-sasf-no-palacio-do-planalto.html",
+   "editorias": "ibge",
+   "categoria": "institucional",
+   "verificacoes": {
+    "fonteOficial": true,
+    "semConteudoPolitico": true,
+    "numero": null
+   }
+  },
+  {
+   "fonte": "IBGE",
+   "fonteNome": "Agência de Notícias do IBGE",
+   "id": "ibge-48710",
+   "tipo": "Notícia institucional",
+   "titulo": "A 15 dias do evento, IBGE prorroga inscrições da conferência em Natal, de 08 a 10/12",
+   "resumo": "Com 40% das atividades esgotadas, a conferência internacional do IBGE está a duas semanas de seu início, com um reforço na divulgação para o público do Rio Grande do Norte. Com mais de mil especialistas confirmados, do Brasil e do exterior, a organização...",
+   "publicadoEm": "2026-11-23T02:34:08-03:00",
+   "link": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48710-a-15-dias-do-evento-ibge-prorroga-inscricoes-da-conferencia-em-natal-de-08-a-10-12.html",
+   "editorias": "ibge",
+   "categoria": "institucional",
+   "verificacoes": {
+    "fonteOficial": true,
+    "semConteudoPolitico": true,
+    "numero": null
+   }
+  },
   {
    "fonte": "BCB",
    "fonteNome": "Banco Central do Brasil",
@@ -505,23 +556,6 @@
   {
    "fonte": "IBGE",
    "fonteNome": "Agência de Notícias do IBGE",
-   "id": "ibge-48567",
-   "tipo": "Divulgação de dado oficial",
-   "titulo": "Índice Nacional da Construção Civil varia 0,29% em outubro – segunda menor taxa no ano ",
-   "resumo": "O Índice Nacional da Construção Civil (Sinapi) apresentou variação de 0,29% em outubro, a segunda menor taxa no ano, ficando 0,01 ponto percentual (p.p.) abaixo da taxa de setembro (0,30%). O acumulado dos últimos doze meses foi de 6,84%, resultado pouco...",
-   "publicadoEm": "2026-11-12T09:00:00-03:00",
-   "link": "https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/48567-sinapioutubrorelease.html",
-   "editorias": "economicas",
-   "categoria": "dados",
-   "verificacoes": {
-    "fonteOficial": true,
-    "semConteudoPolitico": true,
-    "numero": null
-   }
-  },
-  {
-   "fonte": "IBGE",
-   "fonteNome": "Agência de Notícias do IBGE",
    "id": "ibge-48575",
    "tipo": "Notícia institucional",
    "titulo": "Com alta em todos os estados, custos da construção variam 0,29% em outubro ",
@@ -672,40 +706,6 @@
    "publicadoEm": "2026-11-11T12:00:19Z",
    "link": "https://www.bcb.gov.br/detalhenoticia/21315/nota",
    "categoria": "dados",
-   "verificacoes": {
-    "fonteOficial": true,
-    "semConteudoPolitico": true,
-    "numero": null
-   }
-  },
-  {
-   "fonte": "IBGE",
-   "fonteNome": "Agência de Notícias do IBGE",
-   "id": "ibge-48574",
-   "tipo": "Notícia institucional",
-   "titulo": "Espaço Juventude da CONFEST/CONFEGE 2026 debate soberania digital e protagonismo do Sul Global",
-   "resumo": "O novo Espaço Juventude foi concebido a partir da compreensão de que os jovens estão no centro das transformações sociais, econômicas e tecnológicas contemporâneas. - Arte: Divulgação Pela primeira vez, a Conferência Nacional dos Agentes Produtores e...",
-   "publicadoEm": "2026-11-11T06:23:34-03:00",
-   "link": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48574-espaco-juventude-da-confest-confege-2026-debate-soberania-digital-desenvolvimento-e-protagonismo-do-sul-global.html",
-   "editorias": "ibge",
-   "categoria": "institucional",
-   "verificacoes": {
-    "fonteOficial": true,
-    "semConteudoPolitico": true,
-    "numero": null
-   }
-  },
-  {
-   "fonte": "IBGE",
-   "fonteNome": "Agência de Notícias do IBGE",
-   "id": "ibge-48573",
-   "tipo": "Notícia institucional",
-   "titulo": "Com mais de 60 palestrantes internacionais, IBGE prorroga inscrições da conferência em Natal",
-   "resumo": "Centro de Convenções será palco do maior evento de estatística e geografia do país. - Foto: Assecom-RN/Sandro Menezes/Arquivo O Rio Grande do Norte recebe de 8 a 10 de dezembro, no Centro de Convenções e no Museu da Rampa mais de 200 atividades, entre...",
-   "publicadoEm": "2026-11-11T03:13:10-03:00",
-   "link": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48573-com-mais-de-60-palestrantes-internacionais-ibge-prorroga-inscricoes-da-conferencia-em-natal.html",
-   "editorias": "ibge",
-   "categoria": "institucional",
    "verificacoes": {
     "fonteOficial": true,
     "semConteudoPolitico": true,
