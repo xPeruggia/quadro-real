@@ -1,19 +1,19 @@
 {
- "geradoEm": "2026-11-23T21:05:57.779Z",
+ "geradoEm": "2026-11-24T00:36:12.451Z",
  "criterio": "Somente comunicados publicados diretamente pelo IBGE e pelo Banco Central. Itens com termos político-partidários são retirados e listados com o termo encontrado.",
  "fontes": [
   {
    "fonte": "IBGE",
    "ok": true,
    "itens": 30,
-   "ultimoSucesso": "2026-11-23T21:05:57.779Z",
+   "ultimoSucesso": "2026-11-24T00:36:12.451Z",
    "url": "https://servicodados.ibge.gov.br/api/v3/noticias/?qtd=40"
   },
   {
    "fonte": "BCB",
    "ok": true,
    "itens": 100,
-   "ultimoSucesso": "2026-11-23T21:05:57.779Z",
+   "ultimoSucesso": "2026-11-24T00:36:12.451Z",
    "url": null
   }
  ],
@@ -40,8 +40,8 @@
    "fonteNome": "Agência de Notícias do IBGE",
    "id": "ibge-48711",
    "tipo": "Notícia institucional",
-   "titulo": "Signed Lab Desastres é apresentado a ministérios e órgãos de governo em reunião no Planalto",
-   "resumo": "O Singed Lab Desastres, solução voltada à integração e ao uso de dados do IBGE em situações de desastres, foi apresentado nesta quarta-feira (18), no Palácio do Planalto, durante reunião do SASF. A apresentação foi feita por Leandro Albertini,...",
+   "titulo": "Singed Lab Desastres é apresentado a ministérios e órgãos em reunião no Palácio do Planalto",
+   "resumo": "O Singed Lab Desastres, solução voltada à integração e ao uso de dados do IBGE em situações de desastres, foi apresentado nesta quarta-feira (18), no Palácio do Planalto, durante reunião do Sistema de Assessoramento para Assuntos Federativos (SASF). A...",
    "publicadoEm": "2026-11-23T02:48:14-03:00",
    "link": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48711-singed-lab-desastres-e-apresentado-a-ministerios-e-orgaos-de-governo-em-reuniao-do-sistema-de-assessoramento-para-assuntos-federativo-sasf-no-palacio-do-planalto.html",
    "editorias": "ibge",
