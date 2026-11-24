@@ -1,7 +1,7 @@
 {
- "inicio": "2026-11-24T00:36:12.451Z",
- "fim": "2026-11-24T00:43:46.179Z",
- "segundos": 454,
+ "inicio": "2026-11-24T05:41:09.169Z",
+ "fim": "2026-11-24T05:49:34.218Z",
+ "segundos": 505,
  "partes": [
   "series",
   "orcamento",
@@ -12,14 +12,18 @@
   "tributos",
   "seguranca"
  ],
- "chamadas": 264,
- "falhas": 3,
- "repeticoes": 0,
+ "chamadas": 266,
+ "falhas": 4,
+ "repeticoes": 1,
  "status": {
   "confere": 6,
   "fonte-unica": 6
  },
  "avisos": [
+  {
+   "parte": "imprensa",
+   "mensagem": "CartaCapital: feed https://www.cartacapital.com.br/feed/ não respondeu (HTTP 403)."
+  },
   {
    "parte": "tributos",
    "mensagem": "Arrecadação da Receita: fetch failed. Mantidos os dados anteriores."
@@ -39,150 +43,161 @@
    "chamadas": 8,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 14100
+   "ms": 7514
   },
   {
    "host": "api.bcb.gov.br",
    "chamadas": 33,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 14405
+   "ms": 21939
   },
   {
    "host": "olinda.bcb.gov.br",
    "chamadas": 11,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 6424
+   "ms": 6328
   },
   {
    "host": "apidatalake.tesouro.gov.br",
    "chamadas": 32,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 42489
+   "ms": 37350
   },
   {
    "host": "dadosabertos.camara.leg.br",
    "chamadas": 148,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 61368
+   "ms": 87949
   },
   {
    "host": "servicodados.ibge.gov.br",
    "chamadas": 1,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 340
+   "ms": 1190
   },
   {
    "host": "www.bcb.gov.br",
    "chamadas": 1,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 920
+   "ms": 988
   },
   {
    "host": "g1.globo.com",
    "chamadas": 2,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 2352
+   "ms": 1772
   },
   {
    "host": "feeds.folha.uol.com.br",
    "chamadas": 1,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 1059
+   "ms": 1242
   },
   {
    "host": "www.estadao.com.br",
    "chamadas": 3,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 904
+   "ms": 311
   },
   {
    "host": "www.cnnbrasil.com.br",
    "chamadas": 1,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 526
+   "ms": 507
   },
   {
    "host": "feeds.bbci.co.uk",
    "chamadas": 1,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 280
+   "ms": 138
   },
   {
    "host": "feeds.elpais.com",
    "chamadas": 1,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 227
+   "ms": 1412
   },
   {
    "host": "agenciabrasil.ebc.com.br",
    "chamadas": 2,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 650
+   "ms": 3980
   },
   {
    "host": "www.poder360.com.br",
    "chamadas": 1,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 240
+   "ms": 239
   },
   {
    "host": "rss.uol.com.br",
-   "chamadas": 1,
+   "chamadas": 2,
    "falhas": 0,
-   "repeticoes": 0,
-   "ms": 351
+   "repeticoes": 1,
+   "ms": 28630
   },
   {
    "host": "www.gazetadopovo.com.br",
    "chamadas": 1,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 275
+   "ms": 206
   },
   {
    "host": "www.cartacapital.com.br",
-   "chamadas": 1,
-   "falhas": 0,
+   "chamadas": 2,
+   "falhas": 2,
    "repeticoes": 0,
-   "ms": 258
+   "ms": 281
   },
   {
    "host": "veja.abril.com.br",
    "chamadas": 1,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 243
+   "ms": 249
   },
   {
    "host": "www.metropoles.com",
    "chamadas": 1,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 450
+   "ms": 234
   },
   {
    "host": "www.gov.br",
    "chamadas": 13,
    "falhas": 13,
    "repeticoes": 0,
-   "ms": 134122
+   "ms": 124541
   }
  ],
  "historico": [
+  {
+   "inicio": "2026-11-24T05:41:09.169Z",
+   "segundos": 505,
+   "chamadas": 266,
+   "falhas": 4,
+   "status": {
+    "confere": 6,
+    "fonte-unica": 6
+   },
+   "avisos": 4
+  },
   {
    "inicio": "2026-11-24T00:36:12.451Z",
    "segundos": 454,
@@ -825,17 +840,6 @@
    "inicio": "2026-11-04T09:56:54.428Z",
    "segundos": 390,
    "chamadas": 253,
-   "falhas": 1,
-   "status": {
-    "confere": 6,
-    "fonte-unica": 6
-   },
-   "avisos": 1
-  },
-  {
-   "inicio": "2026-11-03T22:27:49.895Z",
-   "segundos": 365,
-   "chamadas": 255,
    "falhas": 1,
    "status": {
     "confere": 6,
