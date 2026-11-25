@@ -1,23 +1,71 @@
 {
- "geradoEm": "2026-11-25T19:04:54.621Z",
+ "geradoEm": "2026-11-25T22:09:22.598Z",
  "criterio": "Somente comunicados publicados diretamente pelo IBGE e pelo Banco Central. Itens com termos político-partidários são retirados e listados com o termo encontrado.",
  "fontes": [
   {
    "fonte": "IBGE",
    "ok": true,
    "itens": 30,
-   "ultimoSucesso": "2026-11-25T19:04:54.621Z",
+   "ultimoSucesso": "2026-11-25T22:09:22.598Z",
    "url": "https://servicodados.ibge.gov.br/api/v3/noticias/?qtd=40"
   },
   {
    "fonte": "BCB",
    "ok": true,
    "itens": 100,
-   "ultimoSucesso": "2026-11-25T19:04:54.621Z",
+   "ultimoSucesso": "2026-11-25T22:09:22.598Z",
    "url": null
   }
  ],
  "itens": [
+  {
+   "fonte": "BCB",
+   "fonteNome": "Banco Central do Brasil",
+   "id": "bcb-21332",
+   "tipo": "Nota à imprensa",
+   "titulo": "Diretor de Regulação do BC dará entrevista coletiva às 11 horas de quinta-feira (26/11) sobre as medidas que tratam dos riscos associados ao endividamento de famílias e empresas",
+   "resumo": "",
+   "publicadoEm": "2026-11-25T21:55:01Z",
+   "link": "https://www.bcb.gov.br/detalhenoticia/21332/nota",
+   "categoria": "institucional",
+   "verificacoes": {
+    "fonteOficial": true,
+    "semConteudoPolitico": true,
+    "numero": null
+   }
+  },
+  {
+   "fonte": "BCB",
+   "fonteNome": "Banco Central do Brasil",
+   "id": "bcb-21335",
+   "tipo": "Nota à imprensa",
+   "titulo": "CMN e BC aprimoram medidas para prevenir riscos associados ao endividamento",
+   "resumo": "",
+   "publicadoEm": "2026-11-25T21:52:25Z",
+   "link": "https://www.bcb.gov.br/detalhenoticia/21335/nota",
+   "categoria": "institucional",
+   "verificacoes": {
+    "fonteOficial": true,
+    "semConteudoPolitico": true,
+    "numero": null
+   }
+  },
+  {
+   "fonte": "BCB",
+   "fonteNome": "Banco Central do Brasil",
+   "id": "bcb-21333",
+   "tipo": "Nota à imprensa",
+   "titulo": "O Adicional Contracíclico de Capital Principal relativo ao Brasil segue em 0%",
+   "resumo": "",
+   "publicadoEm": "2026-11-25T21:26:53Z",
+   "link": "https://www.bcb.gov.br/detalhenoticia/21333/nota",
+   "categoria": "institucional",
+   "verificacoes": {
+    "fonteOficial": true,
+    "semConteudoPolitico": true,
+    "numero": null
+   }
+  },
   {
    "fonte": "BCB",
    "fonteNome": "Banco Central do Brasil",
@@ -62,6 +110,40 @@
    "link": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48720-pnsb-97-4-dos-municipios-registram-servico-de-drenagem-e-manejo-de-aguas-pluviais.html",
    "editorias": "sociais",
    "categoria": "dados",
+   "verificacoes": {
+    "fonteOficial": true,
+    "semConteudoPolitico": true,
+    "numero": null
+   }
+  },
+  {
+   "fonte": "IBGE",
+   "fonteNome": "Agência de Notícias do IBGE",
+   "id": "ibge-48758",
+   "tipo": "Notícia institucional",
+   "titulo": "Presidente do IBGE recebe Medalha Zeferino Vaz da Unicamp e dá ao reitor medalha pelos 90 anos do IBGE",
+   "resumo": "Homenagem ao IBGE reforça a importância da cooperação entre universidades e órgãos públicos de pesquisa e produção de informações. Fotos: Ascom/Unicamp O presidente do Instituto Brasileiro de Geografia e Estatística (IBGE), Marcio Pochmann, recebeu,...",
+   "publicadoEm": "2026-11-25T06:20:03-03:00",
+   "link": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48758-presidente-do-ibge-recebe-medalha-zeferino-vaz-da-unicamp-e-da-ao-reitor-medalha-pelos-90-anos-do-ibge.html",
+   "editorias": "ibge",
+   "categoria": "institucional",
+   "verificacoes": {
+    "fonteOficial": true,
+    "semConteudoPolitico": true,
+    "numero": null
+   }
+  },
+  {
+   "fonte": "IBGE",
+   "fonteNome": "Agência de Notícias do IBGE",
+   "id": "ibge-48747",
+   "tipo": "Notícia institucional",
+   "titulo": "Potiguar: conferência do IBGE em Natal reunirá palestrantes dos cinco continentes",
+   "resumo": "O IBGE realizou, nesta quarta-feira (25), no Centro Administrativo do Governo do Estado do Rio Grande do Norte, em Natal, a sétima coletiva pública de divulgação da CONFEST/CONFEGE. O encontro reuniu autoridades, instituições parceiras e apoiadores para...",
+   "publicadoEm": "2026-11-25T04:00:00-03:00",
+   "link": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48747-ibge-apresenta-espaco-tematico-de-genero-e-divulga-balanco-final-da-confest-confege-em-natal.html",
+   "editorias": "ibge",
+   "categoria": "institucional",
    "verificacoes": {
     "fonteOficial": true,
     "semConteudoPolitico": true,
@@ -638,57 +720,6 @@
    }
   },
   {
-   "fonte": "IBGE",
-   "fonteNome": "Agência de Notícias do IBGE",
-   "id": "ibge-48612",
-   "tipo": "Notícia institucional",
-   "titulo": "IBGE avança na recuperação de sua força de trabalho e fortalece capacidade institucional",
-   "resumo": "A continuidade das convocações pelo Ministério da Gestão e da Inovação em Serviços Públicos (MGI) do último concurso público realizado fortalece o caminho da recuperação da força de trabalho e renova as equipes, ampliando a presença territorial e...",
-   "publicadoEm": "2026-11-12T06:05:52-03:00",
-   "link": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48612-ibge-avanca-na-recuperacao-de-sua-forca-de-trabalho-e-fortalece-capacidade-institucional.html",
-   "editorias": "ibge",
-   "categoria": "institucional",
-   "verificacoes": {
-    "fonteOficial": true,
-    "semConteudoPolitico": true,
-    "numero": null
-   }
-  },
-  {
-   "fonte": "IBGE",
-   "fonteNome": "Agência de Notícias do IBGE",
-   "id": "ibge-48608",
-   "tipo": "Notícia institucional",
-   "titulo": "IBGEeduca leva estatística e demografia a estudantes e educadores no XXIV Encontro da ABEP",
-   "resumo": "IBGEeduca apresentando os produtos do Instituto. - Foto: Cortesia/ IBGEeduca Com uma oficina e um minicurso, o IBGEeduca participou das atividades do Circuito Extensionista em Demografia (CEDEM), dentro da sexta edição do Encontro Nacional de...",
-   "publicadoEm": "2026-11-12T04:00:07-03:00",
-   "link": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48608-ibgeeduca-leva-estatistica-e-demografia-a-estudantes-e-educadores-no-xxiv-encontro-da-abep.html",
-   "editorias": "ibge",
-   "categoria": "institucional",
-   "verificacoes": {
-    "fonteOficial": true,
-    "semConteudoPolitico": true,
-    "numero": null
-   }
-  },
-  {
-   "fonte": "IBGE",
-   "fonteNome": "Agência de Notícias do IBGE",
-   "id": "ibge-48599",
-   "tipo": "Notícia institucional",
-   "titulo": "Santa Catarina celebra os 90 anos do IBGE com seminário sobre a atuação do Instituto no estado",
-   "resumo": "A Superintendência Estadual do IBGE em Santa Catarina concluiu, neste mês de novembro, a programação do seminário “Minha Santa Catarina, Meu Brasil, Nosso IBGE”, realizado em duas etapas como parte das comemorações pelos 90 anos da instituição. A...",
-   "publicadoEm": "2026-11-12T03:00:00-03:00",
-   "link": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48599-santa-catarina-celebra-os-90-anos-do-ibge-com-seminario-sobre-a-atuacao-do-instituto-no-estado.html",
-   "editorias": "ibge",
-   "categoria": "institucional",
-   "verificacoes": {
-    "fonteOficial": true,
-    "semConteudoPolitico": true,
-    "numero": null
-   }
-  },
-  {
    "fonte": "BCB",
    "fonteNome": "Banco Central do Brasil",
    "id": "bcb-21316",
@@ -751,47 +782,16 @@
     "semConteudoPolitico": true,
     "numero": null
    }
-  },
-  {
-   "fonte": "BCB",
-   "fonteNome": "Banco Central do Brasil",
-   "id": "bcb-21309",
-   "tipo": "Nota à imprensa",
-   "titulo": "Copom mantém a taxa Selic em 13,75% a.a.",
-   "resumo": "",
-   "publicadoEm": "2026-11-04T21:31:35Z",
-   "link": "https://www.bcb.gov.br/detalhenoticia/21309/nota",
-   "categoria": "dados",
-   "verificacoes": {
-    "fonteOficial": true,
-    "semConteudoPolitico": true,
-    "numero": {
-     "ok": true,
-     "descricao": "meta Selic vigente na semana da nota",
-     "serie": "selic",
-     "periodo": "2026-11-04",
-     "valorNoticia": 13.75,
-     "valorSerie": 13.75,
-     "nota": "13,75% confere com a série oficial (meta Selic vigente na semana da nota)."
-    }
-   }
-  },
-  {
-   "fonte": "BCB",
-   "fonteNome": "Banco Central do Brasil",
-   "id": "bcb-21306",
-   "tipo": "Nota à imprensa",
-   "titulo": "BC divulga Estatísticas Fiscais à imprensa",
-   "resumo": "",
-   "publicadoEm": "2026-10-29T17:03:09Z",
-   "link": "https://www.bcb.gov.br/detalhenoticia/21306/nota",
-   "categoria": "dados",
-   "verificacoes": {
-    "fonteOficial": true,
-    "semConteudoPolitico": true,
-    "numero": null
-   }
   }
  ],
- "excluidos": []
+ "excluidos": [
+  {
+   "id": "ibge-48748",
+   "fonte": "IBGE",
+   "titulo": "Inscrições para PSS de recenseador do IBGE são prorrogadas até o dia 30 de novembro",
+   "link": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48748-inscricoes-para-pss-de-recenseador-do-ibge-sao-prorrogadas-ate-o-dia-30-de-novembro.html",
+   "publicadoEm": "2026-11-25T05:00:00-03:00",
+   "termo": "candidatos"
+  }
+ ]
 }
