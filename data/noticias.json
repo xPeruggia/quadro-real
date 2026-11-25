@@ -1,23 +1,73 @@
 {
- "geradoEm": "2026-11-25T04:41:33.686Z",
+ "geradoEm": "2026-11-25T19:04:54.621Z",
  "criterio": "Somente comunicados publicados diretamente pelo IBGE e pelo Banco Central. Itens com termos político-partidários são retirados e listados com o termo encontrado.",
  "fontes": [
   {
    "fonte": "IBGE",
    "ok": true,
    "itens": 30,
-   "ultimoSucesso": "2026-11-25T04:41:33.686Z",
+   "ultimoSucesso": "2026-11-25T19:04:54.621Z",
    "url": "https://servicodados.ibge.gov.br/api/v3/noticias/?qtd=40"
   },
   {
    "fonte": "BCB",
    "ok": true,
    "itens": 100,
-   "ultimoSucesso": "2026-11-25T04:41:33.686Z",
+   "ultimoSucesso": "2026-11-25T19:04:54.621Z",
    "url": null
   }
  ],
  "itens": [
+  {
+   "fonte": "BCB",
+   "fonteNome": "Banco Central do Brasil",
+   "id": "bcb-21329",
+   "tipo": "Nota à imprensa",
+   "titulo": "BC divulga IBCR de setembro",
+   "resumo": "",
+   "publicadoEm": "2026-11-25T17:31:41Z",
+   "link": "https://www.bcb.gov.br/detalhenoticia/21329/nota",
+   "categoria": "dados",
+   "verificacoes": {
+    "fonteOficial": true,
+    "semConteudoPolitico": true,
+    "numero": null
+   }
+  },
+  {
+   "fonte": "IBGE",
+   "fonteNome": "Agência de Notícias do IBGE",
+   "id": "ibge-48719",
+   "tipo": "Notícia institucional",
+   "titulo": "Coleta seletiva avança e atinge 48,1% dos municípios, mas lixões persistem pelo país",
+   "resumo": "Segundo dados da Pesquisa Nacional de Saneamento Básico, 2.675 municípios possuem serviço de coleta seletiva - Foto: Marcos Oliveira/Agência Senado A coleta seletiva apresentou uma expansão significativa ao longo dos últimos 16 anos no país, alcançando,...",
+   "publicadoEm": "2026-11-25T10:00:00-03:00",
+   "link": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48719-coleta-seletiva-avanca-e-atinge-48-1-dos-municipios-mas-lixoes-persistem-pelo-pais.html",
+   "editorias": "sociais",
+   "categoria": "dados",
+   "verificacoes": {
+    "fonteOficial": true,
+    "semConteudoPolitico": true,
+    "numero": null
+   }
+  },
+  {
+   "fonte": "IBGE",
+   "fonteNome": "Agência de Notícias do IBGE",
+   "id": "ibge-48720",
+   "tipo": "Notícia institucional",
+   "titulo": "PNSB: 97,4% dos municípios registram serviço de drenagem e manejo de águas pluviais",
+   "resumo": "Dispositivos de macrodrenagens estão presentes em 76,3% dos municípios que possuem algum serviço de drenagem e manejo de águas pluviais - Foto: Prefeitura de Tupã / Divulgação O serviço de drenagem e manejo de águas pluviais foi registrado em 97,4% dos...",
+   "publicadoEm": "2026-11-25T10:00:00-03:00",
+   "link": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48720-pnsb-97-4-dos-municipios-registram-servico-de-drenagem-e-manejo-de-aguas-pluviais.html",
+   "editorias": "sociais",
+   "categoria": "dados",
+   "verificacoes": {
+    "fonteOficial": true,
+    "semConteudoPolitico": true,
+    "numero": null
+   }
+  },
   {
    "fonte": "IBGE",
    "fonteNome": "Agência de Notícias do IBGE",
@@ -590,23 +640,6 @@
   {
    "fonte": "IBGE",
    "fonteNome": "Agência de Notícias do IBGE",
-   "id": "ibge-48569",
-   "tipo": "Notícia institucional",
-   "titulo": "Inflação desacelera e fica em 0,14% em outubro",
-   "resumo": "Energia elétrica residencial recua de 7,98% em setembro para -1,92% em outubro - Foto: Helena Pontes/Agência IBGE Notícias A inflação de outubro (0,14%) desacelerou em relação ao mês de setembro (0,82%), mas acumula alta de 4,10% no ano e de 4,63% nos...",
-   "publicadoEm": "2026-11-12T09:00:00-03:00",
-   "link": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48569-inflacao-desacelera-e-fica-em-0-14-em-outubro.html",
-   "editorias": "economicas",
-   "categoria": "dados",
-   "verificacoes": {
-    "fonteOficial": true,
-    "semConteudoPolitico": true,
-    "numero": null
-   }
-  },
-  {
-   "fonte": "IBGE",
-   "fonteNome": "Agência de Notícias do IBGE",
    "id": "ibge-48612",
    "tipo": "Notícia institucional",
    "titulo": "IBGE avança na recuperação de sua força de trabalho e fortalece capacidade institucional",
@@ -647,23 +680,6 @@
    "resumo": "A Superintendência Estadual do IBGE em Santa Catarina concluiu, neste mês de novembro, a programação do seminário “Minha Santa Catarina, Meu Brasil, Nosso IBGE”, realizado em duas etapas como parte das comemorações pelos 90 anos da instituição. A...",
    "publicadoEm": "2026-11-12T03:00:00-03:00",
    "link": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48599-santa-catarina-celebra-os-90-anos-do-ibge-com-seminario-sobre-a-atuacao-do-instituto-no-estado.html",
-   "editorias": "ibge",
-   "categoria": "institucional",
-   "verificacoes": {
-    "fonteOficial": true,
-    "semConteudoPolitico": true,
-    "numero": null
-   }
-  },
-  {
-   "fonte": "IBGE",
-   "fonteNome": "Agência de Notícias do IBGE",
-   "id": "ibge-48562",
-   "tipo": "Notícia institucional",
-   "titulo": "Espaço Inovação e Tecnologia da CONFEST/CONFEGE discute soberania digital e modernização do Estado",
-   "resumo": "O Espaço de Inovação e Tecnologia será um dos grandes eixos de debate da CONFEST/CONFEGE 2026, reunindo especialistas, pesquisadores e gestores públicos para discutir os rumos da transformação digital, da governança de dados e da segurança da informação...",
-   "publicadoEm": "2026-11-12T01:00:00-03:00",
-   "link": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48562-espaco-inovacao-e-tecnologia-da-confest-confege-debatera-os-desafios-da-soberania-digital-e-da-modernizacao-do-estado-na-era-da-inteligencia-artificial.html",
    "editorias": "ibge",
    "categoria": "institucional",
    "verificacoes": {
@@ -769,22 +785,6 @@
    "resumo": "",
    "publicadoEm": "2026-10-29T17:03:09Z",
    "link": "https://www.bcb.gov.br/detalhenoticia/21306/nota",
-   "categoria": "dados",
-   "verificacoes": {
-    "fonteOficial": true,
-    "semConteudoPolitico": true,
-    "numero": null
-   }
-  },
-  {
-   "fonte": "BCB",
-   "fonteNome": "Banco Central do Brasil",
-   "id": "bcb-21304",
-   "tipo": "Nota à imprensa",
-   "titulo": "BC divulga Estatísticas Monetárias e de Crédito à imprensa",
-   "resumo": "",
-   "publicadoEm": "2026-10-29T11:32:01Z",
-   "link": "https://www.bcb.gov.br/detalhenoticia/21304/nota",
    "categoria": "dados",
    "verificacoes": {
     "fonteOficial": true,
