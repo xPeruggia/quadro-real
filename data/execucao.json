@@ -1,7 +1,7 @@
 {
- "inicio": "2026-11-26T03:51:15.632Z",
- "fim": "2026-11-26T03:55:18.223Z",
- "segundos": 243,
+ "inicio": "2026-11-26T18:55:18.403Z",
+ "fim": "2026-11-26T19:03:11.634Z",
+ "segundos": 473,
  "partes": [
   "series",
   "orcamento",
@@ -12,164 +12,188 @@
   "tributos",
   "seguranca"
  ],
- "chamadas": 254,
- "falhas": 0,
+ "chamadas": 264,
+ "falhas": 3,
  "repeticoes": 0,
  "status": {
   "confere": 6,
   "fonte-unica": 6
  },
- "avisos": [],
+ "avisos": [
+  {
+   "parte": "tributos",
+   "mensagem": "Arrecadação da Receita: fetch failed. Mantidos os dados anteriores."
+  },
+  {
+   "parte": "seguranca",
+   "mensagem": "Sinesp 2025: fetch failed (mantido o processamento anterior)"
+  },
+  {
+   "parte": "seguranca",
+   "mensagem": "Sinesp 2026: fetch failed (mantido o processamento anterior)"
+  }
+ ],
  "fontes": [
   {
    "host": "apisidra.ibge.gov.br",
    "chamadas": 8,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 5773
+   "ms": 6928
   },
   {
    "host": "api.bcb.gov.br",
    "chamadas": 33,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 18244
+   "ms": 13114
   },
   {
    "host": "olinda.bcb.gov.br",
    "chamadas": 11,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 5054
+   "ms": 6706
   },
   {
    "host": "apidatalake.tesouro.gov.br",
    "chamadas": 32,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 31757
+   "ms": 40862
   },
   {
    "host": "dadosabertos.camara.leg.br",
    "chamadas": 148,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 60648
+   "ms": 86498
   },
   {
    "host": "servicodados.ibge.gov.br",
    "chamadas": 1,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 215
+   "ms": 238
   },
   {
    "host": "www.bcb.gov.br",
    "chamadas": 1,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 803
+   "ms": 1119
   },
   {
    "host": "g1.globo.com",
    "chamadas": 2,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 1193
+   "ms": 3583
   },
   {
    "host": "feeds.folha.uol.com.br",
    "chamadas": 1,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 868
+   "ms": 1242
   },
   {
    "host": "www.estadao.com.br",
    "chamadas": 3,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 569
+   "ms": 481
   },
   {
    "host": "www.cnnbrasil.com.br",
    "chamadas": 1,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 252
+   "ms": 582
   },
   {
    "host": "feeds.bbci.co.uk",
    "chamadas": 1,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 24
+   "ms": 417
   },
   {
    "host": "feeds.elpais.com",
    "chamadas": 1,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 49
+   "ms": 1173
   },
   {
    "host": "agenciabrasil.ebc.com.br",
    "chamadas": 2,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 519
+   "ms": 1063
   },
   {
    "host": "www.poder360.com.br",
    "chamadas": 1,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 171
+   "ms": 213
   },
   {
    "host": "rss.uol.com.br",
    "chamadas": 1,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 152
+   "ms": 281
   },
   {
    "host": "www.gazetadopovo.com.br",
    "chamadas": 1,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 94
+   "ms": 232
   },
   {
    "host": "www.cartacapital.com.br",
    "chamadas": 1,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 180
+   "ms": 224
   },
   {
    "host": "veja.abril.com.br",
    "chamadas": 1,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 19
+   "ms": 1805
   },
   {
    "host": "www.metropoles.com",
    "chamadas": 1,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 246
+   "ms": 238
   },
   {
    "host": "www.gov.br",
-   "chamadas": 3,
-   "falhas": 0,
+   "chamadas": 13,
+   "falhas": 13,
    "repeticoes": 0,
-   "ms": 54692
+   "ms": 134482
   }
  ],
  "historico": [
+  {
+   "inicio": "2026-11-26T18:55:18.403Z",
+   "segundos": 473,
+   "chamadas": 264,
+   "falhas": 3,
+   "status": {
+    "confere": 6,
+    "fonte-unica": 6
+   },
+   "avisos": 3
+  },
   {
    "inicio": "2026-11-26T03:51:15.632Z",
    "segundos": 243,
@@ -818,17 +842,6 @@
     "fonte-unica": 6
    },
    "avisos": 1
-  },
-  {
-   "inicio": "2026-11-06T16:40:32.864Z",
-   "segundos": 692,
-   "chamadas": 260,
-   "falhas": 2,
-   "status": {
-    "confere": 6,
-    "fonte-unica": 6
-   },
-   "avisos": 2
   }
  ]
 }

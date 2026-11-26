@@ -1,23 +1,124 @@
 {
- "geradoEm": "2026-11-26T03:51:15.632Z",
+ "geradoEm": "2026-11-26T18:55:18.403Z",
  "criterio": "Somente comunicados publicados diretamente pelo IBGE e pelo Banco Central. Itens com termos político-partidários são retirados e listados com o termo encontrado.",
  "fontes": [
   {
    "fonte": "IBGE",
    "ok": true,
    "itens": 30,
-   "ultimoSucesso": "2026-11-26T03:51:15.632Z",
+   "ultimoSucesso": "2026-11-26T18:55:18.403Z",
    "url": "https://servicodados.ibge.gov.br/api/v3/noticias/?qtd=40"
   },
   {
    "fonte": "BCB",
    "ok": true,
    "itens": 100,
-   "ultimoSucesso": "2026-11-26T03:51:15.632Z",
+   "ultimoSucesso": "2026-11-26T18:55:18.403Z",
    "url": null
   }
  ],
  "itens": [
+  {
+   "fonte": "BCB",
+   "fonteNome": "Banco Central do Brasil",
+   "id": "bcb-21331",
+   "tipo": "Nota à imprensa",
+   "titulo": "BC divulga Estatísticas do Setor Externo à imprensa",
+   "resumo": "",
+   "publicadoEm": "2026-11-26T11:34:13Z",
+   "link": "https://www.bcb.gov.br/detalhenoticia/21331/nota",
+   "categoria": "dados",
+   "verificacoes": {
+    "fonteOficial": true,
+    "semConteudoPolitico": true,
+    "numero": null
+   }
+  },
+  {
+   "fonte": "IBGE",
+   "fonteNome": "Agência de Notícias do IBGE",
+   "id": "ibge-48745",
+   "tipo": "Divulgação de dado oficial",
+   "titulo": "Finanças Públicas: necessidade de financiamento do governo cresceu 27,1% em 2025",
+   "resumo": "Em 2025, a necessidade de financiamento líquida do Governo Geral foi de R$ 936,2 bilhões, apresentando aumento de 27,1% em relação a 2024. Esse resultado ocorreu, principalmente, em virtude do crescimento de 11,4% da despesa total, em contraposição ao...",
+   "publicadoEm": "2026-11-26T10:00:00-03:00",
+   "link": "https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/48745-conta-intermediaria-2025.html",
+   "editorias": "economicas",
+   "categoria": "dados",
+   "verificacoes": {
+    "fonteOficial": true,
+    "semConteudoPolitico": true,
+    "numero": null
+   }
+  },
+  {
+   "fonte": "IBGE",
+   "fonteNome": "Agência de Notícias do IBGE",
+   "id": "ibge-48750",
+   "tipo": "Divulgação de dado oficial",
+   "titulo": "O IPCA-15 é de 0,22% em novembro ",
+   "resumo": "O Índice Nacional de Preços ao Consumidor Amplo 15 (IPCA-15) apresentou alta de 0,22% em novembro, 0,10 ponto percentual (p.p.) abaixo da taxa registrada em outubro (0,32%). O IPCA-15 acumula alta de 4,38% no ano e, em 12 meses, de 4,64%, acima dos 4,62%...",
+   "publicadoEm": "2026-11-26T09:00:00-03:00",
+   "link": "https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/48750-ipca15novrelease.html",
+   "editorias": "economicas",
+   "categoria": "dados",
+   "verificacoes": {
+    "fonteOficial": true,
+    "semConteudoPolitico": true,
+    "numero": null
+   }
+  },
+  {
+   "fonte": "IBGE",
+   "fonteNome": "Agência de Notícias do IBGE",
+   "id": "ibge-48751",
+   "tipo": "Notícia institucional",
+   "titulo": "Em novembro IPCA-15 é de 0,22%  ",
+   "resumo": "Tomate é o subitem do IPCA-15 com maior variação mensal registrada em novembro, com aumento de 38,92%. - Foto: Valter Campanato/Agência Brasil A prévia da inflação apresentou alta de 0,22% em novembro, 0,10 ponto percentual (p.p.) abaixo de outubro...",
+   "publicadoEm": "2026-11-26T09:00:00-03:00",
+   "link": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48751-noticiaipca15novembro.html",
+   "editorias": "economicas",
+   "categoria": "dados",
+   "verificacoes": {
+    "fonteOficial": true,
+    "semConteudoPolitico": true,
+    "numero": null
+   }
+  },
+  {
+   "fonte": "IBGE",
+   "fonteNome": "Agência de Notícias do IBGE",
+   "id": "ibge-48754",
+   "tipo": "Divulgação de dado oficial",
+   "titulo": "Índice de Preços ao Produtor (IPP) é de 0,98% em outubro",
+   "resumo": "Em outubro de 2026, os preços da indústria geral, que engloba as indústrias extrativas e de transformação, variaram 0,98% frente a setembro, terceiro resultado positivo seguido, mas abaixo da variação de setembro frente a agosto (1,53%). Nessa...",
+   "publicadoEm": "2026-11-26T09:00:00-03:00",
+   "link": "https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/48754-indice-de-precos-ao-produtor-ipp-e-de-0-98-em-outubro.html",
+   "editorias": "economicas",
+   "categoria": "dados",
+   "verificacoes": {
+    "fonteOficial": true,
+    "semConteudoPolitico": true,
+    "numero": null
+   }
+  },
+  {
+   "fonte": "IBGE",
+   "fonteNome": "Agência de Notícias do IBGE",
+   "id": "ibge-48755",
+   "tipo": "Notícia institucional",
+   "titulo": "Preços da indústria sobem 0,98% em outubro, puxados por alimentos e combustíveis",
+   "resumo": "Carnes bovinas e de frango ficaram mais caras na porta da fábrica e mantiveram o setor de alimentos como a principal influência do IPP em outubro - Foto: Gilson Abreu/AEN Os preços da indústria brasileira subiram 0,98% em outubro de 2026. É a terceira...",
+   "publicadoEm": "2026-11-26T09:00:00-03:00",
+   "link": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48755-precos-da-industria-sobem-0-98-em-outubro-puxados-por-alimentos-e-combustiveis.html",
+   "editorias": "economicas",
+   "categoria": "dados",
+   "verificacoes": {
+    "fonteOficial": true,
+    "semConteudoPolitico": true,
+    "numero": null
+   }
+  },
   {
    "fonte": "BCB",
    "fonteNome": "Banco Central do Brasil",
@@ -125,23 +226,6 @@
    "resumo": "Homenagem ao IBGE reforça a importância da cooperação entre universidades e órgãos públicos de pesquisa e produção de informações. Fotos: Ascom/Unicamp O presidente do Instituto Brasileiro de Geografia e Estatística (IBGE), Marcio Pochmann, recebeu,...",
    "publicadoEm": "2026-11-25T06:20:03-03:00",
    "link": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48758-presidente-do-ibge-recebe-medalha-zeferino-vaz-da-unicamp-e-da-ao-reitor-medalha-pelos-90-anos-do-ibge.html",
-   "editorias": "ibge",
-   "categoria": "institucional",
-   "verificacoes": {
-    "fonteOficial": true,
-    "semConteudoPolitico": true,
-    "numero": null
-   }
-  },
-  {
-   "fonte": "IBGE",
-   "fonteNome": "Agência de Notícias do IBGE",
-   "id": "ibge-48747",
-   "tipo": "Notícia institucional",
-   "titulo": "Potiguar: conferência do IBGE em Natal reunirá palestrantes dos cinco continentes",
-   "resumo": "O IBGE realizou, nesta quarta-feira (25), no Centro Administrativo do Governo do Estado do Rio Grande do Norte, em Natal, a sétima coletiva pública de divulgação da CONFEST/CONFEGE. O encontro reuniu autoridades, instituições parceiras e apoiadores para...",
-   "publicadoEm": "2026-11-25T04:00:00-03:00",
-   "link": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48747-ibge-apresenta-espaco-tematico-de-genero-e-divulga-balanco-final-da-confest-confege-em-natal.html",
    "editorias": "ibge",
    "categoria": "institucional",
    "verificacoes": {
@@ -304,12 +388,12 @@
   {
    "fonte": "IBGE",
    "fonteNome": "Agência de Notícias do IBGE",
-   "id": "ibge-48679",
-   "tipo": "Divulgação de dado oficial",
-   "titulo": "Abate de bovinos cai no terceiro trimestre, enquanto o de suínos e frangos avança",
-   "resumo": "Os primeiros resultados da produção animal no terceiro trimestre de 2026 revelam que 9,82 milhões de cabeças de bovinos foram abatidas. O número representa uma redução de 13,4% em relação ao mesmo período do ano anterior e, de 8,4% ante o segundo...",
+   "id": "ibge-48680",
+   "tipo": "Notícia institucional",
+   "titulo": "Abate de bovinos tem queda anual no terceiro trimestre, enquanto o de suínos e frangos avança",
+   "resumo": "No terceiro trimestre, 9,82 milhões de bovinos foram abatidos, queda de 13,4% na comparação anual. - Foto: Lícia Rubinstein/Agência IBGE Notícias No terceiro trimestre de 2026, 9,82 milhões de cabeças de bovinos foram abatidas. O número representa uma...",
    "publicadoEm": "2026-11-19T09:00:00-03:00",
-   "link": "https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/48679-abate-de-bovinos-cai-no-terceiro-trimestre-enquanto-o-de-suinos-e-frangos-avanca.html",
+   "link": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48680-abate-de-bovinos-tem-queda-anual-no-terceiro-trimestre-enquanto-o-de-suinos-e-frangos-avanca.html",
    "editorias": "economicas",
    "categoria": "dados",
    "verificacoes": {
@@ -321,12 +405,12 @@
   {
    "fonte": "IBGE",
    "fonteNome": "Agência de Notícias do IBGE",
-   "id": "ibge-48680",
-   "tipo": "Notícia institucional",
-   "titulo": "Abate de bovinos tem queda anual no terceiro trimestre, enquanto o de suínos e frangos avança",
-   "resumo": "No terceiro trimestre de 2026, 9,82 milhões de cabeças de bovinos foram abatidas. Número representa uma redução de 13,4% na base de comparação anual. - Foto: Lícia Rubinstein/Agência IBGE Notícias No terceiro trimestre de 2026, 9,82 milhões de cabeças de...",
+   "id": "ibge-48679",
+   "tipo": "Divulgação de dado oficial",
+   "titulo": "Abate de bovinos cai no terceiro trimestre, enquanto o de suínos e frangos avança",
+   "resumo": "Os primeiros resultados da produção animal no terceiro trimestre de 2026 revelam que 9,82 milhões de cabeças de bovinos foram abatidas. O número representa uma redução de 13,4% em relação ao mesmo período do ano anterior e, de 8,4% ante o segundo...",
    "publicadoEm": "2026-11-19T09:00:00-03:00",
-   "link": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48680-abate-de-bovinos-tem-queda-anual-no-terceiro-trimestre-enquanto-o-de-suinos-e-frangos-avanca.html",
+   "link": "https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/48679-abate-de-bovinos-cai-no-terceiro-trimestre-enquanto-o-de-suinos-e-frangos-avanca.html",
    "editorias": "economicas",
    "categoria": "dados",
    "verificacoes": {
@@ -588,74 +672,6 @@
   {
    "fonte": "IBGE",
    "fonteNome": "Agência de Notícias do IBGE",
-   "id": "ibge-48607",
-   "tipo": "Divulgação de dado oficial",
-   "titulo": "IBGE prevê safra de 346,6 milhões de toneladas para 2027, queda de 2,6% frente a 2026",
-   "resumo": "O primeiro prognóstico da produção nacional de grãos (cereais, leguminosas e oleaginosas) para 2027 realizado pelo IBGE indica uma safra de 346,6 milhões de toneladas, declínio de 2,6% em relação a 2026 (ou 9,2 milhões de toneladas a menos). A área a ser...",
-   "publicadoEm": "2026-11-13T09:00:00-03:00",
-   "link": "https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/48607-ibge-preve-safra-de-346-6-milhoes-de-toneladas-para-2027-queda-de-2-6-frente-a-2026.html",
-   "editorias": "economicas",
-   "categoria": "dados",
-   "verificacoes": {
-    "fonteOficial": true,
-    "semConteudoPolitico": true,
-    "numero": null
-   }
-  },
-  {
-   "fonte": "IBGE",
-   "fonteNome": "Agência de Notícias do IBGE",
-   "id": "ibge-48611",
-   "tipo": "Divulgação de dado oficial",
-   "titulo": "Em setembro, vendas no varejo variam 0,2% e acumulam alta de 1,7% em 12 meses ",
-   "resumo": "O comércio varejista voltou a variar 0,2% em setembro, repetindo o comportamento observado em agosto. Embora o desempenho agregado permaneça moderado, o resultado foi marcado por predominância de taxas positivas tanto entre as atividades pesquisadas...",
-   "publicadoEm": "2026-11-13T09:00:00-03:00",
-   "link": "https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/48611-pmcsetembrorelease.html",
-   "editorias": "economicas",
-   "categoria": "dados",
-   "verificacoes": {
-    "fonteOficial": true,
-    "semConteudoPolitico": true,
-    "numero": null
-   }
-  },
-  {
-   "fonte": "IBGE",
-   "fonteNome": "Agência de Notícias do IBGE",
-   "id": "ibge-48609",
-   "tipo": "Notícia institucional",
-   "titulo": "Primeiro prognóstico indica queda de 2,6% na safra de 2027, totalizando 346,6 milhões de toneladas",
-   "resumo": "Primeira estimativa para a produção de soja em 2027 indica um declínio de 0,6% em relação a 2026, totalizando 173,9 milhões de toneladas. - Foto: Wenderson Araujo/Sistema CNA-Senar A safra nacional de grãos (cereais, leguminosas e oleaginosas) para 2027...",
-   "publicadoEm": "2026-11-13T09:00:00-03:00",
-   "link": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48609-primeiro-prognostico-indica-queda-de-2-6-na-safra-de-2027-totalizando-r-346-6-milhoes-de-toneladas.html",
-   "editorias": "economicas",
-   "categoria": "dados",
-   "verificacoes": {
-    "fonteOficial": true,
-    "semConteudoPolitico": true,
-    "numero": null
-   }
-  },
-  {
-   "fonte": "IBGE",
-   "fonteNome": "Agência de Notícias do IBGE",
-   "id": "ibge-48610",
-   "tipo": "Notícia institucional",
-   "titulo": "Em setembro, comércio varia 0,2% e mantém cenário de estabilidade ",
-   "resumo": "Em setembro, equipamentos e material para escritório, informática e comunicação registrou a maior variação (7,6%) dentre as atividades pesquisadas pela PMC. - Foto: Arquivo Agência Brasil O volume de vendas do comércio varejista brasileiro variou 0,2% em...",
-   "publicadoEm": "2026-11-13T09:00:00-03:00",
-   "link": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48610-pmcsetembronoticia.html",
-   "editorias": "economicas",
-   "categoria": "dados",
-   "verificacoes": {
-    "fonteOficial": true,
-    "semConteudoPolitico": true,
-    "numero": null
-   }
-  },
-  {
-   "fonte": "IBGE",
-   "fonteNome": "Agência de Notícias do IBGE",
    "id": "ibge-48373",
    "tipo": "Notícia institucional",
    "titulo": "Alagoas recebe seminários que celebram os 90 anos do IBGE no estado ",
@@ -761,22 +777,6 @@
    "publicadoEm": "2026-11-10T11:01:06Z",
    "link": "https://www.bcb.gov.br/detalhenoticia/21312/nota",
    "categoria": "dados",
-   "verificacoes": {
-    "fonteOficial": true,
-    "semConteudoPolitico": true,
-    "numero": null
-   }
-  },
-  {
-   "fonte": "BCB",
-   "fonteNome": "Banco Central do Brasil",
-   "id": "bcb-21311",
-   "tipo": "Nota à imprensa",
-   "titulo": "BC passa a divulgar a lista de instituições que podem atuar com ativos virtuais",
-   "resumo": "",
-   "publicadoEm": "2026-11-09T18:00:10Z",
-   "link": "https://www.bcb.gov.br/detalhenoticia/21311/nota",
-   "categoria": "institucional",
    "verificacoes": {
     "fonteOficial": true,
     "semConteudoPolitico": true,
