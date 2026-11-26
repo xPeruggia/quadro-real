@@ -1,7 +1,7 @@
 {
- "inicio": "2026-11-25T22:09:22.598Z",
- "fim": "2026-11-25T22:16:57.968Z",
- "segundos": 455,
+ "inicio": "2026-11-26T03:51:15.632Z",
+ "fim": "2026-11-26T03:55:18.223Z",
+ "segundos": 243,
  "partes": [
   "series",
   "orcamento",
@@ -12,177 +12,175 @@
   "tributos",
   "seguranca"
  ],
- "chamadas": 265,
- "falhas": 3,
- "repeticoes": 1,
+ "chamadas": 254,
+ "falhas": 0,
+ "repeticoes": 0,
  "status": {
   "confere": 6,
   "fonte-unica": 6
  },
- "avisos": [
-  {
-   "parte": "tributos",
-   "mensagem": "Arrecadação da Receita: fetch failed. Mantidos os dados anteriores."
-  },
-  {
-   "parte": "seguranca",
-   "mensagem": "Sinesp 2025: fetch failed (mantido o processamento anterior)"
-  },
-  {
-   "parte": "seguranca",
-   "mensagem": "Sinesp 2026: fetch failed (mantido o processamento anterior)"
-  }
- ],
+ "avisos": [],
  "fontes": [
   {
    "host": "apisidra.ibge.gov.br",
    "chamadas": 8,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 5916
+   "ms": 5773
   },
   {
    "host": "api.bcb.gov.br",
    "chamadas": 33,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 20086
+   "ms": 18244
   },
   {
    "host": "olinda.bcb.gov.br",
    "chamadas": 11,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 5586
+   "ms": 5054
   },
   {
    "host": "apidatalake.tesouro.gov.br",
    "chamadas": 32,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 616
+   "ms": 31757
   },
   {
    "host": "dadosabertos.camara.leg.br",
-   "chamadas": 149,
+   "chamadas": 148,
    "falhas": 0,
-   "repeticoes": 1,
-   "ms": 102055
+   "repeticoes": 0,
+   "ms": 60648
   },
   {
    "host": "servicodados.ibge.gov.br",
    "chamadas": 1,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 475
+   "ms": 215
   },
   {
    "host": "www.bcb.gov.br",
    "chamadas": 1,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 1142
+   "ms": 803
   },
   {
    "host": "g1.globo.com",
    "chamadas": 2,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 3881
+   "ms": 1193
   },
   {
    "host": "feeds.folha.uol.com.br",
    "chamadas": 1,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 1244
+   "ms": 868
   },
   {
    "host": "www.estadao.com.br",
    "chamadas": 3,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 357
+   "ms": 569
   },
   {
    "host": "www.cnnbrasil.com.br",
    "chamadas": 1,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 682
+   "ms": 252
   },
   {
    "host": "feeds.bbci.co.uk",
    "chamadas": 1,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 285
+   "ms": 24
   },
   {
    "host": "feeds.elpais.com",
    "chamadas": 1,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 1357
+   "ms": 49
   },
   {
    "host": "agenciabrasil.ebc.com.br",
    "chamadas": 2,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 588
+   "ms": 519
   },
   {
    "host": "www.poder360.com.br",
    "chamadas": 1,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 260
+   "ms": 171
   },
   {
    "host": "rss.uol.com.br",
    "chamadas": 1,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 391
+   "ms": 152
   },
   {
    "host": "www.gazetadopovo.com.br",
    "chamadas": 1,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 207
+   "ms": 94
   },
   {
    "host": "www.cartacapital.com.br",
    "chamadas": 1,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 274
+   "ms": 180
   },
   {
    "host": "veja.abril.com.br",
    "chamadas": 1,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 1012
+   "ms": 19
   },
   {
    "host": "www.metropoles.com",
    "chamadas": 1,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 504
+   "ms": 246
   },
   {
    "host": "www.gov.br",
-   "chamadas": 13,
-   "falhas": 13,
+   "chamadas": 3,
+   "falhas": 0,
    "repeticoes": 0,
-   "ms": 134273
+   "ms": 54692
   }
  ],
  "historico": [
+  {
+   "inicio": "2026-11-26T03:51:15.632Z",
+   "segundos": 243,
+   "chamadas": 254,
+   "falhas": 0,
+   "status": {
+    "confere": 6,
+    "fonte-unica": 6
+   },
+   "avisos": 0
+  },
   {
    "inicio": "2026-11-25T22:09:22.598Z",
    "segundos": 455,
@@ -831,17 +829,6 @@
     "fonte-unica": 6
    },
    "avisos": 2
-  },
-  {
-   "inicio": "2026-11-06T01:55:14.211Z",
-   "segundos": 322,
-   "chamadas": 254,
-   "falhas": 1,
-   "status": {
-    "confere": 6,
-    "fonte-unica": 6
-   },
-   "avisos": 1
   }
  ]
 }
