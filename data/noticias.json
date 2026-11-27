@@ -1,19 +1,19 @@
 {
- "geradoEm": "2026-11-27T18:47:52.877Z",
+ "geradoEm": "2026-11-27T21:49:05.827Z",
  "criterio": "Somente comunicados publicados diretamente pelo IBGE e pelo Banco Central. Itens com termos político-partidários são retirados e listados com o termo encontrado.",
  "fontes": [
   {
    "fonte": "IBGE",
    "ok": true,
    "itens": 30,
-   "ultimoSucesso": "2026-11-27T18:47:52.877Z",
+   "ultimoSucesso": "2026-11-27T21:49:05.827Z",
    "url": "https://servicodados.ibge.gov.br/api/v3/noticias/?qtd=40"
   },
   {
    "fonte": "BCB",
    "ok": true,
    "itens": 100,
-   "ultimoSucesso": "2026-11-27T18:47:52.877Z",
+   "ultimoSucesso": "2026-11-27T21:49:05.827Z",
    "url": null
   }
  ],
@@ -158,6 +158,23 @@
      ],
      "nota": "O número citado não foi encontrado na série oficial (taxa de desocupação de jun–ago/2026). Pode se referir a outro recorte; recomendamos ler a fonte."
     }
+   }
+  },
+  {
+   "fonte": "IBGE",
+   "fonteNome": "Agência de Notícias do IBGE",
+   "id": "ibge-48801",
+   "tipo": "Notícia institucional",
+   "titulo": "Resultados da POF 2024-2025 são apresentados em coletiva em Brasília",
+   "resumo": "O Instituto Brasileiro de Geografia e Estatística (IBGE) divulgou nesta sexta-feira (27), em coletiva pública realizada no Plenário 2 do Anexo II da Câmara dos Deputados, em Brasília (DF), os primeiros resultados da Pesquisa de Orçamentos Familiares...",
+   "publicadoEm": "2026-11-27T04:00:00-03:00",
+   "link": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48801-resultados-da-pof-2024-2025-sao-apresentados-em-coletiva-em-brasilia-e-reforcam-papel-das-estatisticas-para-politicas-publicas.html",
+   "editorias": "economicas",
+   "categoria": "dados",
+   "verificacoes": {
+    "fonteOficial": true,
+    "semConteudoPolitico": true,
+    "numero": null
    }
   },
   {
@@ -676,35 +693,6 @@
     "fonteOficial": true,
     "semConteudoPolitico": true,
     "numero": null
-   }
-  },
-  {
-   "fonte": "IBGE",
-   "fonteNome": "Agência de Notícias do IBGE",
-   "id": "ibge-48658",
-   "tipo": "Notícia institucional",
-   "titulo": "Desocupação cai em oito estados e fica estável em 18 no terceiro trimestre",
-   "resumo": "Pernambuco, Amapá, Sergipe e Bahia registraram as maiores taxas de desocupação - Foto: Ari Dias/AEN A taxa de desocupação do país, no terceiro trimestre (5,2%), registrou redução de 0,2 ponto percentual em comparação com o trimestre anterior (5,4%) e...",
-   "publicadoEm": "2026-11-18T09:00:00-03:00",
-   "link": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48658-desocupacao-cai-em-oito-estados-e-fica-estavel-em-18-no-terceiro-trimestre.html",
-   "editorias": "sociais",
-   "categoria": "dados",
-   "verificacoes": {
-    "fonteOficial": true,
-    "semConteudoPolitico": true,
-    "numero": {
-     "ok": false,
-     "descricao": "taxa de desocupação de ago–out/2026",
-     "valorNoticia": 5.2,
-     "candidatos": [
-      {
-       "serie": "desemprego",
-       "periodo": "2026-10",
-       "valor": 5.1
-      }
-     ],
-     "nota": "O número citado não foi encontrado na série oficial (taxa de desocupação de ago–out/2026). Pode se referir a outro recorte; recomendamos ler a fonte."
-    }
    }
   },
   {
