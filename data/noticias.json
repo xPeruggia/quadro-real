@@ -1,23 +1,182 @@
 {
- "geradoEm": "2026-11-27T03:52:38.941Z",
+ "geradoEm": "2026-11-27T18:47:52.877Z",
  "criterio": "Somente comunicados publicados diretamente pelo IBGE e pelo Banco Central. Itens com termos político-partidários são retirados e listados com o termo encontrado.",
  "fontes": [
   {
    "fonte": "IBGE",
    "ok": true,
    "itens": 30,
-   "ultimoSucesso": "2026-11-27T03:52:38.941Z",
+   "ultimoSucesso": "2026-11-27T18:47:52.877Z",
    "url": "https://servicodados.ibge.gov.br/api/v3/noticias/?qtd=40"
   },
   {
    "fonte": "BCB",
    "ok": true,
    "itens": 100,
-   "ultimoSucesso": "2026-11-27T03:52:38.941Z",
+   "ultimoSucesso": "2026-11-27T18:47:52.877Z",
    "url": null
   }
  ],
  "itens": [
+  {
+   "fonte": "IBGE",
+   "fonteNome": "Agência de Notícias do IBGE",
+   "id": "ibge-48794",
+   "tipo": "Notícia institucional",
+   "titulo": "Caicó (RN): IBGE destaca alcance global e oportunidades da CONFEST/CONFEGE 2026 no Seridó potiguar",
+   "resumo": "O Instituto Brasileiro de Geografia e Estatística (IBGE) realizou nesta quinta-feira (26), no campus da Universidade do Estado do Rio Grande do Norte (UERN), em Caicó, no Seridó potiguar, uma coletiva pública para apresentar a programação e as...",
+   "publicadoEm": "2026-11-27T12:49:29-03:00",
+   "link": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48794-em-caico-rn-no-serido-potiguar-ibge-destaca-participacao-global-e-oportunidades-da-confest-confege-2026.html",
+   "editorias": "ibge",
+   "categoria": "institucional",
+   "verificacoes": {
+    "fonteOficial": true,
+    "semConteudoPolitico": true,
+    "numero": null
+   }
+  },
+  {
+   "fonte": "BCB",
+   "fonteNome": "Banco Central do Brasil",
+   "id": "bcb-21338",
+   "tipo": "Nota à imprensa",
+   "titulo": "BC divulga Estatísticas Monetárias e de Crédito à imprensa",
+   "resumo": "",
+   "publicadoEm": "2026-11-27T11:32:01Z",
+   "link": "https://www.bcb.gov.br/detalhenoticia/21338/nota",
+   "categoria": "dados",
+   "verificacoes": {
+    "fonteOficial": true,
+    "semConteudoPolitico": true,
+    "numero": null
+   }
+  },
+  {
+   "fonte": "IBGE",
+   "fonteNome": "Agência de Notícias do IBGE",
+   "id": "ibge-48760",
+   "tipo": "Notícia institucional",
+   "titulo": "Expectativa de vida ao nascer sobe para 76,9 anos no Brasil em 2025 ",
+   "resumo": "Mulheres mantêm vantagem na longevidade: expectativa de vida alcança 80,1 anos, contra 73,5 anos entre os homens. - Foto: Marcelo Camargo/Agência Brasil A expectativa de vida ao nascer da população brasileira chegou a 76,9 anos em 2025, um aumento de 3,1...",
+   "publicadoEm": "2026-11-27T10:00:00-03:00",
+   "link": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48760-tabuasmortalidade2026.html",
+   "editorias": "sociais",
+   "categoria": "dados",
+   "verificacoes": {
+    "fonteOficial": true,
+    "semConteudoPolitico": true,
+    "numero": null
+   }
+  },
+  {
+   "fonte": "IBGE",
+   "fonteNome": "Agência de Notícias do IBGE",
+   "id": "ibge-48781",
+   "tipo": "Notícia institucional",
+   "titulo": "Despesas com alimentação e saúde ganham espaço no orçamento das famílias",
+   "resumo": "Cerca de 67,9% da despesa total mensal familiar com alimentação foram destinados ao consumo dentro de casa, e 32,1% ao consumo fora. - Foto: Acervo IBGE Despesas com alimentação aumentaram a participação no orçamento total das famílias de 13,1% para...",
+   "publicadoEm": "2026-11-27T10:00:00-03:00",
+   "link": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48781-despesas-com-alimentacao-e-saude-ganham-espaco-no-orcamento-das-familias.html",
+   "editorias": "sociais",
+   "categoria": "dados",
+   "verificacoes": {
+    "fonteOficial": true,
+    "semConteudoPolitico": true,
+    "numero": null
+   }
+  },
+  {
+   "fonte": "IBGE",
+   "fonteNome": "Agência de Notícias do IBGE",
+   "id": "ibge-48780",
+   "tipo": "Notícia institucional",
+   "titulo": "Famílias de maior renda recebem, em média, 34 vezes mais que as de menor renda",
+   "resumo": "Entre as famílias de menor renda, a média foi de R$ 2.005,91 mensais, enquanto entre as classes mais altas o rendimento chegou a R$ 68.260,93 por mês - Foto: Alicia Nijdam/Wikimedia O rendimento total e a variação patrimonial das famílias brasileiras...",
+   "publicadoEm": "2026-11-27T10:00:00-03:00",
+   "link": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48780-familias-de-maior-renda-recebem-em-media-34-vezes-mais-que-as-de-menor-renda.html",
+   "editorias": "sociais",
+   "categoria": "dados",
+   "verificacoes": {
+    "fonteOficial": true,
+    "semConteudoPolitico": true,
+    "numero": null
+   }
+  },
+  {
+   "fonte": "IBGE",
+   "fonteNome": "Agência de Notícias do IBGE",
+   "id": "ibge-48778",
+   "tipo": "Divulgação de dado oficial",
+   "titulo": "Taxa de desocupação é de 5,1% e taxa de subutilização é de 12,7% no trimestre encerrado em outubro",
+   "resumo": "A taxa de desocupação (5,1%) no trimestre encerrado em outubro caiu 0,2 p.p. (ponto percentual) frente ao trimestre terminado em julho (5,3%) e recuou 0,4 p.p. ante o trimestre de agosto a outubro de 2025 (5,4%). Indicador/Período Ago-Set-Out 2026...",
+   "publicadoEm": "2026-11-27T09:00:00-03:00",
+   "link": "https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/48778-pnad-continua-taxa-de-desocupacao-e-de-5-1-e-taxa-de-subutilizacao-e-de-12-7-no-trimestre-encerrado-em-outubro.html",
+   "editorias": "sociais",
+   "categoria": "dados",
+   "verificacoes": {
+    "fonteOficial": true,
+    "semConteudoPolitico": true,
+    "numero": {
+     "ok": false,
+     "descricao": "taxa de desocupação de ago–out/2025",
+     "valorNoticia": 5.1,
+     "candidatos": [
+      {
+       "serie": "desemprego",
+       "periodo": "2025-10",
+       "valor": 5.4
+      }
+     ],
+     "nota": "O número citado não foi encontrado na série oficial (taxa de desocupação de ago–out/2025). Pode se referir a outro recorte; recomendamos ler a fonte."
+    }
+   }
+  },
+  {
+   "fonte": "IBGE",
+   "fonteNome": "Agência de Notícias do IBGE",
+   "id": "ibge-48783",
+   "tipo": "Notícia institucional",
+   "titulo": "Desocupação fica em 5,1% e iguala menor valor da série ",
+   "resumo": "Ocupação em Transporte, armazenagem e correio subiu 2,6%, o equivalente a mais 164 mil pessoas - Foto: Pexels A taxa de desocupação para o trimestre móvel referente aos meses de agosto a outubro de 2026 ficou em 5,1%, e fica igual ao menor valor da série...",
+   "publicadoEm": "2026-11-27T09:00:00-03:00",
+   "link": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48783-desocupacao-fica-em-5-1-e-iguala-menor-valor-da-serie.html",
+   "editorias": "sociais",
+   "categoria": "dados",
+   "verificacoes": {
+    "fonteOficial": true,
+    "semConteudoPolitico": true,
+    "numero": {
+     "ok": false,
+     "descricao": "taxa de desocupação de jun–ago/2026",
+     "valorNoticia": 5.1,
+     "candidatos": [
+      {
+       "serie": "desemprego",
+       "periodo": "2026-08",
+       "valor": 5.3
+      }
+     ],
+     "nota": "O número citado não foi encontrado na série oficial (taxa de desocupação de jun–ago/2026). Pode se referir a outro recorte; recomendamos ler a fonte."
+    }
+   }
+  },
+  {
+   "fonte": "IBGE",
+   "fonteNome": "Agência de Notícias do IBGE",
+   "id": "ibge-48803",
+   "tipo": "Notícia institucional",
+   "titulo": "CONFEST/CONFEGE 2026: Conheça mais de cem palestrantes confirmados",
+   "resumo": "O recurso dos cards evidencia a amplitude temática e institucional do evento, que reúne especialistas nacionais e internacionais. - Foto: Divulgação A página de palestrantes e moderadores confirmados da Conferência Nacional dos Agentes Produtores e...",
+   "publicadoEm": "2026-11-27T03:03:31-03:00",
+   "link": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48803-confest-confege-2026-conheca-mais-de-cem-palestrantes-confirmados.html",
+   "editorias": "ibge",
+   "categoria": "institucional",
+   "verificacoes": {
+    "fonteOficial": true,
+    "semConteudoPolitico": true,
+    "numero": null
+   }
+  },
   {
    "fonte": "BCB",
    "fonteNome": "Banco Central do Brasil",
@@ -226,6 +385,23 @@
    "resumo": "Homenagem ao IBGE reforça a importância da cooperação entre universidades e órgãos públicos de pesquisa e produção de informações. Fotos: Ascom/Unicamp O presidente do Instituto Brasileiro de Geografia e Estatística (IBGE), Marcio Pochmann, recebeu,...",
    "publicadoEm": "2026-11-25T06:20:03-03:00",
    "link": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48758-presidente-do-ibge-recebe-medalha-zeferino-vaz-da-unicamp-e-da-ao-reitor-medalha-pelos-90-anos-do-ibge.html",
+   "editorias": "ibge",
+   "categoria": "institucional",
+   "verificacoes": {
+    "fonteOficial": true,
+    "semConteudoPolitico": true,
+    "numero": null
+   }
+  },
+  {
+   "fonte": "IBGE",
+   "fonteNome": "Agência de Notícias do IBGE",
+   "id": "ibge-48747",
+   "tipo": "Notícia institucional",
+   "titulo": "Potiguar: conferência do IBGE em Natal reunirá palestrantes dos cinco continentes",
+   "resumo": "As inscrições para a conferência podem ser feitas pela loja do IBGE. Um dos principais destaques da edição será o Espaço Temático de Gênero, que reunirá representantes do poder público, da academia e da sociedade civil para discutir temas relacionados às...",
+   "publicadoEm": "2026-11-25T04:00:00-03:00",
+   "link": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48747-ibge-apresenta-espaco-tematico-de-genero-e-divulga-balanco-final-da-confest-confege-em-natal.html",
    "editorias": "ibge",
    "categoria": "institucional",
    "verificacoes": {
@@ -505,31 +681,6 @@
   {
    "fonte": "IBGE",
    "fonteNome": "Agência de Notícias do IBGE",
-   "id": "ibge-48657",
-   "tipo": "Divulgação de dado oficial",
-   "titulo": "PNAD Contínua Trimestral: desocupação cai em 8 das 27 UFs no 3° trimestre de 2026",
-   "resumo": "A taxa de desocupação do país no terceiro trimestre de 2026 foi de 5,2%, redução de 0,2 ponto percentual em comparação com o 2º trimestre de 2026 (5,4%) e recuo de 0,4 ponto percentual frente ao 3º trimestre de 2025 (5,6%). Frente ao trimestre...",
-   "publicadoEm": "2026-11-18T09:00:00-03:00",
-   "link": "https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/48657-pnad-continua-trimestral-desocupacao-cai-em-8-das-27-ufs-no-3-trimestre-de-2026.html",
-   "editorias": "sociais",
-   "categoria": "dados",
-   "verificacoes": {
-    "fonteOficial": true,
-    "semConteudoPolitico": true,
-    "numero": {
-     "ok": true,
-     "descricao": "taxa de desocupação de jul–set/2026",
-     "serie": "desemprego",
-     "periodo": "2026-09",
-     "valorNoticia": 5.2,
-     "valorSerie": 5.2,
-     "nota": "5,2% confere com a série oficial (taxa de desocupação de jul–set/2026)."
-    }
-   }
-  },
-  {
-   "fonte": "IBGE",
-   "fonteNome": "Agência de Notícias do IBGE",
    "id": "ibge-48658",
    "tipo": "Notícia institucional",
    "titulo": "Desocupação cai em oito estados e fica estável em 18 no terceiro trimestre",
@@ -542,13 +693,17 @@
     "fonteOficial": true,
     "semConteudoPolitico": true,
     "numero": {
-     "ok": true,
-     "descricao": "taxa de desocupação de jul–set/2026",
-     "serie": "desemprego",
-     "periodo": "2026-09",
+     "ok": false,
+     "descricao": "taxa de desocupação de ago–out/2026",
      "valorNoticia": 5.2,
-     "valorSerie": 5.2,
-     "nota": "5,2% confere com a série oficial (taxa de desocupação de jul–set/2026)."
+     "candidatos": [
+      {
+       "serie": "desemprego",
+       "periodo": "2026-10",
+       "valor": 5.1
+      }
+     ],
+     "nota": "O número citado não foi encontrado na série oficial (taxa de desocupação de ago–out/2026). Pode se referir a outro recorte; recomendamos ler a fonte."
     }
    }
   },
@@ -569,23 +724,6 @@
    }
   },
   {
-   "fonte": "IBGE",
-   "fonteNome": "Agência de Notícias do IBGE",
-   "id": "ibge-48654",
-   "tipo": "Notícia institucional",
-   "titulo": "Espaço Juventude: estão abertas as inscrições para programação especial na conferência do IBGE",
-   "resumo": "Para marcar a presença do Rio Grande do Norte nesse debate global, a Subsecretaria de Juventude do Estado do Rio Grande do Norte (SEJUV) promoverá o seminário “Juventudes no Centro”, e o Centro de Acesso a Direitos e Inclusão Social (CAIS), projeto do...",
-   "publicadoEm": "2026-11-17T08:31:43-03:00",
-   "link": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48654-espaco-juventude-estao-abertas-as-inscricoes-para-programacao-especial-na-conferencia-do-ibge.html",
-   "editorias": "ibge",
-   "categoria": "institucional",
-   "verificacoes": {
-    "fonteOficial": true,
-    "semConteudoPolitico": true,
-    "numero": null
-   }
-  },
-  {
    "fonte": "BCB",
    "fonteNome": "Banco Central do Brasil",
    "id": "bcb-21319",
@@ -595,108 +733,6 @@
    "publicadoEm": "2026-11-16T12:01:20Z",
    "link": "https://www.bcb.gov.br/detalhenoticia/21319/nota",
    "categoria": "dados",
-   "verificacoes": {
-    "fonteOficial": true,
-    "semConteudoPolitico": true,
-    "numero": null
-   }
-  },
-  {
-   "fonte": "IBGE",
-   "fonteNome": "Agência de Notícias do IBGE",
-   "id": "ibge-48640",
-   "tipo": "Notícia institucional",
-   "titulo": "IBGE disponibiliza Agenda semanal com programações para os dias 16 a 22 de novembro",
-   "resumo": "Agenda IBGE traz a programação do instituto para a semana - Foto: Bel Corção/Brasil com S O Instituto Brasileiro de Geografia e Estatística (IBGE) disponibilizou hoje (16) a Agenda IBGE para a semana de 16 a 22 de novembro. A edição reúne reuniões...",
-   "publicadoEm": "2026-11-16T09:00:30-03:00",
-   "link": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48640-ibge-disponibiliza-agenda-semanal-com-programacoes-para-os-dias-16-a-22-de-novembro.html",
-   "editorias": "ibge",
-   "categoria": "institucional",
-   "verificacoes": {
-    "fonteOficial": true,
-    "semConteudoPolitico": true,
-    "numero": null
-   }
-  },
-  {
-   "fonte": "IBGE",
-   "fonteNome": "Agência de Notícias do IBGE",
-   "id": "ibge-48647",
-   "tipo": "Notícia institucional",
-   "titulo": "IBGE recebe homenagem pelos seus 90 anos na Assembleia Legislativa da Bahia",
-   "resumo": "A Assembleia Legislativa da Bahia (ALBA) realizou, nesta segunda-feira (16), uma sessão especial em homenagem aos 90 anos do Instituto Brasileiro de Geografia e Estatística (IBGE), celebrados em 29 de maio. A iniciativa foi proposta pelo deputado Zó...",
-   "publicadoEm": "2026-11-16T04:29:43-03:00",
-   "link": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48647-ibge-recebe-homenagem-pelos-seus-90-anos-na-assembleia-legislativa-da-bahia.html",
-   "editorias": "ibge",
-   "categoria": "institucional",
-   "verificacoes": {
-    "fonteOficial": true,
-    "semConteudoPolitico": true,
-    "numero": null
-   }
-  },
-  {
-   "fonte": "IBGE",
-   "fonteNome": "Agência de Notícias do IBGE",
-   "id": "ibge-48635",
-   "tipo": "Notícia institucional",
-   "titulo": "Subsecretaria de Juventude do RN divulga participação da juventude potiguar na Conferência do IBGE",
-   "resumo": "A Subsecretaria de Juventude do Estado do Rio Grande do Norte (SEJUV) anunciou oficialmente sua participação na Conferência Nacional dos Produtores e Usuários de Informações Estatísticas, Geográficas, Geoespaciais e Ambientais (CONFEST/CONFEGE 2026), que...",
-   "publicadoEm": "2026-11-13T12:43:01-03:00",
-   "link": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48635-subsecretaria-de-juventude-do-rn-divulga-participacao-da-juventude-potiguar-na-conferencia-do-ibge.html",
-   "editorias": "ibge",
-   "categoria": "institucional",
-   "verificacoes": {
-    "fonteOficial": true,
-    "semConteudoPolitico": true,
-    "numero": null
-   }
-  },
-  {
-   "fonte": "IBGE",
-   "fonteNome": "Agência de Notícias do IBGE",
-   "id": "ibge-48614",
-   "tipo": "Notícia institucional",
-   "titulo": "PIB cresceu em 25 das 27 unidades da federação em 2024",
-   "resumo": "Entre as unidades da federação, os melhores desempenhos ocorreram principalmente nas regiões Nordeste e Norte - Foto: Rafa Neddermeyer/Agência Brasil Em 2024, ano em que o volume do Produto Interno Bruto (PIB) do Brasil cresceu 3,4% em relação ao ano...",
-   "publicadoEm": "2026-11-13T10:00:00-03:00",
-   "link": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48614-pib-cresceu-em-25-das-27-unidades-da-federacao-em-2024.html",
-   "editorias": "economicas",
-   "categoria": "dados",
-   "verificacoes": {
-    "fonteOficial": true,
-    "semConteudoPolitico": true,
-    "numero": null
-   }
-  },
-  {
-   "fonte": "IBGE",
-   "fonteNome": "Agência de Notícias do IBGE",
-   "id": "ibge-48373",
-   "tipo": "Notícia institucional",
-   "titulo": "Alagoas recebe seminários que celebram os 90 anos do IBGE no estado ",
-   "resumo": "O estado de Alagoas recebe, no dia 18 de novembro, os seminários “Meu Parceiro, Meu Brasil, Nosso IBGE” e \"Meu Estado, Meu Brasil, Nosso IBGE\", como parte da programação comemorativa dos 90 anos do Instituto. O encontro acontece das 9h às 12h, no...",
-   "publicadoEm": "2026-11-13T04:00:00-03:00",
-   "link": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48373-alagoas-recebe-seminarios-que-celebram-os-90-anos-do-ibge-no-estado.html",
-   "editorias": "ibge",
-   "categoria": "institucional",
-   "verificacoes": {
-    "fonteOficial": true,
-    "semConteudoPolitico": true,
-    "numero": null
-   }
-  },
-  {
-   "fonte": "IBGE",
-   "fonteNome": "Agência de Notícias do IBGE",
-   "id": "ibge-48632",
-   "tipo": "Notícia institucional",
-   "titulo": "Em Mossoró (RN), instituições universitárias celebram participação na CONFEST/CONFEGE 2026",
-   "resumo": "Representantes do IBGE, de instituições de ensino e do Governo do Rio Grande do Norte participaram, na manhã desta sexta-feira (13), de uma coletiva pública na Universidade Federal Rural do Semiárido (UFERSA), em Mossoró (RN), para apresentar a...",
-   "publicadoEm": "2026-11-13T04:00:00-03:00",
-   "link": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48632-em-mossoro-rn-instituicoes-de-educacao-celebram-participacao-na-confest-confege-2026.html",
-   "editorias": "ibge",
-   "categoria": "institucional",
    "verificacoes": {
     "fonteOficial": true,
     "semConteudoPolitico": true,
@@ -760,22 +796,6 @@
    "resumo": "",
    "publicadoEm": "2026-11-11T12:00:19Z",
    "link": "https://www.bcb.gov.br/detalhenoticia/21315/nota",
-   "categoria": "dados",
-   "verificacoes": {
-    "fonteOficial": true,
-    "semConteudoPolitico": true,
-    "numero": null
-   }
-  },
-  {
-   "fonte": "BCB",
-   "fonteNome": "Banco Central do Brasil",
-   "id": "bcb-21312",
-   "tipo": "Nota à imprensa",
-   "titulo": "BC divulga Ata da 282ª reunião do Copom",
-   "resumo": "",
-   "publicadoEm": "2026-11-10T11:01:06Z",
-   "link": "https://www.bcb.gov.br/detalhenoticia/21312/nota",
    "categoria": "dados",
    "verificacoes": {
     "fonteOficial": true,
