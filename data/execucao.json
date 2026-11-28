@@ -1,7 +1,7 @@
 {
- "inicio": "2026-11-28T03:38:38.209Z",
- "fim": "2026-11-28T03:46:10.620Z",
- "segundos": 452,
+ "inicio": "2026-11-28T17:27:39.648Z",
+ "fim": "2026-11-28T17:36:40.205Z",
+ "segundos": 541,
  "partes": [
   "series",
   "orcamento",
@@ -12,9 +12,9 @@
   "tributos",
   "seguranca"
  ],
- "chamadas": 264,
- "falhas": 3,
- "repeticoes": 0,
+ "chamadas": 194,
+ "falhas": 4,
+ "repeticoes": 2,
  "status": {
   "confere": 6,
   "fonte-unica": 6
@@ -23,6 +23,10 @@
   {
    "parte": "tributos",
    "mensagem": "Arrecadação da Receita: fetch failed. Mantidos os dados anteriores."
+  },
+  {
+   "parte": "tributos",
+   "mensagem": "Propostas na Câmara: fetch failed. Mantida a lista anterior."
   },
   {
    "parte": "seguranca",
@@ -39,150 +43,161 @@
    "chamadas": 8,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 7181
+   "ms": 5082
   },
   {
    "host": "api.bcb.gov.br",
-   "chamadas": 33,
+   "chamadas": 34,
    "falhas": 0,
-   "repeticoes": 0,
-   "ms": 18525
+   "repeticoes": 1,
+   "ms": 15801
   },
   {
    "host": "olinda.bcb.gov.br",
    "chamadas": 11,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 4837
+   "ms": 6307
   },
   {
    "host": "apidatalake.tesouro.gov.br",
    "chamadas": 32,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 39898
+   "ms": 24148
   },
   {
    "host": "dadosabertos.camara.leg.br",
-   "chamadas": 148,
-   "falhas": 0,
-   "repeticoes": 0,
-   "ms": 66144
+   "chamadas": 77,
+   "falhas": 5,
+   "repeticoes": 1,
+   "ms": 109252
   },
   {
    "host": "servicodados.ibge.gov.br",
    "chamadas": 1,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 437
+   "ms": 205
   },
   {
    "host": "www.bcb.gov.br",
    "chamadas": 1,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 1163
+   "ms": 900
   },
   {
    "host": "g1.globo.com",
    "chamadas": 2,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 2479
+   "ms": 1436
   },
   {
    "host": "feeds.folha.uol.com.br",
    "chamadas": 1,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 1679
+   "ms": 939
   },
   {
    "host": "www.estadao.com.br",
    "chamadas": 3,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 643
+   "ms": 489
   },
   {
    "host": "www.cnnbrasil.com.br",
    "chamadas": 1,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 801
+   "ms": 276
   },
   {
    "host": "feeds.bbci.co.uk",
    "chamadas": 1,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 218
+   "ms": 307
   },
   {
    "host": "feeds.elpais.com",
    "chamadas": 1,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 346
+   "ms": 102
   },
   {
    "host": "agenciabrasil.ebc.com.br",
    "chamadas": 2,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 585
+   "ms": 620
   },
   {
    "host": "www.poder360.com.br",
    "chamadas": 1,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 220
+   "ms": 161
   },
   {
    "host": "rss.uol.com.br",
    "chamadas": 1,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 282
+   "ms": 292
   },
   {
    "host": "www.gazetadopovo.com.br",
    "chamadas": 1,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 216
+   "ms": 170
   },
   {
    "host": "www.cartacapital.com.br",
    "chamadas": 1,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 235
+   "ms": 143
   },
   {
    "host": "veja.abril.com.br",
    "chamadas": 1,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 212
+   "ms": 1589
   },
   {
    "host": "www.metropoles.com",
    "chamadas": 1,
    "falhas": 0,
    "repeticoes": 0,
-   "ms": 351
+   "ms": 354
   },
   {
    "host": "www.gov.br",
    "chamadas": 13,
    "falhas": 13,
    "repeticoes": 0,
-   "ms": 134202
+   "ms": 133767
   }
  ],
  "historico": [
+  {
+   "inicio": "2026-11-28T17:27:39.648Z",
+   "segundos": 541,
+   "chamadas": 194,
+   "falhas": 4,
+   "status": {
+    "confere": 6,
+    "fonte-unica": 6
+   },
+   "avisos": 4
+  },
   {
    "inicio": "2026-11-28T03:38:38.209Z",
    "segundos": 452,
@@ -831,17 +846,6 @@
     "fonte-unica": 6
    },
    "avisos": 2
-  },
-  {
-   "inicio": "2026-11-08T15:53:00.705Z",
-   "segundos": 315,
-   "chamadas": 254,
-   "falhas": 1,
-   "status": {
-    "confere": 6,
-    "fonte-unica": 6
-   },
-   "avisos": 1
   }
  ]
 }
